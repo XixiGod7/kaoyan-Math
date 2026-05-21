@@ -1228,63 +1228,37 @@ function applyMoodOverlays() {
 
 // ─── 10. 全局图片加载错误回调兜底 ─────────────────────────────
 window.fallbackThumbImage = function(img) {
-  if (!img.dataset.triedFallback) {
-    img.dataset.triedFallback = true;
-    const src = img.getAttribute('src');
-    if (src) {
-      img.src = 'https://zhentiqiang.com' + src;
-    }
-  } else {
-    img.style.display = 'none';
-    const next = img.nextElementSibling;
-    if (next && next.classList.contains('fallback-btn-container')) {
-      next.style.display = 'block';
-    }
+  img.style.display = 'none';
+  const next = img.nextElementSibling;
+  if (next && next.classList.contains('fallback-btn-container')) {
+    next.style.display = 'block';
   }
 };
 
 window.fallbackQuestionImage = function(img) {
-  if (!img.dataset.triedFallback) {
-    img.dataset.triedFallback = true;
-    const src = img.getAttribute('src');
-    if (src) {
-      img.src = 'https://zhentiqiang.com' + src;
-    }
-  } else {
-    img.style.display = 'none';
-    const parent = img.parentElement;
-    if (parent) {
-      const placeholder = document.createElement('div');
-      placeholder.className = 'py-4 text-muted bg-light text-center small border rounded';
-      placeholder.innerText = '图片加载失败';
-      parent.appendChild(placeholder);
-    }
+  img.style.display = 'none';
+  const parent = img.parentElement;
+  if (parent) {
+    const placeholder = document.createElement('div');
+    placeholder.className = 'py-4 text-muted bg-light text-center small border rounded';
+    placeholder.innerText = '图片加载失败 (离线资源缺失)';
+    parent.appendChild(placeholder);
   }
 };
 
 window.fallbackAnswerImage = function(img) {
-  if (!img.dataset.triedFallback) {
-    img.dataset.triedFallback = true;
-    img.src = 'https://zhentiqiang.com' + img.getAttribute('src');
-  } else {
-    img.style.display = 'none';
-    const parent = img.parentElement;
-    if (parent) {
-      parent.innerHTML = '<span class="text-muted small">暂无答案图片</span>';
-    }
+  img.style.display = 'none';
+  const parent = img.parentElement;
+  if (parent) {
+    parent.innerHTML = '<span class="text-muted small">暂无答案图片</span>';
   }
 };
 
 window.fallbackAnalysisImage = function(img) {
-  if (!img.dataset.triedFallback) {
-    img.dataset.triedFallback = true;
-    img.src = 'https://zhentiqiang.com' + img.getAttribute('src');
-  } else {
-    img.style.display = 'none';
-    const parent = img.parentElement;
-    if (parent) {
-      parent.innerHTML = '<span class="text-muted small">该题暂无解析图片</span>';
-    }
+  img.style.display = 'none';
+  const parent = img.parentElement;
+  if (parent) {
+    parent.innerHTML = '<span class="text-muted small">该题暂无解析图片</span>';
   }
 };
 

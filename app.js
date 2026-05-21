@@ -302,7 +302,7 @@ function renderPaperGrid(papers) {
 
     paper.questions.forEach((q, idx) => {
       const idx1 = q.index || (idx + 1);
-      const thumbUrl = `/static/photos/group_${currentSubject}/paper_${paper.id}/${idx1}_thumb.png`;
+      const thumbUrl = `./static/photos/group_${currentSubject}/paper_${paper.id}/${idx1}_thumb.png`;
 
       const $item = $(`
         <div class="mb-0 position-relative question-item border rounded bg-white p-0 text-center"
@@ -594,7 +594,7 @@ window.showPaperModal = function(paperId, paperName) {
   paper.questions.forEach(q => {
     const qData = {
       ...q,
-      image_url: `/static/photos/group_${currentSubject}/paper_${paper.id}/${q.index}.png`
+      image_url: `./static/photos/group_${currentSubject}/paper_${paper.id}/${q.index}.png`
     };
     const card = createQuestionCard(qData, 'paper');
     $body.append(card);
@@ -618,7 +618,7 @@ window.handleQuestionItemClick = function(elem) {
   
   const qData = {
     ...q,
-    image_url: `/static/photos/group_${currentSubject}/paper_${paper.id}/${q.index}.png`
+    image_url: `./static/photos/group_${currentSubject}/paper_${paper.id}/${q.index}.png`
   };
 
   const card = createQuestionCard(qData, 'single');
@@ -685,7 +685,7 @@ window.showQuestionModal = function(knowledgeIds, knowledgeName) {
       const q = matchingQuestions[i];
       const qData = {
         ...q,
-        image_url: `/static/photos/group_${currentSubject}/paper_${q.paper_id}/${q.index}.png`
+        image_url: `./static/photos/group_${currentSubject}/paper_${q.paper_id}/${q.index}.png`
       };
 
       const card = createQuestionCard(qData, 'knowledge');
@@ -809,7 +809,7 @@ function createQuestionCard(q, mode = 'knowledge') {
           </div>
         `);
       } else {
-        const ansImgPath = `/static/photos/answer_images/${questionId}.png`;
+        const ansImgPath = `./static/photos/answer_images/${questionId}.png`;
         $ansContent.html(`
           <div class="py-2 text-center">
             <img src="${ansImgPath}" alt="答案图片" class="img-fluid border rounded bg-white p-1" onerror="window.fallbackAnswerImage(this)">
@@ -827,7 +827,7 @@ function createQuestionCard(q, mode = 'knowledge') {
     if ($anaDisplay.is(':visible')) {
       $anaDisplay.slideUp(200);
     } else {
-      const anaImgPath = `/static/photos/analysis_images/${questionId}.png`;
+      const anaImgPath = `./static/photos/analysis_images/${questionId}.png`;
       $anaContent.html(`
         <div class="py-2 text-center">
           <img src="${anaImgPath}" alt="解析图片" class="img-fluid border rounded bg-white p-1" onerror="window.fallbackAnalysisImage(this)">
@@ -1346,5 +1346,52 @@ window.showToast = function(message, type = 'info') {
   }, 3000);
 };
 
+// ─── 12. 数据导出与导入 ───────────────────────────────────────
+window.exportData = function() {
+  const data = {
+    kaoyan_moods: Storage.getMoods(),
+    kaoyan_comments: Storage.getComments(),
+    kaoyan_settings: Storage.getSettings(),
+    kaoyan_selected_subject: localStorage.getItem('kaoyan_selected_subject') || '8'
+  };
+  const jsonStr = JSON.stringify(data, null, 2);
+  const blob = new Blob([jsonStr], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `考研数学刷题记录备份_${new Date().toISOString().slice(0,10)}.json`;
+  a.click();
+  URL.revokeObjectURL(url);
+  showToast('数据导出成功！', 'success');
+};
+
+window.importData = function(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    try {
+      const data = JSON.parse(e.target.result);
+      if (data.kaoyan_moods) localStorage.setItem('kaoyan_moods', JSON.stringify(data.kaoyan_moods));
+      if (data.kaoyan_comments) localStorage.setItem('kaoyan_comments', JSON.stringify(data.kaoyan_comments));
+      if (data.kaoyan_settings) localStorage.setItem('kaoyan_settings', JSON.stringify(data.kaoyan_settings));
+      if (data.kaoyan_selected_subject) localStorage.setItem('kaoyan_selected_subject', data.kaoyan_selected_subject);
+      
+      showToast('数据导入成功，正在刷新页面...', 'success');
+      setTimeout(() => {
+        window.location.reload();
+      }, 1500);
+    } catch (err) {
+      showToast('导入失败：文件格式不正确', 'danger');
+      console.error('Import error:', err);
+    }
+  };
+  reader.readAsText(file);
+  // Reset the input so the same file can be selected again
+  event.target.value = '';
+};
+
 // ─── 启动应用 ────────────────────────────────────────────────
 $(document).ready(initApp);
+

@@ -1115,8 +1115,8 @@ window.deleteUserComment = function(questionId, commentId) {
 
 function updateCardCommentCount($card, questionId) {
   const userComments = Storage.getComments()[questionId] || [];
-  const mockComments = getMockComments(questionId);
-  const total = userComments.length + mockComments.length;
+  const realComments = getRealComments(questionId);
+  const total = userComments.length + realComments.length;
 
   const $badge = $card.find('.comment-count');
   if ($badge.length) {

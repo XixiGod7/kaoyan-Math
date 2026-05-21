@@ -1020,30 +1020,40 @@ function updateCardMoodUI($card, questionId) {
 }
 
 // 模拟学长姐评论数据库
-function getMockComments(questionId) {
-  const mapped = questionIndexMap[questionId];
-  if (!mapped) return [];
-  const q = mapped.question;
-  const kpName = q.knowledge_point_name || '该考点';
+function getRealComments(questionId) {
+  if (typeof COMMENTS_DB === 'undefined') return [];
+  const rawComments = COMMENTS_DB[questionId] || [];
   
-  return [
-    {
-      id: 'mock-1-' + questionId,
-      author: '高分学姐',
-      avatar: '🎓',
-      content: `这道题考查的是“${kpName}”。解题的核心在于仔细审题，尤其要关注隐含边界条件，不要直接套用公式。`,
-      time: '2025-10-12 14:32:00',
-      is_mock: true
-    },
-    {
-      id: 'mock-2-' + questionId,
-      author: '考研AI助手',
-      avatar: '🤖',
-      content: `对于这道 ${q.score} 分的分值题，在考研大纲中属于重点题型。建议先把讲题视频看完，再自己完整演算一遍。`,
-      time: '2025-11-03 09:15:00',
-      is_mock: true
+  return rawComments.map(c => {
+    let avatarHtml = '👤';
+    if (c.avatar_url) {
+      const url = c.avatar_url.startsWith('http') ? c.avatar_url : 'https://zhentiqiang.com/' + c.avatar_url;
+      avatarHtml = `<img src="${url}" style="width:100%;height:100%;border-radius:50%;object-fit:cover;">`;
     }
-  ];
+    
+    // 递归处理回复内容
+    let repliesHtml = '';
+    if (c.replies && c.replies.length > 0) {
+      repliesHtml = '<div class="mt-2 ps-3 border-start border-2 border-light" style="font-size: 11px;">' + 
+        c.replies.map(r => {
+          const rUrl = r.avatar_url ? (r.avatar_url.startsWith('http') ? r.avatar_url : 'https://zhentiqiang.com/' + r.avatar_url) : '';
+          const rAvatar = rUrl ? `<img src="${rUrl}" style="width:16px;height:16px;border-radius:50%;object-fit:cover;vertical-align:middle;margin-right:4px;">` : '👤 ';
+          const rText = r.reply_to_user ? `回复 <span class="text-primary">@${r.reply_to_user}</span>: ` : '';
+          return `<div class="mb-1"><span class="fw-bold text-secondary">${rAvatar}${r.user_name}</span> <span class="text-muted" style="font-size:9px;">${r.created_at}</span><div class="text-dark mt-1">${rText}${r.content}</div></div>`;
+        }).join('') + 
+      '</div>';
+    }
+
+    return {
+      id: c.id,
+      author: c.user_name,
+      avatar: avatarHtml,
+      content: c.content + repliesHtml,
+      time: c.created_at,
+      is_mock: false,
+      is_real: true
+    };
+  });
 }
 
 function renderCommentList($card, questionId) {
@@ -1051,18 +1061,18 @@ function renderCommentList($card, questionId) {
   if (!$list.length) return;
 
   const userComments = Storage.getComments()[questionId] || [];
-  const mockComments = getMockComments(questionId);
+  const realComments = getRealComments(questionId);
   const showOnlyMy = $card.find('.show-only-my-comments').prop('checked');
 
   let allComments = [];
   if (showOnlyMy) {
     allComments = userComments;
   } else {
-    allComments = userComments.concat(mockComments);
+    allComments = userComments.concat(realComments);
   }
 
   if (allComments.length === 0) {
-    $list.html('<div class="text-center text-muted py-3 small">暂无笔记或评论</div>');
+    $list.html('<div class="text-center text-muted py-3 small">暂无笔记或讨论，快来添加第一条吧！</div>');
     return;
   }
 
@@ -1072,13 +1082,13 @@ function renderCommentList($card, questionId) {
       <div class="comment-item border-bottom py-2" data-comment-id="${comment.id}">
         <div class="d-flex justify-content-between align-items-center mb-1">
           <div class="d-flex align-items-center gap-2">
-            <span class="avatar avatar-xs rounded-circle bg-light" style="width: 20px; height: 20px; font-size: 11px;">${comment.avatar}</span>
+            <span class="avatar avatar-xs rounded-circle bg-light p-0 d-inline-flex align-items-center justify-content-center overflow-hidden" style="width: 20px; height: 20px; font-size: 11px;">${comment.avatar}</span>
             <span class="fw-bold small text-secondary">${comment.author}</span>
-            ${comment.is_mock ? '<span class="badge bg-blue-lt" style="font-size: 9px;">考点指导</span>' : '<span class="badge bg-green-lt" style="font-size: 9px;">我的笔记</span>'}
+            ${comment.is_real ? '<span class="badge bg-purple-lt" style="font-size: 9px;">网友讨论</span>' : '<span class="badge bg-green-lt" style="font-size: 9px;">我的笔记</span>'}
           </div>
           <div class="text-muted" style="font-size: 10px;">${comment.time}</div>
         </div>
-        <div class="text-dark small ps-4" style="white-space: pre-wrap; font-size: 12px;">${comment.content}</div>
+        <div class="text-dark small ps-4" style="font-size: 12px; word-break: break-all;">${comment.content}</div>
         ${comment.author === '我' ? `
           <div class="text-end">
             <a href="javascript:void(0)" class="text-danger small delete-comment-btn" style="font-size: 11px;" onclick="window.deleteUserComment('${questionId}', '${comment.id}')">删除</a>

@@ -1347,7 +1347,7 @@ window.showToast = function(message, type = 'info') {
 };
 
 // ─── 12. 数据导出与导入 ───────────────────────────────────────
-window.exportData = function() {
+window.exportData = async function() {
   const data = {
     kaoyan_moods: Storage.getMoods(),
     kaoyan_comments: Storage.getComments(),
@@ -1355,11 +1355,38 @@ window.exportData = function() {
     kaoyan_selected_subject: localStorage.getItem('kaoyan_selected_subject') || '8'
   };
   const jsonStr = JSON.stringify(data, null, 2);
+  const defaultFileName = `考研数学刷题记录备份_${new Date().toISOString().slice(0,10)}.json`;
+
+  try {
+    if (window.showSaveFilePicker) {
+      const handle = await window.showSaveFilePicker({
+        suggestedName: defaultFileName,
+        types: [{
+          description: 'JSON Files',
+          accept: {'application/json': ['.json']},
+        }],
+      });
+      const writable = await handle.createWritable();
+      await writable.write(jsonStr);
+      await writable.close();
+      showToast('数据导出成功！', 'success');
+      return;
+    }
+  } catch (err) {
+    if (err.name !== 'AbortError') {
+      console.error('File System Access API failed:', err);
+    } else {
+      // User cancelled
+      return;
+    }
+  }
+
+  // Fallback for browsers that don't support showSaveFilePicker
   const blob = new Blob([jsonStr], { type: 'application/json' });
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
   a.href = url;
-  a.download = `考研数学刷题记录备份_${new Date().toISOString().slice(0,10)}.json`;
+  a.download = defaultFileName;
   a.click();
   URL.revokeObjectURL(url);
   showToast('数据导出成功！', 'success');

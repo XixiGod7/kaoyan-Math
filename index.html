@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📐 考研数学历年真题研究社 | 历年真题 • 视频讲解 • 考点深度分析</title>
+  <meta name="description" content="考研数学历年真题完全复刻版，支持数学一、数学二、数学三。包含2009至2025年全部真题图片、名师视频讲解、详尽知识点分类和智能刷题数据统计，支持离线刷题。">
+  <meta name="referrer" content="no-referrer">
+  
+  <!-- CSS CDNs -->
+  <link rel="stylesheet" href="assets/libs/tabler.min.css">
+  <link rel="stylesheet" href="index.css">
+</head>
+<body class="layout-fluid">
+  <div class="page">
+    <!-- Left Sidebar Panel -->
+    <aside class="navbar navbar-vertical navbar-expand-lg navbar-light" id="sidebar" style="overflow-y: auto; max-height: 100vh;">
+      <div class="container-fluid flex-column align-items-stretch">
+        <div class="navbar-brand py-3 text-center">
+          <h2 class="text-dark mb-0" style="font-family: 'Chalkboard', 'Comic Sans MS', sans-serif;">📚 考点大纲目录</h2>
+        </div>
+        <div class="collapse navbar-collapse show" id="sidebar-menu">
+          <div id="knowledgeTreeContent" class="w-100 px-2 py-3">
+            <p class="text-muted text-center">正在加载考点树...</p>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main Page Body -->
+    <div class="page-wrapper" id="mainContent">
+      <!-- Navbar / Header -->
+      <header class="navbar navbar-expand-md navbar-light d-print-none px-4 py-3 border-bottom shadow-sm">
+        <div class="container-xl d-flex justify-content-between align-items-center flex-wrap gap-3">
+          <!-- Logo & Branding -->
+          <div class="d-flex align-items-center gap-2">
+            <span style="font-size: 28px;">📐</span>
+            <div>
+              <h3 class="mb-0 text-primary fw-bold" style="letter-spacing: 0.5px;">考研数学真题研究社</h3>
+              <small class="text-muted">历年真题 • 名师视频 • 刷题记录 • 考点分析</small>
+            </div>
+          </div>
+
+          <!-- Controls & Selectors -->
+          <div class="d-flex align-items-center gap-3 flex-wrap">
+            <!-- Subject Selector -->
+            <div class="form-group mb-0">
+              <select class="form-select fw-bold border-primary text-primary" id="papergroupSelect" style="width: 130px; cursor: pointer;">
+                <option value="8" selected>数学一</option>
+                <option value="9">数学二</option>
+                <option value="10">数学三</option>
+              </select>
+            </div>
+
+            <!-- Switch Toggles -->
+            <div class="d-flex gap-3 align-items-center bg-light p-2 rounded-2 border">
+              <label class="form-check form-switch mb-0" style="cursor: pointer;">
+                <input class="form-check-input" type="checkbox" id="showQuestionNumbersSwitch" style="cursor: pointer;">
+                <span class="form-check-label small fw-semibold text-secondary">显示题号</span>
+              </label>
+              <label class="form-check form-switch mb-0" style="cursor: pointer;">
+                <input class="form-check-input" type="checkbox" id="showDifficultySwitch" style="cursor: pointer;">
+                <span class="form-check-label small fw-semibold text-secondary">显示难度</span>
+              </label>
+              <label class="form-check form-switch mb-0" style="cursor: pointer;">
+                <input class="form-check-input" type="checkbox" id="showMyRecordsSwitch" style="cursor: pointer;">
+                <span class="form-check-label small fw-semibold text-secondary">我刷的题</span>
+              </label>
+            </div>
+
+            <!-- Features Info Trigger -->
+            <button class="btn btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#featureInfoModal" onclick="showAnnouncement()">
+              📢 公告栏
+            </button>
+          </div>
+        </div>
+      </header>
+
+      <!-- Page Content Grid -->
+      <main class="page-body py-4">
+        <div class="container-xl">
+          <!-- Paper List Grid -->
+          <div class="card mb-4 bg-transparent border-0" id="paperListContainer">
+            <div id="paperListContent" class="paper-grid-wrapper">
+              <p class="text-white text-center">正在加载历年真题墙...</p>
+            </div>
+          </div>
+
+          <!-- Statistics & Charts Section -->
+          <div class="row" id="statsSection">
+            <div class="col-12" id="paperGroupStatsSection">
+              <div class="card bg-dark text-white border-0 shadow-lg" style="border-radius: 12px; background-color: #1e293b !important;">
+                <div class="card-header border-bottom border-secondary d-flex justify-content-between align-items-center" id="chartTitleContainer">
+                  <h3 class="card-title text-white fw-bold mb-0" id="chartTitle">各模块分值分布及掌握情况</h3>
+                  <div class="small text-muted">包含总分值与熟练度统计</div>
+                </div>
+                <div class="card-body p-4" style="position: relative;">
+                  <div id="paperGroupChartContainer" class="w-100" style="min-height: 250px;">
+                    <canvas id="paperGroupChart"></canvas>
+                  </div>
+                  <div id="knowledgePointChartContainer" class="w-100" style="display: none; min-height: 250px;">
+                    <canvas id="knowledgePointChart"></canvas>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+
+      <!-- Footer -->
+      <footer class="footer footer-transparent d-print-none py-3 mt-auto">
+        <div class="container-xl text-center">
+          <div class="text-white small">
+            © 2026 考研数学真题研究社（完全离线复刻版） | 本地存储安全保障
+          </div>
+          <div class="text-muted small mt-1">
+            数据来源：zhentiqiang.com • 解析节选自《李艳芳真题及解析》
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>
+
+  <!-- QUESTION MODAL (Details of Questions) -->
+  <div class="modal modal-blur fade" id="questionModal" tabindex="-1" role="dialog" aria-hidden="true" style="backdrop-filter: blur(4px);">
+    <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+      <div class="modal-content question-modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title fw-bold text-primary">题目详情</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" onclick="closeQuestionModal()"></button>
+        </div>
+        <div class="modal-body question-modal-body p-4" id="questionModalContent" style="max-height: 80vh; overflow-y: auto;">
+          <!-- Created dynamically by JS -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PAPER MODAL (Full Paper View) -->
+  <div class="modal modal-blur fade" id="paperModal" tabindex="-1" role="dialog" aria-hidden="true" style="backdrop-filter: blur(4px);">
+    <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+      <div class="modal-content paper-modal-content">
+        <div class="modal-header bg-primary text-white">
+          <h5 class="modal-title fw-bold text-white" id="paperModalTitle">试卷详情</h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body paper-modal-body p-4" id="paperModalBody" style="max-height: 80vh; overflow-y: auto;">
+          <!-- Created dynamically by JS -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ANNOUNCEMENT / INFO MODAL -->
+  <div class="modal fade" id="featureInfoModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title fw-bold" id="featureInfoModalTitle">📢 平台公告与使用指南</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body" id="featureInfoModalBody">
+          <!-- Loaded dynamically or hardcoded -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- QUESTION CARD TEMPLATE -->
+  <template id="questionCardTemplate">
+    <div class="question-card card mb-1 border shadow-sm" style="position: relative;">
+      <!-- Card Header -->
+      <div class="card-header py-1 px-2 bg-light d-flex justify-content-between align-items-center flex-wrap gap-2">
+        <div class="d-flex align-items-center gap-2">
+          <span class="badge bg-purple-lt fw-bold question-year">年份</span>
+          <span class="text-muted year-separator">|</span>
+          <span class="badge bg-indigo-lt fw-bold"><span class="question-score">0</span>分</span>
+          <span class="badge bg-blue-lt fw-bold knowledge-point-name" style="cursor: pointer;">知识点</span>
+        </div>
+        <div class="small text-muted">题号: <span class="question-idx-label"></span></div>
+      </div>
+
+      <!-- Card Body -->
+      <div class="card-body p-1">
+        <!-- Question Image -->
+        <div class="question-image-container mb-1 border rounded p-1 text-center bg-white" style="min-height: 80px; position: relative;">
+          <img class="question-image img-fluid w-100" src="" alt="题目图片" style="max-height: 400px; object-fit: contain;" onerror="fallbackQuestionImage(this)">
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="d-flex justify-content-between align-items-center flex-wrap gap-2 mb-1 border-bottom pb-1">
+          <!-- Left Actions -->
+          <div class="d-flex gap-2">
+            <button type="button" class="btn btn-outline-primary btn-sm answer-btn">
+              🔑 看答案
+            </button>
+            <button type="button" class="btn btn-outline-info btn-sm analysis-btn">
+              📖 看解析
+            </button>
+            <button type="button" class="btn btn-outline-success btn-sm video-btn">
+              📺 讲题视频
+            </button>
+            <button type="button" class="btn btn-outline-secondary btn-sm comment-btn position-relative">
+              💬 <span class="comment-label">评论</span>
+              <span class="comment-count badge bg-danger position-absolute top-0 start-100 translate-middle rounded-pill" style="display: none; font-size: 10px;">0</span>
+            </button>
+            <button type="button" class="btn btn-outline-warning btn-sm stats-btn">
+              📊 掌握度
+            </button>
+          </div>
+
+          <!-- Right Status (Moods) -->
+          <div class="d-flex gap-1 bg-light p-1 rounded border">
+            <button type="button" class="btn btn-ghost-success btn-icon btn-sm mood-happy" title="我已熟练掌握此题">
+              😊 <span class="mood-happy-count badge bg-success-lt ms-1">0</span>
+            </button>
+            <button type="button" class="btn btn-ghost-warning btn-icon btn-sm mood-maybe" title="我感觉有些模糊，不熟练">
+              😐 <span class="mood-maybe-count badge bg-warning-lt ms-1">0</span>
+            </button>
+            <button type="button" class="btn btn-ghost-danger btn-icon btn-sm mood-sad" title="我完全不会，需要多练">
+              😭 <span class="mood-sad-count badge bg-danger-lt ms-1">0</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Answer Panel (Hidden by default) -->
+        <div class="answer-display mt-2 p-3 bg-light rounded border border-success" style="display: none;">
+          <h5 class="text-success fw-bold mb-2">🔑 答案内容：</h5>
+          <div class="answer-content text-dark fw-semibold" style="font-family: 'Chalkboard', sans-serif; font-size: 16px;"></div>
+        </div>
+
+        <!-- Analysis Panel (Hidden by default) -->
+        <div class="analysis-display mt-2 p-3 bg-light rounded border border-info" style="display: none;">
+          <!-- Book Store Promo -->
+          <div class="alert alert-info py-2 px-3 mb-2 d-flex align-items-center justify-content-between">
+            <span class="small fw-bold text-info-darker">📖 本解析节选自《李艳芳真题及解析》，详尽知识点总结，点击前往官方店购买实体书 👉</span>
+            <a href="https://detail.tmall.com/item.htm?abbucket=9&id=644373224647" target="_blank" class="btn btn-info btn-sm">官方天猫店</a>
+          </div>
+          <div class="analysis-content text-center">
+            <p class="text-muted py-2">正在加载解析内容...</p>
+          </div>
+        </div>
+
+        <!-- Video Panel (Hidden by default) -->
+        <div class="video-display mt-2 p-3 bg-light rounded border border-success" style="display: none;">
+          <h5 class="text-success fw-bold mb-2">📺 推荐讲解视频（B站）：</h5>
+          <div class="video-content d-flex flex-column gap-2">
+            <!-- Rendered by JS -->
+          </div>
+        </div>
+
+        <!-- Stats Panel (Hidden by default) -->
+        <div class="stats-panel mt-2 p-3 bg-light rounded border border-warning" style="display: none;">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <h5 class="text-warning fw-bold mb-0">📊 全网本题掌握度分布：</h5>
+            <button type="button" class="btn-close btn-close-sm close-stats-btn" style="font-size: 10px;"></button>
+          </div>
+          <div class="progress mb-2" style="height: 20px;">
+            <div class="progress-bar bg-success stats-happy-bar" role="progressbar" style="width: 0%" title="熟练"></div>
+            <div class="progress-bar bg-warning stats-maybe-bar" role="progressbar" style="width: 0%" title="不熟"></div>
+            <div class="progress-bar bg-danger stats-sad-bar" role="progressbar" style="width: 0%" title="不会"></div>
+          </div>
+          <div class="d-flex justify-content-around text-center small mt-1">
+            <div><span class="badge bg-success">&nbsp;</span> 熟练: <span class="stats-happy-percent">0%</span> (<span class="stats-happy-num">0</span>人)</div>
+            <div><span class="badge bg-warning">&nbsp;</span> 不熟: <span class="stats-maybe-percent">0%</span> (<span class="stats-maybe-num">0</span>人)</div>
+            <div><span class="badge bg-danger">&nbsp;</span> 不会: <span class="stats-sad-percent">0%</span> (<span class="stats-sad-num">0</span>人)</div>
+          </div>
+        </div>
+
+        <!-- Comments Panel (Hidden by default) -->
+        <div class="comment-section mt-2 p-3 bg-light rounded border" style="display: none;">
+          <div class="d-flex justify-content-between align-items-center mb-3">
+            <div class="d-flex align-items-center gap-3">
+              <h5 class="text-secondary fw-bold mb-0">💬 笔记与留言：</h5>
+              <div class="form-check form-switch mb-0">
+                <input class="form-check-input show-only-my-comments" type="checkbox" style="cursor: pointer;">
+                <label class="form-check-label small text-muted" style="cursor: pointer;">只看自己</label>
+              </div>
+            </div>
+            <button type="button" class="btn-close close-comment-btn" style="font-size: 10px;"></button>
+          </div>
+
+          <!-- Comment Input -->
+          <div class="mb-3">
+            <textarea class="form-control comment-input" placeholder="输入你对本题的刷题记录、纠错或学习心得吧（最多500字）..." rows="3" maxlength="500"></textarea>
+            <div class="d-flex justify-content-between align-items-center mt-2">
+              <small class="text-muted char-count">0/500</small>
+              <button type="button" class="btn btn-primary btn-sm submit-comment-btn">提交发表</button>
+            </div>
+          </div>
+
+          <!-- Comment List -->
+          <div class="comment-list d-flex flex-column gap-2" style="max-height: 250px; overflow-y: auto;">
+            <!-- Rendered by JS -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </template>
+
+  <!-- JS CDNs -->
+  <script src="assets/libs/jquery-3.7.1.min.js"></script>
+  <script src="assets/libs/bootstrap.bundle.min.js"></script>
+  <script src="assets/libs/tabler.min.js"></script>
+  <script src="assets/libs/chart.umd.min.js"></script>
+  <script src="assets/libs/chartjs-plugin-datalabels.min.js"></script>
+  
+  <!-- App Local JS DB & Logic -->
+  <script src="data_crawled.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

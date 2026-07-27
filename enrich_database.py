@@ -8,7 +8,7 @@ import sys
 # Set stdout to UTF-8
 sys.stdout.reconfigure(encoding='utf-8')
 
-db_file = r"d:\PersonalFiles\anti-gravity_test\kaoyan-Math\data_crawled.js"
+db_file = "data_crawled.js"
 
 print("Reading database...")
 with open(db_file, 'r', encoding='utf-8') as f:

@@ -23,7 +23,7 @@ const COMMENTS_DB = {
       "user_name": "桥啊"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "注意x的正负性",
       "created_at": "2025-12-12 10:54:50",
@@ -333,7 +333,7 @@ const COMMENTS_DB = {
       "user_name": "嗯嗯嗯"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "判断正负惯性指数个数：1.配方法  或   2.求特征值，根据具体题目看哪个简便",
       "created_at": "2025-12-04 17:57:07",
@@ -1062,7 +1062,7 @@ const COMMENTS_DB = {
       "user_name": "颂."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/gibSBIjib18AicIkGkRZkFnP2LMf9xqQ2ymUsPU6iazd6nCwbS4XUwjjeWKbWJXHNW1TsPmtsiakKUBibncx6DJJM46J3MaIyBweTPic4zKFBSibvPU/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/gibSBIjib18AicIkGkRZkFnP2LMf9xqQ2ymUsPU6iazd6nDZs8hKlE8h1RgIOsS90B8OOUbFVqY174mYicMeWuUd1Xa13nlEZcEkqFfHLFHZ77Gs/132",
       "can_delete": null,
       "content": "泊松为从零开始的离散分布",
       "created_at": "2025-12-08 16:02:27",
@@ -1352,7 +1352,7 @@ const COMMENTS_DB = {
       "user_name": "苏打达达"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "总是忘记<=是包括了前面所有的，然后就算了=2的情况....",
       "created_at": "2025-11-08 11:15:10",
@@ -1681,6 +1681,17 @@ const COMMENTS_DB = {
   ],
   "662": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "向量线性相关性 + 线性方程组解的结构 + 三维空间解的几何意义\n线性方程组解的结构忘了，蒙对的，线性方程组解的结构和直线公式不熟",
+      "created_at": "2026-07-24 12:52:54",
+      "id": 40042,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI8Ls1yibf6DmrJ6yQJygswR3jpIgXKkqRd7H8gsEXMgwMf4dTNoic2C32B7pMCJiaegOyDz7FotdTbg/132",
       "can_delete": null,
       "content": "有相关无关先联想系数，就要将α1，α2作公因式，α3换为α1，α2，提公因式联立，就能明白所问",
@@ -1703,7 +1714,7 @@ const COMMENTS_DB = {
       "user_name": "Grew"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "一个解系是线，两个是面，三个是体，一个特解，不为0，所以不管解系是什么，都不会过原点了，如果没有特解，当k🟰0时，就会过原点了 谢谢兄弟的总结",
       "created_at": "2025-12-17 11:05:29",
@@ -2194,6 +2205,17 @@ const COMMENTS_DB = {
     }
   ],
   "663": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "诱导公式忘了，比较审敛忘了",
+      "created_at": "2026-07-24 12:50:16",
+      "id": 40041,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "avatar://seed/18315434472",
       "can_delete": null,
@@ -3078,7 +3100,7 @@ const COMMENTS_DB = {
       "user_name": "远航ytqVfB"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/K5nMD4RdOr6sVl9Yia3CdTA68QRQXP8C1Ly6kiaUoTV4T4BzK4NG15ATI9NNWbA76Ym9SebEtiaPF9y5KSpPWFmXT3qulLT9DWODMDvlE2mxAo/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/K5nMD4RdOr6sVl9Yia3CdTA68QRQXP8C1Ly6kiaUoTV4T4BzK4NG15AfE1D5xCtT2F8ocZbz1kqYViaRZic88fEvzJ1hicnfBfB7smG0PuqGBT9A/132",
       "can_delete": null,
       "content": "方向导数是数，梯度是带I.jk",
       "created_at": "2025-12-01 19:16:53",
@@ -3284,6 +3306,17 @@ const COMMENTS_DB = {
     }
   ],
   "650": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "周期，细节一点，3-7/2不是周期搬移，周期为2",
+      "created_at": "2026-07-24 13:03:44",
+      "id": 40044,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vk7MMpCvzajCM0Kkjn536mJic5bj70QRbKCsOhWG9uIAkD56WA3OvJcIbSZ1LseymtguVrtOvjuA1ZNic3jMyBvLqMgWnRokN3e3RXliauevibo/132",
       "can_delete": null,
@@ -3653,7 +3686,7 @@ const COMMENTS_DB = {
       "user_name": "Carl"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "把-7/2看成7/2还有救吗",
       "created_at": "2025-11-09 10:17:11",
@@ -3683,7 +3716,7 @@ const COMMENTS_DB = {
       "likes": 4,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9uU3kpOnpEaO8p5gPROcKnFgs6Rb6qAicXfYia3ACXVbVnOtsJ3DWzPfVfZnSGh7Q8WVBjHOs7X5GcXibMibOpMvJtVVILYYecnicmUicsmibqJVO4/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKfOQK9z5aG9nf7hgCLX7dp6F5N8m43Vp2XC9vJVjY1nZR1Zh9EDyEnWj49o9iaRObXXGbdia3pp3M4F6152v72NxibsOptujKhglibwMRa8iaia8tA/132",
           "can_delete": null,
           "content": "我去，不早说",
           "created_at": "2025-11-15 17:36:15",
@@ -3779,6 +3812,17 @@ const COMMENTS_DB = {
     }
   ],
   "664": [
+    {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "ab函数极限存在与导数极限存在不能互推\ncd洛必达前提之一是洛完之后，要保证结果存在。d给了结果存在",
+      "created_at": "2026-07-10 08:54:41",
+      "id": 39957,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "天下万般绝学  莫过恒心"
+    },
     {
       "avatar_url": "uploads/avatars/avatar_40680_86a4f446f3d64f9c97fb575fbcdd3493.jpg",
       "can_delete": null,
@@ -4161,7 +4205,7 @@ const COMMENTS_DB = {
       "user_name": "肥嘟嘟左卫门"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "洛后存在   推→   洛前必定存在",
       "created_at": "2025-12-04 17:54:30",
@@ -4667,6 +4711,17 @@ const COMMENTS_DB = {
   ],
   "646": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "格林补线忘了减去补的线段积分",
+      "created_at": "2026-07-24 13:04:50",
+      "id": 40045,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
       "avatar_url": "uploads/avatars/avatar_11742_87e2fba564eb4ee794ef2848781e35fc.jpg",
       "can_delete": null,
       "content": "是抛物线，不是圆！！！",
@@ -4977,7 +5032,7 @@ const COMMENTS_DB = {
       "user_name": "乌梅布丁"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "细心！cosx的积分是sinx不是-sinx😇",
       "created_at": "2025-11-26 19:03:09",
@@ -5217,6 +5272,17 @@ const COMMENTS_DB = {
     }
   ],
   "661": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "排除法，思路不要太死板",
+      "created_at": "2026-07-24 12:56:33",
+      "id": 40043,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/sagMefhPlgT7gpAmPR2BYkVF9iaiajIG99NCADeUNMZn3bqnXC2v9UyByEjBibNVZEefVJkmzKaXSeadZMXX3prpsrVKRbZV2Z4mDswWzO6MXE/132",
       "can_delete": null,
@@ -6221,23 +6287,45 @@ const COMMENTS_DB = {
   ],
   "665": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "上下限互换积分值要变号",
+      "created_at": "2026-07-24 12:45:11",
+      "id": 40040,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "极值点拐点互斥直接秒了",
+      "created_at": "2026-07-10 08:45:53",
+      "id": 39956,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "-"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEIfnr8PR6mZBoO9vHkob81eY2vlFTKx0ibw2rr7IST7BiapLqySbSQTJHG9zHY6ic8Qibdf7MXHlMaxibPutR7HQgKmfc4KLAQcCPcQ5b9o3FtibvKg/132",
       "can_delete": null,
       "content": "完结撒花",
       "created_at": "2025-12-23 20:14:39",
       "id": 39773,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 3476,
       "user_name": "。"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVTX03U8rRygpF88DBKP9wn4LqMNZTP5nkcKicGRz8aMQnfHbPp3qMuDX0CnXX5ia4j4w/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVScibtchIHics09OY6rBbjKRgkibO96R8LhxgsQUKhSdicXIaaqibmbLqrXFNLwuaAzt4FM/132",
       "can_delete": null,
       "content": "祝大家都一志愿录取",
       "created_at": "2025-12-20 23:28:16",
       "id": 39751,
-      "likes": 1,
+      "likes": 2,
       "replies": [],
       "student_id": 4161,
       "user_name": "紫雨"
@@ -6375,7 +6463,7 @@ const COMMENTS_DB = {
       "user_name": "天空仍在泣雨"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "一阶导极值点（找驻点和不可导点）判断最右正负，二阶导拐点",
       "created_at": "2025-12-08 22:02:02",
@@ -6452,7 +6540,7 @@ const COMMENTS_DB = {
       "user_name": "Lorenzo."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "三阶导太复杂难求，可以直接用导数定义得三阶导为6≠0",
       "created_at": "2025-12-04 17:51:42",
@@ -7357,7 +7445,7 @@ const COMMENTS_DB = {
       "user_name": "姜姜"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYVY4qibZ7P7KLj8I0tUEO8M3OQ8w27ibOzb0GDg4QWHQAptjAPxRGLBY9ntpickGSSS9A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYV34zPJR5qDXEU3FrwOwNG4Me8kHjm6LIrV9a861volaQaHAhJ0zNr2aN0LRgr37BQ/132",
       "can_delete": null,
       "content": "判断不满秩，则A行列式为0",
       "created_at": "2025-12-15 21:23:18",
@@ -7502,7 +7590,7 @@ const COMMENTS_DB = {
       "user_name": "不注重细节的Nike"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "不可逆矩阵",
       "created_at": "2025-12-06 19:52:17",
@@ -8007,7 +8095,7 @@ const COMMENTS_DB = {
       "user_name": "夾钟琯里听春声"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "交集齐小的",
       "created_at": "2025-12-10 10:27:56",
@@ -8813,7 +8901,7 @@ const COMMENTS_DB = {
       "user_name": "窒息的小奶布"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/gibSBIjib18AicIkGkRZkFnP2LMf9xqQ2ymUsPU6iazd6nCwbS4XUwjjeWKbWJXHNW1TsPmtsiakKUBibncx6DJJM46J3MaIyBweTPic4zKFBSibvPU/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/gibSBIjib18AicIkGkRZkFnP2LMf9xqQ2ymUsPU6iazd6nDZs8hKlE8h1RgIOsS90B8OOUbFVqY174mYicMeWuUd1Xa13nlEZcEkqFfHLFHZ77Gs/132",
       "can_delete": null,
       "content": "注意计算",
       "created_at": "2025-12-11 14:17:55",
@@ -9147,7 +9235,7 @@ const COMMENTS_DB = {
       "user_name": "平安是福"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "一步步写，不能正负号写错再",
       "created_at": "2025-11-12 11:06:03",
@@ -9247,6 +9335,17 @@ const COMMENTS_DB = {
     }
   ],
   "657": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "欧拉方程，微分方程解的形式",
+      "created_at": "2026-07-24 14:29:01",
+      "id": 40048,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/K1iaar80Utia7icQNDxSOMICShEYvfImK2ianFzYxkuKsfolzwB0W81EmAwKsYV9fploAlD9xs9nO3jyUxjsTKGwDn1V052rKRaEqictHHt4Rx5Q/132",
       "can_delete": null,
@@ -9824,7 +9923,7 @@ const COMMENTS_DB = {
       "user_name": "魏东宇"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJJbLdn4Ch6nHx75qd4ws4xWib0HI6gzZWCd0EcvXl4zicEw3LcibImIELdGFZ8bQU6OibfasXVjSklu62pg4MoDoIypSgrUtJjHUVjNDbeWBFk1g/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PYPcl9BcsoiaNHI6F30vbhSHic5jGoVcGWHl24xGCTKPVJcJia7MnQ08DbWCHIAd7ZbQibKydicI7NqzjNEVl8riahLSTuCy5tXicNoEdnSunH154Y/132",
       "can_delete": null,
       "content": "题库错误太多了",
       "created_at": "2025-11-14 14:35:21",
@@ -9962,7 +10061,7 @@ const COMMENTS_DB = {
       "user_name": "月光"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJHtk9zwkau6M5uHibJyibpJX0p0X6pKrYYNWkCJXiab2KWuSqicEWjRYCG0Pk5fnnpFKQ6F4Qa8ruLuicX3SVJFuf4Kv2ET6uHFHCIO1I5FuRMw4g/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJHtk9zwkau6M5uHibJyibpJX0p0X6pKrYYNWkCJXiab2KWoDW8zbWQJxtuSdA2DGNyfdptlYwnzHicKJHPiaMDUuFsmiaSribGia8L5by6hBtm5z9H4g/132",
       "can_delete": null,
       "content": "先用积分函数奇偶性质，再用复合函数的奇偶性性质——“内偶则偶，内奇同外”",
       "created_at": "2025-12-20 20:49:09",
@@ -10171,7 +10270,7 @@ const COMMENTS_DB = {
       "user_name": "广东"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "奇导偶，偶导奇，奇原偶，偶原非奇（只有一个）",
       "created_at": "2025-12-01 10:50:28",
@@ -10498,7 +10597,7 @@ const COMMENTS_DB = {
       "user_name": "白遇清"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "要有信念感 一定能求出来",
       "created_at": "2025-12-08 20:22:19",
@@ -10891,6 +10990,17 @@ const COMMENTS_DB = {
   ],
   "682": [
     {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "三面有交集，系数秩等于增广秩\n法向量共面，系数秩为2",
+      "created_at": "2026-06-24 20:38:02",
+      "id": 39908,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "安生"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/jhykFn9z1Vqwvicickhj4R82Hu7iasHbfwr4kohtQ7c0BhGsUibUnNEasibC0ibJJVI6PqzhdLqBJ4EbKC8CicEfGyk0uOswCgJJypZT4RQvLHJiceE/132",
       "can_delete": null,
       "content": "看法向量！",
@@ -10902,7 +11012,7 @@ const COMMENTS_DB = {
       "user_name": "Ooor"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYVY4qibZ7P7KLj8I0tUEO8M3OQ8w27ibOzb0GDg4QWHQAptjAPxRGLBY9ntpickGSSS9A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYV34zPJR5qDXEU3FrwOwNG4Me8kHjm6LIrV9a861volaQaHAhJ0zNr2aN0LRgr37BQ/132",
       "can_delete": null,
       "content": "p56，方程组解的判定",
       "created_at": "2025-12-15 21:01:16",
@@ -11483,7 +11593,7 @@ const COMMENTS_DB = {
       "user_name": "Lorenzo."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/K5nMD4RdOr6sVl9Yia3CdTA68QRQXP8C1Ly6kiaUoTV4T4BzK4NG15ATI9NNWbA76Ym9SebEtiaPF9y5KSpPWFmXT3qulLT9DWODMDvlE2mxAo/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/K5nMD4RdOr6sVl9Yia3CdTA68QRQXP8C1Ly6kiaUoTV4T4BzK4NG15AfE1D5xCtT2F8ocZbz1kqYViaRZic88fEvzJ1hicnfBfB7smG0PuqGBT9A/132",
       "can_delete": null,
       "content": "不要跳步，正经求法向量，求cos",
       "created_at": "2025-12-01 09:45:57",
@@ -11819,7 +11929,7 @@ const COMMENTS_DB = {
       "user_name": "Geek"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVTX03U8rRygpF88DBKP9wn4LqMNZTP5nkcKicGRz8aMQnfHbPp3qMuDX0CnXX5ia4j4w/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVScibtchIHics09OY6rBbjKRgkibO96R8LhxgsQUKhSdicXIaaqibmbLqrXFNLwuaAzt4FM/132",
       "can_delete": null,
       "content": "骇死我了",
       "created_at": "2025-12-11 09:03:36",
@@ -12294,7 +12404,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "Y对X的关系再对x积分 分清离散连续",
       "created_at": "2025-11-10 09:44:54",
@@ -12565,7 +12675,7 @@ const COMMENTS_DB = {
       "user_name": "spark"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVTX03U8rRygpF88DBKP9wn4LqMNZTP5nkcKicGRz8aMQnfHbPp3qMuDX0CnXX5ia4j4w/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVScibtchIHics09OY6rBbjKRgkibO96R8LhxgsQUKhSdicXIaaqibmbLqrXFNLwuaAzt4FM/132",
       "can_delete": null,
       "content": "由x=0和y=0得到这个直线是y轴，参数方程可得直线x=y=z可以大致画出这个图形是个躺着的圆锥",
       "created_at": "2025-12-08 11:06:07",
@@ -12725,7 +12835,7 @@ const COMMENTS_DB = {
       "user_name": "嗯嗯嗯"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "圆锥底面是一个以边长为根号2的等边三角形的外接圆，由勾股定理关系 算出底面圆半径r 和圆锥的高h",
       "created_at": "2025-12-05 14:44:50",
@@ -13218,6 +13328,17 @@ const COMMENTS_DB = {
     }
   ],
   "686": [
+    {
+      "avatar_url": "avatar://seed/19935442347",
+      "can_delete": null,
+      "content": "可以用奇偶消除",
+      "created_at": "2026-07-26 16:44:05",
+      "id": 40058,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42787,
+      "user_name": "登峰RI0MBs"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Dib3LnwhqEL1B5ia9qje2fwUlvTUUFZEdSo8Zo1mO8esArQIFrdTY1HJicL35KLRKAT21NhPAK3aEQxoj6TfzP9e6ibHBGEbNpwXR7YmKYXGfEg/132",
       "can_delete": null,
@@ -13801,7 +13922,7 @@ const COMMENTS_DB = {
       "user_name": "AA建材批发王阁"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "两种方法都很妙，但要小心正负号~",
       "created_at": "2025-11-09 10:25:45",
@@ -14197,7 +14318,7 @@ const COMMENTS_DB = {
       "user_name": "leaf"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "有定义不等于连续，可导一定连续，进而推出后面的   导数定义",
       "created_at": "2025-12-01 09:57:22",
@@ -14616,7 +14737,7 @@ const COMMENTS_DB = {
       "user_name": "SHu"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "等价无穷小",
       "created_at": "2025-12-01 09:44:26",
@@ -14741,7 +14862,7 @@ const COMMENTS_DB = {
       "user_name": "我是人间惊鸿客"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYVY4qibZ7P7KLj8I0tUEO8M3OQ8w27ibOzb0GDg4QWHQAptjAPxRGLBY9ntpickGSSS9A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYV34zPJR5qDXEU3FrwOwNG4Me8kHjm6LIrV9a861volaQaHAhJ0zNr2aN0LRgr37BQ/132",
       "can_delete": null,
       "content": "马上得到0为特征值。P70和P72，tra=特征值相加，不同矩阵对应的特征值。",
       "created_at": "2025-12-15 22:52:16",
@@ -14906,7 +15027,7 @@ const COMMENTS_DB = {
       "user_name": "o.O"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7QqzOUXeoGLrwEWZoCYDdaia4iaDBhb2p8ljdU7OoBKicJ0jiclryaApgiaFKNbVucQ1PPPYkuXicia3NRRtz90umWMfoRmkgUcYdT19l47vCqXD3k/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJt1TZHqbX0n3RZXV2hvadrWW3Je34SyshhfCGLZ6J8np5tvBef9RGJtYSMSIQjMReE5SB3NSenG3dDkiaUtMBy79IzZE8bGiaDelKUsLEAEgXw/132",
       "can_delete": null,
       "content": "qh76",
       "created_at": "2025-12-04 10:00:12",
@@ -15231,7 +15352,7 @@ const COMMENTS_DB = {
       "user_name": "David"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYVY4qibZ7P7KLj8I0tUEO8M3OQ8w27ibOzb0GDg4QWHQAptjAPxRGLBY9ntpickGSSS9A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYV34zPJR5qDXEU3FrwOwNG4Me8kHjm6LIrV9a861volaQaHAhJ0zNr2aN0LRgr37BQ/132",
       "can_delete": null,
       "content": "p43，长相关一定短相关，短不相关长一点不相关",
       "created_at": "2025-12-15 20:28:50",
@@ -16313,7 +16434,7 @@ const COMMENTS_DB = {
       "user_name": "Wt"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "全微分",
       "created_at": "2025-11-22 21:38:49",
@@ -16515,7 +16636,7 @@ const COMMENTS_DB = {
       "user_name": "fafa"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "同分布事件",
       "created_at": "2025-12-04 23:30:05",
@@ -17255,7 +17376,7 @@ const COMMENTS_DB = {
       "user_name": "太阳。"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "积分区域",
       "created_at": "2025-12-04 22:36:10",
@@ -17266,7 +17387,7 @@ const COMMENTS_DB = {
       "user_name": "shadow"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/gibSBIjib18AicIkGkRZkFnP2LMf9xqQ2ymUsPU6iazd6nCwbS4XUwjjeWKbWJXHNW1TsPmtsiakKUBibncx6DJJM46J3MaIyBweTPic4zKFBSibvPU/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/gibSBIjib18AicIkGkRZkFnP2LMf9xqQ2ymUsPU6iazd6nDZs8hKlE8h1RgIOsS90B8OOUbFVqY174mYicMeWuUd1Xa13nlEZcEkqFfHLFHZ77Gs/132",
       "can_delete": null,
       "content": "用概率密度计算",
       "created_at": "2025-12-04 14:44:11",
@@ -17776,7 +17897,7 @@ const COMMENTS_DB = {
       "user_name": "白遇清"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_1069_3a47b6f26eef47fdbb475710dbd34945.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8WpdRJKZhsLn8VtGEQPeBgUTwbcUw0RvMnaF2fwoQbBfOwC63wQz5hllhhiaefr4nUY8SD5wZxRkiaQkXHWUNg8AjRmBE1g7ZrD8nVjAibgc14/132",
       "can_delete": null,
       "content": "换元换元",
       "created_at": "2025-12-17 20:18:33",
@@ -18139,7 +18260,7 @@ const COMMENTS_DB = {
       "user_name": "考研数学🥥📕🍓"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "。想不出来就换元想想换元行吗我求你了每次卡住都是因为换元🙏",
       "created_at": "2025-11-24 21:03:39",
@@ -19199,7 +19320,7 @@ const COMMENTS_DB = {
       "user_name": "一战成硕"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "积分选择",
       "created_at": "2025-12-14 17:05:49",
@@ -19400,7 +19521,7 @@ const COMMENTS_DB = {
       "user_name": "颂."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/gibSBIjib18AicIkGkRZkFnP2LMf9xqQ2ymUsPU6iazd6nCwbS4XUwjjeWKbWJXHNW1TsPmtsiakKUBibncx6DJJM46J3MaIyBweTPic4zKFBSibvPU/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/gibSBIjib18AicIkGkRZkFnP2LMf9xqQ2ymUsPU6iazd6nDZs8hKlE8h1RgIOsS90B8OOUbFVqY174mYicMeWuUd1Xa13nlEZcEkqFfHLFHZ77Gs/132",
       "can_delete": null,
       "content": "同分布的充分必要条件",
       "created_at": "2025-12-08 11:29:55",
@@ -19892,7 +20013,7 @@ const COMMENTS_DB = {
       "user_name": "Strelitzia"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVTX03U8rRygpF88DBKP9wn4LqMNZTP5nkcKicGRz8aMQnfHbPp3qMuDX0CnXX5ia4j4w/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVScibtchIHics09OY6rBbjKRgkibO96R8LhxgsQUKhSdicXIaaqibmbLqrXFNLwuaAzt4FM/132",
       "can_delete": null,
       "content": "三种方法，李艳芳老师讲得定义法直接算，喻老讲得算方差，方浩用的双卷积，我觉得都可以学一下。",
       "created_at": "2025-11-12 11:18:15",
@@ -20129,7 +20250,7 @@ const COMMENTS_DB = {
       "user_name": "青山"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "求渐近线，三部曲，无穷 水平 特殊点 垂直 fx/x斜率 fx-kx= b",
       "created_at": "2025-12-01 09:59:55",
@@ -20688,7 +20809,7 @@ const COMMENTS_DB = {
       "user_name": "晚吟"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "用Fxn算fxn的时候用复合求导",
       "created_at": "2025-11-15 14:26:21",
@@ -20837,7 +20958,7 @@ const COMMENTS_DB = {
       "user_name": "David"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYVY4qibZ7P7KLj8I0tUEO8M3OQ8w27ibOzb0GDg4QWHQAptjAPxRGLBY9ntpickGSSS9A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYV34zPJR5qDXEU3FrwOwNG4Me8kHjm6LIrV9a861volaQaHAhJ0zNr2aN0LRgr37BQ/132",
       "can_delete": null,
       "content": "求逆看P19",
       "created_at": "2025-12-15 23:09:22",
@@ -20848,7 +20969,7 @@ const COMMENTS_DB = {
       "user_name": "o-o包"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYVY4qibZ7P7KLj8I0tUEO8M3OQ8w27ibOzb0GDg4QWHQAptjAPxRGLBY9ntpickGSSS9A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYV34zPJR5qDXEU3FrwOwNG4Me8kHjm6LIrV9a861volaQaHAhJ0zNr2aN0LRgr37BQ/132",
       "can_delete": null,
       "content": "求矩阵的高次幂，P25，P26",
       "created_at": "2025-12-15 23:06:56",
@@ -20993,7 +21114,7 @@ const COMMENTS_DB = {
       "user_name": "Daisy"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVTX03U8rRygpF88DBKP9wn4LqMNZTP5nkcKicGRz8aMQnfHbPp3qMuDX0CnXX5ia4j4w/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVScibtchIHics09OY6rBbjKRgkibO96R8LhxgsQUKhSdicXIaaqibmbLqrXFNLwuaAzt4FM/132",
       "can_delete": null,
       "content": "和16年21题思路一模一样",
       "created_at": "2025-12-07 09:54:34",
@@ -21795,7 +21916,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
           "can_delete": null,
           "content": "第一次做的时候我也是没注意到这个",
           "created_at": "2025-11-09 09:46:22",
@@ -24074,6 +24195,28 @@ const COMMENTS_DB = {
   ],
   "669": [
     {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "挺朴素一题",
+      "created_at": "2026-07-11 15:56:08",
+      "id": 39966,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "天下万般绝学  莫过恒心"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/WrgA2nHuwPGmHmaj4RyfVShueHTHFlWDS36YibDN79GEWvCxJGEBQLYoRLN9OB86qxTZmyqY79Jpa4KguibZtPzw/132",
+      "can_delete": null,
+      "content": "不等式右边左移两边乘4形似二次函数判别式，对应的二次函数符号不变，A半正定或半负定",
+      "created_at": "2026-05-29 12:31:47",
+      "id": 39868,
+      "likes": 0,
+      "replies": [],
+      "student_id": 22757,
+      "user_name": "呵呵"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/iaj85Pia2KvicsmP7E3ibTyTic0Pdpzh5IhUKiaeyaLvJxcugictic91FEJzqJlYb7EDCLBhic4x7V6yEspNOWSicg1dibmQcl45soF1eYyPEf3NTIjQbU/132",
       "can_delete": null,
       "content": "倒在法二的最后一部，出题老头喝多了吧，小题这么大计算",
@@ -24556,7 +24699,7 @@ const COMMENTS_DB = {
       "user_name": "我爱学习"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7QqzOUXeoGLrwEWZoCYDdaia4iaDBhb2p8ljdU7OoBKicJ0jiclryaApgiaFKNbVucQ1PPPYkuXicia3NRRtz90umWMfoRmkgUcYdT19l47vCqXD3k/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJt1TZHqbX0n3RZXV2hvadrWW3Je34SyshhfCGLZ6J8np5tvBef9RGJtYSMSIQjMReE5SB3NSenG3dDkiaUtMBy79IzZE8bGiaDelKUsLEAEgXw/132",
       "can_delete": null,
       "content": "对比正定二次型的证明过程，令α＝01或10，同时β＝10或01",
       "created_at": "2025-12-04 10:44:02",
@@ -24591,7 +24734,7 @@ const COMMENTS_DB = {
       "user_name": "想当一只猫"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "：）",
       "created_at": "2025-12-03 20:10:31",
@@ -24712,7 +24855,7 @@ const COMMENTS_DB = {
       "user_name": "可乐🥤 🥤"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "直接矩阵的乘法即可",
       "created_at": "2025-11-30 15:33:45",
@@ -25297,7 +25440,7 @@ const COMMENTS_DB = {
       "user_name": "Kevin"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYVY4qibZ7P7KLj8I0tUEO8M3OQ8w27ibOzb0GDg4QWHQAptjAPxRGLBY9ntpickGSSS9A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYV34zPJR5qDXEU3FrwOwNG4Me8kHjm6LIrV9a861volaQaHAhJ0zNr2aN0LRgr37BQ/132",
       "can_delete": null,
       "content": "自由变量个数=特征值代入的齐次线性方程组的基础解系中解向量个数=此特征值有几个线性无关的特征向量=n-rA。",
       "created_at": "2025-12-15 22:38:36",
@@ -25343,7 +25486,7 @@ const COMMENTS_DB = {
       "user_name": "Grew"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_16132_8c4a49ecdadf43429b3f8af4f3d2f728.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/E53icp1gSWbjvdKmSAW0we9Hrkz5g3tOd5u3Mkrgfz1BhkGEtdA32IOvLljkXLCMbhM7180TcQDARchyVHgtfTRIV3kcotsSUUWhXg9WCT4A/132",
       "can_delete": null,
       "content": "多重特征值与特征向量个数相对应",
       "created_at": "2025-12-14 14:59:55",
@@ -25655,7 +25798,7 @@ const COMMENTS_DB = {
       "user_name": "Ooor"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "总是看错题目还有救吗",
       "created_at": "2025-12-11 21:34:10",
@@ -25878,7 +26021,7 @@ const COMMENTS_DB = {
       "user_name": "青山"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "求出fx表达式 常规做",
       "created_at": "2025-12-01 09:54:37",
@@ -26124,7 +26267,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "fx一介导表达式写出来再用定义算二导",
       "created_at": "2025-11-11 18:30:35",
@@ -26146,7 +26289,7 @@ const COMMENTS_DB = {
       "user_name": "啊呀是阿鸭吖！"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "分t大于0和t小于0做就行，细心一点就出来了",
       "created_at": "2025-11-04 23:25:57",
@@ -26168,7 +26311,7 @@ const COMMENTS_DB = {
       "user_name": "求知qpZSQj"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/YB4reAlzKSGJO0I3cYlDXHFRAcJBL3AJOjRGDmMvIhgAtyUGxWZm8eXicAZYwDNu6zzm6B4TcAs4JVwN7icaLD9w/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/an9skXmFicQphyAu8FtL8Y9xY8O3kHhfibibyWvGyfyCOvtsFyO1ibeuBViapZfcRssrcwUvplqI0SQOo1Xr0rJ9tf2EPqc9Qd0Gib9WsLcTiasibFw/132",
       "can_delete": null,
       "content": "直接把参数方程化为yx函数，之后的操作都是常规操作",
       "created_at": "2025-11-03 11:12:36",
@@ -26247,7 +26390,7 @@ const COMMENTS_DB = {
       "user_name": "YYYY"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_16132_8c4a49ecdadf43429b3f8af4f3d2f728.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/E53icp1gSWbjvdKmSAW0we9Hrkz5g3tOd5u3Mkrgfz1BhkGEtdA32IOvLljkXLCMbhM7180TcQDARchyVHgtfTRIV3kcotsSUUWhXg9WCT4A/132",
       "can_delete": null,
       "content": "强化206",
       "created_at": "2025-12-14 10:43:16",
@@ -27458,7 +27601,7 @@ const COMMENTS_DB = {
       "user_name": "学数学的孙哥"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "泰勒",
       "created_at": "2025-12-08 10:08:53",
@@ -27526,7 +27669,7 @@ const COMMENTS_DB = {
       "user_name": "-"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "泰勒公式",
       "created_at": "2025-12-01 09:43:40",
@@ -28253,7 +28396,7 @@ const COMMENTS_DB = {
       "likes": 3,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/zGUSFibP0OGGsgiaXibKiaZv8Un7mgZoExOdHzvmmc7icadib9wIuM7D0YcWZIib3KhQ0TiaCrr9AIPUU1ldaZm3EvAfO6kuNEliazYZ5y6OVlCMWpUw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/zGUSFibP0OGGsgiaXibKiaZv8Un7mgZoExOdHzvmmc7icadicAm1oVdRpR4dG5x63V3RLeOhwIZicdarFvvBjBQEibXjhHE71pad9PHFamZaWgrIQgc/132",
           "can_delete": null,
           "content": "我也是TT",
           "created_at": "2025-12-07 14:48:07",
@@ -28305,7 +28448,7 @@ const COMMENTS_DB = {
       "user_name": "Dr.JOJO"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "✦法一（常规方法）：①写出法向量n,注意右手定则判断方向，添负号  ②利用斯托克斯公式把 空间曲线积分 转化为 曲面积分  ③被积式为1即求截面空间圆投影的椭圆面积，或求以空间圆投影到xoy面为椭圆的积分区域的二重积分（关键是消去z，配方得椭圆标准表达式）④椭圆面积＝πab     ✦✦法二（计算简便）：直接将z的表达式代入消z. 化为第二类 平面 曲线积分，利用 格林公式 即可",
       "created_at": "2025-12-06 14:39:24",
@@ -28623,7 +28766,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/boibOg1exFaqsGW3V41TKEuWdoCrl46jjcibicN0Mcz8Gt8st8CNUhS9eBPiaLsOFJx4dWOQT4j4tL1bUBFmNvIic2sCDIXlWuuzbXfcjQGe4piaM/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/boibOg1exFaqsGW3V41TKEuWdoCrl46jjcibicN0Mcz8Gt7UH3oTmM0Xx1h6XPWuxvgWY6ic230FjOVpzVg2St5SX9jfg3SUNrDqrD19EzhyBQI/132",
           "can_delete": null,
           "content": "不理解为什么把z联立后消去就是xoy投影了呢，哪位大佬帮我解答一下%%%",
           "created_at": "2025-12-01 10:34:53",
@@ -29294,6 +29437,17 @@ const COMMENTS_DB = {
   ],
   "705": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI0pNIs0ajbJgKboSZib15DhjibIMVQdJbHYMCxYQ0XWZwcLC3gBkyQFT3LSTArzVSwic5rE94wjZjwG4xk72vINF5suZJn31XCgro0UG4xhNZuw/132",
+      "can_delete": null,
+      "content": "观察知a1，a2向量线性无关，r可由这俩表示，a1，a2，r三个向量组合起来线性相关，对应的3*3行列式的值为0，两个向量组两个方程三个未知数，正好能解",
+      "created_at": "2026-06-09 10:57:10",
+      "id": 39882,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40443,
+      "user_name": "晓"
+    },
+    {
       "avatar_url": "avatar://seed/15140779401",
       "can_delete": null,
       "content": "注意力惊人",
@@ -29815,7 +29969,7 @@ const COMMENTS_DB = {
       "user_name": "Whyy"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_16132_8c4a49ecdadf43429b3f8af4f3d2f728.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/E53icp1gSWbjvdKmSAW0we9Hrkz5g3tOd5u3Mkrgfz1BhkGEtdA32IOvLljkXLCMbhM7180TcQDARchyVHgtfTRIV3kcotsSUUWhXg9WCT4A/132",
       "can_delete": null,
       "content": "公式计算",
       "created_at": "2025-12-14 11:29:53",
@@ -29980,7 +30134,7 @@ const COMMENTS_DB = {
       "user_name": "yyy"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "降维打击",
       "created_at": "2025-12-03 21:07:33",
@@ -31490,7 +31644,7 @@ const COMMENTS_DB = {
       "user_name": "南山不落梅"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "平均值定理",
       "created_at": "2025-12-03 19:43:55",
@@ -31825,7 +31979,7 @@ const COMMENTS_DB = {
       "content": "截距考虑正负",
       "created_at": "2025-12-07 14:48:31",
       "id": 28998,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 32487,
       "user_name": "Chayala."
@@ -32064,7 +32218,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "e的n次方里面的积分提负号总是无意识把它直接当成整体的负号....",
       "created_at": "2025-11-09 09:30:09",
@@ -32107,7 +32261,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/YB4reAlzKSGJO0I3cYlDXHFRAcJBL3AJOjRGDmMvIhgAtyUGxWZm8eXicAZYwDNu6zzm6B4TcAs4JVwN7icaLD9w/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/an9skXmFicQphyAu8FtL8Y9xY8O3kHhfibibyWvGyfyCOvtsFyO1ibeuBViapZfcRssrcwUvplqI0SQOo1Xr0rJ9tf2EPqc9Qd0Gib9WsLcTiasibFw/132",
           "can_delete": null,
           "content": "什么意思，直接求导不就行了吗",
           "created_at": "2025-11-05 15:10:48",
@@ -32124,6 +32278,41 @@ const COMMENTS_DB = {
     }
   ],
   "690": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8oQ7n5tkeHtUoicVBDTWGVyRickcvEz5siarPqrGYSIATzTDau204K92SGI3vQC1vFpUntF0dpu2IPbErOXxGbZviawf8pGJjx0ESiaIia9rKrJow/132",
+      "can_delete": null,
+      "content": "两种思路",
+      "created_at": "2026-07-26 21:14:34",
+      "id": 40059,
+      "likes": 0,
+      "replies": [],
+      "student_id": 580,
+      "user_name": "活在当下"
+    },
+    {
+      "avatar_url": "avatar://seed/13354348776",
+      "can_delete": null,
+      "content": "高三生表示毫无压力",
+      "created_at": "2026-06-22 22:54:11",
+      "id": 39898,
+      "likes": 0,
+      "replies": [
+        {
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ia7YR8fWYqwYkmRhs85lCicUZnQr1AkiaL4wX61e8Wjic4eDvb5sYZichBuyx8cY65tVCtniaxlgdPeaGkbTVdPUsuWw/132",
+          "can_delete": null,
+          "content": "豪到我了",
+          "created_at": "2026-07-24 00:04:21",
+          "id": 40039,
+          "likes": 0,
+          "parent_id": 39898,
+          "reply_to_user": null,
+          "student_id": 6200,
+          "user_name": "张清北"
+        }
+      ],
+      "student_id": 41824,
+      "user_name": "登峰riNiWs"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erS8PuPtVFxHHytaItH4qKPUH6aoNyoQkZialO5QeqpkqorRf2akmrVe2uMuibhricbq6t5CNnxdb6ZQ/132",
       "can_delete": null,
@@ -32345,7 +32534,7 @@ const COMMENTS_DB = {
       "user_name": "puujee"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "区间平移问题",
       "created_at": "2025-12-06 11:35:19",
@@ -32492,7 +32681,7 @@ const COMMENTS_DB = {
       "user_name": "李泽鹏🇨🇳"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "第一个式子可以推出ftdt的积分（上限x+2,下限x）=0.5x平方+c，这个式子求导就是第一个条件，第二个条件从而得出c=0,所以要求的就可以带入x=1,从而得出0.5",
       "created_at": "2025-12-01 10:43:52",
@@ -32762,6 +32951,17 @@ const COMMENTS_DB = {
   ],
   "691": [
     {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "硬算不丢人",
+      "created_at": "2026-06-24 15:25:13",
+      "id": 39902,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "安生"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BqDYnic1xoxOTZKB675cEWPBy4C5icJfaOAwXwwXNDLNRLFjtzCK1qicWlfM3zticgXNNxkS6HG0eFHTy24BLrFibNA/132",
       "can_delete": null,
       "content": "观察正交",
@@ -32839,7 +33039,7 @@ const COMMENTS_DB = {
       "user_name": "null"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_16132_8c4a49ecdadf43429b3f8af4f3d2f728.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/E53icp1gSWbjvdKmSAW0we9Hrkz5g3tOd5u3Mkrgfz1BhkGEtdA32IOvLljkXLCMbhM7180TcQDARchyVHgtfTRIV3kcotsSUUWhXg9WCT4A/132",
       "can_delete": null,
       "content": "思路",
       "created_at": "2025-12-14 14:57:40",
@@ -33582,7 +33782,7 @@ const COMMENTS_DB = {
       "user_name": "博学T65GUA"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HcbpvOMM6OUR5AGD2F4ZkxI5EeuEUe8p48Bq5nO6lAbKNOfITeibcbnP8ncRpEp4AKgWSXxOQzGeGdzJntSeviaKyEQ2gGUPwKCAd5TA4kvx4/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HcbpvOMM6OUR5AGD2F4ZkxI5EeuEUe8p48Bq5nO6lAbJIrOIOWvsVrs8W8MyT34pPtcxCtL96B81EAshL1zE190c3VDM57LFZDpHA5ZcHXk/132",
       "can_delete": null,
       "content": "方程思想",
       "created_at": "2025-11-20 11:02:34",
@@ -33593,7 +33793,7 @@ const COMMENTS_DB = {
       "user_name": "薛定谔的兔子"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "我感觉26会出这种类型，这么好的题老头肯定会美美把玩反复用个好几遍",
       "created_at": "2025-11-18 10:52:53",
@@ -33798,7 +33998,7 @@ const COMMENTS_DB = {
       "user_name": "。。。"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "洛必达",
       "created_at": "2025-12-01 09:51:08",
@@ -33897,7 +34097,7 @@ const COMMENTS_DB = {
       "user_name": "数学FIVE"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "题目没说fx可导，CD✗",
       "created_at": "2025-11-20 14:23:40",
@@ -34188,7 +34388,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/K5nMD4RdOr6sVl9Yia3CdTA68QRQXP8C1Ly6kiaUoTV4T4BzK4NG15ATI9NNWbA76Ym9SebEtiaPF9y5KSpPWFmXT3qulLT9DWODMDvlE2mxAo/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/K5nMD4RdOr6sVl9Yia3CdTA68QRQXP8C1Ly6kiaUoTV4T4BzK4NG15AfE1D5xCtT2F8ocZbz1kqYViaRZic88fEvzJ1hicnfBfB7smG0PuqGBT9A/132",
           "can_delete": null,
           "content": "秒射是吧",
           "created_at": "2025-12-20 23:34:43",
@@ -34237,7 +34437,7 @@ const COMMENTS_DB = {
       "user_name": "YYYY"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_1069_3a47b6f26eef47fdbb475710dbd34945.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8WpdRJKZhsLn8VtGEQPeBgUTwbcUw0RvMnaF2fwoQbBfOwC63wQz5hllhhiaefr4nUY8SD5wZxRkiaQkXHWUNg8AjRmBE1g7ZrD8nVjAibgc14/132",
       "can_delete": null,
       "content": "代进去算，不要光目测0和1",
       "created_at": "2025-12-13 20:07:57",
@@ -34757,7 +34957,7 @@ const COMMENTS_DB = {
       "user_name": "Serendipity"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "好算！",
       "created_at": "2025-11-27 20:58:09",
@@ -34825,7 +35025,7 @@ const COMMENTS_DB = {
       "user_name": "x"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "难点\n1.三个驻点需要求全，可直接代入消元求。2.利用AC-B²判定是否为极值点。3.AC-B²＝0时方法失效 考虑极值的定义判别。4.计算量大",
       "created_at": "2025-11-25 17:43:28",
@@ -36178,7 +36378,7 @@ const COMMENTS_DB = {
       "user_name": "一定上岸"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "忽视对称性，难算\n步骤 1.高斯化为三重积分，2.利用对称性化简，3.计算二重积分时用极坐标更方便",
       "created_at": "2025-11-25 17:39:11",
@@ -36384,7 +36584,7 @@ const COMMENTS_DB = {
       "user_name": "Warning"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYVY4qibZ7P7KLj8I0tUEO8M3OQ8w27ibOzb0GDg4QWHQAptjAPxRGLBY9ntpickGSSS9A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYV34zPJR5qDXEU3FrwOwNG4Me8kHjm6LIrV9a861volaQaHAhJ0zNr2aN0LRgr37BQ/132",
       "can_delete": null,
       "content": "P76，相似对角化的判定",
       "created_at": "2025-12-15 22:09:41",
@@ -36509,7 +36709,7 @@ const COMMENTS_DB = {
       "user_name": "学数学的孙哥"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BMXNkEZHZVuKh5QT2g9iaPRibap3EfctqqGTSDwuaaSqDfRf2F54VwHWib4q1wicLm1J3k/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BOAj1xCpSXY5kgMqIcQ5g9ia1csXxZz8boCpfUrUbLduD2H7xtDicGhS8FBQAvq9eeuw/132",
       "can_delete": null,
       "content": "部分无关，整体不一定无关",
       "created_at": "2025-12-05 10:24:55",
@@ -36720,7 +36920,7 @@ const COMMENTS_DB = {
       "user_name": "天真的橡皮"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/MUJupibDYMia9goufrsnqlAWvgKKD6QMqPia2icJibe7ibtXJOcNPNia9SSfvJWOqPxKAicViaoovT6572iasVKdhaee1RFoteQs0J28HfKXicqzfG1bEE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/MUJupibDYMia9goufrsnqlAWvgKKD6QMqPia2icJibe7ibtXLE99vhIOfx9QtcwDwsokYbAC8UExtqTj5iauFicSWzic3EsibwM7Se2DlNtibfgxia0wyTk/132",
       "can_delete": null,
       "content": "诗人我吃",
       "created_at": "2025-11-03 14:43:38",
@@ -36857,7 +37057,7 @@ const COMMENTS_DB = {
       "user_name": "flora"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "1，同时变换为一个对角矩阵，相似对角化（前提相似）\n2，同时化为规范型不需要相似\n3，初等变换法行列成对变换",
       "created_at": "2025-12-14 15:11:57",
@@ -37489,7 +37689,7 @@ const COMMENTS_DB = {
       "user_name": "。"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "✦合同不一定相似，合同且相似→正交变换法，仅合同→配方法\n（2）先看第二问，A经过可逆变换变到B，迹不同，故A B不相似，仅合同，不能用正交变换，可以用配方法\n（1）配方法：中介 规范性",
       "created_at": "2025-11-25 18:14:23",
@@ -37845,7 +38045,7 @@ const COMMENTS_DB = {
       "user_name": "puujee"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BMXNkEZHZVuKh5QT2g9iaPRibap3EfctqqGTSDwuaaSqDfRf2F54VwHWib4q1wicLm1J3k/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BOAj1xCpSXY5kgMqIcQ5g9ia1csXxZz8boCpfUrUbLduD2H7xtDicGhS8FBQAvq9eeuw/132",
       "can_delete": null,
       "content": "三角函数比较，特殊值",
       "created_at": "2025-12-05 10:18:54",
@@ -37911,7 +38111,7 @@ const COMMENTS_DB = {
       "user_name": "leaf"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "积分区间相同比较被积函数",
       "created_at": "2025-12-01 10:29:20",
@@ -38405,6 +38605,17 @@ const COMMENTS_DB = {
   ],
   "728": [
     {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "分块矩阵初等变换",
+      "created_at": "2026-06-24 20:34:14",
+      "id": 39907,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "安生"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9o5bjRgVDbT8cdQRdekmprKGNQuYx6cTINRxmsibQUNbD2KJIEGM4m3jRM4cgqzcZ32GqPqbuRIROAIVqtfYLlLtz25ljCF7AUmjpfCfAYBo/132",
       "can_delete": null,
       "content": "a和b同解，ab和ba不一定同解。",
@@ -38650,7 +38861,7 @@ const COMMENTS_DB = {
       "user_name": "学数学的孙哥"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BMXNkEZHZVuKh5QT2g9iaPRibap3EfctqqGTSDwuaaSqDfRf2F54VwHWib4q1wicLm1J3k/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BOAj1xCpSXY5kgMqIcQ5g9ia1csXxZz8boCpfUrUbLduD2H7xtDicGhS8FBQAvq9eeuw/132",
       "can_delete": null,
       "content": "同解==行向量组等价，三秩相等",
       "created_at": "2025-12-05 10:33:49",
@@ -38929,7 +39140,7 @@ const COMMENTS_DB = {
       "user_name": "Spike"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYVY4qibZ7P7KLj8I0tUEO8M3OQ8w27ibOzb0GDg4QWHQAptjAPxRGLBY9ntpickGSSS9A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYV34zPJR5qDXEU3FrwOwNG4Me8kHjm6LIrV9a861volaQaHAhJ0zNr2aN0LRgr37BQ/132",
       "can_delete": null,
       "content": "p51",
       "created_at": "2025-12-15 19:48:56",
@@ -39487,7 +39698,7 @@ const COMMENTS_DB = {
       "user_name": "学数学的孙哥"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BMXNkEZHZVuKh5QT2g9iaPRibap3EfctqqGTSDwuaaSqDfRf2F54VwHWib4q1wicLm1J3k/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BOAj1xCpSXY5kgMqIcQ5g9ia1csXxZz8boCpfUrUbLduD2H7xtDicGhS8FBQAvq9eeuw/132",
       "can_delete": null,
       "content": "内偶则偶，内奇同外，加减不变性，相乘同为偶",
       "created_at": "2025-12-05 10:17:32",
@@ -39542,7 +39753,7 @@ const COMMENTS_DB = {
       "user_name": "SHu"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "结合sinx cosx 图像，在题目所给区间内，sinx只有一个对应x cosx有两个对应x 奇函数 偶函数的区别",
       "created_at": "2025-12-01 09:37:30",
@@ -39720,7 +39931,7 @@ const COMMENTS_DB = {
       "user_name": "spark"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "利用反函数来做，外层函数严格单调则具有反函数，利用反函数可以脱去外层函数",
       "created_at": "2025-11-15 12:50:29",
@@ -39841,7 +40052,7 @@ const COMMENTS_DB = {
       "user_name": "LinY"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "中间变量极限定理",
       "created_at": "2025-11-03 17:16:00",
@@ -40008,7 +40219,7 @@ const COMMENTS_DB = {
       "user_name": "Better Now"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BMXNkEZHZVuKh5QT2g9iaPRibap3EfctqqGTSDwuaaSqDfRf2F54VwHWib4q1wicLm1J3k/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BOAj1xCpSXY5kgMqIcQ5g9ia1csXxZz8boCpfUrUbLduD2H7xtDicGhS8FBQAvq9eeuw/132",
       "can_delete": null,
       "content": "最大方向导数==梯度的模",
       "created_at": "2025-12-05 10:49:08",
@@ -40063,7 +40274,7 @@ const COMMENTS_DB = {
       "user_name": "Hornet"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "导数是数",
       "created_at": "2025-11-24 17:06:44",
@@ -40847,7 +41058,7 @@ const COMMENTS_DB = {
       "user_name": "曼陀罗"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "公式",
       "created_at": "2025-12-10 10:32:56",
@@ -40968,7 +41179,7 @@ const COMMENTS_DB = {
       "user_name": "照夜清"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "vn图秒了",
       "created_at": "2025-11-15 13:25:33",
@@ -41682,7 +41893,7 @@ const COMMENTS_DB = {
       "user_name": "超越NblzNJ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZVq2MZ3u9lxTtTkEC8dSgXsdm95YyzWk5RML6zVpxJgiaicWtpzwwUVyf3djkYNTbeBo/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZW2Qy0kzv9c0EvE5MXlFbQYmeH3yAXubzgw9Zia3fiaBwZvVyGiaI4e5lDd1Fiayh2Jrnc/132",
       "can_delete": null,
       "content": "只是移项是不能变出答案的，一定要取“凑”，加项减项是常用手段，以及拆E等",
       "created_at": "2025-12-02 09:29:27",
@@ -42121,7 +42332,7 @@ const COMMENTS_DB = {
       "user_name": "扉间"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_1069_3a47b6f26eef47fdbb475710dbd34945.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8WpdRJKZhsLn8VtGEQPeBgUTwbcUw0RvMnaF2fwoQbBfOwC63wQz5hllhhiaefr4nUY8SD5wZxRkiaQkXHWUNg8AjRmBE1g7ZrD8nVjAibgc14/132",
       "can_delete": null,
       "content": "铅直渐近线，注意",
       "created_at": "2025-12-06 16:37:24",
@@ -42288,7 +42499,7 @@ const COMMENTS_DB = {
       "user_name": "北航"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZVq2MZ3u9lxTtTkEC8dSgXsdm95YyzWk5RML6zVpxJgiaicWtpzwwUVyf3djkYNTbeBo/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZW2Qy0kzv9c0EvE5MXlFbQYmeH3yAXubzgw9Zia3fiaBwZvVyGiaI4e5lDd1Fiayh2Jrnc/132",
       "can_delete": null,
       "content": "不止是求斜渐近线！所有的渐近线，顺序按照：铅直、水平、斜渐进来求；有了水平的一侧就不会再有斜",
       "created_at": "2025-11-27 15:01:24",
@@ -42323,7 +42534,7 @@ const COMMENTS_DB = {
       "user_name": "Wt"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "特解等于3-2e，你难道不觉得诡异吗😅斜渐进：f（x）/x",
       "created_at": "2025-11-24 20:39:48",
@@ -42425,6 +42636,17 @@ const COMMENTS_DB = {
     }
   ],
   "721": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI0pNIs0ajbJgKboSZib15DhjibIMVQdJbHYMCxYQ0XWZwcLC3gBkyQFT3LSTArzVSwic5rE94wjZjwG4xk72vINF5suZJn31XCgro0UG4xhNZuw/132",
+      "can_delete": null,
+      "content": "泰勒公式+反证法",
+      "created_at": "2026-07-14 14:35:20",
+      "id": 39988,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40443,
+      "user_name": "晓"
+    },
     {
       "avatar_url": "avatar://seed/18315434472",
       "can_delete": null,
@@ -42747,7 +42969,7 @@ const COMMENTS_DB = {
       "content": "复制评论区很好的排除法：fx为奇函数，所以x偶数次方系数为0，排除C,D，x趋于0时，fx分母大于1，fx小于sinx，sin的泰勒，x3次方系数是-1/6，那么fx的x三次方系数要小于1/6，排除B，答案选A",
       "created_at": "2025-12-17 19:41:07",
       "id": 38884,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 20831,
       "user_name": "Kevin"
@@ -42874,7 +43096,7 @@ const COMMENTS_DB = {
       "user_name": "学数学的孙哥"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "泰勒秒了",
       "created_at": "2025-12-01 10:03:48",
@@ -43908,7 +44130,7 @@ const COMMENTS_DB = {
       "likes": 3,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEL3ic95XMTZSNcNo0sZT4kg3U2ibNtAmV44WFQMUoEqJDglhL4ciaCAx5SFuCc2F06QPxeZcUrpK6OgoqYxdsc6H0VABoCic56joYtEHib8nN4coIw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEL3ic95XMTZSNcNo0sZT4kg3U2ibNtAmV44WFQMUoEqJDgv67sGuxCOYictJDKhdTPwKVDglDHP3mKdVqOYRSVQvetxG6nWeKMxF7wMaRpPxZKgw/132",
           "can_delete": null,
           "content": "为什么Cov（X，z)直接就等于0呀",
           "created_at": "2025-11-19 11:59:30",
@@ -44351,7 +44573,7 @@ const COMMENTS_DB = {
           "user_name": "我才复习到极限还来得及吗"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HktpeH8Bk8KZn8iacZ2DVeLIxbZ2ygtRYhEwyrUicqslYdhiauy2lSCA2CnrFrHtlHibo5zHp6LZq7tcFHjeOFkAaDicIc7BhwagGGEjMt9htQm0/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELlWgbtVL2DW7ecFlA6Dibia8NFVv33NJr7unU9EhUTn224U3ey8IxsTK2Bqd6wsSPDyplxCfZuR69ClH9g1wq4uG80L6p99cOdTNejGlXHwSCA/132",
           "can_delete": null,
           "content": "x平方lny",
           "created_at": "2025-11-16 20:16:37",
@@ -45224,7 +45446,7 @@ const COMMENTS_DB = {
       "user_name": "💤"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZVq2MZ3u9lxTtTkEC8dSgXsdm95YyzWk5RML6zVpxJgiaicWtpzwwUVyf3djkYNTbeBo/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZW2Qy0kzv9c0EvE5MXlFbQYmeH3yAXubzgw9Zia3fiaBwZvVyGiaI4e5lDd1Fiayh2Jrnc/132",
       "can_delete": null,
       "content": "不用想太多，分开两个面积来算就行了",
       "created_at": "2025-12-02 09:43:03",
@@ -45693,7 +45915,7 @@ const COMMENTS_DB = {
       "user_name": "Grew"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "均值θ。。。",
       "created_at": "2025-12-17 08:38:23",
@@ -46411,7 +46633,7 @@ const COMMENTS_DB = {
       "user_name": "文李"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "sum上是几就是多少等份，取每一等份的中间点",
       "created_at": "2025-12-01 10:25:27",
@@ -46524,7 +46746,7 @@ const COMMENTS_DB = {
       "user_name": "数学FIVE"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "设fx=1,排除acd",
       "created_at": "2025-11-17 17:50:25",
@@ -46794,7 +47016,7 @@ const COMMENTS_DB = {
       "user_name": "文李"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "连续～？极值～？导数定义～？可导～？",
       "created_at": "2025-12-01 09:46:58",
@@ -46802,7 +47024,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
           "can_delete": null,
           "content": "泰勒",
           "created_at": "2025-12-01 09:49:57",
@@ -47315,7 +47537,7 @@ const COMMENTS_DB = {
       "user_name": "Monkey heat"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "法一：化为三个平面上的二型线积分计算。法二：斯托克斯转化成二型线积分，补面进行计算。",
       "created_at": "2025-12-06 16:48:22",
@@ -47326,7 +47548,7 @@ const COMMENTS_DB = {
       "user_name": "superior"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "1.此题空间曲线简单，知道各个交点的坐标，直接化为定积分，y关于x的定积分，（或者xyz关于t的定积分，这种情况下所给方程为椭圆或者圆适合）计算中用到凑全微分化简。\n2. 空间曲线复杂斯托克斯，首选三合一公式投影xoy面，第二选择二类曲面的关系，转为一类面 都走不通选高斯",
       "created_at": "2025-12-06 14:15:09",
@@ -47990,7 +48212,7 @@ const COMMENTS_DB = {
           "user_name": "逐梦kbbKip"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/lBE5saHColvV6NtNibsdibta8qpicwtBUHBCKFVyIoa6E28Q5DrjibsLt9RJIiaiaT8H8c38nJZPtpSehO8vfznrqLGSAay2gY3PibQYVAwU9u7sv8/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/lBE5saHColvV6NtNibsdibta8qpicwtBUHBCKFVyIoa6E01DibsZOicmv0JyFluAeSAiayQzsw3tH3ic0NVJbQWzzJC5PJMKqibm3PSeuVFOPC4pFrs/132",
           "can_delete": null,
           "content": "雅各比学会了写这种类椭圆面还是很舒服的，好用",
           "created_at": "2025-11-05 21:05:26",
@@ -48002,7 +48224,7 @@ const COMMENTS_DB = {
           "user_name": "Higher"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/lBE5saHColvV6NtNibsdibta8qpicwtBUHBCKFVyIoa6E28Q5DrjibsLt9RJIiaiaT8H8c38nJZPtpSehO8vfznrqLGSAay2gY3PibQYVAwU9u7sv8/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/lBE5saHColvV6NtNibsdibta8qpicwtBUHBCKFVyIoa6E01DibsZOicmv0JyFluAeSAiayQzsw3tH3ic0NVJbQWzzJC5PJMKqibm3PSeuVFOPC4pFrs/132",
           "can_delete": null,
           "content": "算了一下，计算量比高斯补面少了很多",
           "created_at": "2025-11-05 21:06:09",
@@ -48552,7 +48774,7 @@ const COMMENTS_DB = {
       "user_name": "山顶洞人"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVTX03U8rRygpF88DBKP9wn4LqMNZTP5nkcKicGRz8aMQnfHbPp3qMuDX0CnXX5ia4j4w/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVScibtchIHics09OY6rBbjKRgkibO96R8LhxgsQUKhSdicXIaaqibmbLqrXFNLwuaAzt4FM/132",
       "can_delete": null,
       "content": "分离变量无条件极值",
       "created_at": "2025-12-11 08:49:02",
@@ -48732,7 +48954,7 @@ const COMMENTS_DB = {
       "user_name": "-"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "边界边界！",
       "created_at": "2025-12-05 19:23:26",
@@ -48789,7 +49011,7 @@ const COMMENTS_DB = {
       "user_name": "Sove2m"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BMXNkEZHZVuKh5QT2g9iaPRibap3EfctqqGTSDwuaaSqDfRf2F54VwHWib4q1wicLm1J3k/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BOAj1xCpSXY5kgMqIcQ5g9ia1csXxZz8boCpfUrUbLduD2H7xtDicGhS8FBQAvq9eeuw/132",
       "can_delete": null,
       "content": "非封闭区域，即一段曲线（不等式），或变量本身有范围限制==>要加入端点函数极值",
       "created_at": "2025-12-05 11:39:00",
@@ -49152,7 +49374,7 @@ const COMMENTS_DB = {
       "user_name": "冲刺Ttvob0"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "内部极值与边界极值比较",
       "created_at": "2025-11-24 15:03:54",
@@ -49368,7 +49590,7 @@ const COMMENTS_DB = {
       "user_name": "Eclipse"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/YB4reAlzKSGJO0I3cYlDXHFRAcJBL3AJOjRGDmMvIhgAtyUGxWZm8eXicAZYwDNu6zzm6B4TcAs4JVwN7icaLD9w/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/an9skXmFicQphyAu8FtL8Y9xY8O3kHhfibibyWvGyfyCOvtsFyO1ibeuBViapZfcRssrcwUvplqI0SQOo1Xr0rJ9tf2EPqc9Qd0Gib9WsLcTiasibFw/132",
       "can_delete": null,
       "content": "这题数二能做吗？",
       "created_at": "2025-11-05 10:20:39",
@@ -49827,7 +50049,7 @@ const COMMENTS_DB = {
       "user_name": "太阳。"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "配方",
       "created_at": "2025-12-01 10:52:05",
@@ -49961,7 +50183,7 @@ const COMMENTS_DB = {
       "user_name": "窒息的小奶布"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "计算",
       "created_at": "2025-12-01 09:58:14",
@@ -51109,6 +51331,17 @@ const COMMENTS_DB = {
   ],
   "749": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI0pNIs0ajbJgKboSZib15DhjibIMVQdJbHYMCxYQ0XWZwcLC3gBkyQFT3LSTArzVSwic5rE94wjZjwG4xk72vINF5suZJn31XCgro0UG4xhNZuw/132",
+      "can_delete": null,
+      "content": "考察分块矩阵的初等变换，左行右列",
+      "created_at": "2026-07-01 15:33:58",
+      "id": 39924,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40443,
+      "user_name": "晓"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/KHkscLzp6uHBj1NaibUHiaFrRia5A4p3yYNhuq3lGWKUgVeC7TBrDgIDlA4AaXtQoobOgzrhqmGXvpFDSuE5OT1NJ5WW7jv3hrELLtoXGrEF8E/132",
       "can_delete": null,
       "content": "广义初等变换是左行右列，而且分块矩阵秩的结论中没有上下三角结论，是用广义初等变换推导而来的",
@@ -51257,7 +51490,7 @@ const COMMENTS_DB = {
       "content": "对列只能右乘保持不变 对行只能左乘 这就是广义初等变换",
       "created_at": "2025-12-06 23:23:05",
       "id": 28426,
-      "likes": 1,
+      "likes": 2,
       "replies": [],
       "student_id": 18134,
       "user_name": "Re"
@@ -51384,7 +51617,7 @@ const COMMENTS_DB = {
       "user_name": "远航ytqVfB"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/yFlibCHbe5t4T3zbPyR3XKGFiaMnG0LJHvfmr9LhnAt8JxTpfvOG0KTMIxITDnUPRjWlYvuzgLLI51lP2CfKPARSbCFFKshmuIsu4T2J2BTKE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/yFlibCHbe5t4T3zbPyR3XKGFiaMnG0LJHvfmr9LhnAt8Id9pGSJomr6am7QjDXK0jKdvchBJFRRxm9wvslwSV8ibSib82vs9Ic9kO03xN6TEAAM/132",
       "can_delete": null,
       "content": "特殊值",
       "created_at": "2025-12-03 14:56:51",
@@ -52137,7 +52370,7 @@ const COMMENTS_DB = {
       "user_name": "⃠⃠⃠⃠⃠⃠"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "微分算子",
       "created_at": "2025-11-21 17:20:06",
@@ -52237,6 +52470,17 @@ const COMMENTS_DB = {
     }
   ],
   "735": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PCPJOWQGXHYx9O4aYDKCYdzW5iaYWsKLOI5e2G8aBp12tzVTm1Id3yfTAs9XMibN9eDvA6Omd7n6j39sUuFiaLXd86ibakDXSJn3RlDrHgP8420/132",
+      "can_delete": null,
+      "content": "标记：\n行/列和相同凑到一行/列上去\n求不同代数余子式之和用对应系数替换原行列式\n最后根据对应关系求解",
+      "created_at": "2026-07-21 19:57:23",
+      "id": 40031,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42296,
+      "user_name": "Ridge"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJDiaZpZKHIAGsfUaUQaxqIC5McanHnnic8qSD33HicAmWAPFsF3TreNBkmD72YunR0U3G4mexynW4m3ibRZW8zciav8tHbyqQl7aDmTsHxegp5N0w/132",
       "can_delete": null,
@@ -52882,7 +53126,7 @@ const COMMENTS_DB = {
       "user_name": "学数学的孙哥"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BMXNkEZHZVuKh5QT2g9iaPRibap3EfctqqGTSDwuaaSqDfRf2F54VwHWib4q1wicLm1J3k/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EPgBOGiacH2ZYze5qok6yMmH7RgwwtZvI8JibJVljB0BOAj1xCpSXY5kgMqIcQ5g9ia1csXxZz8boCpfUrUbLduD2H7xtDicGhS8FBQAvq9eeuw/132",
       "can_delete": null,
       "content": "对称性",
       "created_at": "2025-12-03 11:56:38",
@@ -53216,7 +53460,7 @@ const COMMENTS_DB = {
       "user_name": "然"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "椭圆面积公式πab，椭球体积公式4/3πabc",
       "created_at": "2025-11-14 10:51:45",
@@ -53363,7 +53607,7 @@ const COMMENTS_DB = {
       "user_name": "谟西拉勾"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "Ex的泰勒展开式",
       "created_at": "2025-12-08 10:17:39",
@@ -53451,7 +53695,7 @@ const COMMENTS_DB = {
       "user_name": "念初"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "等价无穷小➕洛必达 秒",
       "created_at": "2025-12-01 09:42:26",
@@ -53462,7 +53706,7 @@ const COMMENTS_DB = {
       "user_name": "easymoneysniper"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKkX0PBFibm5X31qEtNLRWjtk6WG6qicyPCvMXBEgxiabkAF5FfTw0eR9djWQ4cHzY67HhzmltvJxCDIUGsvsoxpictB3kQ9eS9rvJwAw7RqEreTw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/s8ibicJiawpc9kgqs27NRASENoicbRTWYnDU7y7WPup5r8icSTTzqO4vPVXdbhPQKL00h6icqLeRk8pa2ynlpmUd6ZuyxRjD9QpGTO15eXswFQZfs/132",
       "can_delete": null,
       "content": "拆开",
       "created_at": "2025-11-28 19:59:16",
@@ -53594,7 +53838,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "拆开问题",
       "created_at": "2025-11-11 11:29:42",
@@ -54271,7 +54515,7 @@ const COMMENTS_DB = {
       "user_name": "拼搏X1vypl"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "不会解",
       "created_at": "2025-11-14 11:05:38",
@@ -54279,7 +54523,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
           "can_delete": null,
           "content": "多练练，我真是一头蠢猪",
           "created_at": "2025-11-14 11:06:13",
@@ -55150,7 +55394,7 @@ const COMMENTS_DB = {
       "user_name": "再坚持一下"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "第一遍做不会翻译  最大积分区域D1,可以去看13年T4选择题",
       "created_at": "2025-12-06 17:06:15",
@@ -56189,7 +56433,7 @@ const COMMENTS_DB = {
       "user_name": "探索gBCUOj"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxLlXASCz1RNsUkZLOWBQicQUzYU2wFXUnAJ3BG61lg5CDHq15vx6bXes/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxCb0tmEfgRCT1icGMp9EibElPe0OAqQ2ctNAhuq2gI7E5FkmIKfa4icHuQ/132",
       "can_delete": null,
       "content": "等价积分",
       "created_at": "2025-11-05 09:59:37",
@@ -56200,7 +56444,7 @@ const COMMENTS_DB = {
       "user_name": "枫宇."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "n(m+1)是什么，简便方法嘛（？）",
       "created_at": "2025-11-04 23:13:44",
@@ -56247,7 +56491,7 @@ const COMMENTS_DB = {
       "user_name": "上岸pWuLL6"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "n（m+1）",
       "created_at": "2025-11-03 14:56:06",
@@ -56301,7 +56545,7 @@ const COMMENTS_DB = {
       "likes": 6,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/yFlibCHbe5t4T3zbPyR3XKGFiaMnG0LJHvfmr9LhnAt8JxTpfvOG0KTMIxITDnUPRjWlYvuzgLLI51lP2CfKPARSbCFFKshmuIsu4T2J2BTKE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/yFlibCHbe5t4T3zbPyR3XKGFiaMnG0LJHvfmr9LhnAt8Id9pGSJomr6am7QjDXK0jKdvchBJFRRxm9wvslwSV8ibSib82vs9Ic9kO03xN6TEAAM/132",
           "can_delete": null,
           "content": ">u<",
           "created_at": "2025-11-02 16:55:56",
@@ -56580,7 +56824,7 @@ const COMMENTS_DB = {
       "user_name": "cccarle"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVTX03U8rRygpF88DBKP9wn4LqMNZTP5nkcKicGRz8aMQnfHbPp3qMuDX0CnXX5ia4j4w/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVScibtchIHics09OY6rBbjKRgkibO96R8LhxgsQUKhSdicXIaaqibmbLqrXFNLwuaAzt4FM/132",
       "can_delete": null,
       "content": "转换成min函数",
       "created_at": "2025-12-06 11:01:54",
@@ -56846,7 +57090,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "降维法",
       "created_at": "2025-11-11 08:22:08",
@@ -57079,7 +57323,7 @@ const COMMENTS_DB = {
       "user_name": "alll"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "看清楚题，不是初等变换是初等列变换",
       "created_at": "2025-11-20 08:25:31",
@@ -57090,7 +57334,7 @@ const COMMENTS_DB = {
       "user_name": "ViaIce"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "左乘行变换, 右乘列变换",
       "created_at": "2025-11-14 09:14:51",
@@ -57098,7 +57342,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
           "can_delete": null,
           "content": "矩阵分块前列后行",
           "created_at": "2025-11-14 09:15:13",
@@ -57325,7 +57569,7 @@ const COMMENTS_DB = {
       "user_name": "anyway"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "括号中",
       "created_at": "2025-12-13 21:34:45",
@@ -57893,7 +58137,7 @@ const COMMENTS_DB = {
       "user_name": "心不畏死，踏屍前行"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "记得补项！",
       "created_at": "2025-11-21 09:33:18",
@@ -57926,7 +58170,7 @@ const COMMENTS_DB = {
       "user_name": "眼镜蛇🐍"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "分段x=1",
       "created_at": "2025-11-14 11:04:41",
@@ -58014,7 +58258,7 @@ const COMMENTS_DB = {
           "user_name": "Last Stand"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9uU3kpOnpEaO8p5gPROcKnFgs6Rb6qAicXfYia3ACXVbVnOtsJ3DWzPfVfZnSGh7Q8WVBjHOs7X5GcXibMibOpMvJtVVILYYecnicmUicsmibqJVO4/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKfOQK9z5aG9nf7hgCLX7dp6F5N8m43Vp2XC9vJVjY1nZR1Zh9EDyEnWj49o9iaRObXXGbdia3pp3M4F6152v72NxibsOptujKhglibwMRa8iaia8tA/132",
           "can_delete": null,
           "content": "装模做样写个麦克劳林展开式是xxx就好了",
           "created_at": "2025-11-15 17:34:09",
@@ -58312,7 +58556,7 @@ const COMMENTS_DB = {
       "user_name": "JP Liu"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "多项式相似推导",
       "created_at": "2025-12-13 21:39:10",
@@ -58468,7 +58712,7 @@ const COMMENTS_DB = {
       "user_name": "Max"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_16132_8c4a49ecdadf43429b3f8af4f3d2f728.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/E53icp1gSWbjvdKmSAW0we9Hrkz5g3tOd5u3Mkrgfz1BhkGEtdA32IOvLljkXLCMbhM7180TcQDARchyVHgtfTRIV3kcotsSUUWhXg9WCT4A/132",
       "can_delete": null,
       "content": "重点计算",
       "created_at": "2025-12-08 14:37:22",
@@ -58580,7 +58824,7 @@ const COMMENTS_DB = {
       "user_name": "Iridescent"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "第二小问，正交矩阵公式",
       "created_at": "2025-12-04 22:20:19",
@@ -58800,7 +59044,7 @@ const COMMENTS_DB = {
       "user_name": "啊呀是阿鸭吖！"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "1第一问求特征值因式分解复杂时，可换元，易看出特征值",
       "created_at": "2025-11-28 16:29:18",
@@ -59657,7 +59901,7 @@ const COMMENTS_DB = {
       "user_name": "朱子敬"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "多代值排除",
       "created_at": "2025-11-11 17:26:33",
@@ -59712,7 +59956,7 @@ const COMMENTS_DB = {
       "user_name": "ζ゛沐、琳"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "我的理解是要拿可导推连续而不能拿连续推可导",
       "created_at": "2025-11-04 23:20:03",
@@ -59734,7 +59978,7 @@ const COMMENTS_DB = {
       "user_name": "Rtist"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "高低阶，举特例",
       "created_at": "2025-11-03 15:29:37",
@@ -59770,6 +60014,17 @@ const COMMENTS_DB = {
     }
   ],
   "773": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/WrgA2nHuwPGmHmaj4RyfVShueHTHFlWDS36YibDN79GEWvCxJGEBQLYoRLN9OB86qxTZmyqY79Jpa4KguibZtPzw/132",
+      "can_delete": null,
+      "content": "把交点直接用α表示出来",
+      "created_at": "2026-07-13 13:02:14",
+      "id": 39981,
+      "likes": 0,
+      "replies": [],
+      "student_id": 22757,
+      "user_name": "呵呵"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vk7MMpCvzajCM0Kkjn536mJic5bj70QRbKCsOhWG9uIAkD56WA3OvJcIbSZ1LseymtguVrtOvjuA1ZNic3jMyBvLqMgWnRokN3e3RXliauevibo/132",
       "can_delete": null,
@@ -60865,7 +61120,7 @@ const COMMENTS_DB = {
       "user_name": "破釜沉舟11408"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "vn图",
       "created_at": "2025-11-14 09:44:52",
@@ -60873,7 +61128,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
           "can_delete": null,
           "content": "恰有一次这种公式难表达的",
           "created_at": "2025-11-14 09:45:15",
@@ -60990,7 +61245,7 @@ const COMMENTS_DB = {
       "user_name": "Serendipity"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "标准化除以均方差",
       "created_at": "2025-12-12 22:37:07",
@@ -61337,7 +61592,7 @@ const COMMENTS_DB = {
       "user_name": "888"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "端点处敛散性",
       "created_at": "2025-12-12 22:33:22",
@@ -61878,7 +62133,7 @@ const COMMENTS_DB = {
       "user_name": "茉莉"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "AB中级数收敛时，有阿贝尔定理r＜R，取逆否命题即为级数发散时r≥R。CD无法判断等号处敛散性",
       "created_at": "2025-11-14 09:10:09",
@@ -61886,7 +62141,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
           "can_delete": null,
           "content": "B中多了等号，不满足阿贝尔定理",
           "created_at": "2025-11-14 09:11:22",
@@ -62027,7 +62282,7 @@ const COMMENTS_DB = {
       "user_name": "twelve"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "常规题",
       "created_at": "2025-12-11 16:38:11",
@@ -62175,7 +62430,7 @@ const COMMENTS_DB = {
       "user_name": "💨💨💨"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "不要想当然",
       "created_at": "2025-11-12 16:49:15",
@@ -62456,7 +62711,7 @@ const COMMENTS_DB = {
       "user_name": "数学狠狠爱我"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "不要怕把a放在分母上",
       "created_at": "2025-11-18 15:13:16",
@@ -62614,7 +62869,7 @@ const COMMENTS_DB = {
       "user_name": "瑠璃の鳥"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "给了",
       "created_at": "2025-12-08 19:23:40",
@@ -62738,7 +62993,7 @@ const COMMENTS_DB = {
       "user_name": "王楚涵"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJJbLdn4Ch6nHx75qd4ws4xWib0HI6gzZWCd0EcvXl4zicEw3LcibImIELdGFZ8bQU6OibfasXVjSklu62pg4MoDoIypSgrUtJjHUVjNDbeWBFk1g/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PYPcl9BcsoiaNHI6F30vbhSHic5jGoVcGWHl24xGCTKPVJcJia7MnQ08DbWCHIAd7ZbQibKydicI7NqzjNEVl8riahLSTuCy5tXicNoEdnSunH154Y/132",
       "can_delete": null,
       "content": "第二问送他了",
       "created_at": "2025-11-25 09:49:18",
@@ -63153,7 +63408,7 @@ const COMMENTS_DB = {
       "user_name": "这里是小小菊"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "E（xsinx）用x的概率密度积",
       "created_at": "2025-11-14 10:01:49",
@@ -63421,7 +63676,7 @@ const COMMENTS_DB = {
       "user_name": "Wesley"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "被积函数含有x，不能直接对x求导，可先对y再对x",
       "created_at": "2025-12-03 16:54:48",
@@ -63520,7 +63775,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦5kYV9S"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "被积函数含有x，不能直接使用变限积分求导公式",
       "created_at": "2025-11-27 19:49:17",
@@ -63528,7 +63783,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
           "can_delete": null,
           "content": "换元记得改积分上下限",
           "created_at": "2025-11-27 19:53:04",
@@ -63588,7 +63843,7 @@ const COMMENTS_DB = {
       "user_name": "KySa"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "先对y求偏导",
       "created_at": "2025-11-24 15:24:28",
@@ -63733,7 +63988,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "x不好求就先求y",
       "created_at": "2025-11-12 16:39:02",
@@ -63755,7 +64010,7 @@ const COMMENTS_DB = {
       "user_name": "旺仔"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "先y后x解决",
       "created_at": "2025-11-07 09:47:57",
@@ -63766,7 +64021,7 @@ const COMMENTS_DB = {
       "user_name": "easymoneysniper"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "好题",
       "created_at": "2025-11-07 09:44:35",
@@ -64302,7 +64557,7 @@ const COMMENTS_DB = {
       "user_name": "广东"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/M99F7Bu17pISQZhSdFc0PmGlibFGtibpOiaHxibPW7Rrd6SWw7lPPZkxPTgRsojyxAmUc9W0pcN22Kj0icKbVwgIVhZxqo1o2YpNiaMhuLasqPKCI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/M99F7Bu17pISQZhSdFc0PmGlibFGtibpOiaHxibPW7Rrd6QwicVI02qlxicEbkFS9eH54I4vhMmka2bpYCCzkp4m3TmbticOs8zRSXQniad9yRniaDias/132",
       "can_delete": null,
       "content": "每种解都含有e，重点观察积分",
       "created_at": "2025-12-15 13:16:25",
@@ -64535,7 +64790,7 @@ const COMMENTS_DB = {
       "user_name": "Nino"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_16132_8c4a49ecdadf43429b3f8af4f3d2f728.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/E53icp1gSWbjvdKmSAW0we9Hrkz5g3tOd5u3Mkrgfz1BhkGEtdA32IOvLljkXLCMbhM7180TcQDARchyVHgtfTRIV3kcotsSUUWhXg9WCT4A/132",
       "can_delete": null,
       "content": "拉氏变换",
       "created_at": "2025-12-04 21:43:20",
@@ -64722,7 +64977,7 @@ const COMMENTS_DB = {
       "user_name": "上市公司高冷总裁别招惹"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "气笑了",
       "created_at": "2025-11-24 21:16:18",
@@ -64846,7 +65101,7 @@ const COMMENTS_DB = {
       "user_name": "破釜沉舟11408"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "拉氏变换+逆变换定义令s=0",
       "created_at": "2025-11-14 09:55:35",
@@ -65134,7 +65389,7 @@ const COMMENTS_DB = {
       "user_name": "雾旅"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "第二问能不能用合同变换法解呢",
       "created_at": "2025-12-03 21:32:25",
@@ -65566,7 +65821,7 @@ const COMMENTS_DB = {
       "user_name": "Grew"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "泰勒展开",
       "created_at": "2025-11-19 15:34:43",
@@ -65621,7 +65876,7 @@ const COMMENTS_DB = {
       "user_name": "卿"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "这居然是19年的题吗...",
       "created_at": "2025-11-04 23:10:02",
@@ -65856,7 +66111,7 @@ const COMMENTS_DB = {
       "user_name": "Grew"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "和函数与原函数表达式一致",
       "created_at": "2025-12-12 23:39:27",
@@ -65867,7 +66122,7 @@ const COMMENTS_DB = {
       "user_name": "shadow"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "级数和函数的推导",
       "created_at": "2025-12-12 23:37:04",
@@ -66327,7 +66582,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "一般给出系数递推的幂级数，通常考察与微分方程的结合。通过系数递推式确立Sx，Sx导的关系（统一幂次，统一求和下标）并求解",
       "created_at": "2025-11-14 10:05:39",
@@ -66466,7 +66721,7 @@ const COMMENTS_DB = {
   ],
   "766": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/M99F7Bu17pISQZhSdFc0PmGlibFGtibpOiaHxibPW7Rrd6SWw7lPPZkxPTgRsojyxAmUc9W0pcN22Kj0icKbVwgIVhZxqo1o2YpNiaMhuLasqPKCI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/M99F7Bu17pISQZhSdFc0PmGlibFGtibpOiaHxibPW7Rrd6QwicVI02qlxicEbkFS9eH54I4vhMmka2bpYCCzkp4m3TmbticOs8zRSXQniad9yRniaDias/132",
       "can_delete": null,
       "content": "离连型，全概率公式",
       "created_at": "2025-12-18 23:20:32",
@@ -66771,7 +67026,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/gsXvwRBjibSezYzJc16PjAc94hjwyWEYcnibokUw5dexunrJVJ94Rz3ibywInekHfGTQTLZ5lLHnYfic1H4LatKYQGlhqT3LDhFHib1BDQXMd4r8/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI82ojGrrvWG8ox7SGxeEl2rmAzhjdNl1dpyscZN8teSzmIPgBAAD19fz37O4fC4l9LjiblqhJA7yafx8RIbTibjOvEjHSoyOmgD8SZZUog7KVw/132",
           "can_delete": null,
           "content": "爸爸像儿子",
           "created_at": "2025-11-27 16:23:54",
@@ -66908,7 +67163,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "熟知二维分布函数的概念，往里边带，分情况讨论",
       "created_at": "2025-11-10 09:01:13",
@@ -67378,6 +67633,17 @@ const COMMENTS_DB = {
   ],
   "794": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/aKw1Yc1GdrdztBibwdpXEgUWCvib1SHZ5aGOQiaBggokVzCO21ic79Q20TpolTz1VeY42yMk7yP5libmpMCicRvicW6Fg4zISqDjckzJYOEAYpguIE/132",
+      "can_delete": null,
+      "content": "正惯性指数",
+      "created_at": "2026-06-25 19:38:37",
+      "id": 39911,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41826,
+      "user_name": "Coisini"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
       "content": "2",
@@ -67501,7 +67767,7 @@ const COMMENTS_DB = {
       "user_name": "Polaris"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "矩阵多项式可直接代入特征值，解得特征值可能取值",
       "created_at": "2025-11-19 15:54:05",
@@ -67615,7 +67881,7 @@ const COMMENTS_DB = {
       "user_name": "momo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYVY4qibZ7P7KLj8I0tUEO8M3OQ8w27ibOzb0GDg4QWHQAptjAPxRGLBY9ntpickGSSS9A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e0eaDNncyBib2o25NT2gahea4NccYiaBjJ61gM7um1eYV34zPJR5qDXEU3FrwOwNG4Me8kHjm6LIrV9a861volaQaHAhJ0zNr2aN0LRgr37BQ/132",
       "can_delete": null,
       "content": "1.看到是否可逆一定要与是否满秩联系起来。2.将p直接代入计算，得到结果之后要利用相似矩阵的传递性。P76",
       "created_at": "2025-12-15 22:08:45",
@@ -67681,7 +67947,7 @@ const COMMENTS_DB = {
       "user_name": "王佳炜"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "抓住求什么",
       "created_at": "2025-12-12 23:35:54",
@@ -68147,6 +68413,17 @@ const COMMENTS_DB = {
   ],
   "797": [
     {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "注意第一充分条件前提",
+      "created_at": "2026-07-08 10:31:37",
+      "id": 39949,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "-"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/OUdiaz67ww3aRfm79FYbI5FuHCI9kWMPIwt5nWgICGOFckFqMsQ30jicRGR8Q4iaNvlBgnHSL40iaPrFkEwQRWHibOABX5xcInVypB2adlHENlwk/132",
       "can_delete": null,
       "content": "极值点的定义：该点处的函数值比周围点的值都大或都小。\nf(0)=0,当x<0和x>0时函数值都小于0，所以f(0)为极大值点",
@@ -68462,7 +68739,7 @@ const COMMENTS_DB = {
       "user_name": "学霸Rxtr5Z"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "导数存在充要条件：左导",
       "created_at": "2025-11-19 15:41:59",
@@ -68508,7 +68785,7 @@ const COMMENTS_DB = {
       "user_name": "杲"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "极值点",
       "created_at": "2025-11-11 17:20:41",
@@ -68563,7 +68840,7 @@ const COMMENTS_DB = {
       "user_name": "。"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "去心邻域定义法，画图数形结合",
       "created_at": "2025-11-04 15:55:54",
@@ -68756,6 +69033,17 @@ const COMMENTS_DB = {
   ],
   "793": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/aKw1Yc1GdrdztBibwdpXEgUWCvib1SHZ5aGOQiaBggokVzCO21ic79Q20TpolTz1VeY42yMk7yP5libmpMCicRvicW6Fg4zISqDjckzJYOEAYpguIE/132",
+      "can_delete": null,
+      "content": "Px = Qy",
+      "created_at": "2026-06-25 19:35:11",
+      "id": 39910,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41826,
+      "user_name": "Coisini"
+    },
+    {
       "avatar_url": "avatar://seed/15883079596",
       "can_delete": null,
       "content": "注意x不=0",
@@ -68844,7 +69132,7 @@ const COMMENTS_DB = {
       "user_name": "Monkey heat"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "格林公式的三大条件：①有界闭区域 ②p（X,Y）和Q（x,y）具有一阶连续导数（在区域D上无奇点）③L取正向。  ✦C不满足②",
       "created_at": "2025-12-06 16:54:32",
@@ -69380,7 +69668,7 @@ const COMMENTS_DB = {
       "user_name": "momo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/yFlibCHbe5t4T3zbPyR3XKGFiaMnG0LJHvfmr9LhnAt8JxTpfvOG0KTMIxITDnUPRjWlYvuzgLLI51lP2CfKPARSbCFFKshmuIsu4T2J2BTKE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/yFlibCHbe5t4T3zbPyR3XKGFiaMnG0LJHvfmr9LhnAt8Id9pGSJomr6am7QjDXK0jKdvchBJFRRxm9wvslwSV8ibSib82vs9Ic9kO03xN6TEAAM/132",
       "can_delete": null,
       "content": "经典不一定可导陷阱题",
       "created_at": "2025-12-15 20:44:12",
@@ -70252,7 +70540,7 @@ const COMMENTS_DB = {
       "user_name": "破釜沉舟11408"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "被积函数没说可导，用一面和二面积分的关系",
       "created_at": "2025-11-14 10:07:28",
@@ -70260,7 +70548,7 @@ const COMMENTS_DB = {
       "likes": 2,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
           "can_delete": null,
           "content": "三合一公式转换成dxdy积",
           "created_at": "2025-11-14 10:08:40",
@@ -70875,7 +71163,7 @@ const COMMENTS_DB = {
       "user_name": "spark"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "注意有负数的情况，un倒过来了取绝对值也是单增的",
       "created_at": "2025-11-21 08:48:48",
@@ -70930,7 +71218,7 @@ const COMMENTS_DB = {
       "user_name": "文"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "a.b用1排除，c用-1/n排除",
       "created_at": "2025-11-13 09:34:18",
@@ -71045,6 +71333,17 @@ const COMMENTS_DB = {
     }
   ],
   "796": [
+    {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "很新奇，这样表示解的情况很直观",
+      "created_at": "2026-06-24 18:52:04",
+      "id": 39906,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "安生"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/iaj85Pia2KvicsmP7E3ibTyTic0Pdpzh5IhUKiaeyaLvJxcugictic91FEJzqJlYb7EDCLBhic4x7V6yEspNOWSicg1dibmQcl45soF1eYyPEf3NTIjQbU/132",
       "can_delete": null,
@@ -71856,7 +72155,7 @@ const COMMENTS_DB = {
       "user_name": "leaf"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "注意3！",
       "created_at": "2025-12-12 10:32:02",
@@ -72054,7 +72353,7 @@ const COMMENTS_DB = {
       "user_name": "tong king"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "分离变量",
       "created_at": "2025-11-21 20:06:01",
@@ -72414,7 +72713,7 @@ const COMMENTS_DB = {
       "user_name": "小白"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "拐点是点",
       "created_at": "2025-11-13 09:53:28",
@@ -72702,7 +73001,7 @@ const COMMENTS_DB = {
       "user_name": "我要成为11408高手"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "均匀分布结论的应用",
       "created_at": "2025-11-10 16:28:09",
@@ -72926,7 +73225,7 @@ const COMMENTS_DB = {
       "user_name": "天空仍在泣雨"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "三个被积函数齐全：考虑高斯    只有一个被积函数：转换为二重积分（做投影）",
       "created_at": "2025-12-07 21:05:25",
@@ -73272,7 +73571,7 @@ const COMMENTS_DB = {
       "user_name": "D_D"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "绝对值别忘了",
       "created_at": "2025-11-16 14:55:52",
@@ -73834,7 +74133,7 @@ const COMMENTS_DB = {
       "user_name": "男孩"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "注意加上绝对值",
       "created_at": "2025-11-07 09:17:12",
@@ -74327,7 +74626,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "三角换元，华里士公式",
       "created_at": "2025-11-08 19:17:23",
@@ -74785,7 +75084,7 @@ const COMMENTS_DB = {
       "user_name": "momo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "方向要取反！！",
       "created_at": "2025-11-27 20:47:52",
@@ -74930,7 +75229,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "第一类曲面积分求面积",
       "created_at": "2025-11-12 16:24:03",
@@ -75077,7 +75376,7 @@ const COMMENTS_DB = {
       "user_name": "flora"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "分块矩阵法求α123时，K随便取个简单的数就行，算出来只要是可逆就能当P",
       "created_at": "2025-12-12 10:24:03",
@@ -75288,7 +75587,7 @@ const COMMENTS_DB = {
       "user_name": "孑徐"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "jxq分块矩阵法，求三个非齐次方程组",
       "created_at": "2025-11-13 11:12:11",
@@ -77104,7 +77403,7 @@ const COMMENTS_DB = {
       "user_name": "朱子敬"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "用定义",
       "created_at": "2025-11-11 17:01:58",
@@ -77170,7 +77469,7 @@ const COMMENTS_DB = {
       "user_name": "。"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "可导，导数的定义，左导等右导",
       "created_at": "2025-11-03 15:17:02",
@@ -77913,7 +78212,7 @@ const COMMENTS_DB = {
       "user_name": "小羊咩咩"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "计算xy二重积分时z当作常数，偏心圆平移换元处理。",
       "created_at": "2025-11-13 10:17:10",
@@ -78082,7 +78381,7 @@ const COMMENTS_DB = {
       "user_name": "Grew"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "矩阵相似特征值相同，相同特征值对应的特征向量的个数也相同。",
       "created_at": "2025-12-13 21:06:50",
@@ -78342,7 +78641,7 @@ const COMMENTS_DB = {
       "content": "思路之一：求出一个好求的，并以此为基准与其他的比较",
       "created_at": "2025-11-28 20:33:19",
       "id": 19234,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 25713,
       "user_name": "风凌"
@@ -78877,7 +79176,7 @@ const COMMENTS_DB = {
       "user_name": "我才复习到极限还来得及吗"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "绝对不能看错选项",
       "created_at": "2025-11-12 15:52:51",
@@ -79731,7 +80030,7 @@ const COMMENTS_DB = {
       "user_name": "Thedado"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "广义初等变换，左乘做行变换 右乘做列变换",
       "created_at": "2025-11-12 10:34:11",
@@ -79942,7 +80241,7 @@ const COMMENTS_DB = {
       "user_name": "财源滚滚花开富贵好运来"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "分部积分",
       "created_at": "2025-11-09 16:00:46",
@@ -79953,7 +80252,7 @@ const COMMENTS_DB = {
       "user_name": "恐龙"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "导数几何意义",
       "created_at": "2025-11-04 15:27:55",
@@ -80122,7 +80421,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "注意特征值不同，只能写-1，不写1",
       "created_at": "2025-11-05 20:38:27",
@@ -80359,7 +80658,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "代数的时候要看清",
       "created_at": "2025-11-16 14:27:27",
@@ -81258,6 +81557,17 @@ const COMMENTS_DB = {
   ],
   "815": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PCPJOWQGXHYx9O4aYDKCYdzW5iaYWsKLOI5e2G8aBp12tzVTm1Id3yfTAs9XMibN9eDvA6Omd7n6j39sUuFiaLXd86ibakDXSJn3RlDrHgP8420/132",
+      "can_delete": null,
+      "content": "我的思路是数学归纳法，然后令一个函数求导看它单调性之后归纳总结",
+      "created_at": "2026-07-11 16:54:25",
+      "id": 39967,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42296,
+      "user_name": "Ridge"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/lQJA9l7sPdVFpc7iaykS59Itkwgzo2sI4d5qQibNyHJLibnq2qibyEc3SKXz5gxDdPXv6e8cFNa5m8zD17Lia9AOhZZuqb4PsK6XEhPGJcczRVII/132",
       "can_delete": null,
       "content": "考虑怎么证明单调性",
@@ -81561,7 +81871,7 @@ const COMMENTS_DB = {
       "user_name": "momo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "拉格朗日证单调有界",
       "created_at": "2025-11-12 11:04:51",
@@ -82121,7 +82431,7 @@ const COMMENTS_DB = {
       "user_name": "Yeah"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "牢宇拆项",
       "created_at": "2025-11-05 10:00:37",
@@ -82491,7 +82801,7 @@ const COMMENTS_DB = {
       "user_name": "🍟dee"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "不定积分改变限积分",
       "created_at": "2025-11-24 19:38:07",
@@ -83588,7 +83898,7 @@ const COMMENTS_DB = {
       "user_name": "Grew"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxLlXASCz1RNsUkZLOWBQicQUzYU2wFXUnAJ3BG61lg5CDHq15vx6bXes/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxCb0tmEfgRCT1icGMp9EibElPe0OAqQ2ctNAhuq2gI7E5FkmIKfa4icHuQ/132",
       "can_delete": null,
       "content": "定义",
       "created_at": "2025-11-05 10:00:35",
@@ -84039,7 +84349,7 @@ const COMMENTS_DB = {
       "user_name": "每日一题"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "这个边界条件，老头疯了啊？给我算死得了",
       "created_at": "2025-11-24 17:18:19",
@@ -84173,7 +84483,7 @@ const COMMENTS_DB = {
       "user_name": "白遇清"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "可借助拉姆达当中间变量计算更简便",
       "created_at": "2025-11-12 16:13:29",
@@ -84184,7 +84494,7 @@ const COMMENTS_DB = {
       "user_name": "上岸上岸"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "内部极值 + 边界极值 + 端点极值",
       "created_at": "2025-11-12 10:50:06",
@@ -84838,7 +85148,7 @@ const COMMENTS_DB = {
       "user_name": "每日一题"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "转成高斯以后总是不自觉代入线方程简化计算，就爆错了。。",
       "created_at": "2025-11-24 11:21:30",
@@ -85109,6 +85419,17 @@ const COMMENTS_DB = {
     }
   ],
   "810": [
+    {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "不让用轮椅方法",
+      "created_at": "2026-06-24 18:31:29",
+      "id": 39905,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "安生"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/WxOmQY2OvJ6iaF1QLPXYib2HPaF2ru1o29x37Ej1RTfAja1tpTdzm0pmehQxAyDNJUBicBiaC2SxIYoIapllgtLrlJQGiaH0WGd28EZnM9Q3CMuk/132",
       "can_delete": null,
@@ -85579,7 +85900,7 @@ const COMMENTS_DB = {
       "user_name": "浮生"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "初等列变换",
       "created_at": "2025-11-23 20:41:27",
@@ -86301,7 +86622,7 @@ const COMMENTS_DB = {
       "user_name": "熊猫侠"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "标准型一定是要经过可逆线性变换取得，所以第二问先判断题目变换矩阵C是不是可逆以直接变成标准型",
       "created_at": "2025-11-12 11:25:19",
@@ -86732,7 +87053,7 @@ const COMMENTS_DB = {
       "user_name": "Rita"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "举特例，",
       "created_at": "2025-11-04 15:47:21",
@@ -86766,6 +87087,17 @@ const COMMENTS_DB = {
     }
   ],
   "844": [
+    {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "梯度乘单位向量",
+      "created_at": "2026-07-20 14:35:37",
+      "id": 40021,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "天下万般绝学  莫过恒心"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
@@ -86888,7 +87220,7 @@ const COMMENTS_DB = {
       "user_name": "su0sh1ne"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "注意单位化",
       "created_at": "2025-11-07 13:54:43",
@@ -87233,7 +87565,7 @@ const COMMENTS_DB = {
       "user_name": "不注重细节的Nike"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/gibSBIjib18AicIkGkRZkFnP2LMf9xqQ2ymUsPU6iazd6nCwbS4XUwjjeWKbWJXHNW1TsPmtsiakKUBibncx6DJJM46J3MaIyBweTPic4zKFBSibvPU/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/gibSBIjib18AicIkGkRZkFnP2LMf9xqQ2ymUsPU6iazd6nDZs8hKlE8h1RgIOsS90B8OOUbFVqY174mYicMeWuUd1Xa13nlEZcEkqFfHLFHZ77Gs/132",
       "can_delete": null,
       "content": "泊松讨论 别忘记",
       "created_at": "2025-12-04 15:22:39",
@@ -87620,7 +87952,7 @@ const COMMENTS_DB = {
       "user_name": "晚吟"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "随机变量的取值分类讨论",
       "created_at": "2025-11-16 16:09:40",
@@ -87677,7 +88009,7 @@ const COMMENTS_DB = {
       "user_name": "我要成为11408高手"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "离散分布率求法不熟练",
       "created_at": "2025-11-12 11:40:07",
@@ -87699,7 +88031,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "分清连续型与离散型概率分布写出来的形式的差别",
       "created_at": "2025-11-10 16:20:34",
@@ -87739,7 +88071,7 @@ const COMMENTS_DB = {
       "content": "这不是侮辱我吗？",
       "created_at": "2026-04-12 18:15:13",
       "id": 39837,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 40156,
       "user_name": "q"
@@ -87772,7 +88104,7 @@ const COMMENTS_DB = {
       "content": "老头别逗我笑",
       "created_at": "2025-12-07 17:05:11",
       "id": 29222,
-      "likes": 1,
+      "likes": 2,
       "replies": [],
       "student_id": 11734,
       "user_name": "bridge"
@@ -87910,7 +88242,7 @@ const COMMENTS_DB = {
       "user_name": "CoCo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "认真审题",
       "created_at": "2025-11-07 09:14:23",
@@ -89090,7 +89422,7 @@ const COMMENTS_DB = {
       "user_name": "Eclipse"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKkX0PBFibm5X31qEtNLRWjtk6WG6qicyPCvMXBEgxiabkAF5FfTw0eR9djWQ4cHzY67HhzmltvJxCDIUGsvsoxpictB3kQ9eS9rvJwAw7RqEreTw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/s8ibicJiawpc9kgqs27NRASENoicbRTWYnDU7y7WPup5r8icSTTzqO4vPVXdbhPQKL00h6icqLeRk8pa2ynlpmUd6ZuyxRjD9QpGTO15eXswFQZfs/132",
       "can_delete": null,
       "content": "选项B答案",
       "created_at": "2025-12-03 18:31:34",
@@ -89270,6 +89602,17 @@ const COMMENTS_DB = {
     }
   ],
   "824": [
+    {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "原函数是偶函数，奇数阶导是奇函数。奇函数在0处为0",
+      "created_at": "2026-07-08 09:51:23",
+      "id": 39948,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "-"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKtyo7rJNtY0UY8d3yud5QIDUFZbdc7ZibFxySVPvFnPTlEmyRX0CaA08qicQeoNxgJpQOvxohgwSkQ/132",
       "can_delete": null,
@@ -89526,7 +89869,7 @@ const COMMENTS_DB = {
       "user_name": "睡觉大王."
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "泰勒求导与奇偶",
       "created_at": "2025-11-11 16:34:52",
@@ -90035,6 +90378,17 @@ const COMMENTS_DB = {
   ],
   "826": [
     {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "吃的真好",
+      "created_at": "2026-07-20 14:40:30",
+      "id": 40022,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "天下万般绝学  莫过恒心"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/FribUibPvibfcvvq10UnaIq3ibVW8Q3QVb0R4HMeUPgMFFRLb6XibZm8HsqMSVWG4HSeDgzoUiclIxnNiawq97IVwVj82AeCvVUo1X1k0Sic5ziaOF2A/132",
       "can_delete": null,
       "content": "别忘带下角标",
@@ -90233,7 +90587,7 @@ const COMMENTS_DB = {
       "user_name": "上下四方"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "1，1必须写",
       "created_at": "2025-11-12 15:49:06",
@@ -90334,7 +90688,7 @@ const COMMENTS_DB = {
       "user_name": "尘"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "不是偏导😭",
       "created_at": "2025-12-09 09:31:17",
@@ -90703,7 +91057,7 @@ const COMMENTS_DB = {
       "user_name": "西"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "积分定义求极限",
       "created_at": "2025-11-05 15:14:24",
@@ -91645,7 +91999,7 @@ const COMMENTS_DB = {
       "user_name": "窒息的小奶布"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "考特征值和相似结合",
       "created_at": "2025-12-07 11:26:45",
@@ -91913,7 +92267,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
           "can_delete": null,
           "content": "哈哈哈同错，写成5了🧠🥰",
           "created_at": "2025-12-17 13:52:40",
@@ -92250,7 +92604,7 @@ const COMMENTS_DB = {
       "user_name": "dwei"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "导函数正确✅AD,   连续性正确✅D",
       "created_at": "2025-11-18 17:10:39",
@@ -92294,7 +92648,7 @@ const COMMENTS_DB = {
       "user_name": "Eternal farewell"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "不同段不同C",
       "created_at": "2025-11-05 09:57:33",
@@ -92494,7 +92848,7 @@ const COMMENTS_DB = {
       "user_name": "Sober"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "牢宇大观",
       "created_at": "2025-11-07 08:45:38",
@@ -93183,7 +93537,7 @@ const COMMENTS_DB = {
       "user_name": "Strelitzia"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "利用定义求解概率密度，并正确写出z的取值范围",
       "created_at": "2025-11-12 10:11:25",
@@ -93191,7 +93545,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
           "can_delete": null,
           "content": "求解分布函数第一步一定是先对z讨论范围",
           "created_at": "2025-11-12 10:14:11",
@@ -93407,7 +93761,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "结论：矩阵AB相似，他们全家都相似（A转置，A逆，A伴随，kA，A的n次方，A+kE）\n 相应做加减运算也相似（含转置AT的矩阵除外）",
       "created_at": "2025-11-18 17:58:21",
@@ -93959,7 +94313,7 @@ const COMMENTS_DB = {
       "user_name": "上下四方"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "记得写z=0",
       "created_at": "2025-11-18 21:16:40",
@@ -94337,7 +94691,7 @@ const COMMENTS_DB = {
       "user_name": "dwei"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "叠加性",
       "created_at": "2025-11-21 21:41:00",
@@ -94381,7 +94735,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "硬算花得时间感觉差不多",
       "created_at": "2025-11-09 09:53:51",
@@ -94392,7 +94746,7 @@ const COMMENTS_DB = {
       "user_name": "Yan"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "线性微分方程具有叠加性",
       "created_at": "2025-11-08 10:35:13",
@@ -94742,6 +95096,17 @@ const COMMENTS_DB = {
   ],
   "862": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PCPJOWQGXHYx9O4aYDKCYdzW5iaYWsKLOI5e2G8aBp12tzVTm1Id3yfTAs9XMibN9eDvA6Omd7n6j39sUuFiaLXd86ibakDXSJn3RlDrHgP8420/132",
+      "can_delete": null,
+      "content": "看到x这个定义域在求极限导数时候忍不住想要夹逼夹逼夹逼",
+      "created_at": "2026-07-16 16:15:26",
+      "id": 40012,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42296,
+      "user_name": "Ridge"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CCMqKBZEjcJ63NELa4YAEkeTgUSrFJGJl7VuAZ9tv4miaqOaN7U0ayqoB30SKFzQpRQj2Ydu4ic72YBK2clWpaDETjdOc1Kibz0SicOOEJYWxqA/132",
       "can_delete": null,
       "content": "12",
@@ -95080,7 +95445,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "该夹逼就夹逼",
       "created_at": "2025-11-11 16:14:22",
@@ -95168,7 +95533,7 @@ const COMMENTS_DB = {
       "user_name": "昨夜西风"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "间断点，连续，可导",
       "created_at": "2025-11-03 15:03:29",
@@ -95176,7 +95541,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
           "can_delete": null,
           "content": "代入范围",
           "created_at": "2025-11-03 15:09:19",
@@ -95391,7 +95756,7 @@ const COMMENTS_DB = {
           "user_name": "大雄"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
           "can_delete": null,
           "content": "你不是一个人...",
           "created_at": "2025-11-06 10:24:16",
@@ -96094,7 +96459,7 @@ const COMMENTS_DB = {
       "user_name": "苹果头"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "全正椭球面、1负单叶、2负双叶、两个变量柱面、有一次项抛物面，1正2负＝0圆锥，1正1负＝0双曲柱面",
       "created_at": "2025-11-18 18:02:06",
@@ -96765,6 +97130,17 @@ const COMMENTS_DB = {
     }
   ],
   "853": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "算出直接写就完事了，试一试根不能用0、-1这样的简单数因式分解就直接写就完事",
+      "created_at": "2026-07-19 13:48:24",
+      "id": 40017,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g9NalKKfVEnTlQicmHC5KEfJEeIXcOQrRV8XEWREqQCYdwVck5SoHrRllR3qnSHJSicUcr72Gshlgp3VbibpjXH8mWC8ibSR4NLicly0q6zibJDas/132",
       "can_delete": null,
@@ -97797,6 +98173,17 @@ const COMMENTS_DB = {
   ],
   "851": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "复杂的根用参数代替",
+      "created_at": "2026-07-07 20:07:34",
+      "id": 39947,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
       "content": "2",
@@ -98418,7 +98805,7 @@ const COMMENTS_DB = {
       "user_name": "石頭"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "总是漏讨论",
       "created_at": "2025-11-11 10:56:44",
@@ -98426,7 +98813,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
           "can_delete": null,
           "content": "基础不牢",
           "created_at": "2025-11-11 11:03:19",
@@ -98911,7 +99298,7 @@ const COMMENTS_DB = {
       "user_name": "博学8qAIjj"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "泰勒展开",
       "created_at": "2025-11-11 16:19:39",
@@ -98922,7 +99309,7 @@ const COMMENTS_DB = {
       "user_name": "上岸上岸"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "泰勒展开arctanx = x - x^3/3 + o(x^3)",
       "created_at": "2025-11-11 09:46:58",
@@ -98933,7 +99320,7 @@ const COMMENTS_DB = {
       "user_name": "早悟兰因"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "泰勒展开不变性",
       "created_at": "2025-11-09 15:03:20",
@@ -99068,7 +99455,7 @@ const COMMENTS_DB = {
       "user_name": "Avidity"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "高阶导，泰勒，硬算",
       "created_at": "2025-11-03 15:40:49",
@@ -99784,6 +100171,17 @@ const COMMENTS_DB = {
   ],
   "856": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "不能无脑单位化，只有在实对称阵且明确要求是求正交矩阵才要列向量正交化单位化处理！",
+      "created_at": "2026-07-19 19:01:50",
+      "id": 40018,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
       "content": "2",
@@ -100377,7 +100775,7 @@ const COMMENTS_DB = {
       "user_name": "Rtist"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "本来想着和特解的特定结构那些对应算，但发现r1的前面没有和r2一样的x的多项式，然后就懵了....",
       "created_at": "2025-11-09 09:44:08",
@@ -101019,7 +101417,7 @@ const COMMENTS_DB = {
       "user_name": "可口可乐不快乐."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "拐点：凹凸性改变的点 必要性：某点是拐点=>该点二阶导等于0，或不存在。 充分性：二阶导=0且三阶导≠0 或者 x=x0处连续，二阶导在左右去心邻域异号 =>该点是拐点",
       "created_at": "2025-11-05 09:50:50",
@@ -101338,7 +101736,7 @@ const COMMENTS_DB = {
       "user_name": "想当矿兵"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "全微分计算",
       "created_at": "2025-11-07 09:48:29",
@@ -102004,7 +102402,7 @@ const COMMENTS_DB = {
       "user_name": "虔荩"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "高斯公式，三重积分定限截面更简单",
       "created_at": "2025-11-11 10:47:39",
@@ -102484,7 +102882,7 @@ const COMMENTS_DB = {
       "user_name": "Sober"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "别忘了积分，不能直接写",
       "created_at": "2025-11-12 09:36:03",
@@ -102508,7 +102906,7 @@ const COMMENTS_DB = {
       "user_name": "上岸上岸"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "偶倍奇零",
       "created_at": "2025-11-05 15:47:30",
@@ -102565,7 +102963,7 @@ const COMMENTS_DB = {
       "user_name": "不注重细节的Nike"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "注意符号的变换",
       "created_at": "2025-12-08 10:57:25",
@@ -103396,7 +103794,7 @@ const COMMENTS_DB = {
       "user_name": "Rtist"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "基础不牢，求边缘分布以及联合分布求概率的定义不熟练",
       "created_at": "2025-11-11 11:48:10",
@@ -103440,7 +103838,7 @@ const COMMENTS_DB = {
       "user_name": "俊仔"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "看出离散连续",
       "created_at": "2025-11-09 19:35:21",
@@ -103773,6 +104171,17 @@ const COMMENTS_DB = {
     }
   ],
   "1607": [
+    {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "咋子哥么型行列式，开口方向展开，再套公式算系数，算出递推式",
+      "created_at": "2026-06-10 17:23:11",
+      "id": 39884,
+      "likes": 1,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "安生"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g9NalKKfVEnTlQicmHC5KEfJEeIXcOQrRV8XEWREqQCYdwVck5SoHrRllR3qnSHJSicUcr72Gshlgp3VbibpjXH8mWC8ibSR4NLicly0q6zibJDas/132",
       "can_delete": null,
@@ -104231,7 +104640,7 @@ const COMMENTS_DB = {
       "user_name": "青青蓝蓝青"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxLlXASCz1RNsUkZLOWBQicQUzYU2wFXUnAJ3BG61lg5CDHq15vx6bXes/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxCb0tmEfgRCT1icGMp9EibElPe0OAqQ2ctNAhuq2gI7E5FkmIKfa4icHuQ/132",
       "can_delete": null,
       "content": "泰勒展开的时候别漏项，最大的问题",
       "created_at": "2025-11-05 09:58:17",
@@ -104398,7 +104807,7 @@ const COMMENTS_DB = {
       "user_name": "远航PKeaIc"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "导数的定义",
       "created_at": "2025-11-03 15:00:11",
@@ -104558,7 +104967,7 @@ const COMMENTS_DB = {
       "user_name": "博学T65GUA"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "老头今年务必出这种题",
       "created_at": "2025-11-22 11:42:26",
@@ -104662,6 +105071,17 @@ const COMMENTS_DB = {
     }
   ],
   "1615": [
+    {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "送福利呢",
+      "created_at": "2026-07-01 18:56:41",
+      "id": 39925,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "-"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
@@ -105486,6 +105906,17 @@ const COMMENTS_DB = {
   ],
   "1614": [
     {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "公共解的思路，但是系数相同，更好算",
+      "created_at": "2026-06-24 10:20:27",
+      "id": 39901,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "安生"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/KHkscLzp6uHBj1NaibUHiaFrRia5A4p3yYNhuq3lGWKUgVeC7TBrDgIDlA4AaXtQoobOgzrhqmGXvpFDSuE5OT1NJ5WW7jv3hrELLtoXGrEF8E/132",
       "can_delete": null,
       "content": "坐标是设出来的",
@@ -105860,7 +106291,7 @@ const COMMENTS_DB = {
       "user_name": "不注重细节的Nike"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "1.新基=旧基*C   2. η在两个基下坐标相同，则有αη = βη",
       "created_at": "2025-11-08 10:18:56",
@@ -106602,7 +107033,7 @@ const COMMENTS_DB = {
       "user_name": "这里是小小菊"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "✦1.难点 翻译：方向导数最大值 即 梯度的模，等价于求模的最大值。✦2.目标函数复杂，可以对目标函数简单化再计算。本题结果为求模值，有根号，可先去根号计算得结果后加根号，不改变性质，但是可以简化计算。✦3.难点，解拉格朗日乘数法方程 求驻点。✦4.将所有驻点带回目标函数比较大小即可，结果注意开根号！",
       "created_at": "2025-12-11 16:22:19",
@@ -107088,6 +107519,17 @@ const COMMENTS_DB = {
   ],
   "1576": [
     {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "拉普拉斯公式",
+      "created_at": "2026-06-10 17:15:39",
+      "id": 39883,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "安生"
+    },
+    {
       "avatar_url": "avatar://seed/18827859606",
       "can_delete": null,
       "content": "x型行列式,记得行列互换要添负号",
@@ -107099,7 +107541,7 @@ const COMMENTS_DB = {
       "user_name": "学吧5bmjPa"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "行列式行列变化要变号",
       "created_at": "2025-12-10 09:54:29",
@@ -107231,7 +107673,7 @@ const COMMENTS_DB = {
       "user_name": "10701"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJJbLdn4Ch6nHx75qd4ws4xWib0HI6gzZWCd0EcvXl4zicEw3LcibImIELdGFZ8bQU6OibfasXVjSklu62pg4MoDoIypSgrUtJjHUVjNDbeWBFk1g/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PYPcl9BcsoiaNHI6F30vbhSHic5jGoVcGWHl24xGCTKPVJcJia7MnQ08DbWCHIAd7ZbQibKydicI7NqzjNEVl8riahLSTuCy5tXicNoEdnSunH154Y/132",
       "can_delete": null,
       "content": "分块矩阵",
       "created_at": "2025-11-05 14:42:18",
@@ -107574,7 +108016,7 @@ const COMMENTS_DB = {
       "user_name": "YOUNG"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/lBE5saHColvV6NtNibsdibta8qpicwtBUHBCKFVyIoa6E28Q5DrjibsLt9RJIiaiaT8H8c38nJZPtpSehO8vfznrqLGSAay2gY3PibQYVAwU9u7sv8/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/lBE5saHColvV6NtNibsdibta8qpicwtBUHBCKFVyIoa6E01DibsZOicmv0JyFluAeSAiayQzsw3tH3ic0NVJbQWzzJC5PJMKqibm3PSeuVFOPC4pFrs/132",
       "can_delete": null,
       "content": "考虑级数概念来解题",
       "created_at": "2025-11-24 11:53:57",
@@ -107684,7 +108126,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "几何分布性质记得",
       "created_at": "2025-11-10 11:21:44",
@@ -107692,7 +108134,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
           "can_delete": null,
           "content": "分成y1y2",
           "created_at": "2025-11-10 11:21:59",
@@ -107708,7 +108150,7 @@ const COMMENTS_DB = {
       "user_name": "上岸上岸"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "一共进行K次，直到第2个大于3的观测值出现，说明前面K-1次有一个大于3，第K次也大于3。组合数C1 K-1",
       "created_at": "2025-11-08 10:22:17",
@@ -108207,7 +108649,7 @@ const COMMENTS_DB = {
       "user_name": "维"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "凹凸性",
       "created_at": "2025-11-09 10:53:51",
@@ -108262,7 +108704,7 @@ const COMMENTS_DB = {
       "user_name": "丑奴儿"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "凹凸性",
       "created_at": "2025-11-05 09:45:38",
@@ -108273,7 +108715,7 @@ const COMMENTS_DB = {
       "user_name": "easymoneysniper"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "举特例",
       "created_at": "2025-11-05 09:42:15",
@@ -108846,7 +109288,7 @@ const COMMENTS_DB = {
       "user_name": "Ooor"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "第一遍做法：补线 格林。错误原因：应该计算投影区域半椭圆面积，误算为半空间圆面积。（注意：椭圆面积公式S=πab,其中ab为长轴短轴，是两端点距离的一半！！）",
       "created_at": "2025-12-06 16:22:03",
@@ -109396,7 +109838,7 @@ const COMMENTS_DB = {
       "user_name": "冲刺iU0Rk3"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "空间二线三类常规解法  1.降维投影+格林 2.斯托克斯+合一投影 3.参数方程",
       "created_at": "2025-11-08 09:54:24",
@@ -109429,7 +109871,7 @@ const COMMENTS_DB = {
       "user_name": "Wesley"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJJbLdn4Ch6nHx75qd4ws4xWib0HI6gzZWCd0EcvXl4zicEw3LcibImIELdGFZ8bQU6OibfasXVjSklu62pg4MoDoIypSgrUtJjHUVjNDbeWBFk1g/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PYPcl9BcsoiaNHI6F30vbhSHic5jGoVcGWHl24xGCTKPVJcJia7MnQ08DbWCHIAd7ZbQibKydicI7NqzjNEVl8riahLSTuCy5tXicNoEdnSunH154Y/132",
       "can_delete": null,
       "content": "用参数时[pi/2,-pi/2]",
       "created_at": "2025-11-05 13:56:15",
@@ -109537,6 +109979,17 @@ const COMMENTS_DB = {
   ],
   "1575": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8oQ7n5tkeHtUoicVBDTWGVyRickcvEz5siarPqrGYSIATzTDau204K92SGI3vQC1vFpUntF0dpu2IPbErOXxGbZviawf8pGJjx0ESiaIia9rKrJow/132",
+      "can_delete": null,
+      "content": "利用奇偶性，或者把 a、b 看作两个自变量构造二元函数",
+      "created_at": "2026-07-26 21:59:15",
+      "id": 40060,
+      "likes": 0,
+      "replies": [],
+      "student_id": 580,
+      "user_name": "活在当下"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CCMqKBZEjcJ63NELa4YAEkeTgUSrFJGJl7VuAZ9tv4miaqOaN7U0ayqoB30SKFzQpRQj2Ydu4ic72YBK2clWpaDETjdOc1Kibz0SicOOEJYWxqA/132",
       "can_delete": null,
       "content": "画图象拟合。哪个跟x最像就是哪个。",
@@ -109553,7 +110006,7 @@ const COMMENTS_DB = {
       "content": "傅里叶级数对x作奇延拓",
       "created_at": "2025-12-14 20:09:07",
       "id": 36514,
-      "likes": 1,
+      "likes": 2,
       "replies": [
         {
           "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CCMqKBZEjcJ63NELa4YAEkeTgUSrFJGJl7VuAZ9tv4miaqOaN7U0ayqoB30SKFzQpRQj2Ydu4ic72YBK2clWpaDETjdOc1Kibz0SicOOEJYWxqA/132",
@@ -109919,7 +110372,7 @@ const COMMENTS_DB = {
       "user_name": "Zimmer"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "往x拟合",
       "created_at": "2025-11-12 09:35:05",
@@ -110020,7 +110473,7 @@ const COMMENTS_DB = {
       "user_name": "上市公司高冷总裁别招惹"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "直接算试试",
       "created_at": "2025-11-05 15:37:13",
@@ -110312,7 +110765,7 @@ const COMMENTS_DB = {
       "user_name": "山海御家邦"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "看反了",
       "created_at": "2025-11-23 20:31:30",
@@ -111308,7 +111761,7 @@ const COMMENTS_DB = {
       "user_name": "sadzkd"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxLlXASCz1RNsUkZLOWBQicQUzYU2wFXUnAJ3BG61lg5CDHq15vx6bXes/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxCb0tmEfgRCT1icGMp9EibElPe0OAqQ2ctNAhuq2gI7E5FkmIKfa4icHuQ/132",
       "can_delete": null,
       "content": "可以带等号",
       "created_at": "2025-11-05 20:32:23",
@@ -111400,7 +111853,7 @@ const COMMENTS_DB = {
       "user_name": "迅猛龙👺"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "一阶导驻点，带入式子，二阶导判断极值",
       "created_at": "2025-12-09 17:37:15",
@@ -111598,7 +112051,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "知道自己求的是啥",
       "created_at": "2025-11-11 16:00:38",
@@ -111609,7 +112062,7 @@ const COMMENTS_DB = {
       "user_name": "上岸上岸"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "隐函数求导，硬算完事儿",
       "created_at": "2025-11-04 15:42:57",
@@ -111831,7 +112284,7 @@ const COMMENTS_DB = {
       "user_name": "不注重细节的Nike"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "分母等价无穷小化简，然后未定式进行洛必达，最后分子泰勒展开",
       "created_at": "2025-11-08 16:54:58",
@@ -111886,7 +112339,7 @@ const COMMENTS_DB = {
       "user_name": "突破FmfO3A"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxLlXASCz1RNsUkZLOWBQicQUzYU2wFXUnAJ3BG61lg5CDHq15vx6bXes/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxCb0tmEfgRCT1icGMp9EibElPe0OAqQ2ctNAhuq2gI7E5FkmIKfa4icHuQ/132",
       "can_delete": null,
       "content": "广义洛必达后验，与25选择殊途同归",
       "created_at": "2025-11-05 09:52:40",
@@ -111908,7 +112361,7 @@ const COMMENTS_DB = {
       "user_name": "Estero"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "泰勒",
       "created_at": "2025-11-03 14:37:54",
@@ -112077,7 +112530,7 @@ const COMMENTS_DB = {
       "user_name": "寄网"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "25年大题",
       "created_at": "2025-11-24 20:58:52",
@@ -112332,7 +112785,7 @@ const COMMENTS_DB = {
       "user_name": "惺忪睡眼"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "降维，格林公式，被积式为1即求投影圆面积=π",
       "created_at": "2025-12-06 16:02:31",
@@ -112673,7 +113126,7 @@ const COMMENTS_DB = {
   ],
   "1590": [
     {
-      "avatar_url": "uploads/avatars/avatar_37540_3eb6cc16d7e548a79aedc4caacb5d049.jpg",
+      "avatar_url": "uploads/avatars/avatar_37540_5aa22fb419e848099c2f81a0987e1c12.jpg",
       "can_delete": null,
       "content": "答做过了",
       "created_at": "2026-03-13 22:20:00",
@@ -112827,7 +113280,7 @@ const COMMENTS_DB = {
       "user_name": "寒风细雨中摇摆"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "我悟了，第19题一般都考拉格朗日中值定理",
       "created_at": "2025-11-21 09:03:43",
@@ -113280,6 +113733,17 @@ const COMMENTS_DB = {
   ],
   "1591": [
     {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "B列分块分开算的，算到第三个反应过来可以合在一起算🤡",
+      "created_at": "2026-06-24 17:10:46",
+      "id": 39904,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "安生"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e4Wic0qIjr3uuwLjaKqvEHRX7eWFb06nzQD9gibRkic4v6QGHGEiagA0JmWv1RiaeUmibwtBDuj9Kmh32qiatB36OiblMvibvmd97dHUqSO0288Clg3s/132",
       "can_delete": null,
       "content": "二刷",
@@ -113368,7 +113832,7 @@ const COMMENTS_DB = {
       "user_name": "扉间"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZVq2MZ3u9lxTtTkEC8dSgXsdm95YyzWk5RML6zVpxJgiaicWtpzwwUVyf3djkYNTbeBo/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZW2Qy0kzv9c0EvE5MXlFbQYmeH3yAXubzgw9Zia3fiaBwZvVyGiaI4e5lDd1Fiayh2Jrnc/132",
       "can_delete": null,
       "content": "解非齐次方程组，永远要记得，是其次通+非其次特，其次通解个数靠n-r(A)得来",
       "created_at": "2025-12-08 12:40:58",
@@ -113636,7 +114100,7 @@ const COMMENTS_DB = {
       "user_name": "追星"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "求非齐次方程组",
       "created_at": "2025-11-19 09:56:00",
@@ -113715,7 +114179,7 @@ const COMMENTS_DB = {
       "user_name": "晚吟"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVTX03U8rRygpF88DBKP9wn4LqMNZTP5nkcKicGRz8aMQnfHbPp3qMuDX0CnXX5ia4j4w/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVScibtchIHics09OY6rBbjKRgkibO96R8LhxgsQUKhSdicXIaaqibmbLqrXFNLwuaAzt4FM/132",
       "can_delete": null,
       "content": "全概率→条件概率，26超越第三套最后一题也是这种思想",
       "created_at": "2025-12-09 10:46:26",
@@ -113935,7 +114399,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "解析第三行那一步要记得",
       "created_at": "2025-11-10 11:08:28",
@@ -113969,6 +114433,17 @@ const COMMENTS_DB = {
     }
   ],
   "1551": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "奇偶延拓定义不熟，考的其实不难",
+      "created_at": "2026-07-05 10:26:40",
+      "id": 39941,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
@@ -114247,7 +114722,7 @@ const COMMENTS_DB = {
           "user_name": "飞跃ggG7XI"
         },
         {
-          "avatar_url": "uploads/avatars/avatar_16132_8c4a49ecdadf43429b3f8af4f3d2f728.jpeg",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/E53icp1gSWbjvdKmSAW0we9Hrkz5g3tOd5u3Mkrgfz1BhkGEtdA32IOvLljkXLCMbhM7180TcQDARchyVHgtfTRIV3kcotsSUUWhXg9WCT4A/132",
           "can_delete": null,
           "content": "牛逼",
           "created_at": "2025-11-13 17:47:50",
@@ -114343,6 +114818,17 @@ const COMMENTS_DB = {
   ],
   "1552": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "被积函数的正负可由几何意义得到",
+      "created_at": "2026-07-16 15:05:29",
+      "id": 40009,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/DXVXO9a076iapQ1QIZUibgDlnkGL9ia8GhOpia0ibF2t8H1v5VZeZIIDj4YTicriaTXM98Nfnkf7lmELMyOAwib9ibnuAnPpeGoTNY2mUWu2TTnJLDhk/132",
       "can_delete": null,
       "content": "21年的20题一个思路",
@@ -114420,7 +114906,7 @@ const COMMENTS_DB = {
       "user_name": "执着"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "类似于24年T20第一问",
       "created_at": "2025-12-06 17:05:00",
@@ -114621,6 +115107,17 @@ const COMMENTS_DB = {
     }
   ],
   "1553": [
+    {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "前列线",
+      "created_at": "2026-06-23 15:07:58",
+      "id": 39900,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "安生"
+    },
     {
       "avatar_url": "avatar://seed/18827859606",
       "can_delete": null,
@@ -114916,7 +115413,7 @@ const COMMENTS_DB = {
       "user_name": "Grew"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "第二步不要忘了上边再对t求导",
       "created_at": "2025-11-11 15:38:47",
@@ -115195,7 +115692,7 @@ const COMMENTS_DB = {
       "user_name": "Your Father"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "补面 高斯公式 化为三重积分，计算中注意利用 对称性，化为极坐标等化简运算。补面注意方向，内侧为负号",
       "created_at": "2025-12-07 20:48:55",
@@ -115540,7 +116037,7 @@ const COMMENTS_DB = {
       "user_name": "。"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "注意方向和对称性的应用！！",
       "created_at": "2025-11-24 11:38:23",
@@ -115696,7 +116193,7 @@ const COMMENTS_DB = {
       "user_name": "小羊咩咩"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4mmF64RVTzwL9KJJaWTx95eT14eEHl1HrsEKyVVibduLxz7qibL7QcQEHewCPMias0iabibqc31O0CiacPUJj5hlXOOFSyMETT24lmEhicu54D3xhI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4mmF64RVTzwL9KJJaWTx95eT14eEHl1HrsEKyVVibduLxz7qibL7QcQGTJbeiae5UibibMZzU2SgpQ1bQttE9MxibLP8A3JwvyxCiaOxCgojickoSyI/132",
       "can_delete": null,
       "content": "补面后判断朝向，高斯公式内负外正，",
       "created_at": "2025-11-16 10:10:21",
@@ -115707,7 +116204,7 @@ const COMMENTS_DB = {
       "user_name": "樊特希"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "上册下册",
       "created_at": "2025-11-16 08:47:49",
@@ -115729,7 +116226,7 @@ const COMMENTS_DB = {
       "user_name": "飞跃oy7TFG"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4mmF64RVTzwL9KJJaWTx95eT14eEHl1HrsEKyVVibduLxz7qibL7QcQEHewCPMias0iabibqc31O0CiacPUJj5hlXOOFSyMETT24lmEhicu54D3xhI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4mmF64RVTzwL9KJJaWTx95eT14eEHl1HrsEKyVVibduLxz7qibL7QcQGTJbeiae5UibibMZzU2SgpQ1bQttE9MxibLP8A3JwvyxCiaOxCgojickoSyI/132",
       "can_delete": null,
       "content": "计算一定要仔细！",
       "created_at": "2025-11-15 16:48:10",
@@ -116353,7 +116850,7 @@ const COMMENTS_DB = {
       "user_name": "静心闻鸟鸣"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKkX0PBFibm5X31qEtNLRWjtk6WG6qicyPCvMXBEgxiabkAF5FfTw0eR9djWQ4cHzY67HhzmltvJxCDIUGsvsoxpictB3kQ9eS9rvJwAw7RqEreTw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/s8ibicJiawpc9kgqs27NRASENoicbRTWYnDU7y7WPup5r8icSTTzqO4vPVXdbhPQKL00h6icqLeRk8pa2ynlpmUd6ZuyxRjD9QpGTO15eXswFQZfs/132",
       "can_delete": null,
       "content": "辛钦大数定律",
       "created_at": "2025-12-03 20:27:19",
@@ -116611,7 +117108,7 @@ const COMMENTS_DB = {
       "user_name": "yyy"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "0",
       "created_at": "2025-12-09 17:41:47",
@@ -116776,7 +117273,7 @@ const COMMENTS_DB = {
       "user_name": "spark"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "导数定义以及隐函数求导",
       "created_at": "2025-11-03 15:37:05",
@@ -117679,7 +118176,7 @@ const COMMENTS_DB = {
       "user_name": "杲"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "求导不能错",
       "created_at": "2025-11-12 15:04:54",
@@ -117702,6 +118199,30 @@ const COMMENTS_DB = {
     }
   ],
   "1561": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "二刷没想到-A转置以及A伴随的行列式和A的行列式的值的关系。",
+      "created_at": "2026-07-16 15:29:10",
+      "id": 40010,
+      "likes": 0,
+      "replies": [
+        {
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+          "can_delete": null,
+          "content": "还要判断A的行列式取1还是0，行列式展开定理，结合A非零，判断A的行列式非零",
+          "created_at": "2026-07-16 15:31:07",
+          "id": 40011,
+          "likes": 0,
+          "parent_id": 40010,
+          "reply_to_user": null,
+          "student_id": 39865,
+          "user_name": "韭菜大王"
+        }
+      ],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "uploads/avatars/avatar_6152_90d41c5da5a2481195a2b5c1ddb7d20a.jpg",
       "can_delete": null,
@@ -117881,7 +118402,7 @@ const COMMENTS_DB = {
       "user_name": "sunday morning"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "有任意元素非0时，行列式的值都不为0",
       "created_at": "2025-11-24 21:12:38",
@@ -118435,6 +118956,17 @@ const COMMENTS_DB = {
     }
   ],
   "1563": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8oQ7n5tkeHtUoicVBDTWGVyRickcvEz5siarPqrGYSIATzTDau204K92SGI3vQC1vFpUntF0dpu2IPbErOXxGbZviawf8pGJjx0ESiaIia9rKrJow/132",
+      "can_delete": null,
+      "content": "二重积分、分部积分，两种方法",
+      "created_at": "2026-07-26 23:06:45",
+      "id": 40061,
+      "likes": 0,
+      "replies": [],
+      "student_id": 580,
+      "user_name": "活在当下"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erS8PuPtVFxHHytaItH4qKPUH6aoNyoQkZialO5QeqpkqorRf2akmrVe2uMuibhricbq6t5CNnxdb6ZQ/132",
       "can_delete": null,
@@ -119006,7 +119538,7 @@ const COMMENTS_DB = {
       "user_name": "Estero"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "特殊值解决",
       "created_at": "2025-11-03 15:32:45",
@@ -119049,7 +119581,7 @@ const COMMENTS_DB = {
       "content": "easy come, easy go",
       "created_at": "2025-12-17 18:07:39",
       "id": 38827,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 33003,
       "user_name": "Spike"
@@ -119132,7 +119664,7 @@ const COMMENTS_DB = {
       "user_name": "Geralt"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZVq2MZ3u9lxTtTkEC8dSgXsdm95YyzWk5RML6zVpxJgiaicWtpzwwUVyf3djkYNTbeBo/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZW2Qy0kzv9c0EvE5MXlFbQYmeH3yAXubzgw9Zia3fiaBwZvVyGiaI4e5lDd1Fiayh2Jrnc/132",
       "can_delete": null,
       "content": "思考用迹的做法！李林今年六套卷出了几套与迹有关的题目！到时候一起汇总一下",
       "created_at": "2025-12-08 12:52:03",
@@ -119367,7 +119899,7 @@ const COMMENTS_DB = {
       "user_name": "X.D"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "写成方程形式",
       "created_at": "2025-11-19 09:46:31",
@@ -119546,6 +120078,17 @@ const COMMENTS_DB = {
     }
   ],
   "1570": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "第二问这种简单的分类还是可以瞪眼看出的",
+      "created_at": "2026-07-18 14:19:10",
+      "id": 40015,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
@@ -120424,7 +120967,7 @@ const COMMENTS_DB = {
           "user_name": "yyy打正着"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
           "can_delete": null,
           "content": "高山看海",
           "created_at": "2025-11-21 09:55:25",
@@ -120972,7 +121515,7 @@ const COMMENTS_DB = {
       "user_name": "ha0nesy"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxLlXASCz1RNsUkZLOWBQicQUzYU2wFXUnAJ3BG61lg5CDHq15vx6bXes/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxCb0tmEfgRCT1icGMp9EibElPe0OAqQ2ctNAhuq2gI7E5FkmIKfa4icHuQ/132",
       "can_delete": null,
       "content": "本题应该直接能写出",
       "created_at": "2025-11-05 20:30:28",
@@ -121356,7 +121899,7 @@ const COMMENTS_DB = {
       "user_name": "一笑"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "先求铅直渐近线 然后求水平渐近线 最后求斜渐近线 注意趋于正负无穷",
       "created_at": "2025-11-05 09:36:38",
@@ -121803,7 +122346,7 @@ const COMMENTS_DB = {
           "user_name": "啊呀是阿鸭吖！"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
           "can_delete": null,
           "content": "活人+1",
           "created_at": "2025-11-17 21:36:35",
@@ -121854,7 +122397,7 @@ const COMMENTS_DB = {
       "user_name": "不注重细节的Nike"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "求解旋转曲面方程 1.曲线上找一点M0（x0y0z0），纬圆上找一点P（xyz），轴上找一点M（x1y1z1）2.有M0P垂直于轴线  3.|MP|=|M0M|  4.代入曲线方程消去x0y0z0解得xyz关系即为曲面方程",
       "created_at": "2025-11-07 11:39:29",
@@ -121862,7 +122405,7 @@ const COMMENTS_DB = {
       "likes": 4,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
           "can_delete": null,
           "content": "特别的绕z轴，x=x（z），y=y（z）绕z轴旋转一周的曲线方程为x方+y方=x（z）方+y（z）方",
           "created_at": "2025-11-07 11:40:32",
@@ -121949,6 +122492,17 @@ const COMMENTS_DB = {
     }
   ],
   "1530": [
+    {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "带选项挨个看最快，ab第一行没法表示，d第一行为0第二行不可能为1",
+      "created_at": "2026-06-23 15:06:27",
+      "id": 39899,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "安生"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/KHkscLzp6uHBj1NaibUHiaFrRia5A4p3yYNhuq3lGWKUgVeC7TBrDgIDlA4AaXtQoobOgzrhqmGXvpFDSuE5OT1NJ5WW7jv3hrELLtoXGrEF8E/132",
       "can_delete": null,
@@ -122471,7 +123025,7 @@ const COMMENTS_DB = {
       "user_name": "学数学的孙哥"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVTX03U8rRygpF88DBKP9wn4LqMNZTP5nkcKicGRz8aMQnfHbPp3qMuDX0CnXX5ia4j4w/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/vDKceiaNjGicCOfvL9MqGZQKH5dEFCJ5DiaibGPFYUFaqVScibtchIHics09OY6rBbjKRgkibO96R8LhxgsQUKhSdicXIaaqibmbLqrXFNLwuaAzt4FM/132",
       "can_delete": null,
       "content": "fxy比上x²＋y²存在，说明fxy是他的同阶或高阶无穷小，那么可微判别式中的rou一定比fxy低阶，故可微判别式等于0，可微",
       "created_at": "2025-12-03 10:54:11",
@@ -123228,7 +123782,7 @@ const COMMENTS_DB = {
       "user_name": "亚当夏娃"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "代入",
       "created_at": "2025-11-24 21:19:36",
@@ -123696,7 +124250,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "伽玛函数",
       "created_at": "2025-11-09 17:12:11",
@@ -123944,7 +124498,7 @@ const COMMENTS_DB = {
       "user_name": "野草"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJJbLdn4Ch6nHx75qd4ws4xWib0HI6gzZWCd0EcvXl4zicEw3LcibImIELdGFZ8bQU6OibfasXVjSklu62pg4MoDoIypSgrUtJjHUVjNDbeWBFk1g/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PYPcl9BcsoiaNHI6F30vbhSHic5jGoVcGWHl24xGCTKPVJcJia7MnQ08DbWCHIAd7ZbQibKydicI7NqzjNEVl8riahLSTuCy5tXicNoEdnSunH154Y/132",
       "can_delete": null,
       "content": "cosγds=dxdy",
       "created_at": "2025-11-05 09:53:37",
@@ -124816,7 +125370,7 @@ const COMMENTS_DB = {
       "user_name": "芝芝士学爆"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "换元+分部积分",
       "created_at": "2025-11-05 15:26:35",
@@ -125163,7 +125717,7 @@ const COMMENTS_DB = {
       "user_name": "白空"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "偶函数，二次求导判断单调性",
       "created_at": "2025-11-09 10:15:03",
@@ -125757,6 +126311,17 @@ const COMMENTS_DB = {
   ],
   "1546": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "正交变换必须单位化，不单位化所得的对角矩阵主对角线元素特征值会以不同特征向量的模长平方倍变化",
+      "created_at": "2026-07-16 13:27:44",
+      "id": 40005,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
       "content": "秒…秒了",
@@ -126184,7 +126749,7 @@ const COMMENTS_DB = {
       "user_name": "Wonder汪"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZVq2MZ3u9lxTtTkEC8dSgXsdm95YyzWk5RML6zVpxJgiaicWtpzwwUVyf3djkYNTbeBo/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZW2Qy0kzv9c0EvE5MXlFbQYmeH3yAXubzgw9Zia3fiaBwZvVyGiaI4e5lDd1Fiayh2Jrnc/132",
       "can_delete": null,
       "content": "含参方程组解情况的问题，都可以用化行阶梯型去看秩，化成行阶梯最终的秩将会很明显",
       "created_at": "2025-12-08 12:55:18",
@@ -126889,6 +127454,28 @@ const COMMENTS_DB = {
   ],
   "1544": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "2刷第一反应是参数方程，太难算，格林公式省时间",
+      "created_at": "2026-07-16 14:11:47",
+      "id": 40008,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "格林公式补线",
+      "created_at": "2026-07-02 22:53:37",
+      "id": 39936,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
       "content": "格林公式",
@@ -126944,7 +127531,7 @@ const COMMENTS_DB = {
       "user_name": "瑠璃の鳥"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7qbBr7CeLMNhAEP6xEPpvD0rvnArNGXl3lic47EQOSYe38iauGOgwgic5S9IKBIzB2AE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wuDiahSAG6G6A2AnuteH4zLFbicB6n2mb1k7CJ9Al0O4QCVouicMaS61L6SYfQcLCWia2aGlqQv4Eve1UD1kL6eEI5OUhHq42bnmyE/132",
       "can_delete": null,
       "content": "常规第二类平面曲线积分：补线 格林",
       "created_at": "2025-12-06 15:29:47",
@@ -127412,6 +127999,17 @@ const COMMENTS_DB = {
   ],
   "1504": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
+      "can_delete": null,
+      "content": "无界发散",
+      "created_at": "2026-07-07 14:54:59",
+      "id": 39945,
+      "likes": 0,
+      "replies": [],
+      "student_id": 3302,
+      "user_name": "薛定谔的圆子"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
       "content": "2",
@@ -127580,6 +128178,17 @@ const COMMENTS_DB = {
     }
   ],
   "1543": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "2刷忘记secx积分公式，以及参数式的积分面积计算几何的理解不够",
+      "created_at": "2026-07-16 13:55:54",
+      "id": 40007,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4nCuoYSEelQDJFzfhgqbaaicqAbMXYh2iaXaPUSAvX24c45CYhKvORb1ic0ISibg4NVarRdKeiaXDhUoyqGyqKkB9Al2lkuWIk6m1XTypMqe2gjQ/132",
       "can_delete": null,
@@ -128095,7 +128704,7 @@ const COMMENTS_DB = {
       "user_name": "超越dwChnf"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "老老实实算",
       "created_at": "2025-11-24 18:02:43",
@@ -128286,6 +128895,17 @@ const COMMENTS_DB = {
   ],
   "1507": [
     {
+      "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+      "can_delete": null,
+      "content": "初等变换取逆就是还原的操作",
+      "created_at": "2026-06-10 19:17:26",
+      "id": 39886,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39735,
+      "user_name": "安生"
+    },
+    {
       "avatar_url": "uploads/avatars/avatar_8189_c3080d832660469085ec970b029e4308.jpg",
       "can_delete": null,
       "content": "互换自己是自己的逆",
@@ -128308,7 +128928,7 @@ const COMMENTS_DB = {
       "user_name": "Geek."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "注意选项与题目条件对应",
       "created_at": "2025-12-11 10:37:09",
@@ -128475,7 +129095,7 @@ const COMMENTS_DB = {
       "user_name": "Strelitzia"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "左乘做行变换，右乘做列变换",
       "created_at": "2025-11-05 10:34:54",
@@ -128483,7 +129103,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
           "can_delete": null,
           "content": "交换逆本身，数乘逆倒数，行列变换逆相反数",
           "created_at": "2025-11-05 10:39:11",
@@ -128602,7 +129222,7 @@ const COMMENTS_DB = {
       "user_name": "twelve"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_16132_8c4a49ecdadf43429b3f8af4f3d2f728.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/E53icp1gSWbjvdKmSAW0we9Hrkz5g3tOd5u3Mkrgfz1BhkGEtdA32IOvLljkXLCMbhM7180TcQDARchyVHgtfTRIV3kcotsSUUWhXg9WCT4A/132",
       "can_delete": null,
       "content": "弧长公式",
       "created_at": "2025-11-13 17:20:03",
@@ -128624,7 +129244,7 @@ const COMMENTS_DB = {
       "user_name": "leaf"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "弧长公式秒了",
       "created_at": "2025-11-07 08:58:27",
@@ -128635,7 +129255,7 @@ const COMMENTS_DB = {
       "user_name": "easymoneysniper"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "割积对加切，余多负号",
       "created_at": "2025-11-05 10:43:04",
@@ -129032,7 +129652,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "我感觉还是用那个 罗尔定理 沉鱼落雁来的快（可惜这种题考的少 太套路了）",
       "created_at": "2025-11-30 13:59:45",
@@ -129180,7 +129800,7 @@ const COMMENTS_DB = {
       "content": "这个题考查拐点处 二介导等于0但三介导不等于0 ，1和2二介导不等于零 3和4二介导等于0 但4的三介导也等于0",
       "created_at": "2025-11-08 16:53:43",
       "id": 4523,
-      "likes": 2,
+      "likes": 3,
       "replies": [],
       "student_id": 11757,
       "user_name": "在哪？"
@@ -129254,7 +129874,7 @@ const COMMENTS_DB = {
       "user_name": "不注重细节的Nike"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "奇数次拐点 偶数次极值点",
       "created_at": "2025-11-05 10:32:33",
@@ -129290,7 +129910,7 @@ const COMMENTS_DB = {
       "user_name": "早悟兰因"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "穿线法：最高次项为偶数，从上往下；最高次项为奇数，从下往上，从右往左，奇传偶不传；",
       "created_at": "2025-11-05 10:31:50",
@@ -129301,7 +129921,7 @@ const COMMENTS_DB = {
       "user_name": "早悟兰因"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "分解法",
       "created_at": "2025-11-05 09:35:01",
@@ -129312,7 +129932,7 @@ const COMMENTS_DB = {
       "user_name": "easymoneysniper"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "拐点：凹凸性改变的点 必要性：某点是拐点=>该点二阶导等于0，或不存在。 充分性：二阶导=0且三阶导≠0 或者 x=x0处连续，二阶导在左右去心邻域异号 =>该点是拐点",
       "created_at": "2025-11-05 09:32:39",
@@ -129468,7 +130088,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "给的这几个选项也就d能积分了 其他都记不了",
       "created_at": "2025-11-30 14:05:38",
@@ -129572,6 +130192,17 @@ const COMMENTS_DB = {
     }
   ],
   "1508": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "1基础解系没反应过来",
+      "created_at": "2026-06-30 10:56:37",
+      "id": 39923,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
@@ -129742,7 +130373,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "这个题好综合 好题！单看选项1 3不共存 Ac排了 B D的话考虑解的个数 也就是再问A伴随的秩 转化成找A的秩 又A只有1个解向量A秩为三 伴随就为1",
       "created_at": "2025-11-30 14:04:06",
@@ -130238,7 +130869,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "感觉解参数的题百分之九十都是考行列式等于0（扣手，万一考场上实在没思路了拉个行列式等于0解出来说不定还有5分 2025好像也是行列式等于0来定那个参数的）",
       "created_at": "2025-11-30 14:09:31",
@@ -130246,7 +130877,7 @@ const COMMENTS_DB = {
       "likes": 3,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
           "can_delete": null,
           "content": "查了一下是2025第15题 nice",
           "created_at": "2025-11-30 14:14:10",
@@ -130297,7 +130928,7 @@ const COMMENTS_DB = {
       "user_name": "突破FmfO3A"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_16132_8c4a49ecdadf43429b3f8af4f3d2f728.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/E53icp1gSWbjvdKmSAW0we9Hrkz5g3tOd5u3Mkrgfz1BhkGEtdA32IOvLljkXLCMbhM7180TcQDARchyVHgtfTRIV3kcotsSUUWhXg9WCT4A/132",
       "can_delete": null,
       "content": "正交不改变矩阵的秩",
       "created_at": "2025-11-13 17:21:11",
@@ -130409,7 +131040,7 @@ const COMMENTS_DB = {
       "user_name": "风凌"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "方差是什么知道",
       "created_at": "2025-11-10 10:09:09",
@@ -130756,7 +131387,7 @@ const COMMENTS_DB = {
       "user_name": "啦啦啦"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJJbLdn4Ch6nHx75qd4ws4xWib0HI6gzZWCd0EcvXl4zicEw3LcibImIELdGFZ8bQU6OibfasXVjSklu62pg4MoDoIypSgrUtJjHUVjNDbeWBFk1g/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PYPcl9BcsoiaNHI6F30vbhSHic5jGoVcGWHl24xGCTKPVJcJia7MnQ08DbWCHIAd7ZbQibKydicI7NqzjNEVl8riahLSTuCy5tXicNoEdnSunH154Y/132",
       "can_delete": null,
       "content": "带坐标",
       "created_at": "2025-12-02 22:03:42",
@@ -130822,7 +131453,7 @@ const COMMENTS_DB = {
       "user_name": "拼搏X1vypl"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "写11且不能粗心",
       "created_at": "2025-11-12 14:30:15",
@@ -131158,7 +131789,7 @@ const COMMENTS_DB = {
       "user_name": "🌳"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "最爱斯托克斯的一集 因为用参数也积了 算的头疼",
       "created_at": "2025-11-30 14:07:03",
@@ -131435,7 +132066,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "1.降维消去z，投影到xoy，再用格林公式或参数方程求解。2.斯托克斯化为二面，转换投影定理化为xoy的二重积分。",
       "created_at": "2025-11-05 11:05:09",
@@ -131607,7 +132238,7 @@ const COMMENTS_DB = {
       "user_name": "卤蛋rr"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKkX0PBFibm5X31qEtNLRWjtk6WG6qicyPCvMXBEgxiabkAF5FfTw0eR9djWQ4cHzY67HhzmltvJxCDIUGsvsoxpictB3kQ9eS9rvJwAw7RqEreTw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/s8ibicJiawpc9kgqs27NRASENoicbRTWYnDU7y7WPup5r8icSTTzqO4vPVXdbhPQKL00h6icqLeRk8pa2ynlpmUd6ZuyxRjD9QpGTO15eXswFQZfs/132",
       "can_delete": null,
       "content": "分离参数要单独考虑x=0",
       "created_at": "2025-11-28 20:10:09",
@@ -131673,7 +132304,7 @@ const COMMENTS_DB = {
       "user_name": "橘"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_16132_8c4a49ecdadf43429b3f8af4f3d2f728.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/E53icp1gSWbjvdKmSAW0we9Hrkz5g3tOd5u3Mkrgfz1BhkGEtdA32IOvLljkXLCMbhM7180TcQDARchyVHgtfTRIV3kcotsSUUWhXg9WCT4A/132",
       "can_delete": null,
       "content": "证明",
       "created_at": "2025-11-13 17:36:55",
@@ -131766,7 +132397,7 @@ const COMMENTS_DB = {
       "user_name": "不注重细节的Nike"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "像高中题",
       "created_at": "2025-11-05 09:52:44",
@@ -131789,6 +132420,28 @@ const COMMENTS_DB = {
     }
   ],
   "1517": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEIvL7SV9NKtR0OBr5yb0aJQNczy4rYZhvxg1QfSomYRVxhSCzVbSrvq52iaHwthkjWn7wwDOM81J2TH2307WxhmXSBOEsFrh4Fb3mlbrh1ZXfQ/132",
+      "can_delete": null,
+      "content": "最爽的十分",
+      "created_at": "2026-07-13 22:52:08",
+      "id": 39987,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41831,
+      "user_name": "子闲"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PCPJOWQGXHYx9O4aYDKCYdzW5iaYWsKLOI5e2G8aBp12tzVTm1Id3yfTAs9XMibN9eDvA6Omd7n6j39sUuFiaLXd86ibakDXSJn3RlDrHgP8420/132",
+      "can_delete": null,
+      "content": "1^∞，等于e^lim(指数×(底数-1))",
+      "created_at": "2026-07-09 15:51:47",
+      "id": 39954,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42296,
+      "user_name": "Ridge"
+    },
     {
       "avatar_url": "avatar://seed/15814459590",
       "can_delete": null,
@@ -132090,7 +132743,7 @@ const COMMENTS_DB = {
       "user_name": "财神爷的独生女"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "泰勒",
       "created_at": "2025-11-03 14:32:10",
@@ -132246,7 +132899,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "给的条件要用上必须，不能想当然",
       "created_at": "2025-11-10 10:18:33",
@@ -132280,6 +132933,17 @@ const COMMENTS_DB = {
     }
   ],
   "1522": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "线性表示写增广矩阵",
+      "created_at": "2026-07-16 13:28:49",
+      "id": 40006,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/r1gH4hMQrrKtibfIcPXkiaJKOXiayogekaK4ouZgWlic3raZOjeriaFicY7X7dXzkayDEibyusagTsZN5EprJUB5ewicpxNyYYRoNEepkRb42TZUyRI/132",
       "can_delete": null,
@@ -132784,7 +133448,7 @@ const COMMENTS_DB = {
       "user_name": "😶"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "第一问辅助函数，第二问单调有界",
       "created_at": "2025-11-08 17:35:57",
@@ -133042,7 +133706,7 @@ const COMMENTS_DB = {
       "user_name": "10701"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxLlXASCz1RNsUkZLOWBQicQUzYU2wFXUnAJ3BG61lg5CDHq15vx6bXes/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxCb0tmEfgRCT1icGMp9EibElPe0OAqQ2ctNAhuq2gI7E5FkmIKfa4icHuQ/132",
       "can_delete": null,
       "content": "明显cd2选一，重点看是正负号，易错",
       "created_at": "2025-11-05 09:50:54",
@@ -133053,7 +133717,7 @@ const COMMENTS_DB = {
       "user_name": "枫宇."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "漏个负号呜呜",
       "created_at": "2025-11-04 22:34:07",
@@ -133077,7 +133741,7 @@ const COMMENTS_DB = {
       "user_name": "柚子盐"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/5KibYqQWG8ibVYQNIvuFw00pyZZwnemAeaxNL9tqv3VjPnveEw93xTjYLXYmKE9vBIA2SUosewcFJg8bd91K9ewg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4LHaT1icgMPuxeYNZaMMkKhPqIFcbxibfoMVib8kNjD0oNIQVyDfkWpcmjsthosz8icSd9X549ENreazjszMYguKbT/132",
       "can_delete": null,
       "content": "加一减一",
       "created_at": "2025-11-03 17:09:58",
@@ -133168,6 +133832,17 @@ const COMMENTS_DB = {
     }
   ],
   "1481": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/njwaSUP5DiabwiaKFqDgPGWOeCngvteJpr7F3icte3wGP8zpvQXmuB4LJwyAz5zOOcmcaBfFyExX2bicXOBmVZ62KINmEzl9OYibyutQeP1S9vyk/132",
+      "can_delete": null,
+      "content": "齐次函数的欧拉定理",
+      "created_at": "2026-07-23 21:47:37",
+      "id": 40035,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41319,
+      "user_name": "白菰"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4nCuoYSEelQDJFzfhgqbaaicqAbMXYh2iaXaPUSAvX24c45CYhKvORb1ic0ISibg4NVarRdKeiaXDhUoyqGyqKkB9Al2lkuWIk6m1XTypMqe2gjQ/132",
       "can_delete": null,
@@ -133409,7 +134084,7 @@ const COMMENTS_DB = {
       "content": "转化卡方思路",
       "created_at": "2025-12-18 13:02:18",
       "id": 39299,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 4400,
       "user_name": "上市公司高冷总裁别招惹"
@@ -133809,7 +134484,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "见到平方凑卡方",
       "created_at": "2025-11-05 11:28:58",
@@ -134439,7 +135114,7 @@ const COMMENTS_DB = {
       "user_name": "Grew"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "欸我 这题我可太有发言权了 AB=E  秩越乘越小 说明m是小的那个数，又秩小于等于下标最小数AB秩序都为m了\n缩小可能满秩 膨胀必不满秩",
       "created_at": "2025-11-30 13:55:53",
@@ -135002,7 +135677,7 @@ const COMMENTS_DB = {
       "user_name": "半秋"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJJbLdn4Ch6nHx75qd4ws4xWib0HI6gzZWCd0EcvXl4zicEw3LcibImIELdGFZ8bQU6OibfasXVjSklu62pg4MoDoIypSgrUtJjHUVjNDbeWBFk1g/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PYPcl9BcsoiaNHI6F30vbhSHic5jGoVcGWHl24xGCTKPVJcJia7MnQ08DbWCHIAd7ZbQibKydicI7NqzjNEVl8riahLSTuCy5tXicNoEdnSunH154Y/132",
       "can_delete": null,
       "content": "最后只剩a，豁然开朗😋",
       "created_at": "2025-11-06 11:56:32",
@@ -136083,7 +136758,7 @@ const COMMENTS_DB = {
       "user_name": "豆腐"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "转换",
       "created_at": "2025-11-07 08:32:40",
@@ -136518,7 +137193,7 @@ const COMMENTS_DB = {
       "user_name": "正面男生（不约版）"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsAWC2tblyeUNlSyXOeiccV7icLVJEbQkrjDFGicMjn65OOWWSE1JLeM3XDbeJeCIuogT2qfJxFUBegLCMd0tXdicC6SU/132",
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
       "can_delete": null,
       "content": "换限注意",
       "created_at": "2025-11-30 17:19:41",
@@ -137184,6 +137859,17 @@ const COMMENTS_DB = {
   ],
   "1496": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "第一问条件要会用",
+      "created_at": "2026-06-28 16:19:37",
+      "id": 39922,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erS8PuPtVFxHHytaItH4qKPUH6aoNyoQkZialO5QeqpkqorRf2akmrVe2uMuibhricbq6t5CNnxdb6ZQ/132",
       "can_delete": null,
       "content": "切记，大题目两问是相互联系的。",
@@ -137507,7 +138193,7 @@ const COMMENTS_DB = {
       "user_name": "橘"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "形心！",
       "created_at": "2025-11-14 09:55:54",
@@ -137603,7 +138289,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJJbLdn4Ch6nHx75qd4ws4xWib0HI6gzZWCd0EcvXl4zicEw3LcibImIELdGFZ8bQU6OibfasXVjSklu62pg4MoDoIypSgrUtJjHUVjNDbeWBFk1g/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PYPcl9BcsoiaNHI6F30vbhSHic5jGoVcGWHl24xGCTKPVJcJia7MnQ08DbWCHIAd7ZbQibKydicI7NqzjNEVl8riahLSTuCy5tXicNoEdnSunH154Y/132",
           "can_delete": null,
           "content": "面积直接等于Πz就行吧",
           "created_at": "2025-11-05 09:30:01",
@@ -137722,7 +138408,7 @@ const COMMENTS_DB = {
       "user_name": "yyy"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM7DQEBThgkPP49FFNduB6N2yh7HqzOfPO8KQsh86lqAWm2YFmMBfgk8eOx1NiaSicbFP5xVU90Hu2Zw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLDerJTwpzwvf7oTL0vFibrEWMTEfflNicFubSK34VxicWLulHCFB9Gic4etLZD37YWia7NF1jjnwaL6IUg/132",
       "can_delete": null,
       "content": "可以带着变上限进行计算",
       "created_at": "2025-12-09 18:02:49",
@@ -138216,7 +138902,7 @@ const COMMENTS_DB = {
       "user_name": "卤蛋rr"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZVq2MZ3u9lxTtTkEC8dSgXsdm95YyzWk5RML6zVpxJgiaicWtpzwwUVyf3djkYNTbeBo/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rkPlX6T4KDmE2CfFXdcvjjPLC5q0F2kicAuCloZ2nJZW2Qy0kzv9c0EvE5MXlFbQYmeH3yAXubzgw9Zia3fiaBwZvVyGiaI4e5lDd1Fiayh2Jrnc/132",
       "can_delete": null,
       "content": "这种有非齐次线性方程组有解问题，一定要齐次和非齐次一起看！有解但不唯一，做初等行变换去做，即r(A) = r(A,b)",
       "created_at": "2025-12-08 14:09:40",
@@ -138282,7 +138968,7 @@ const COMMENTS_DB = {
       "user_name": "求知Flr20V"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvaqCObgok95gvku0pemnibAlVbiaQicTFbNTLlVb0t9lgyYlCPLLnqgBqy1pU9AJzTVA9Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bfaKLIricIhNUxovZFuPxRoubkMBHj69KatYt3tiaQvapCbutUr7vqChuFa0jfdIKv6qwY3xTicrRxTWW12XIQB6o2w4maNpEny98Tic4GOiamSI/132",
       "can_delete": null,
       "content": "两式相减不乘负号",
       "created_at": "2025-11-23 20:08:55",
@@ -138944,7 +139630,7 @@ const COMMENTS_DB = {
       "user_name": "ㅤ"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "还可以概率求和为一",
       "created_at": "2025-11-10 09:57:21",
@@ -139432,6 +140118,17 @@ const COMMENTS_DB = {
   ],
   "1458": [
     {
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
+      "can_delete": null,
+      "content": "1.积分区域正负对积分值的影响",
+      "created_at": "2026-07-12 17:01:30",
+      "id": 39973,
+      "likes": 0,
+      "replies": [],
+      "student_id": 12282,
+      "user_name": "shadow"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
       "content": "对称性",
@@ -139478,7 +140175,7 @@ const COMMENTS_DB = {
       "user_name": "X"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "从体积角度来理解的话 1和3同底 一个高为正一个高为负",
       "created_at": "2025-11-30 13:16:32",
@@ -139658,7 +140355,7 @@ const COMMENTS_DB = {
       "user_name": "啊呀是阿鸭吖！"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxLlXASCz1RNsUkZLOWBQicQUzYU2wFXUnAJ3BG61lg5CDHq15vx6bXes/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/VZdRzyjRcVPtYIPUX5hoKJaRicTmqfP3Y8AJPibKbIvkgXv3ibPqbviaxCb0tmEfgRCT1icGMp9EibElPe0OAqQ2ctNAhuq2gI7E5FkmIKfa4icHuQ/132",
       "can_delete": null,
       "content": "值都是一样的，重点验证正负号",
       "created_at": "2025-11-05 09:55:18",
@@ -139760,6 +140457,17 @@ const COMMENTS_DB = {
     }
   ],
   "1501": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "伽马函数固定值记得不牢，（-1/2）！=根号π",
+      "created_at": "2026-06-27 10:03:51",
+      "id": 39915,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
@@ -140298,7 +141006,7 @@ const COMMENTS_DB = {
       "user_name": "唔哈哈"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "新基=旧基x C(过渡）",
       "created_at": "2025-11-12 16:12:32",
@@ -140410,7 +141118,7 @@ const COMMENTS_DB = {
       "user_name": "前进RbkGOo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "没想到a乘伴随  分块也能用 好好好 那就直接把伴随用逆表示出来，逆的分块主对角直接取逆 副对角倒着排列再取逆",
       "created_at": "2025-11-30 13:37:48",
@@ -140487,7 +141195,7 @@ const COMMENTS_DB = {
       "user_name": "环抱小熊玩偶"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "公式记熟",
       "created_at": "2025-11-18 15:28:34",
@@ -140599,7 +141307,7 @@ const COMMENTS_DB = {
       "user_name": "777"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "定义太难搞了 还是看面积来的快，x左侧是负的正面积，0 1是正的负面积，1 2夫面积减小 正面积增大 2 3不变了 然后面积对应Fx变化就是 －－ 1 2 （负转正）23不变",
       "created_at": "2025-11-30 13:24:41",
@@ -140709,7 +141417,7 @@ const COMMENTS_DB = {
       "user_name": "Mik_"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "代值",
       "created_at": "2025-11-12 08:10:45",
@@ -140742,7 +141450,7 @@ const COMMENTS_DB = {
       "user_name": "橘"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "变限积分原函数存在必可导",
       "created_at": "2025-11-07 08:27:19",
@@ -140835,6 +141543,17 @@ const COMMENTS_DB = {
     }
   ],
   "1460": [
+    {
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
+      "can_delete": null,
+      "content": "1，比较标尺确立\n2.反例的举例",
+      "created_at": "2026-07-12 17:04:24",
+      "id": 39974,
+      "likes": 0,
+      "replies": [],
+      "student_id": 12282,
+      "user_name": "shadow"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXVXzKSuRwloicRFJHtsgFicZ8o4VQDwQbfHaH1mA6ribV1vPE19kshYLtUEAVlvt89YOfsWDzG2Bp4ibqia5tMqhlqnc/132",
       "can_delete": null,
@@ -140968,7 +141687,7 @@ const COMMENTS_DB = {
       "user_name": "前进RbkGOo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "这题反例太好举了 次数高的很容易收敛 次数低的很容易发散AD排除 剩B用祖传1/n 秒选C 了",
       "created_at": "2025-11-30 13:31:00",
@@ -141184,6 +141903,17 @@ const COMMENTS_DB = {
     }
   ],
   "1502": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "二项分布变形不熟练，无偏估计量也是求期望",
+      "created_at": "2026-06-27 10:04:44",
+      "id": 39916,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
@@ -141668,6 +142398,17 @@ const COMMENTS_DB = {
   ],
   "1464": [
     {
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
+      "can_delete": null,
+      "content": "2.分布函数确立",
+      "created_at": "2026-07-12 17:05:33",
+      "id": 39975,
+      "likes": 0,
+      "replies": [],
+      "student_id": 12282,
+      "user_name": "shadow"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HqApQmTVphloEOdB6nBhOtsKRaF0Nyss3HiavaM90KlImxA9d8FUwnbYWdO3GjzcYHzb7Z3OWGGmx22sfA5TLDokRoGeaZK89BT18FlDIouY/132",
       "can_delete": null,
       "content": "在0处会突变一下",
@@ -141767,7 +142508,7 @@ const COMMENTS_DB = {
       "user_name": "心不畏死，踏屍前行"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "注意z的定义域是全体实数  靠 学多了老容易忘记讨论负无穷那块 标记一下",
       "created_at": "2025-11-30 13:42:53",
@@ -141823,6 +142564,17 @@ const COMMENTS_DB = {
     }
   ],
   "1498": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "别忘了满足曲线C的方程，投影到xOy不能只令z=0,y要代入y=2z",
+      "created_at": "2026-07-16 12:41:14",
+      "id": 40004,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/F5HLHhuOz6bpa4yX9LAw7fPF6uZa4p0odsBvnx1ZrCy8nbpicEFzrWfMibrhkCfBiaGoJV1uCzvDribbS9jE3Trfm4f8rmLV1QdrFxo0GDtzD0Q/132",
       "can_delete": null,
@@ -142130,7 +142882,7 @@ const COMMENTS_DB = {
       "user_name": "陈十六"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9uU3kpOnpEaO8p5gPROcKnFgs6Rb6qAicXfYia3ACXVbVnOtsJ3DWzPfVfZnSGh7Q8WVBjHOs7X5GcXibMibOpMvJtVVILYYecnicmUicsmibqJVO4/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKfOQK9z5aG9nf7hgCLX7dp6F5N8m43Vp2XC9vJVjY1nZR1Zh9EDyEnWj49o9iaRObXXGbdia3pp3M4F6152v72NxibsOptujKhglibwMRa8iaia8tA/132",
       "can_delete": null,
       "content": "好题",
       "created_at": "2025-12-03 17:44:37",
@@ -142658,7 +143410,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦kbbKip"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQdCAavPoG6XMozDfqxwiaGKeDD8WcngmztPicaRtaOf0S1R5KwSzwVIAZ2E79BdvU0uE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/js4VO1ssRlHo5w4knVXdgm8cGkTUNRfre8Wb3b9lWQd0ZTpPkfUKOianZiaJJ1OxHjCDXLoqZC6B2zXMevolC8Yl0q3oN6gMo87vtKtfLU0nU/132",
       "can_delete": null,
       "content": "dS=根号下（1+zx导方+zy导方）dxdy=根号下[（Fx导方+Fy导方+Fz导方）/Fz导方]",
       "created_at": "2025-11-05 09:51:04",
@@ -142712,7 +143464,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
           "can_delete": null,
           "content": "这题写不写都行，但要是求一个点比如（1，2）点的话 你得带进去写在括号里面",
           "created_at": "2025-11-30 13:44:17",
@@ -142750,7 +143502,7 @@ const COMMENTS_DB = {
       "user_name": "一笑"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "别忘了带撇",
       "created_at": "2025-11-12 14:01:12",
@@ -142805,7 +143557,7 @@ const COMMENTS_DB = {
       "user_name": "Vedder"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BlYGpyBedEMqa4kBa18coDX3L1CmmK6MwcZhHROx2c9f7ib4zZO1ichzJExpwoT23K7NBuHuKZl82XG7J0wxTnvn6zWd4fU6nU7TPzNaGA0NA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM50SIQ53ZreYYb46Q78OibtvicibXbrsbj7zfywOKP5O7A7T6aOpp2E8OuLyp6Ok1ia2WhXjlicvQVmj1FyAI2TODDBCIojIiaqFk5TcaOkekaXVshg/132",
       "can_delete": null,
       "content": "想了5分钟",
       "created_at": "2025-11-02 22:06:19",
@@ -143069,7 +143821,7 @@ const COMMENTS_DB = {
   ],
   "1467": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HcbpvOMM6OUR5AGD2F4ZkxI5EeuEUe8p48Bq5nO6lAbKNOfITeibcbnP8ncRpEp4AKgWSXxOQzGeGdzJntSeviaKyEQ2gGUPwKCAd5TA4kvx4/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HcbpvOMM6OUR5AGD2F4ZkxI5EeuEUe8p48Bq5nO6lAbJIrOIOWvsVrs8W8MyT34pPtcxCtL96B81EAshL1zE190c3VDM57LFZDpHA5ZcHXk/132",
       "can_delete": null,
       "content": "不要忘记减下限",
       "created_at": "2025-12-13 13:45:35",
@@ -143301,6 +144053,17 @@ const COMMENTS_DB = {
     }
   ],
   "1466": [
+    {
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
+      "can_delete": null,
+      "content": "微分方程如何确认特解",
+      "created_at": "2026-07-12 17:19:48",
+      "id": 39977,
+      "likes": 0,
+      "replies": [],
+      "student_id": 12282,
+      "user_name": "12312421"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
@@ -143550,6 +144313,17 @@ const COMMENTS_DB = {
   ],
   "1471": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "A正极小，A负极大，判别式：AC-B^2>0才有极值",
+      "created_at": "2026-06-27 11:28:27",
+      "id": 39918,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
       "content": "秒了",
@@ -143616,7 +144390,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "好优美的步骤 希望我的步骤也能写的如此清晰",
       "created_at": "2025-11-12 17:03:38",
@@ -143928,7 +144702,7 @@ const COMMENTS_DB = {
       "user_name": "啊呀是阿鸭吖！"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "无偏指E有效指D",
       "created_at": "2025-11-30 13:49:11",
@@ -143983,7 +144757,7 @@ const COMMENTS_DB = {
       "user_name": "风凌"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibJAVeQqNWh9catnTDqKXy2bd7voiaXtajT52BrQtMndg0icOvYa2f1sJEBiahFUprZia9I/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/BVrSXhCw49vU8LagxiclmsfLmLm5zSb7ZfwicXUquCVibIDvbPDe1bVJzicwiay9xOFekNBMc1gtrrVJRLjM8VO9EicGs6djFq1dsWUmU7g21eibVU/132",
       "can_delete": null,
       "content": "在计算过程中把k给约掉了可还行。。",
       "created_at": "2025-11-17 20:01:31",
@@ -144053,6 +144827,17 @@ const COMMENTS_DB = {
   ],
   "1474": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "1.构造导数=0；2.导数的定义和导数的极限是两个概念，已知0这一点的右极限=A（导数的极限），求0这一点的右导数（导数的定义），第一问提示拉格朗日，证明导数的定义=A得证",
+      "created_at": "2026-06-27 18:50:11",
+      "id": 39920,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKtyo7rJNtY0UY8d3yud5QIDUFZbdc7ZibFxySVPvFnPTlEmyRX0CaA08qicQeoNxgJpQOvxohgwSkQ/132",
       "can_delete": null,
       "content": "第一问，把原式的东西移到一边然后积分，构造 F(X)=[f(b)-f(a)]x-(b-a)f(x)，然后F(a)=F(b)，直接用罗尔定理就能得出结论",
@@ -144097,7 +144882,7 @@ const COMMENTS_DB = {
       "user_name": "肥嘟嘟左卫门"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "移项找原函数 用罗尔 f(a) f(b) 不过是系数罢了",
       "created_at": "2025-12-01 19:14:29",
@@ -144213,6 +144998,28 @@ const COMMENTS_DB = {
     }
   ],
   "1472": [
+    {
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
+      "can_delete": null,
+      "content": "1求数列和出发方向",
+      "created_at": "2026-07-12 17:32:16",
+      "id": 39978,
+      "likes": 0,
+      "replies": [],
+      "student_id": 12282,
+      "user_name": "12312421"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "泰勒展开没想到",
+      "created_at": "2026-06-27 15:43:34",
+      "id": 39919,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/szicbVlwME8N1XYwckmLiaJMIXniaWVBrib9W6l8GnO2FViczhpQfOwdfgaiaXqickPxfb6gGjKNnJdAO3bud8TEKicwTniayHU4ZwBaGWXmKBU7WFT8/132",
       "can_delete": null,
@@ -144474,6 +145281,17 @@ const COMMENTS_DB = {
     }
   ],
   "1476": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "1.解增广矩阵2.剥洋葱",
+      "created_at": "2026-06-27 09:58:44",
+      "id": 39913,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
@@ -144861,6 +145679,17 @@ const COMMENTS_DB = {
   ],
   "1477": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "做的有点慢了",
+      "created_at": "2026-06-26 21:26:15",
+      "id": 39912,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
       "content": "惯性指数",
@@ -145062,6 +145891,17 @@ const COMMENTS_DB = {
     }
   ],
   "1479": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "矩估计就是求期望",
+      "created_at": "2026-06-27 09:59:57",
+      "id": 39914,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/clYKE7o6IjKujR1JLCWPqHBgNkxk2g6OqaFbVBs2FnHGDXccmeYCBRSLLsdLXzOLOIc1wfqmEoQcia8kEhlIdMq00yTfuRiauvlDHicnjM7TVk/132",
       "can_delete": null,
@@ -145267,6 +146107,17 @@ const COMMENTS_DB = {
   ],
   "1468": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "公式记错了，球坐标要乘r^2sinφ，而不是rsinφ",
+      "created_at": "2026-06-27 11:11:54",
+      "id": 39917,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXVXzKSuRwloicRFJHtsgFicZ8o4VQDwQbfHaH1mA6ribV1vPE19kshYLtUEAVlvt89YOfsWDzG2Bp4ibqia5tMqhlqnc/132",
       "can_delete": null,
       "content": "三重积分不能代入算，只有曲线曲面才可以带入",
@@ -145445,7 +146296,7 @@ const COMMENTS_DB = {
       "user_name": "再坚持一下"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "我爱先二后一，球坐标好容易记混啊",
       "created_at": "2025-11-30 13:46:30",
@@ -145590,7 +146441,7 @@ const COMMENTS_DB = {
       "user_name": "芙芙"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20550_90ce439b04fc4927b4758e593d43b16d.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ETDALISR0pDJENdgDy0j1DAUxQM0VUu0eF4hbbOIvib2Y0bbTPQrxuHG8LqXC0Z0yvhAPmK3tDhLVZOJxg7RXHicDnzFhzwkWhVmkiaBkUReiaE/132",
       "can_delete": null,
       "content": "绝对不能直接代入1",
       "created_at": "2025-11-14 08:42:13",
@@ -145751,6 +146602,17 @@ const COMMENTS_DB = {
   ],
   "1473": [
     {
+      "avatar_url": "uploads/avatars/avatar_12282_fcda7368fe2b4482b80b2c647a271d03.jpg",
+      "can_delete": null,
+      "content": "1.切点的确定",
+      "created_at": "2026-07-12 17:45:03",
+      "id": 39979,
+      "likes": 0,
+      "replies": [],
+      "student_id": 12282,
+      "user_name": "12312421"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CCMqKBZEjcJ63NELa4YAEkeTgUSrFJGJl7VuAZ9tv4miaqOaN7U0ayqoB30SKFzQpRQj2Ydu4ic72YBK2clWpaDETjdOc1Kibz0SicOOEJYWxqA/132",
       "can_delete": null,
       "content": "00",
@@ -145861,7 +146723,7 @@ const COMMENTS_DB = {
       "user_name": "师嘉业"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21DNnib53E1ibfQa4F8QDPgRVDLhlR8V5HWl3AAcYUleCw2Gppwr9c5pL7niatJKj6NgfE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/XSqic8ibNMGjq66GXQFauSPL6KiaaVYr1u8f33CgX4Y21CmIOnj582MOcibvsQLfF0tDDibWibWZS0djr9Z7Ceh9gV8W3VxMHmGdRwogVIVPQJ3BY/132",
       "can_delete": null,
       "content": "椭圆切线方程为 x0x/4+y0y/3=1 （x0,y0)为切点，靠学多了连高中知识都忘记了",
       "created_at": "2025-12-01 18:58:47",
@@ -146099,7 +146961,7 @@ const COMMENTS_DB = {
       "user_name": "表"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplziaQ8UR3EiaJwicX7H9PgnHmAEju9O6eibyHChhtIlXJJVyDZibSZjqzaHxibuB29LNicJqc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/hOmoRBwpnaQpGZHz40tUib33xiaAtc88smIpFhtXjzplzHib1pW7ibCl6RhreMwh6dI2czeiaWnqtPhX8G5GkNZPPtxgv1CFqLibofUV883aGzGibk/132",
       "can_delete": null,
       "content": "绕谁转，谁不动，积分求体积",
       "created_at": "2025-11-07 08:51:47",
@@ -146133,6 +146995,30 @@ const COMMENTS_DB = {
     }
   ],
   "1475": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+      "can_delete": null,
+      "content": "清楚描述面和空间；第二部分先带值后算可以规避被积函数内部奇点，必须先带值否则不是不好算而是直接算不了。",
+      "created_at": "2026-06-27 19:50:27",
+      "id": 39921,
+      "likes": 0,
+      "replies": [
+        {
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CyyWM5HYbzv5pZfcU0fc6wkLjVt8iaCib0esc7ngaLIjV0US2th1Bb3tiaUfayoHbnal2NMPMEG2QlwLscDbKIJzcUruWUm71pKU0FbiaibgCpDI/132",
+          "can_delete": null,
+          "content": "曲面上的积分，被积函数中若含有曲面方程的关系，可以直接带入，使用高斯公式之前必须先说明散度为0！",
+          "created_at": "2026-07-02 22:53:06",
+          "id": 39935,
+          "likes": 0,
+          "parent_id": 39921,
+          "reply_to_user": null,
+          "student_id": 39865,
+          "user_name": "韭菜大王"
+        }
+      ],
+      "student_id": 39865,
+      "user_name": "韭菜大王"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CCMqKBZEjcJ63NELa4YAEkeTgUSrFJGJl7VuAZ9tv4miaqOaN7U0ayqoB30SKFzQpRQj2Ydu4ic72YBK2clWpaDETjdOc1Kibz0SicOOEJYWxqA/132",
       "can_delete": null,
@@ -147175,7 +148061,7 @@ const COMMENTS_DB = {
       "user_name": "攀登vav29Q"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "今年也来道，不要上强度好吗老头子👴",
       "created_at": "2025-12-09 20:14:55",
@@ -147388,7 +148274,7 @@ const COMMENTS_DB = {
       "user_name": "🐙"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "题没看懂 莫名其妙瞪眼法 一秒出答案",
       "created_at": "2025-11-16 16:10:37",
@@ -147407,7 +148293,7 @@ const COMMENTS_DB = {
       "likes": 6,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
           "can_delete": null,
           "content": "肯定是不可以的",
           "created_at": "2025-11-16 16:09:48",
@@ -147459,7 +148345,7 @@ const COMMENTS_DB = {
       "user_name": "Kirito"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "20年后的线代感觉和20年之前的线代画风不一样了，这道题还算简单",
       "created_at": "2025-11-14 20:35:40",
@@ -149658,7 +150544,7 @@ const COMMENTS_DB = {
       "user_name": "Hey."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "去年唯独没有练这种拆项的方法，类似的题都被我用[Af`(x)+Bf(x)]/f(x)这种分子导函数逃课了",
       "created_at": "2025-11-11 22:15:09",
@@ -150444,7 +151330,7 @@ const COMMENTS_DB = {
       "user_name": "剑心犹在2026"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "莫名其妙做对法",
       "created_at": "2025-11-14 19:10:12",
@@ -150452,7 +151338,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "做出来俩秩和在1到2之间，由于一个零矩阵会导致俩乘都是零矩阵，违背题意，所以A和B的秩都为1，剩下的总而言之言而总之，懵逼随便选一个法秒了",
           "created_at": "2025-11-14 19:13:57",
@@ -150464,7 +151350,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "我做晕了开始胡说八道了，思路从头开始纯错，答案莫名其妙选对",
           "created_at": "2025-11-14 19:26:13",
@@ -150784,7 +151670,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "年少不知泰勒好，错把洛神当作宝，今日泰勒神光现，方知证明能够秒",
       "created_at": "2025-11-20 14:12:14",
@@ -150792,7 +151678,7 @@ const COMMENTS_DB = {
       "likes": 3,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "吃完饭反应了一下，必要性其实就是拉朗，我先用导函数定义证的充分，证必要没反应过来拉朗，想是想了，结果脑抽想到构造和找点上去了，就这样最简单的一步证明被我的思路完美错过了。不过也好，顺便加强了一下对泰勒的反应，两边都有x2，很容易想到对x2泰勒，然后带入x1与x3，把函数带入原不等式，也能直接做出来，化简完之后左边是x2的导函数-二阶导/2(x2-x1)，右边是x2的导函数+二阶导/2(x3-x2)",
           "created_at": "2025-11-20 15:11:35",
@@ -151635,7 +152521,7 @@ const COMMENTS_DB = {
       "user_name": "我要当DHU的狗"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "也对，配方快多了",
       "created_at": "2025-11-14 20:40:17",
@@ -151839,7 +152725,7 @@ const COMMENTS_DB = {
           "user_name": "祖铭"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "帅",
           "created_at": "2025-11-14 20:41:13",
@@ -153852,7 +154738,7 @@ const COMMENTS_DB = {
           "user_name": "羡慕René Descartes不用上早读"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "佬方法，学了。向量这部分学的拉想到的确实少",
           "created_at": "2025-11-14 18:15:18",
@@ -154203,7 +155089,7 @@ const COMMENTS_DB = {
       "user_name": "琥珀"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "全微分",
       "created_at": "2025-12-07 19:05:37",
@@ -155395,7 +156281,7 @@ const COMMENTS_DB = {
       "content": "2022年第一题有类似的味道，多想想。",
       "created_at": "2025-12-18 23:44:07",
       "id": 39567,
-      "likes": 0,
+      "likes": 1,
       "replies": [
         {
           "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/aKw1Yc1GdrdztBibwdpXEgdkvSo5oaErbSibWClO8wqhGsLlnSFiaF4hqHv3p73Z95G4nO8XDnOdb2ms7S6MuCXzmNoHnwmpHSwicLMklVnriboo/132",
@@ -156219,7 +157105,7 @@ const COMMENTS_DB = {
       "user_name": "阿白"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "全微分做法有分吗",
       "created_at": "2025-12-07 19:36:29",
@@ -156616,7 +157502,7 @@ const COMMENTS_DB = {
       "user_name": "坐看云起时"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "计算问题才是最大的问题",
       "created_at": "2025-11-14 15:49:50",
@@ -156656,7 +157542,7 @@ const COMMENTS_DB = {
       "content": "再见啦",
       "created_at": "2025-12-22 15:05:47",
       "id": 39770,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 29020,
       "user_name": "W"
@@ -156667,7 +157553,7 @@ const COMMENTS_DB = {
       "content": "结束了xdm",
       "created_at": "2025-12-22 15:05:37",
       "id": 39769,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 29020,
       "user_name": "W"
@@ -156684,7 +157570,7 @@ const COMMENTS_DB = {
       "user_name": "Hari"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "明天见",
       "created_at": "2025-12-20 21:09:51",
@@ -156716,7 +157602,7 @@ const COMMENTS_DB = {
           "user_name": "陆非凡"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "基本全对兄弟们，感谢大佬做墙，对我来说帮助太大了",
           "created_at": "2025-12-21 20:34:39",
@@ -157288,7 +158174,7 @@ const COMMENTS_DB = {
       "user_name": "欧皓辰."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "做完了，少了一个可以心安理得摸鱼的地方，开始轮四科了",
       "created_at": "2025-11-20 13:50:00",
@@ -157296,7 +158182,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "正交化考前别忘记背一下，虽然可以直接在解方程的时候就先正交，但是万一给个拧巴的情况呢",
           "created_at": "2025-11-20 13:51:00",
@@ -157334,7 +158220,7 @@ const COMMENTS_DB = {
       "user_name": "whale"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "基础",
       "created_at": "2025-11-19 19:23:20",
@@ -157364,7 +158250,7 @@ const COMMENTS_DB = {
       "likes": 5,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
           "can_delete": null,
           "content": "老公？",
           "created_at": "2025-11-17 11:37:50",
@@ -157486,7 +158372,7 @@ const COMMENTS_DB = {
       "content": "收26真题卷有偿",
       "created_at": "2025-11-07 13:42:20",
       "id": 3775,
-      "likes": 6,
+      "likes": 7,
       "replies": [],
       "student_id": 4973,
       "user_name": "VSOP"
@@ -157524,7 +158410,7 @@ const COMMENTS_DB = {
       "likes": 5,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/micUg5D5ykSmSfqO5udTFSDs0Cy9KoHQEXoeru3e62n7CN18Vz4TItyO85YhZcef1lo7W7icmkgltQ7XOrc46Oq581GZiacJ1tpOyXxQV2k1YU/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/micUg5D5ykSmSfqO5udTFSDs0Cy9KoHQEXoeru3e62n6gCmqZ9X47iboxf5J3kEBk4TOicia8icrQHDPzp3r7pehric3k5mOiaTRpIA2pT9ZZpVD94/132",
           "can_delete": null,
           "content": "没想到吧～",
           "created_at": "2025-12-21 12:34:28",
@@ -158050,7 +158936,7 @@ const COMMENTS_DB = {
       "user_name": "仲秋廿八"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "物理吗？很难了（哭",
       "created_at": "2025-11-23 21:22:48",
@@ -158128,6 +159014,17 @@ const COMMENTS_DB = {
     }
   ],
   "934": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PCPJOWQGXHYx9O4aYDKCYdzW5iaYWsKLOI5e2G8aBp12tzVTm1Id3yfTAs9XMibN9eDvA6Omd7n6j39sUuFiaLXd86ibakDXSJn3RlDrHgP8420/132",
+      "can_delete": null,
+      "content": "可导的极值点一定不是拐点",
+      "created_at": "2026-07-20 18:25:55",
+      "id": 40026,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42296,
+      "user_name": "Ridge"
+    },
     {
       "avatar_url": "uploads/avatars/avatar_18461_2dd1ce866f354266ad7b26e8f25e9d4d.jpeg",
       "can_delete": null,
@@ -158632,7 +159529,7 @@ const COMMENTS_DB = {
       "user_name": "天地为政"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "注意是变量是谁",
       "created_at": "2025-11-24 16:55:06",
@@ -158766,7 +159663,7 @@ const COMMENTS_DB = {
       "user_name": "洲际"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELZgShs15h2cXuFIEEPyNIoIRItESdLdmmhC6JpTxGYwr9kIC3MWDvoe2gAg8cicsodpJvOGNgc8Vicaof9n4HwlyyTyFyAxOc26tyZcAmRdunQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/2oXVicc8Gxa6RGUU5HpicxZTsPicqY6oKQudvibIBwiaZUwRqgibZ4cnqwjiaVVvicSkefZDDYF53iaHVM7RQDCMkzXXRIAaNKT1FluyKeE8nMap3uq4/132",
       "can_delete": null,
       "content": "题目错了",
       "created_at": "2025-11-04 17:12:20",
@@ -159036,7 +159933,7 @@ const COMMENTS_DB = {
       "user_name": "Satellite"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELf14QyGuM3VSQAvN9BV1IUibPNVZSa31ncSz21hqn6SxhjhiaTlxv7JeaN1aPRUnkDSSar8Act0mFZNhtJYs7IdtSXiaT3rs0YMSrbrKPjYcdMw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bAibDVzZoKFKESicbW9V2j2Ih7XUmJwSZ4BtjkrsonVSJ8tQYAbl2NqZYXqiaBqMDa2ibhsu0xyFyqKpE0axk8Y2TMS62TYwhqxyQIpuIaicMkf0/132",
       "can_delete": null,
       "content": "泰勒展开不要漏项",
       "created_at": "2025-12-12 14:38:14",
@@ -159280,7 +160177,7 @@ const COMMENTS_DB = {
       "user_name": "夏天里的空调"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "注意对这种复合的泰勒展开方法",
       "created_at": "2025-12-05 23:08:05",
@@ -159302,7 +160199,7 @@ const COMMENTS_DB = {
       "user_name": "羽落山河"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "标记，泰勒嵌套有大问题",
       "created_at": "2025-12-03 11:12:18",
@@ -159310,7 +160207,7 @@ const COMMENTS_DB = {
       "likes": 4,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "回顾 \n21年 ♾️➖♾️型先化简，操作不了老实洛或泰勒\n22年 母零子零加连续，注意是哪个点连续，凑定义 \n23年 二重永远先考虑对称性 \n24年 切线方程坐标轴得令0，距离记得套绝对值，一定随时化简\n25年  泰勒原式展开，经典套餐",
           "created_at": "2025-12-06 14:44:27",
@@ -159917,6 +160814,17 @@ const COMMENTS_DB = {
     }
   ],
   "926": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "我靠又算错了",
+      "created_at": "2026-06-04 13:15:30",
+      "id": 39871,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/w2FBIVfj389epmPGWeBLIxlyyjaH2B39K2jHoIR0rYsxpApTN1yhVuvricQUIladUML54AzkVcPchpuFgVgB9pD4BFCvhdDcNYru3KSribEcU/132",
       "can_delete": null,
@@ -161205,7 +162113,7 @@ const COMMENTS_DB = {
       "user_name": "一一"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "区间敌进我退，点火结束",
       "created_at": "2025-11-16 16:46:44",
@@ -161610,7 +162518,7 @@ const COMMENTS_DB = {
       "user_name": "欢乐马"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "不要硬算 回顾过程",
       "created_at": "2025-12-09 20:19:53",
@@ -161810,7 +162718,7 @@ const COMMENTS_DB = {
       "user_name": "葱葱葱"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "好老头",
       "created_at": "2025-11-26 22:10:31",
@@ -162032,7 +162940,7 @@ const COMMENTS_DB = {
       "user_name": "师爷"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "很好",
       "created_at": "2025-11-29 17:01:58",
@@ -162109,7 +163017,7 @@ const COMMENTS_DB = {
       "user_name": "pisces."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "下限，负号",
       "created_at": "2025-11-23 21:32:07",
@@ -162254,7 +163162,7 @@ const COMMENTS_DB = {
       "user_name": "NN"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EMYVU131CVR2jEnZx0gwYRrbBgIUrfOy3TQvkomPsb640LHAMlMJ2ZrwFRXS0kTs5ic7sasMaWoPzf4csIRUxmYfTXhPp5KJ9HdkMdlfCoEI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EMYVU131CVR2jEnZx0gwYRrbBgIUrfOy3TQvkomPsb4kkLOEFx4qp1icMia5ibblgibrEHXkTTksOhI6yYOicB0TMWkAqocLrEbaNia50iciaIVw7z4/132",
       "can_delete": null,
       "content": "啊，这可开始要钱了，害",
       "created_at": "2025-11-06 14:20:23",
@@ -163004,7 +163912,7 @@ const COMMENTS_DB = {
       "user_name": "Zimmer"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "考场上干不出来",
       "created_at": "2025-11-27 15:24:54",
@@ -163549,7 +164457,7 @@ const COMMENTS_DB = {
       "user_name": "."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EMYVU131CVR2jEnZx0gwYRrbBgIUrfOy3TQvkomPsb640LHAMlMJ2ZrwFRXS0kTs5ic7sasMaWoPzf4csIRUxmYfTXhPp5KJ9HdkMdlfCoEI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EMYVU131CVR2jEnZx0gwYRrbBgIUrfOy3TQvkomPsb4kkLOEFx4qp1icMia5ibblgibrEHXkTTksOhI6yYOicB0TMWkAqocLrEbaNia50iciaIVw7z4/132",
       "can_delete": null,
       "content": "开始要会员了吗，我记得之前免费呢",
       "created_at": "2025-11-06 14:14:55",
@@ -164396,7 +165304,7 @@ const COMMENTS_DB = {
       "user_name": "罐装"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "罗斯（",
       "created_at": "2025-12-03 13:08:38",
@@ -165556,7 +166464,7 @@ const COMMENTS_DB = {
       "user_name": "Lai Yiu-fai"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "回顾伴随性质",
       "created_at": "2025-11-25 21:08:22",
@@ -165655,7 +166563,7 @@ const COMMENTS_DB = {
       "user_name": "Siomne"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "虽秒但有个地方不懂",
       "created_at": "2025-11-14 18:07:52",
@@ -165663,7 +166571,7 @@ const COMMENTS_DB = {
       "likes": 2,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "哦原来3是因为这个，秩不满到行列式为0到AA*=O这步不熟悉。线代还是太拉了",
           "created_at": "2025-11-14 18:10:18",
@@ -165675,7 +166583,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "秩不满到行列式到A*为O这个条件太一般了，加上线代学的不好，很多时候就忽略了没想到上面",
           "created_at": "2025-11-14 18:13:04",
@@ -166372,7 +167280,7 @@ const COMMENTS_DB = {
       "content": "这题分类错了吧，这是定积分的题",
       "created_at": "2025-12-06 09:59:49",
       "id": 27466,
-      "likes": 2,
+      "likes": 3,
       "replies": [
         {
           "avatar_url": "uploads/avatars/avatar_3509_029d4e01b4744734beb546a7d049c89b.png",
@@ -166654,7 +167562,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "我也，刚要把5/2带进去突然看到最开始积出来的15/2……写下来了都记不住",
           "created_at": "2025-11-19 08:56:09",
@@ -166726,6 +167634,17 @@ const COMMENTS_DB = {
     }
   ],
   "939": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "硬算的",
+      "created_at": "2026-06-07 21:40:10",
+      "id": 39879,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
     {
       "avatar_url": "uploads/avatars/avatar_18461_2dd1ce866f354266ad7b26e8f25e9d4d.jpeg",
       "can_delete": null,
@@ -167114,7 +168033,7 @@ const COMMENTS_DB = {
       "user_name": "远航frLyKx"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "是从Cn0开始，重记公式",
       "created_at": "2025-11-25 20:12:31",
@@ -167731,7 +168650,7 @@ const COMMENTS_DB = {
       "user_name": "⃠⃠⃠⃠⃠⃠"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "高阶导，给了两个具体点，甚至给了二阶导函数范围，闭着眼睛用泰勒。至于第二问，积分要和函数联系起来，要么求导，要么积分中值，要么直接积分，在这里的1/12很可疑，我看到这个的时候下意识想为什么有这个数，没有前文莫名其妙出来1/12，再网上看到第一问右边的多项式，就基本猜到是积分了。",
       "created_at": "2025-11-19 21:19:57",
@@ -167821,6 +168740,17 @@ const COMMENTS_DB = {
   ],
   "944": [
     {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "u不是只能等于y/x，要灵活运用",
+      "created_at": "2026-06-07 21:34:54",
+      "id": 39878,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
+    {
       "avatar_url": "uploads/avatars/avatar_12370_e6647404c6854e758cd39f045b05f56b.jpg",
       "can_delete": null,
       "content": "换元",
@@ -167843,7 +168773,7 @@ const COMMENTS_DB = {
       "user_name": "Caleb"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELf14QyGuM3VSQAvN9BV1IUibPNVZSa31ncSz21hqn6SxhjhiaTlxv7JeaN1aPRUnkDSSar8Act0mFZNhtJYs7IdtSXiaT3rs0YMSrbrKPjYcdMw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bAibDVzZoKFKESicbW9V2j2Ih7XUmJwSZ4BtjkrsonVSJ8tQYAbl2NqZYXqiaBqMDa2ibhsu0xyFyqKpE0axk8Y2TMS62TYwhqxyQIpuIaicMkf0/132",
       "can_delete": null,
       "content": "化简",
       "created_at": "2025-12-18 10:20:32",
@@ -168355,7 +169285,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "不够敏感，复杂多项式必须先条件反射换元",
       "created_at": "2025-11-25 20:07:26",
@@ -168363,7 +169293,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "且积分处理不当，能拆分基本积分",
           "created_at": "2025-11-25 20:21:24",
@@ -169306,7 +170236,7 @@ const COMMENTS_DB = {
       "user_name": "🍻"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "不满秩，任意三阶子式为0",
       "created_at": "2025-11-25 20:29:13",
@@ -169409,7 +170339,7 @@ const COMMENTS_DB = {
       "user_name": "TKOML"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "联立然后行阶梯，由题可知总秩以及任意两条秩为2，巴拉巴拉，a=1不成立所以舍去，然后就有了。向量学的拉，能逃课就逃课吧，反正分到手了",
       "created_at": "2025-11-14 18:42:44",
@@ -169417,7 +170347,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "不是吧这居然还是个正规解法",
           "created_at": "2025-11-14 18:44:56",
@@ -169444,7 +170374,7 @@ const COMMENTS_DB = {
       "user_name": "陳漢昇"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HktpeH8Bk8KZn8iacZ2DVeLIxbZ2ygtRYhEwyrUicqslYdhiauy2lSCA2CnrFrHtlHibo5zHp6LZq7tcFHjeOFkAaDicIc7BhwagGGEjMt9htQm0/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELlWgbtVL2DW7ecFlA6Dibia8NFVv33NJr7unU9EhUTn224U3ey8IxsTK2Bqd6wsSPDyplxCfZuR69ClH9g1wq4uG80L6p99cOdTNejGlXHwSCA/132",
       "can_delete": null,
       "content": "三阶子式全0，二阶子式不为0",
       "created_at": "2025-11-09 20:37:57",
@@ -169503,7 +170433,7 @@ const COMMENTS_DB = {
       "user_name": "cem"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTTlPgLic91zsvzEx0VwuLEosAIsibM1RhspkHaa2wRt1kDOZfYf9E6JaY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTYWgBiaRe5muudBFy4fXzzw8iavytUrY7xPMnK3eiayylaQ229mVBljBicE/132",
       "can_delete": null,
       "content": "AB和BA有相同的特征值",
       "created_at": "2025-12-18 16:38:32",
@@ -169695,7 +170625,7 @@ const COMMENTS_DB = {
       "content": "大多是充分不必要",
       "created_at": "2025-12-11 15:10:55",
       "id": 33519,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 25268,
       "user_name": "噫嘘嚱！exp（-hAτ／ρcv）"
@@ -169945,7 +170875,7 @@ const COMMENTS_DB = {
       "user_name": "25"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "考场上只能二选一了",
       "created_at": "2025-11-25 21:05:09",
@@ -170118,7 +171048,7 @@ const COMMENTS_DB = {
       "user_name": "我要当DHU的狗"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "B可对角化推回去A可以是E因此不必要，然后这种题出既不充分也不必要的可能性很小，我蒙B。我不知道啊，我线代真不行",
       "created_at": "2025-11-14 21:02:58",
@@ -170126,7 +171056,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "难飞飞",
           "created_at": "2025-11-14 21:10:52",
@@ -170567,7 +171497,7 @@ const COMMENTS_DB = {
       "user_name": "Chuang"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e67a1IgQjf5Xp52K9jrNNWup9u8FNcvic5mSfnw9FzhUr5zGMKOyFCtW2ZEwRX9PjH06Rzls2lkJ4DOgricC8xc4QZcdIfTrT2sw4YQeUu3Mk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e67a1IgQjf5Xp52K9jrNNWup9u8FNcvic5mSfnw9FzhVMeiczArIWAKibBOJ4kKaelsmExnGNVhGhlAyNmWUeE30cHsgL3gibbnUvibsFqf019Uo/132",
       "can_delete": null,
       "content": "横过来看",
       "created_at": "2025-12-07 21:51:54",
@@ -170754,7 +171684,7 @@ const COMMENTS_DB = {
       "user_name": "九亿少女的梦"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "在考场的话感觉没机会",
       "created_at": "2025-11-25 19:29:02",
@@ -170762,7 +171692,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "回顾曲率圆定义",
           "created_at": "2025-11-28 13:25:57",
@@ -170822,7 +171752,7 @@ const COMMENTS_DB = {
       "user_name": "N."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "求抛物线焦点 画图就出来了 很巧妙",
       "created_at": "2025-11-24 17:15:59",
@@ -170833,7 +171763,7 @@ const COMMENTS_DB = {
       "user_name": "小赵同学"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "瞪眼法",
       "created_at": "2025-11-24 17:14:42",
@@ -170943,7 +171873,7 @@ const COMMENTS_DB = {
       "user_name": "羡慕René Descartes不用上早读"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "我是把图像旋转，求出x=y^2的曲率半径，然后再旋转回去。",
       "created_at": "2025-11-20 15:16:11",
@@ -171107,7 +172037,7 @@ const COMMENTS_DB = {
       "likes": 3,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HktpeH8Bk8KZn8iacZ2DVeLIxbZ2ygtRYhEwyrUicqslYdhiauy2lSCA2CnrFrHtlHibo5zHp6LZq7tcFHjeOFkAaDicIc7BhwagGGEjMt9htQm0/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELlWgbtVL2DW7ecFlA6Dibia8NFVv33NJr7unU9EhUTn224U3ey8IxsTK2Bqd6wsSPDyplxCfZuR69ClH9g1wq4uG80L6p99cOdTNejGlXHwSCA/132",
           "can_delete": null,
           "content": "看做x关于y的函数，求x对y的导和二阶导",
           "created_at": "2025-11-04 21:02:17",
@@ -171160,6 +172090,17 @@ const COMMENTS_DB = {
     }
   ],
   "941": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "有对称的地方，等于0。不要硬算",
+      "created_at": "2026-06-07 22:20:30",
+      "id": 39880,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJ39c9pf7jPWLPjb8R99OSiaf0bMBFdNzLBSL3cXFweKl0kCNwMFu4baLqPe6Opy9cad5a0Qe84ALA/132",
       "can_delete": null,
@@ -172148,7 +173089,7 @@ const COMMENTS_DB = {
       "user_name": "小橙同志"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELf14QyGuM3VSQAvN9BV1IUibPNVZSa31ncSz21hqn6SxhjhiaTlxv7JeaN1aPRUnkDSSar8Act0mFZNhtJYs7IdtSXiaT3rs0YMSrbrKPjYcdMw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bAibDVzZoKFKESicbW9V2j2Ih7XUmJwSZ4BtjkrsonVSJ8tQYAbl2NqZYXqiaBqMDa2ibhsu0xyFyqKpE0axk8Y2TMS62TYwhqxyQIpuIaicMkf0/132",
       "can_delete": null,
       "content": "还原后要整体乘雅可比行列式",
       "created_at": "2025-11-22 11:41:29",
@@ -172170,7 +173111,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦lY2YgT"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9TGEvlS9k1Q818WMsiay0wibODIEEAnXdAPKicuutAbBy037CLdUcpY44wfrwsXnWRCSzZ6hzRMKCaSTrdDOyCI25jflFqQiagF7NTVvjXD3eiak/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9TGEvlS9k1Q818WMsiay0wibODIEEAnXdAPKicuutAbBy2qiaa3EhMxDR1bTHehI0MIpM8uBbsIx6HIcbZGmAhoH91JnaRCQ5UB46wK4ic60jLew/132",
       "can_delete": null,
       "content": "算死我力",
       "created_at": "2025-11-21 12:03:10",
@@ -172216,7 +173157,7 @@ const COMMENTS_DB = {
       "user_name": "哲别"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "想尝试一波极坐标，拼尽全力无法战胜，老老实实分段积分",
       "created_at": "2025-11-19 12:21:58",
@@ -172224,7 +173165,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "哦我靠，cosx和sinx自己看作三角函数做什么二倍角啊啥的变换，在分母看作cscx和secx，直接拿公式秒，忘了这茬了，不换过来的话三个小时全给我我也推不出来cscx那个拧巴的积分啊",
           "created_at": "2025-11-19 12:24:01",
@@ -172773,7 +173714,7 @@ const COMMENTS_DB = {
       "user_name": "阿哲"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "解前小后大",
       "created_at": "2025-12-11 17:19:18",
@@ -173199,7 +174140,7 @@ const COMMENTS_DB = {
       "user_name": "TKOML"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "不懂定义，所以第一题我就把通解解出来了，然后进行讨论的，实在没办法就这样逃课吧",
       "created_at": "2025-11-14 21:51:05",
@@ -173555,6 +174496,17 @@ const COMMENTS_DB = {
     }
   ],
   "951": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "t不是变量，而是一个常数",
+      "created_at": "2026-06-07 22:26:17",
+      "id": 39881,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/aKw1Yc1GdrdztBibwdpXEgdkvSo5oaErbSibWClO8wqhGsLlnSFiaF4hqHv3p73Z95G4nO8XDnOdb2ms7S6MuCXzmNoHnwmpHSwicLMklVnriboo/132",
       "can_delete": null,
@@ -174762,7 +175714,7 @@ const COMMENTS_DB = {
       "user_name": "曼波也会做"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "算的好爽 爽死我了",
       "created_at": "2025-12-12 19:58:14",
@@ -175320,7 +176272,7 @@ const COMMENTS_DB = {
       "user_name": "顾自"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "耐下心来找好族谱图，能算的",
       "created_at": "2025-11-25 20:31:17",
@@ -175467,7 +176419,7 @@ const COMMENTS_DB = {
       "user_name": "九久翎龍"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "机智如我，指数积分系数是原函数的因式导函数-原函数=u，建立一次微分方程，然后一步到位",
       "created_at": "2025-11-19 18:27:52",
@@ -175475,7 +176427,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "……有点小丑，直接积分也是一样的步骤，光想着直接构造秒杀了，忘了直接积分这一茬",
           "created_at": "2025-11-19 18:29:08",
@@ -175648,6 +176600,28 @@ const COMMENTS_DB = {
     }
   ],
   "950": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/u1l0kJd2BUQAdbsRv8ojZFcsvLq07q5EuV8GV3BXpF9tQPo1Yj95Wgk7icnv6ia3HZdotPXwApUe4Jz4gBibyM6sibuUuStJvg7qe8iazmmic0sSQ/132",
+      "can_delete": null,
+      "content": "欧拉方程，要注意换元公式记忆（30讲P397）",
+      "created_at": "2026-07-20 13:08:52",
+      "id": 40020,
+      "likes": 0,
+      "replies": [],
+      "student_id": 2651,
+      "user_name": "VPawcry"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI0pNIs0ajbJgKboSZib15DhjibIMVQdJbHYMCxYQ0XWZwcLC3gBkyQFT3LSTArzVSwic5rE94wjZjwG4xk72vINF5suZJn31XCgro0UG4xhNZuw/132",
+      "can_delete": null,
+      "content": "这不是欧拉方程吗我趣",
+      "created_at": "2026-07-07 11:26:07",
+      "id": 39943,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40443,
+      "user_name": "晓"
+    },
     {
       "avatar_url": "uploads/avatars/avatar_20806_70521ebd8c914f8dae801b2900de94f3.jpeg",
       "can_delete": null,
@@ -176123,7 +177097,7 @@ const COMMENTS_DB = {
       "user_name": "Forgotten."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icibjtOVUdq1PpNdh4SehCaTu82Tm68b6q4R4DIiaoXTsSQ2cmtplyryu1GvhakLV7hWlGRsKuKlO1d2bpozgZr3hICahSWlZsoBpNAdJNpP1A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icibjtOVUdq1PpNdh4SehCaTu82Tm68b6q4R4DIiaoXTsT0icAugCbicejVs2pjcCFypKOBk0CNhnCqjt0jhzMy9z94icq6RDnjQAyo9YlAYmibPqA/132",
       "can_delete": null,
       "content": "问题一：dy/dt，看成y‘（t），t=lnx，它是一个复合函数，就按照复合函数对它进行求导：y’‘(t)⋅t'(x)\n问题二：关于y(t)，t=lnx时，y(t)是变为y(x)还是y(lnx)？\n我们的目标是求关于x的函数y(x)，做变换x=e^t时，是把原来的函数y(x)暂时看作t的函数（记为y(t)），所以求出y(t)的表达式之后，做t=lnx变换，只需将t变为x",
       "created_at": "2025-12-09 09:29:30",
@@ -176466,7 +177440,7 @@ const COMMENTS_DB = {
       "user_name": "Snow white🐒（柚子国王庇佑版）"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "不难 注意参方求导具体流程，别光记公式",
       "created_at": "2025-11-28 13:53:27",
@@ -176657,7 +177631,7 @@ const COMMENTS_DB = {
       "user_name": "Future."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "我服了，我一套三角函数积分猛如虎，回过头来发现我压根没注意到一开始就是1-sin^2x，我先化成三角函数，然后二倍角，然后把二倍角用1改成cos的二倍角，然后打开cos二倍角公式，然后展开，然后换成多项式，我上蹿下跳最后跟原点1打开一样的，要是考场上考完发现这一茬，我弃考送外卖的心都有了。还是考场模式太降智了，应该宁愿盯着看几分钟题想思路，不应该直接上手拿着一个思路念头灵感直接猛攻，这丫下来十几分钟浪费我不信坐着看十几分钟看不出来这问题。先想思路后动笔，思路完善再秒杀，没有思路下一道，阿弥陀佛",
       "created_at": "2025-11-19 13:06:19",
@@ -177206,7 +178180,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦e7Q0rn"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "下0上x",
       "created_at": "2025-11-25 21:21:26",
@@ -177717,7 +178691,7 @@ const COMMENTS_DB = {
       "user_name": "积分要讨论0正0负"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_5189_1760739a89c8455b99248fcfb117e028.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELjVAR39dSemwmko1roEIvNJ5VYnwSwlZbzM12hJw0zcxCPg9x3C4n2AYIGZc8G7iak847NhETYKkfUb9pmItAqB7S66tXIHhqHjLJyxCmgoaA/132",
       "can_delete": null,
       "content": "0不是瑕点",
       "created_at": "2025-12-12 11:43:39",
@@ -177967,7 +178941,7 @@ const COMMENTS_DB = {
       "user_name": "星期天zz"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRfhiaMSkArm2NWGMjDd4F7B3j5vE1gu6sY0Yd8fBRTs9NSicQqLBeyyZyPIO4aQYmozw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRd4DJQoG5EZMHRmBA0EUiaPxyQ3XeDtmoDkvnQ0lGygWJCMq478CagAbGLdxoicclF5g/132",
       "can_delete": null,
       "content": "f(x)=1/(1+x)发散，f²(x)=1/（1+x）收敛【①的反例】",
       "created_at": "2025-12-04 17:45:46",
@@ -178011,7 +178985,7 @@ const COMMENTS_DB = {
       "user_name": "TUdO"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9TGEvlS9k1Q818WMsiay0wibODIEEAnXdAPKicuutAbBy037CLdUcpY44wfrwsXnWRCSzZ6hzRMKCaSTrdDOyCI25jflFqQiagF7NTVvjXD3eiak/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9TGEvlS9k1Q818WMsiay0wibODIEEAnXdAPKicuutAbBy2qiaa3EhMxDR1bTHehI0MIpM8uBbsIx6HIcbZGmAhoH91JnaRCQ5UB46wK4ic60jLew/132",
       "can_delete": null,
       "content": "p积分的爸爸",
       "created_at": "2025-11-29 10:54:37",
@@ -178088,7 +179062,7 @@ const COMMENTS_DB = {
       "user_name": "Eternal farewell"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "拜拜",
       "created_at": "2025-11-25 21:12:21",
@@ -178436,6 +179410,28 @@ const COMMENTS_DB = {
   ],
   "953": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/WrgA2nHuwPGmHmaj4RyfVShueHTHFlWDS36YibDN79GEWvCxJGEBQLYoRLN9OB86qxTZmyqY79Jpa4KguibZtPzw/132",
+      "can_delete": null,
+      "content": "f'x在x=0上无定义",
+      "created_at": "2026-07-14 23:45:57",
+      "id": 39997,
+      "likes": 0,
+      "replies": [],
+      "student_id": 22757,
+      "user_name": "呵呵"
+    },
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "1.判断导数连续不连续用定义求该点的导数，用导数公式求附近的\n2.可微用公式判断",
+      "created_at": "2026-06-06 16:20:29",
+      "id": 39877,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/RJR6qYZZOEoZkicgbCP9iaQLx0VfFnmXejsqVicdicsComNkJuHAf8bdx9nGibBFD8g3XO0HQcuDiabGgs2CYsvPfeYeic5DKZUT9rMydqu6xG4OAQ/132",
       "can_delete": null,
       "content": "【1】偏导数连续--可微 充分条件  不连续不代表一定不可微 关键还是看定义 【2】多元函数有x2+y2的 可以用极坐标换元来判断极限是否存在",
@@ -178691,7 +179687,7 @@ const COMMENTS_DB = {
       "user_name": "12.20"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "1.一偏连推多元连续 2.可微推一阶偏存，多元连续 其余全错",
       "created_at": "2025-12-10 20:09:53",
@@ -178796,7 +179792,7 @@ const COMMENTS_DB = {
       "user_name": "1111"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icibjtOVUdq1PpNdh4SehCaTu82Tm68b6q4R4DIiaoXTsSQ2cmtplyryu1GvhakLV7hWlGRsKuKlO1d2bpozgZr3hICahSWlZsoBpNAdJNpP1A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icibjtOVUdq1PpNdh4SehCaTu82Tm68b6q4R4DIiaoXTsT0icAugCbicejVs2pjcCFypKOBk0CNhnCqjt0jhzMy9z94icq6RDnjQAyo9YlAYmibPqA/132",
       "can_delete": null,
       "content": "证偏导数是否连续，首先要知道定义，然后分别求等号两边的极限。值得注意的是，当用夹逼、无穷小*有界等方法求不初极限时，有可能极限不存在，就要用代入法证极限不存在。",
       "created_at": "2025-12-08 11:15:32",
@@ -179277,7 +180273,7 @@ const COMMENTS_DB = {
       "user_name": "111"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "可微定义考的少，这么露骨考还是第一次，新考点考的总是简单一点，希望今年再接再厉，可微接着上",
       "created_at": "2025-11-16 18:47:41",
@@ -179285,7 +180281,7 @@ const COMMENTS_DB = {
       "likes": 2,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "就是偏导定义的写法要注意一下",
           "created_at": "2025-11-16 18:56:09",
@@ -179407,6 +180403,17 @@ const COMMENTS_DB = {
     }
   ],
   "956": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "注意题目里面是2/x",
+      "created_at": "2026-06-06 15:02:20",
+      "id": 39875,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
     {
       "avatar_url": "uploads/avatars/avatar_36967_2a0fac873b164076ace6878bc8a6522f.jpeg",
       "can_delete": null,
@@ -180006,7 +181013,7 @@ const COMMENTS_DB = {
       "user_name": "2"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "凑导数定义",
       "created_at": "2025-11-25 21:22:23",
@@ -180014,7 +181021,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "回顾，同名居然还犹豫了五秒",
           "created_at": "2025-11-27 15:29:21",
@@ -180189,7 +181196,7 @@ const COMMENTS_DB = {
       "user_name": "小羊羔"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "导数定义以前有多恨现在有多爱，求导是什么东西，定义才能救人于水火",
       "created_at": "2025-11-16 18:26:54",
@@ -180632,7 +181639,7 @@ const COMMENTS_DB = {
       "user_name": "计算滴神"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "经典套餐 单调加零点",
       "created_at": "2025-11-28 14:44:16",
@@ -180698,7 +181705,7 @@ const COMMENTS_DB = {
       "user_name": "悦"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELZgShs15h2cXuFIEEPyNIoIRItESdLdmmhC6JpTxGYwr9kIC3MWDvoe2gAg8cicsodpJvOGNgc8Vicaof9n4HwlyyTyFyAxOc26tyZcAmRdunQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/2oXVicc8Gxa6RGUU5HpicxZTsPicqY6oKQudvibIBwiaZUwRqgibZ4cnqwjiaVVvicSkefZDDYF53iaHVM7RQDCMkzXXRIAaNKT1FluyKeE8nMap3uq4/132",
       "can_delete": null,
       "content": "切线和法线乘积=-1",
       "created_at": "2025-11-20 19:51:07",
@@ -180779,7 +181786,7 @@ const COMMENTS_DB = {
       "user_name": "只因"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "还有这等子送分题？高考都不出吧。今年务必出",
       "created_at": "2025-11-16 14:49:56",
@@ -180849,6 +181856,39 @@ const COMMENTS_DB = {
   ],
   "952": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PCPJOWQGXHYx9O4aYDKCYdzW5iaYWsKLOI5e2G8aBp12tzVTm1Id3yfTAs9XMibN9eDvA6Omd7n6j39sUuFiaLXd86ibakDXSJn3RlDrHgP8420/132",
+      "can_delete": null,
+      "content": "我选择直接画图，上下两个串起来下面是n-xn的图（注意n是正整数），上面是xn-f(xn)的图，注意上面图的横轴值就是下方图的纵轴值，f(xn)就是选项中的函数，A就在上方的xn-f(xn)图中画成耐克函数然后发现你穿一条针能有两个xn与之对应因此xn数列理论只需要构造发散于这两个数的数列就行这个时候xn发散但是an+1/an收敛（我不会构造但理论一定存在），B就是耐克函数的推广有点类似斜着的双曲线，同样的无论在哪穿针发现都能有两个xn与之对应最简单的就是让xn发散于-1 1正负相间就可以了这时候an-1/an收敛于0，C同理画e^x+1/e^x图像是个偶的依旧能穿针有两个xn对应依旧能构造，D函数不太会画但研究一下其实是单增的且在0处是0不论怎么穿针都无法有多个xn与之对应",
+      "created_at": "2026-07-11 20:41:43",
+      "id": 39970,
+      "likes": 1,
+      "replies": [],
+      "student_id": 42296,
+      "user_name": "Ridge"
+    },
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "设一个函数来类比，但要保证函数的“一一映射”关系。你发散 = 我发散",
+      "created_at": "2026-06-06 15:39:56",
+      "id": 39876,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKLhiaxdDbuia7u0Y5m7f9C4ob4oWgzlPQib4nKDibA2L2aUYHTsOB3rvziazSes1fBtxG9r8L4yaz3KvyccVNfrM96SEbxgJFZmwxq6B3B9yKH7aA/132",
+      "can_delete": null,
+      "content": "单调无界数列必发散，d导数严格大于0单调增必发散",
+      "created_at": "2026-06-05 17:07:04",
+      "id": 39872,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40137,
+      "user_name": "L"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/rlsy4vH1eSiblzUYdun0PUcF4xjuCcibv3VEPUZ026O64UHskutXvCQCFhnce12ic321otoma83U6cHOnjfxk2vEYEwcibjjJXBSM9UiceGVuKiaU/132",
       "can_delete": null,
       "content": "用逆否命题，D中的函数连续、严格单调有唯一反函数，所以D中函数列收敛则an收敛",
@@ -180882,7 +181922,7 @@ const COMMENTS_DB = {
       "user_name": "冲冲冲"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTTlPgLic91zsvzEx0VwuLEosAIsibM1RhspkHaa2wRt1kDOZfYf9E6JaY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTYWgBiaRe5muudBFy4fXzzw8iavytUrY7xPMnK3eiayylaQ229mVBljBicE/132",
       "can_delete": null,
       "content": "举特例",
       "created_at": "2025-12-18 16:30:37",
@@ -180909,7 +181949,7 @@ const COMMENTS_DB = {
       "content": "考场上遇到这种没想到很好的特例就直接跳，听到没直接跳啊sb！！！！一直磨蹭后边大题不要了？赶紧把会分拿到，这种有时间心情舒畅的时候举特例也容易",
       "created_at": "2025-12-18 10:08:11",
       "id": 39148,
-      "likes": 2,
+      "likes": 3,
       "replies": [],
       "student_id": 33319,
       "user_name": "江枫渔火"
@@ -181617,7 +182657,7 @@ const COMMENTS_DB = {
       "user_name": "z2cc"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "换元，单调（求导）➕连续秒了",
       "created_at": "2025-11-29 21:25:43",
@@ -181793,7 +182833,7 @@ const COMMENTS_DB = {
       "user_name": "000"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "二级结论 转到函数性态  看函数是否单调连续 则敛散性一致 互为充要条件",
       "created_at": "2025-11-20 14:30:23",
@@ -181828,7 +182868,7 @@ const COMMENTS_DB = {
       "user_name": "匿名用户"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "正做不好做，但是很明显，数列发散无非无穷，震荡，取-1 1和1/2 2就解决了，AB一眼排除无穷情况",
       "created_at": "2025-11-16 18:32:30",
@@ -182410,7 +183450,7 @@ const COMMENTS_DB = {
       "user_name": "May"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "回顾下法二",
       "created_at": "2025-12-15 14:47:17",
@@ -182797,7 +183837,7 @@ const COMMENTS_DB = {
       "user_name": "罐装"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "规范性排除cd，a代表对应的为正定矩阵（对么？）排除。",
       "created_at": "2025-11-26 21:58:40",
@@ -182874,7 +183914,7 @@ const COMMENTS_DB = {
       "user_name": "雾海孤舟"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "叽里呱啦跟我讲了半天，我觉得还是直接配方最简单",
       "created_at": "2025-11-14 20:53:55",
@@ -183012,7 +184052,7 @@ const COMMENTS_DB = {
       "user_name": "touchthesky"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "先带y。。",
       "created_at": "2025-12-15 20:11:47",
@@ -183078,7 +184118,7 @@ const COMMENTS_DB = {
       "user_name": "江枫渔火"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/scqYuwYM7IP57ica6huvA3ejms9ylAOMQsJticoJVCxzGwgTu9I4x6ickNwkITuNoZjxKPJhsgMYdibEs83ld2H2wmgNc8WUpJtO1P0LNhtTmUE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/scqYuwYM7IP57ica6huvA3ejms9ylAOMQsJticoJVCxzGzhAHFW1zd2flEWcUrykgiceryQS7RldeekygMxibU7GEibtBNkBmDpv34HvzdsBNOEI/132",
       "can_delete": null,
       "content": "复合。。",
       "created_at": "2025-12-07 20:53:10",
@@ -183133,7 +184173,7 @@ const COMMENTS_DB = {
       "user_name": "Lulu"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "先代后算",
       "created_at": "2025-11-30 19:12:01",
@@ -183223,6 +184263,28 @@ const COMMENTS_DB = {
   ],
   "958": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI0pNIs0ajbJgKboSZib15DhjibIMVQdJbHYMCxYQ0XWZwcLC3gBkyQFT3LSTArzVSwic5rE94wjZjwG4xk72vINF5suZJn31XCgro0UG4xhNZuw/132",
+      "can_delete": null,
+      "content": "看到x的x次幂，无脑先换成e的ln🤓",
+      "created_at": "2026-07-07 16:04:49",
+      "id": 39946,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40443,
+      "user_name": "晓"
+    },
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "0的负数次方没意义，但0的正数次方有意义",
+      "created_at": "2026-06-06 14:53:05",
+      "id": 39874,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJ39c9pf7jPWLPjb8R99OSiaf0bMBFdNzLBSL3cXFweKl0kCNwMFu4baLqPe6Opy9cad5a0Qe84ALA/132",
       "can_delete": null,
       "content": "牢记第一第二间断点含义，求其极限",
@@ -183256,7 +184318,7 @@ const COMMENTS_DB = {
       "user_name": "一叶柏舟"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTTlPgLic91zsvzEx0VwuLEosAIsibM1RhspkHaa2wRt1kDOZfYf9E6JaY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTYWgBiaRe5muudBFy4fXzzw8iavytUrY7xPMnK3eiayylaQ229mVBljBicE/132",
       "can_delete": null,
       "content": "再看一遍间断点！",
       "created_at": "2025-12-18 16:30:15",
@@ -183815,7 +184877,7 @@ const COMMENTS_DB = {
       "user_name": "一战上岸"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "lnx和x-1在无穷的时候和在x趋近1的时候并不相同",
       "created_at": "2025-12-05 01:57:28",
@@ -183984,7 +185046,7 @@ const COMMENTS_DB = {
       "user_name": "萌萌香"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "真的没有奇偶年吗0.o",
       "created_at": "2025-11-25 19:04:43",
@@ -184391,7 +185453,7 @@ const COMMENTS_DB = {
       "user_name": "勤学Qfy0zs"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEK1WBtMbw2AmI49h6TmyNRsgfCV0XJWlpGib5QTxg1Jtjv1gc6BPh66vVgrjj7tJv3kLQH4016b11hJhnibAMZtLCYqVpMKkGVEypu6bHXf1WCA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/THroZXr0JK20sqZwBE1yiaHLh9rrciauJE4r1ib3ywCeMzczWVe9T7OiaVFfBoBAdUyTdj8YEqbO5mctbUXSUvUUn8tAyTEE1QzSTG4BNViclkoc/132",
       "can_delete": null,
       "content": "牢记AA*=|A|E,以及分块矩阵的行列式",
       "created_at": "2025-12-17 13:55:21",
@@ -184615,7 +185677,7 @@ const COMMENTS_DB = {
       "user_name": "考研 考死你"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ialqcaR59N5Dotzkj7EZRAvWhdyic0jklRa6OW6eYQzHmCNq9rMr0xr6NMQg7Xv5GKTk18SCNbGMNx8ibn2cQ5My6cG5TedmJJbd4uaF9S17fM/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEIFicqmmV4HyR3eZWgRXewGHicAdyNZXLiaFyibsTIqKwO5ELj938t2qE3DFAQf3Hxu1fbr3ibyvS0bXdK6y8e29v3BZvIiapuXNPIftO5stO5xSKNQ/132",
       "can_delete": null,
       "content": "有结论",
       "created_at": "2025-12-11 12:05:47",
@@ -184982,7 +186044,7 @@ const COMMENTS_DB = {
       "user_name": "哇酷哇酷"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "主对角直接求逆，副对角对换左同行右同列再加负号",
       "created_at": "2025-11-28 14:10:03",
@@ -185248,7 +186310,7 @@ const COMMENTS_DB = {
       "user_name": "丶"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "前面刚提醒自己注意求逆的思路，这不就来了吗",
       "created_at": "2025-11-14 18:02:18",
@@ -185637,7 +186699,7 @@ const COMMENTS_DB = {
       "user_name": "野原新之助"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "泰勒是个好东西，除非你知道分母是几阶并且分子能写出大于等于该阶的等价无穷小",
       "created_at": "2025-11-16 13:29:11",
@@ -185670,7 +186732,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "可以加一减一再等价，或者直接泰勒，下一章见兄弟们",
       "created_at": "2025-11-14 10:38:20",
@@ -186000,7 +187062,7 @@ const COMMENTS_DB = {
       "user_name": "吴硕"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "太好了，这才是泰勒该有的难度，送分的泰勒才是好泰勒",
       "created_at": "2025-11-19 19:19:07",
@@ -186044,7 +187106,7 @@ const COMMENTS_DB = {
       "user_name": "25"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELZgShs15h2cXuFIEEPyNIoIRItESdLdmmhC6JpTxGYwr9kIC3MWDvoe2gAg8cicsodpJvOGNgc8Vicaof9n4HwlyyTyFyAxOc26tyZcAmRdunQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/2oXVicc8Gxa6RGUU5HpicxZTsPicqY6oKQudvibIBwiaZUwRqgibZ4cnqwjiaVVvicSkefZDDYF53iaHVM7RQDCMkzXXRIAaNKT1FluyKeE8nMap3uq4/132",
       "can_delete": null,
       "content": "好难",
       "created_at": "2025-11-13 12:34:30",
@@ -186111,6 +187173,30 @@ const COMMENTS_DB = {
     }
   ],
   "963": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "套公式积分的时候算错了",
+      "created_at": "2026-07-09 13:10:43",
+      "id": 39952,
+      "likes": 0,
+      "replies": [
+        {
+          "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+          "can_delete": null,
+          "content": "计算能力还是太弱了，好多题能看懂但是算不对",
+          "created_at": "2026-07-09 13:29:22",
+          "id": 39953,
+          "likes": 0,
+          "parent_id": 39952,
+          "reply_to_user": null,
+          "student_id": 41078,
+          "user_name": "热心网友"
+        }
+      ],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4OYIHnKiaskOdoE1ntBviaj8pmEhlwgTiaFzwaB8EWVuv11XJdeSiaL2KVHsicXUOT13OJO7jj3ux0qDA/132",
       "can_delete": null,
@@ -186506,7 +187592,7 @@ const COMMENTS_DB = {
       "user_name": "🍻"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "核心 令Y轴上的x为0",
       "created_at": "2025-12-04 16:10:58",
@@ -186514,7 +187600,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "1. 令0  2.带绝对值  3.随时化简",
           "created_at": "2025-12-04 16:49:29",
@@ -186801,7 +187887,7 @@ const COMMENTS_DB = {
       "user_name": "Jaylen Brown"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "第二问的面积不急着把y表示成x的话，可以写成完全平方，直接用陈平不等式求最小值在e^(3/2)，属于x>e，这样就可以直接算到最值，不用麻烦其他步骤。还有这个y一眼单减，简单二阶导之后也可以看到是二阶导小于0，所以快速判断切线的x和y截距压根都是正的，不需要讨论，把绝对值算出来",
       "created_at": "2025-11-19 11:48:20",
@@ -187493,7 +188579,7 @@ const COMMENTS_DB = {
       "user_name": "Future."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "秩满可逆不为零，无关唯一只零解",
       "created_at": "2025-11-28 15:20:05",
@@ -187501,7 +188587,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "系矩非方阵时，尤其注意min秩的不等式",
           "created_at": "2025-11-28 15:21:58",
@@ -187583,7 +188669,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦lY2YgT"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "解第一个行列式a=2，带入方程组，得到X3=0，然后就能解出x（1.2.3）。解出b=-4.",
       "created_at": "2025-11-24 23:43:45",
@@ -187684,7 +188770,7 @@ const COMMENTS_DB = {
       "user_name": "Aa猪饲料批发章师傅（考研版）"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "迷失在了计算里",
       "created_at": "2025-11-14 18:58:02",
@@ -187692,7 +188778,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "还算错了，我服了",
           "created_at": "2025-11-14 18:58:44",
@@ -187704,7 +188790,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "不是这回真考观察法了",
           "created_at": "2025-11-14 19:00:16",
@@ -187916,7 +189002,7 @@ const COMMENTS_DB = {
       "content": "注意力惊人",
       "created_at": "2025-12-17 18:25:07",
       "id": 38846,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 4112,
       "user_name": "Maverick"
@@ -188669,7 +189755,7 @@ const COMMENTS_DB = {
       "user_name": "楽"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "拆分换元",
       "created_at": "2025-11-28 15:14:59",
@@ -188900,7 +189986,7 @@ const COMMENTS_DB = {
       "user_name": "6666"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "花了点时间，好在做出来了，考场上做的快的话能回来解决，根本思路问题是想复杂了，考研根本不可能从死角旮旯里面找脑筋急转弯出来给我考，老老实实看见什么规律就用，这里题干和条件的联系就在于上下限差2，那就老老实实大大方方设x到x+2，老头自有妙算，做到这一步会看出来题干条件的机密所在",
       "created_at": "2025-11-16 15:09:34",
@@ -189862,7 +190948,7 @@ const COMMENTS_DB = {
       "user_name": "决堤"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "无范围自己找定义域",
       "created_at": "2025-11-25 21:27:11",
@@ -190031,7 +191117,7 @@ const COMMENTS_DB = {
       "user_name": "N."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELZgShs15h2cXuFIEEPyNIoIRItESdLdmmhC6JpTxGYwr9kIC3MWDvoe2gAg8cicsodpJvOGNgc8Vicaof9n4HwlyyTyFyAxOc26tyZcAmRdunQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/2oXVicc8Gxa6RGUU5HpicxZTsPicqY6oKQudvibIBwiaZUwRqgibZ4cnqwjiaVVvicSkefZDDYF53iaHVM7RQDCMkzXXRIAaNKT1FluyKeE8nMap3uq4/132",
       "can_delete": null,
       "content": "定义域，弧长的计算",
       "created_at": "2025-11-20 17:44:22",
@@ -190053,7 +191139,7 @@ const COMMENTS_DB = {
       "user_name": "Wenhao"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EMYVU131CVR2jEnZx0gwYRrbBgIUrfOy3TQvkomPsb640LHAMlMJ2ZrwFRXS0kTs5ic7sasMaWoPzf4csIRUxmYfTXhPp5KJ9HdkMdlfCoEI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EMYVU131CVR2jEnZx0gwYRrbBgIUrfOy3TQvkomPsb4kkLOEFx4qp1icMia5ibblgibrEHXkTTksOhI6yYOicB0TMWkAqocLrEbaNia50iciaIVw7z4/132",
       "can_delete": null,
       "content": "范围",
       "created_at": "2025-11-19 20:12:16",
@@ -190086,7 +191172,7 @@ const COMMENTS_DB = {
       "user_name": "假贾不假"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "光记公式脑子退化了，加上三角函数学的不好，一时间差点没想到二倍角公式，本来也是这么推出来的",
       "created_at": "2025-11-16 14:45:33",
@@ -190094,7 +191180,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "还有三角函数退化到90°后面的竟然不熟悉了，以后照着图看吧，影响不大",
           "created_at": "2025-11-16 14:46:56",
@@ -190541,7 +191627,7 @@ const COMMENTS_DB = {
       "user_name": "晚些"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "这题放在这我感觉他在羞辱我",
       "created_at": "2025-11-13 19:56:17",
@@ -190549,7 +191635,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "喜欢老头拿大大的分数来羞辱我",
           "created_at": "2025-11-14 21:32:41",
@@ -191143,7 +192229,7 @@ const COMMENTS_DB = {
       "user_name": "Michael"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "1.无关相关构建等式 2.线性方程和矩阵的转换",
       "created_at": "2025-11-28 14:37:21",
@@ -191363,7 +192449,7 @@ const COMMENTS_DB = {
       "user_name": "iiss"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "同解联立做Ax=0，然后求通解。还是五分钟压线，还是那句话，时间花在刀把上",
       "created_at": "2025-11-14 18:35:26",
@@ -191371,7 +192457,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "丢脸了，只需要用一方就能求出解来，我怎么代了四个进去",
           "created_at": "2025-11-14 18:37:09",
@@ -191495,7 +192581,7 @@ const COMMENTS_DB = {
           "user_name": "锅盔超人"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HktpeH8Bk8KZn8iacZ2DVeLIxbZ2ygtRYhEwyrUicqslYdhiauy2lSCA2CnrFrHtlHibo5zHp6LZq7tcFHjeOFkAaDicIc7BhwagGGEjMt9htQm0/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELlWgbtVL2DW7ecFlA6Dibia8NFVv33NJr7unU9EhUTn224U3ey8IxsTK2Bqd6wsSPDyplxCfZuR69ClH9g1wq4uG80L6p99cOdTNejGlXHwSCA/132",
           "can_delete": null,
           "content": "帕拉迪宇",
           "created_at": "2025-11-09 20:56:22",
@@ -191988,6 +193074,17 @@ const COMMENTS_DB = {
   ],
   "974": [
     {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "若λ≠0，e的λx次方均无界\n要讨论Δ，大于0、等于0、小于0的三种情况",
+      "created_at": "2026-07-08 20:58:51",
+      "id": 39950,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
+    {
       "avatar_url": "avatar://seed/15668842793",
       "can_delete": null,
       "content": "注意是整个定义域，所以e的入方要想等于0，只能是入等于0",
@@ -192313,7 +193410,7 @@ const COMMENTS_DB = {
       "user_name": "Ella_s_memory"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "有界意思不明白",
       "created_at": "2025-12-04 17:15:08",
@@ -192706,7 +193803,7 @@ const COMMENTS_DB = {
       "user_name": "笔耕ywccT5"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "我是🐷，三角函数当无界了",
       "created_at": "2025-11-13 19:53:06",
@@ -192919,6 +194016,17 @@ const COMMENTS_DB = {
     }
   ],
   "975": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PCPJOWQGXHYx9O4aYDKCYdzW5iaYWsKLOI5e2G8aBp12tzVTm1Id3yfTAs9XMibN9eDvA6Omd7n6j39sUuFiaLXd86ibakDXSJn3RlDrHgP8420/132",
+      "can_delete": null,
+      "content": "23年姜小千同源150刚好根据竞赛改变一道题就押中了，考场上老头刚好几乎抄了同一道竞赛题",
+      "created_at": "2026-07-17 15:47:29",
+      "id": 40013,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42296,
+      "user_name": "Ridge"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/SD1HPz7mn8Sms1ibv8Ng98KcBNk8YDldk8pV6fABGibhVOUvoEFGsvLI4XL2f0yFicCtXsdWiblYHrfwEol0om6T8VgyG91pNrOXZ5ygKL66zrA/132",
       "can_delete": null,
@@ -193208,7 +194316,7 @@ const COMMENTS_DB = {
       "user_name": "晚些"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "求存在用定义，求连续用求导带值",
       "created_at": "2025-12-07 01:08:09",
@@ -193387,7 +194495,7 @@ const COMMENTS_DB = {
       "user_name": "笔耕MWCwRm"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "反解 左右极限 泰勒细心",
       "created_at": "2025-11-27 15:51:22",
@@ -193519,7 +194627,7 @@ const COMMENTS_DB = {
       "user_name": "Miracle"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELZgShs15h2cXuFIEEPyNIoIRItESdLdmmhC6JpTxGYwr9kIC3MWDvoe2gAg8cicsodpJvOGNgc8Vicaof9n4HwlyyTyFyAxOc26tyZcAmRdunQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/2oXVicc8Gxa6RGUU5HpicxZTsPicqY6oKQudvibIBwiaZUwRqgibZ4cnqwjiaVVvicSkefZDDYF53iaHVM7RQDCMkzXXRIAaNKT1FluyKeE8nMap3uq4/132",
       "can_delete": null,
       "content": "极限值等于函数值，函数在该点存在且连续",
       "created_at": "2025-11-20 11:57:57",
@@ -193742,6 +194850,17 @@ const COMMENTS_DB = {
     }
   ],
   "976": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "极值点处，导函数左右两侧变号\n拐点处，二阶导函数左右两侧也变号",
+      "created_at": "2026-07-08 21:32:59",
+      "id": 39951,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/zEm7DtfB7ZZ1xwX6biaKGG9Wh6z1Y4J6MGdS6fbb7nfpeeE2vZQYxt2wT2eZtPqWbxIqdYkcGbuatY29XicEvg3IsibhrUDiaMwKv7DXZHwBShg/132",
       "can_delete": null,
@@ -194111,7 +195230,7 @@ const COMMENTS_DB = {
       "user_name": "兮"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "本质上都是讨论符号的正负",
       "created_at": "2025-11-28 14:02:38",
@@ -194119,7 +195238,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "不变号，说明判别式大于等于0，活用判别式和根的关系",
           "created_at": "2025-11-28 14:08:27",
@@ -195255,7 +196374,7 @@ const COMMENTS_DB = {
       "user_name": "罐装"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "我终于能驾驭住三角函数了",
       "created_at": "2025-11-19 15:22:55",
@@ -195263,7 +196382,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "但是裂项还不太能驾驭，我的第二题是把下面x方化进去成dx^-1，然后裂1做的。",
           "created_at": "2025-11-19 15:24:10",
@@ -195275,7 +196394,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "要注意直接裂项相消的思路",
           "created_at": "2025-11-19 15:24:25",
@@ -195313,7 +196432,7 @@ const COMMENTS_DB = {
       "user_name": "BuleDendroaspis"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "看着复杂，实际上具体写起来很顺手，想好这个图像什么样就出来了。显然趋于无穷的时候，x这一坨是往0跑的",
       "created_at": "2025-11-13 19:55:35",
@@ -195495,7 +196614,7 @@ const COMMENTS_DB = {
       "user_name": "小颜"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_1069_3a47b6f26eef47fdbb475710dbd34945.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8WpdRJKZhsLn8VtGEQPeBgUTwbcUw0RvMnaF2fwoQbBfOwC63wQz5hllhhiaefr4nUY8SD5wZxRkiaQkXHWUNg8AjRmBE1g7ZrD8nVjAibgc14/132",
       "can_delete": null,
       "content": "积分公式别忘",
       "created_at": "2025-12-16 18:56:20",
@@ -196097,7 +197216,7 @@ const COMMENTS_DB = {
       "user_name": "独秀同志2.0"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "计算太慢了",
       "created_at": "2025-12-04 15:41:18",
@@ -196453,7 +197572,7 @@ const COMMENTS_DB = {
       "user_name": "小王同学"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELf14QyGuM3VSQAvN9BV1IUibPNVZSa31ncSz21hqn6SxhjhiaTlxv7JeaN1aPRUnkDSSar8Act0mFZNhtJYs7IdtSXiaT3rs0YMSrbrKPjYcdMw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bAibDVzZoKFKESicbW9V2j2Ih7XUmJwSZ4BtjkrsonVSJ8tQYAbl2NqZYXqiaBqMDa2ibhsu0xyFyqKpE0axk8Y2TMS62TYwhqxyQIpuIaicMkf0/132",
       "can_delete": null,
       "content": "R记得开根号 ln中不要忘记根好",
       "created_at": "2025-11-22 11:50:55",
@@ -196497,7 +197616,7 @@ const COMMENTS_DB = {
       "user_name": "反杀"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "靠，前面对了后面对了，错在把x写成rsinx y写成rcosx 我昏头了",
       "created_at": "2025-11-19 18:43:38",
@@ -197087,6 +198206,17 @@ const COMMENTS_DB = {
   ],
   "972": [
     {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "易错点是y的一阶导数为0时，y的取值",
+      "created_at": "2026-07-09 19:55:23",
+      "id": 39955,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
+    {
       "avatar_url": "uploads/avatars/avatar_10304_cbdd8507fa6e464aaf5011933677b936.jpeg",
       "can_delete": null,
       "content": "注意驻点！",
@@ -197098,7 +198228,7 @@ const COMMENTS_DB = {
       "user_name": "touchthesky"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/RGYoEtERnsuaSmhj6nuQicic1Zv4rsWDTeStYBDkSrd4fU2GK8F5YSLglzmVFo2F1yyAamfPNKJicYntLp79wZJesGmHFRF8QmMMRBo9Ab5xFU/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/RGYoEtERnsuaSmhj6nuQicic1Zv4rsWDTeStYBDkSrd4d28JEZvSx6oIpYIkml9Ywanwthm4hZx7ZtkOW58zrpJ9kICib9M8zSl6zdUOVJp8kU/132",
       "can_delete": null,
       "content": "糟老头子坏的很",
       "created_at": "2025-12-18 12:46:37",
@@ -197164,7 +198294,7 @@ const COMMENTS_DB = {
       "user_name": "求其"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_1069_3a47b6f26eef47fdbb475710dbd34945.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8WpdRJKZhsLn8VtGEQPeBgUTwbcUw0RvMnaF2fwoQbBfOwC63wQz5hllhhiaefr4nUY8SD5wZxRkiaQkXHWUNg8AjRmBE1g7ZrD8nVjAibgc14/132",
       "can_delete": null,
       "content": "分类讨论分清楚",
       "created_at": "2025-12-16 16:41:50",
@@ -197299,7 +198429,7 @@ const COMMENTS_DB = {
       "user_name": "高速俯冲"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9TGEvlS9k1Q818WMsiay0wibODIEEAnXdAPKicuutAbBy037CLdUcpY44wfrwsXnWRCSzZ6hzRMKCaSTrdDOyCI25jflFqQiagF7NTVvjXD3eiak/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9TGEvlS9k1Q818WMsiay0wibODIEEAnXdAPKicuutAbBy2qiaa3EhMxDR1bTHehI0MIpM8uBbsIx6HIcbZGmAhoH91JnaRCQ5UB46wK4ic60jLew/132",
       "can_delete": null,
       "content": "注意周期函数",
       "created_at": "2025-12-13 08:25:34",
@@ -197343,7 +198473,7 @@ const COMMENTS_DB = {
       "user_name": "周璇"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_21036_9d030750bd7c4a2db043abf789da07ee.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/IQchc5Uhib5g4H6vetLoLnNzJdPKhKhWFFQ3ia7OiaO8INj2ZoRBBdjzGibPpc5Td9S6AOmrmTShNvVn5J3e46DDTArujibQUt9fBUcUFT9kmItY/132",
       "can_delete": null,
       "content": "老头多少有点见",
       "created_at": "2025-12-12 14:56:19",
@@ -197767,7 +198897,7 @@ const COMMENTS_DB = {
       "user_name": "孤独"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "哭晕，最后y的二阶导负号忘记算了，舍去了正确的选项。兄弟们一定要算对啊",
       "created_at": "2025-11-30 18:55:20",
@@ -198137,7 +199267,7 @@ const COMMENTS_DB = {
       "user_name": "Snow white🐒（柚子国王庇佑版）"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "算错了",
       "created_at": "2025-11-19 15:10:12",
@@ -198350,7 +199480,7 @@ const COMMENTS_DB = {
   ],
   "977": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTTlPgLic91zsvzEx0VwuLEosAIsibM1RhspkHaa2wRt1kDOZfYf9E6JaY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTYWgBiaRe5muudBFy4fXzzw8iavytUrY7xPMnK3eiayylaQ229mVBljBicE/132",
       "can_delete": null,
       "content": "令lnx🟰t",
       "created_at": "2025-12-18 15:14:44",
@@ -198385,7 +199515,7 @@ const COMMENTS_DB = {
       "user_name": "🍻"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/RGYoEtERnsuaSmhj6nuQicic1Zv4rsWDTeStYBDkSrd4fU2GK8F5YSLglzmVFo2F1yyAamfPNKJicYntLp79wZJesGmHFRF8QmMMRBo9Ab5xFU/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/RGYoEtERnsuaSmhj6nuQicic1Zv4rsWDTeStYBDkSrd4d28JEZvSx6oIpYIkml9Ywanwthm4hZx7ZtkOW58zrpJ9kICib9M8zSl6zdUOVJp8kU/132",
       "can_delete": null,
       "content": "lnln2＜0，直接带进去比大小",
       "created_at": "2025-12-17 20:14:49",
@@ -198965,7 +200095,7 @@ const COMMENTS_DB = {
       "user_name": "一只崽"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "万能公式，β都是大于1的，别弄混",
       "created_at": "2025-11-28 14:01:09",
@@ -198973,7 +200103,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "不要畏惧求积分 大胆求下去正常求解",
           "created_at": "2025-11-28 14:01:35",
@@ -199181,7 +200311,7 @@ const COMMENTS_DB = {
       "user_name": "马马嘟嘟骑"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "饶了一点弯路，前面直接对积分求导了，拿武忠祥的万能积分求导公式太顺手了，以至于后面才发现直接积分就行",
       "created_at": "2025-11-16 10:02:47",
@@ -199203,7 +200333,7 @@ const COMMENTS_DB = {
       "user_name": "哲别"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "先积分做的，然后我是求个导然后答案挨个往里套，结果从后往前套废了不少时间",
       "created_at": "2025-11-13 19:53:49",
@@ -199236,7 +200366,7 @@ const COMMENTS_DB = {
       "user_name": "一一"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "有点不熟",
       "created_at": "2025-11-11 17:18:46",
@@ -199298,7 +200428,7 @@ const COMMENTS_DB = {
       "content": "老头就这么出，求你了",
       "created_at": "2025-12-17 23:13:13",
       "id": 39049,
-      "likes": 5,
+      "likes": 6,
       "replies": [],
       "student_id": 4518,
       "user_name": "古古怪怪moon"
@@ -199691,7 +200821,7 @@ const COMMENTS_DB = {
       "user_name": "为琳写诗."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "何意味",
       "created_at": "2025-11-19 20:15:23",
@@ -199713,7 +200843,7 @@ const COMMENTS_DB = {
       "user_name": "我要当DHU的狗"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "特征向量线性无关就可以相似对角化了",
       "created_at": "2025-11-14 20:46:17",
@@ -200091,7 +201221,7 @@ const COMMENTS_DB = {
       "user_name": "我要成为11408高手"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "增广开解！",
       "created_at": "2025-11-14 18:48:55",
@@ -200793,7 +201923,7 @@ const COMMENTS_DB = {
       "user_name": "辉夜"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "我傻了 x是y的低阶 我说咋找不到答案呢！！！ 他给反过来了",
       "created_at": "2025-11-21 10:53:10",
@@ -200826,7 +201956,7 @@ const COMMENTS_DB = {
       "user_name": "Snow white🐒（柚子国王庇佑版）"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "我不懂啊，选择题第三题，放缩吗？",
       "created_at": "2025-11-19 16:34:31",
@@ -200914,7 +202044,7 @@ const COMMENTS_DB = {
       "user_name": "大雄不雄"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "给了",
       "created_at": "2025-11-15 19:49:39",
@@ -200922,7 +202052,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "蒙还是能蒙，sinx同一位置映射的y更大，x^2同一位置映射的y更小，其他的我不管了",
           "created_at": "2025-11-15 19:52:34",
@@ -201360,7 +202490,7 @@ const COMMENTS_DB = {
       "user_name": "冲冲冲"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "写常数。   并且e的0次方等于1",
       "created_at": "2025-12-04 22:21:42",
@@ -201571,7 +202701,7 @@ const COMMENTS_DB = {
       "user_name": "Pluto"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "谢谢你，希望26也能像这样打破偶数年谣言😡",
       "created_at": "2025-11-15 10:53:31",
@@ -201638,6 +202768,17 @@ const COMMENTS_DB = {
     }
   ],
   "987": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PCPJOWQGXHYx9O4aYDKCYdzW5iaYWsKLOI5e2G8aBp12tzVTm1Id3yfTAs9XMibN9eDvA6Omd7n6j39sUuFiaLXd86ibakDXSJn3RlDrHgP8420/132",
+      "can_delete": null,
+      "content": "神了，第一次做这个题时候我就记得做错了但不记得哪里错了，第二次再做到的时候发现是让求1处的数值然后突然想起第一次做也是这么错的，直接带入0处的数值一通超绝运算量神了",
+      "created_at": "2026-07-17 17:55:38",
+      "id": 40014,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42296,
+      "user_name": "Ridge"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/oJiao7ZSm1eic7lURCopVZQsImuCOyTsico3JKZs7Htt351XcTiaclU6vEibpOjlMrpye06jcwM5hZGqYesLq39CwVibBzxqKLfDfOADvyxjt9RXc/132",
       "can_delete": null,
@@ -201960,7 +203101,7 @@ const COMMENTS_DB = {
       "user_name": "远航frLyKx"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "单调定唯一解，多次考",
       "created_at": "2025-11-26 14:43:45",
@@ -201968,7 +203109,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "次幂一定注意计算",
           "created_at": "2025-11-26 14:47:32",
@@ -202072,7 +203213,7 @@ const COMMENTS_DB = {
       "user_name": "F"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "越算越心慌，能不能设一个置信度高的答案，差点不自信",
       "created_at": "2025-11-15 10:46:38",
@@ -202151,7 +203292,7 @@ const COMMENTS_DB = {
   ],
   "986": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTTlPgLic91zsvzEx0VwuLEosAIsibM1RhspkHaa2wRt1kDOZfYf9E6JaY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTYWgBiaRe5muudBFy4fXzzw8iavytUrY7xPMnK3eiayylaQ229mVBljBicE/132",
       "can_delete": null,
       "content": "硬算不丢人。。",
       "created_at": "2025-12-18 16:05:52",
@@ -202566,7 +203707,7 @@ const COMMENTS_DB = {
       "user_name": "雾海孤舟"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "求特征值也不慢，x^3+x^2+x+1先一眼丁真(x^2+1)(x+1)然后秒了，但是求逆确实没想到这个思路以后可能出事，得习惯想到求逆的思路",
       "created_at": "2025-11-14 17:54:54",
@@ -202602,7 +203743,7 @@ const COMMENTS_DB = {
       "user_name": "林甫江"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "你说你考这种题把A和A逆的迹设成一样的不太好吧？真有填A半路逃跑的话不给兄弟们赚麻了吗",
       "created_at": "2025-11-14 17:51:42",
@@ -202933,7 +204074,7 @@ const COMMENTS_DB = {
       "user_name": "Ajmracky."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELZgShs15h2cXuFIEEPyNIoIRItESdLdmmhC6JpTxGYwr9kIC3MWDvoe2gAg8cicsodpJvOGNgc8Vicaof9n4HwlyyTyFyAxOc26tyZcAmRdunQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/2oXVicc8Gxa6RGUU5HpicxZTsPicqY6oKQudvibIBwiaZUwRqgibZ4cnqwjiaVVvicSkefZDDYF53iaHVM7RQDCMkzXXRIAaNKT1FluyKeE8nMap3uq4/132",
       "can_delete": null,
       "content": "难算",
       "created_at": "2025-12-05 23:39:34",
@@ -203076,7 +204217,7 @@ const COMMENTS_DB = {
       "user_name": "Promising"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "分子为分母的导形式，多观察",
       "created_at": "2025-11-26 15:04:42",
@@ -203230,7 +204371,7 @@ const COMMENTS_DB = {
       "user_name": "沁"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "分子是导数的题是我的舒适区，但是你这个答案设置让人很不自信",
       "created_at": "2025-11-15 10:50:49",
@@ -203565,7 +204706,7 @@ const COMMENTS_DB = {
       "user_name": "Viva"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRfhiaMSkArm2NWGMjDd4F7B3j5vE1gu6sY0Yd8fBRTs9NSicQqLBeyyZyPIO4aQYmozw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRd4DJQoG5EZMHRmBA0EUiaPxyQ3XeDtmoDkvnQ0lGygWJCMq478CagAbGLdxoicclF5g/132",
       "can_delete": null,
       "content": "泰勒公式证明出来一半就够了",
       "created_at": "2025-11-24 13:37:29",
@@ -203664,7 +204805,7 @@ const COMMENTS_DB = {
       "user_name": "悦"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "技法一：莫名其妙的高阶导用泰勒，给什么点做哪个点的泰勒\n；技法二：上下限都为常数，取上限x，区间a到b构造函数",
       "created_at": "2025-11-15 14:52:28",
@@ -203672,7 +204813,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "对常数积分敏感一点，常数积分直接乘上下限差",
           "created_at": "2025-11-15 14:56:11",
@@ -203684,7 +204825,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "这样的话就可以看出充分性的另一种证明方法，把b-a乘过去，两边都能写成a到b的积分，可以看出(a+b)/2是f(x)的最小值点，也就是说，当b不等于a，这玩意的一阶导就是0，然后正常按照(a+b)/2的点写泰勒，可以得到f(x)=f(a+b/2)+f``(s)……这样的形式，利用前面的该点最小值，可以推出二阶导大于等于0",
           "created_at": "2025-11-15 15:03:21",
@@ -203696,7 +204837,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "这条方法我感觉比上面解析的两条接地气多了，毕竟高阶导想泰勒才是自然想法",
           "created_at": "2025-11-15 15:04:40",
@@ -203708,7 +204849,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "反正解析的充分性我看着是一脸懵，考场想出来的概率是-1145141919810%",
           "created_at": "2025-11-15 15:08:22",
@@ -204229,7 +205370,7 @@ const COMMENTS_DB = {
       "user_name": "走走走"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "求你了这种题才是真正考验考生基础的题，26务必多出，跪谢皇恩",
       "created_at": "2025-11-15 10:43:18",
@@ -204469,6 +205610,28 @@ const COMMENTS_DB = {
     }
   ],
   "985": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI0pNIs0ajbJgKboSZib15DhjibIMVQdJbHYMCxYQ0XWZwcLC3gBkyQFT3LSTArzVSwic5rE94wjZjwG4xk72vINF5suZJn31XCgro0UG4xhNZuw/132",
+      "can_delete": null,
+      "content": "根据已知条件凑导数定义",
+      "created_at": "2026-07-14 16:34:47",
+      "id": 39991,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40443,
+      "user_name": "晓"
+    },
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "需要做一个替换，括号里的和分母保持一致",
+      "created_at": "2026-07-13 19:27:47",
+      "id": 39983,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJ39c9pf7jPWLPjb8R99OSiaf0bMBFdNzLBSL3cXFweKl0kCNwMFu4baLqPe6Opy9cad5a0Qe84ALA/132",
       "can_delete": null,
@@ -205030,7 +206193,7 @@ const COMMENTS_DB = {
       "user_name": "Promising"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "经典套餐，母零子零加连续",
       "created_at": "2025-11-27 17:38:22",
@@ -205175,7 +206338,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "f(1)=0之后f`(1)用定义随便我凑，凑凑你的",
       "created_at": "2025-11-15 11:00:45",
@@ -205460,7 +206623,7 @@ const COMMENTS_DB = {
       "user_name": "Hari"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "直接约掉没想到",
       "created_at": "2025-12-14 19:16:41",
@@ -205886,7 +207049,7 @@ const COMMENTS_DB = {
       "user_name": "am"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "我线代差，五分钟全给你了，时间节约下来就是用在刀把上的。",
       "created_at": "2025-11-14 18:25:18",
@@ -205894,7 +207057,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "三秩相等够用了，不够用的话就当给老头了",
           "created_at": "2025-11-14 18:27:45",
@@ -205955,6 +207118,17 @@ const COMMENTS_DB = {
     }
   ],
   "984": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "极坐标，用到了弧度，不是直角坐标系下那样",
+      "created_at": "2026-07-13 16:26:16",
+      "id": 39982,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/80mczFudCicyPnc0Wib9QG2jsyN61iaLHT9ibvGSNYe20skd0n3Gw98ZqcZS1tmCqtJexLyHpChy3AqP5SsDL9GX0VKW1Kre8wMYWtqAYQMPy6M/132",
       "can_delete": null,
@@ -206044,7 +207218,7 @@ const COMMENTS_DB = {
       "user_name": "😴"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "1/3",
       "created_at": "2025-12-15 10:44:49",
@@ -206220,7 +207394,7 @@ const COMMENTS_DB = {
       "user_name": "高明"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_1069_3a47b6f26eef47fdbb475710dbd34945.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8WpdRJKZhsLn8VtGEQPeBgUTwbcUw0RvMnaF2fwoQbBfOwC63wQz5hllhhiaefr4nUY8SD5wZxRkiaQkXHWUNg8AjRmBE1g7ZrD8nVjAibgc14/132",
       "can_delete": null,
       "content": "极坐标面积公式，最基础的别忽视",
       "created_at": "2025-12-09 16:28:34",
@@ -206563,7 +207737,7 @@ const COMMENTS_DB = {
       "user_name": "早睡"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "漏r了",
       "created_at": "2025-11-26 15:39:38",
@@ -206741,7 +207915,7 @@ const COMMENTS_DB = {
       "user_name": "反杀"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "角度有范围，只有一条曲线还给了公式，二重积分就列出来了，然后上限化成Π，对称干成Π/2，上公式",
       "created_at": "2025-11-15 10:57:02",
@@ -206829,7 +208003,7 @@ const COMMENTS_DB = {
       "user_name": "千千"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HktpeH8Bk8KZn8iacZ2DVeLIxbZ2ygtRYhEwyrUicqslYdhiauy2lSCA2CnrFrHtlHibo5zHp6LZq7tcFHjeOFkAaDicIc7BhwagGGEjMt9htQm0/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELlWgbtVL2DW7ecFlA6Dibia8NFVv33NJr7unU9EhUTn224U3ey8IxsTK2Bqd6wsSPDyplxCfZuR69ClH9g1wq4uG80L6p99cOdTNejGlXHwSCA/132",
       "can_delete": null,
       "content": "极坐标面积公式，算扇形面积",
       "created_at": "2025-11-06 20:45:55",
@@ -207534,7 +208708,7 @@ const COMMENTS_DB = {
       "user_name": "DE JONG"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "老头和一位",
       "created_at": "2025-12-04 23:04:38",
@@ -207657,7 +208831,7 @@ const COMMENTS_DB = {
       "user_name": "Silence"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRfhiaMSkArm2NWGMjDd4F7B3j5vE1gu6sY0Yd8fBRTs9NSicQqLBeyyZyPIO4aQYmozw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRd4DJQoG5EZMHRmBA0EUiaPxyQ3XeDtmoDkvnQ0lGygWJCMq478CagAbGLdxoicclF5g/132",
       "can_delete": null,
       "content": "做会第一问就好",
       "created_at": "2025-11-24 14:16:03",
@@ -207806,7 +208980,7 @@ const COMMENTS_DB = {
       "user_name": "confiture"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "送分归送分，不妨碍这题出的阴",
       "created_at": "2025-11-14 21:24:52",
@@ -208176,7 +209350,7 @@ const COMMENTS_DB = {
       "user_name": "Snow white🐒（柚子国王庇佑版）"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELZgShs15h2cXuFIEEPyNIoIRItESdLdmmhC6JpTxGYwr9kIC3MWDvoe2gAg8cicsodpJvOGNgc8Vicaof9n4HwlyyTyFyAxOc26tyZcAmRdunQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/2oXVicc8Gxa6RGUU5HpicxZTsPicqY6oKQudvibIBwiaZUwRqgibZ4cnqwjiaVVvicSkefZDDYF53iaHVM7RQDCMkzXXRIAaNKT1FluyKeE8nMap3uq4/132",
       "can_delete": null,
       "content": "注意计算",
       "created_at": "2025-11-21 11:33:57",
@@ -208198,7 +209372,7 @@ const COMMENTS_DB = {
       "user_name": "顶峰相见"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "经典题型多出好出",
       "created_at": "2025-11-15 10:12:39",
@@ -208574,7 +209748,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icLI8TqAuDURD95KSo4MjvBsufibQ9skChznheAIAfu0M7orugHBER4nJO58Fp6VLCiccP3fibWY7O7206IOmaenVHReq0JFoPZD8hoicVe6xjwY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icLI8TqAuDURD95KSo4MjvBsufibQ9skChznheAIAfu0Pj6ibXhyD9M6FicEY2TIx89ZQ1HgUz7MczxtvWsZQwFIxtaGCJeBhmbOhPDVcXvoYico/132",
       "can_delete": null,
       "content": "可以用带特殊值的方法比较出来",
       "created_at": "2025-11-24 10:55:14",
@@ -208675,7 +209849,7 @@ const COMMENTS_DB = {
       "user_name": "哲别"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "放缩是放缩，我放弯路了",
       "created_at": "2025-11-15 10:41:27",
@@ -208709,6 +209883,17 @@ const COMMENTS_DB = {
     }
   ],
   "994": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI0pNIs0ajbJgKboSZib15DhjibIMVQdJbHYMCxYQ0XWZwcLC3gBkyQFT3LSTArzVSwic5rE94wjZjwG4xk72vINF5suZJn31XCgro0UG4xhNZuw/132",
+      "can_delete": null,
+      "content": "依旧算错",
+      "created_at": "2026-07-02 15:46:59",
+      "id": 39931,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40443,
+      "user_name": "晓"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/I31gEs1XdlnqAIKUURQVALewBHsibW8ngcufibla3rFR4bJkO52GeMSiaPjYfGguwk3RjMDIch14ydH0J31ExscHIzqvUmrMRiaefLuT1ibtLRq4/132",
       "can_delete": null,
@@ -209385,7 +210570,7 @@ const COMMENTS_DB = {
       "user_name": "干就完了"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "连续几次考都是这个设计x/2-1/2x平方加一开方就是x/2+1/2x，好的设计希望继续",
       "created_at": "2025-11-15 13:49:24",
@@ -209671,7 +210856,7 @@ const COMMENTS_DB = {
       "user_name": "Moneirs"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "写一下第二问",
       "created_at": "2025-12-15 21:25:17",
@@ -210076,7 +211261,7 @@ const COMMENTS_DB = {
       "user_name": "敢不敢再细心一点"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "答题卡写得下吗 我请问了",
       "created_at": "2025-12-07 14:43:04",
@@ -210084,7 +211269,7 @@ const COMMENTS_DB = {
       "likes": 2,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "byd我还是不理解 答题卡写不下啊 你们咋写的",
           "created_at": "2025-12-12 20:36:50",
@@ -210642,7 +211827,7 @@ const COMMENTS_DB = {
       "user_name": "六月的宇"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRfhiaMSkArm2NWGMjDd4F7B3j5vE1gu6sY0Yd8fBRTs9NSicQqLBeyyZyPIO4aQYmozw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRd4DJQoG5EZMHRmBA0EUiaPxyQ3XeDtmoDkvnQ0lGygWJCMq478CagAbGLdxoicclF5g/132",
       "can_delete": null,
       "content": "写出来第一问就够了",
       "created_at": "2025-11-24 13:38:04",
@@ -210754,7 +211939,7 @@ const COMMENTS_DB = {
       "user_name": "点点哇哇上大分"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "贪心了，u=v也不能当成一元函数算，老老实实算二元吧，其他思路还是对的，就是想看看有没有小道将军可走此之",
       "created_at": "2025-11-15 14:12:11",
@@ -211115,7 +212300,7 @@ const COMMENTS_DB = {
       "user_name": "独秀同志2.0"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "动动脑",
       "created_at": "2025-12-05 01:27:09",
@@ -211225,7 +212410,7 @@ const COMMENTS_DB = {
       "user_name": "反杀"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "考虑正负号",
       "created_at": "2025-11-21 10:53:45",
@@ -211324,7 +212509,7 @@ const COMMENTS_DB = {
       "user_name": "kita_0421"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "4的证明没想到，但是推知出来了",
       "created_at": "2025-11-15 10:10:27",
@@ -211514,6 +212699,17 @@ const COMMENTS_DB = {
     }
   ],
   "997": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "两个点，分别求出等于什么，再判断p的取值范围",
+      "created_at": "2026-07-12 16:33:45",
+      "id": 39972,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/oJiao7ZSm1eic7lURCopVZQsImuCOyTsico3JKZs7Htt351XcTiaclU6vEibpOjlMrpye06jcwM5hZGqYesLq39CwVibBzxqKLfDfOADvyxjt9RXc/132",
       "can_delete": null,
@@ -212201,7 +213397,7 @@ const COMMENTS_DB = {
       "user_name": "ZZhuang🌳"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "武忠祥的结论，lnx直接当成x-1",
       "created_at": "2025-11-15 10:31:42",
@@ -212330,6 +213526,17 @@ const COMMENTS_DB = {
     }
   ],
   "999": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
+      "can_delete": null,
+      "content": "Xn设为绝对值相同但是符号不同的数列，根据内偶则偶内奇同外可以知道前面AB选项都会掩盖符号的变化，导致收敛，在CD中，只有cos能够掩盖掉符号的变化所以D正确",
+      "created_at": "2026-06-11 15:44:11",
+      "id": 39888,
+      "likes": 0,
+      "replies": [],
+      "student_id": 5921,
+      "user_name": "你别皱眉"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7kDYUm0EEGdJLzY1EfINV6anpYuY5ibicbv7o9euYD5j5icf2rlUvb1yeM60z0XD7TdEUYsjoJyamOsiaGXmN6QY22iaVTzv0nwTvlaB8N1fiasPk/132",
       "can_delete": null,
@@ -212737,7 +213944,7 @@ const COMMENTS_DB = {
       "user_name": "向上IknuYE"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "全得单调有界",
       "created_at": "2025-11-29 21:24:12",
@@ -212814,7 +214021,7 @@ const COMMENTS_DB = {
       "user_name": "笔耕MWCwRm"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "我是这么认为的，单调函数去掉外层仍存在，x的区间让cosx是0到1，那sinx在0到1单调，所以sin（cosx）存在时，cosx存在，但是cosx在x的区间上不单调，所以xn不一定存在。但是我感觉我的想法不能很严谨的表达出来",
       "created_at": "2025-11-28 15:05:56",
@@ -213330,7 +214537,7 @@ const COMMENTS_DB = {
       "user_name": "安格斯牛肉堡"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "p+q=r",
       "created_at": "2025-12-09 20:59:40",
@@ -213686,7 +214893,7 @@ const COMMENTS_DB = {
       "user_name": "TKOML"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "配方法配对了，先配完x2，再配一次就出来了",
       "created_at": "2025-11-14 11:10:09",
@@ -213694,7 +214901,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "负惯性指数0则非负",
           "created_at": "2025-11-14 11:12:08",
@@ -213706,7 +214913,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "两种手法\n一：有平方项则直接先配完此平方项元素，按部就班进行配方\n二：没有平方项，则对其中一个交叉相乘项做x1=y1+y2 x2=y1-y2 x3=y3的变换导出平方项进行按部就班配方。这道题这么做是因为因式分解后正好出现无平方项的交叉相乘项，因此先把原式变换成交叉相乘，再对交叉相乘按上述变换导出平方项按部就班配方",
           "created_at": "2025-11-14 13:26:20",
@@ -213718,7 +214925,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "但是因式分解的手法下必须检查是可逆的",
           "created_at": "2025-11-14 13:29:34",
@@ -213933,6 +215140,41 @@ const COMMENTS_DB = {
     }
   ],
   "995": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "y≤x+2，用极坐标变换，能求出来",
+      "created_at": "2026-07-13 20:19:05",
+      "id": 39984,
+      "likes": 0,
+      "replies": [
+        {
+          "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+          "can_delete": null,
+          "content": "基础太弱了",
+          "created_at": "2026-07-13 20:21:05",
+          "id": 39985,
+          "likes": 0,
+          "parent_id": 39984,
+          "reply_to_user": null,
+          "student_id": 41078,
+          "user_name": "热心网友"
+        }
+      ],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI0pNIs0ajbJgKboSZib15DhjibIMVQdJbHYMCxYQ0XWZwcLC3gBkyQFT3LSTArzVSwic5rE94wjZjwG4xk72vINF5suZJn31XCgro0UG4xhNZuw/132",
+      "can_delete": null,
+      "content": "阴完了😅",
+      "created_at": "2026-07-02 16:26:22",
+      "id": 39932,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40443,
+      "user_name": "晓"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJ39c9pf7jPWLPjb8R99OSiaf0bMBFdNzLBSL3cXFweKl0kCNwMFu4baLqPe6Opy9cad5a0Qe84ALA/132",
       "can_delete": null,
@@ -214516,7 +215758,7 @@ const COMMENTS_DB = {
       "user_name": "该吃早饭了"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "再忘打括号就去二战吧",
       "created_at": "2025-12-06 15:13:53",
@@ -214639,7 +215881,7 @@ const COMMENTS_DB = {
       "user_name": "学吗学吧"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "不小心算错了，sin2x没有积分直接算",
       "created_at": "2025-12-03 16:21:53",
@@ -215145,7 +216387,7 @@ const COMMENTS_DB = {
       "user_name": "emmmmm"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/99U6LEL8nPOeFCRfxkLwrBLvhqCJPhlS8u9oRIUYrwddCoHDSZW43bTiaOARMz4poWFWLUz3QQmGtiaOuhz8MqR1kcFGL8MJgRG6Jz6JcBtBo/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/99U6LEL8nPOeFCRfxkLwrBLvhqCJPhlS8u9oRIUYrwddCoHDSZW43Sib1L09q6DEpp2BpDMUexbQurpibicjmHSNsd4x7nZ6dbEArAH9BbWuibs/132",
       "can_delete": null,
       "content": "密码的积分区域和被积函数全看错了",
       "created_at": "2025-11-17 20:46:29",
@@ -215202,7 +216444,7 @@ const COMMENTS_DB = {
       "user_name": "37poke"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "好精妙的数据设置",
       "created_at": "2025-11-15 13:59:07",
@@ -215382,7 +216624,7 @@ const COMMENTS_DB = {
       "user_name": "Lu.楊超"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_5189_1760739a89c8455b99248fcfb117e028.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELjVAR39dSemwmko1roEIvNJ5VYnwSwlZbzM12hJw0zcxCPg9x3C4n2AYIGZc8G7iak847NhETYKkfUb9pmItAqB7S66tXIHhqHjLJyxCmgoaA/132",
       "can_delete": null,
       "content": "化简啊哥，别硬算",
       "created_at": "2025-12-11 12:19:49",
@@ -215637,7 +216879,7 @@ const COMMENTS_DB = {
       "user_name": "Sors"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "并非难算",
       "created_at": "2025-11-14 14:23:08",
@@ -215926,7 +217168,7 @@ const COMMENTS_DB = {
       "user_name": "白免"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "单调性，f'(x)≥0，f(x)↑；二阶导，f'’(x)≥0，f(x)凹，ACD缺少等号情况+AB一阶导连续（满足）  CD二阶导连续（不满足直接排）",
       "created_at": "2025-12-11 22:15:59",
@@ -216344,7 +217586,7 @@ const COMMENTS_DB = {
       "user_name": "12.20"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEK1WBtMbw2AmI49h6TmyNRsgfCV0XJWlpGib5QTxg1Jtjv1gc6BPh66vVgrjj7tJv3kLQH4016b11hJhnibAMZtLCYqVpMKkGVEypu6bHXf1WCA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/THroZXr0JK20sqZwBE1yiaHLh9rrciauJE4r1ib3ywCeMzczWVe9T7OiaVFfBoBAdUyTdj8YEqbO5mctbUXSUvUUn8tAyTEE1QzSTG4BNViclkoc/132",
       "can_delete": null,
       "content": "2004年，选择题第十题",
       "created_at": "2025-12-04 10:40:46",
@@ -216487,7 +217729,7 @@ const COMMENTS_DB = {
       "user_name": "早睡"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "回顾经典反例的用处，xsinx",
       "created_at": "2025-11-28 15:26:12",
@@ -216621,7 +217863,7 @@ const COMMENTS_DB = {
       "user_name": "Promising"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "d举反例",
       "created_at": "2025-11-25 21:59:11",
@@ -216841,7 +218083,7 @@ const COMMENTS_DB = {
       "user_name": "de"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "二阶导函数得到一阶导函数连续 但是二阶导函数可以不连续以证伪",
       "created_at": "2025-11-15 10:24:20",
@@ -217096,7 +218338,7 @@ const COMMENTS_DB = {
       "user_name": "Freiheit"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "我和老头的羁绊",
       "created_at": "2025-12-02 17:51:02",
@@ -217285,7 +218527,7 @@ const COMMENTS_DB = {
       "user_name": "kita_0421"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "并非难算",
       "created_at": "2025-11-14 14:25:07",
@@ -217353,6 +218595,30 @@ const COMMENTS_DB = {
   ],
   "1005": [
     {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "t是一个常数",
+      "created_at": "2026-07-14 21:25:36",
+      "id": 39993,
+      "likes": 0,
+      "replies": [
+        {
+          "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+          "can_delete": null,
+          "content": "不是参数",
+          "created_at": "2026-07-14 21:29:35",
+          "id": 39994,
+          "likes": 0,
+          "parent_id": 39993,
+          "reply_to_user": null,
+          "student_id": 41078,
+          "user_name": "热心网友"
+        }
+      ],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
+    {
       "avatar_url": "uploads/avatars/avatar_7741_0ee3426bb64e4981b9956e22eb8a3547.jpeg",
       "can_delete": null,
       "content": "再不看下限试试",
@@ -217375,7 +218641,7 @@ const COMMENTS_DB = {
       "user_name": "恢复出厂设置"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTTlPgLic91zsvzEx0VwuLEosAIsibM1RhspkHaa2wRt1kDOZfYf9E6JaY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTYWgBiaRe5muudBFy4fXzzw8iavytUrY7xPMnK3eiayylaQ229mVBljBicE/132",
       "can_delete": null,
       "content": "交换积分次序➕变限积分求导",
       "created_at": "2025-12-18 14:15:35",
@@ -217740,7 +219006,7 @@ const COMMENTS_DB = {
       "user_name": "早睡"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "不用怕参数，正常画图",
       "created_at": "2025-11-28 15:46:46",
@@ -218030,7 +219296,7 @@ const COMMENTS_DB = {
       "user_name": "你好哇"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "看错区域了，这一下时间算到了六分钟，前面做快一点就是给这种失误留余地的啊",
       "created_at": "2025-11-14 14:32:21",
@@ -218687,7 +219953,7 @@ const COMMENTS_DB = {
       "user_name": "呱呱"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "Ax=0,x与A行正交",
       "created_at": "2025-11-28 15:38:09",
@@ -218695,7 +219961,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "我表你，我的都是你的，公共与同都是针对行关系",
           "created_at": "2025-11-28 15:40:06",
@@ -218996,7 +220262,7 @@ const COMMENTS_DB = {
       "user_name": "麟游"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icLI8TqAuDURD95KSo4MjvBsufibQ9skChznheAIAfu0M7orugHBER4nJO58Fp6VLCiccP3fibWY7O7206IOmaenVHReq0JFoPZD8hoicVe6xjwY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icLI8TqAuDURD95KSo4MjvBsufibQ9skChznheAIAfu0Pj6ibXhyD9M6FicEY2TIx89ZQ1HgUz7MczxtvWsZQwFIxtaGCJeBhmbOhPDVcXvoYico/132",
       "can_delete": null,
       "content": "解小牛秩大；A可由B表示说明B秩大于A秩，由解小牛秩大，B的解范围小A的解范围大，这个结论只建立在行向量组，题是列向量组所以要对其转置换到行向量组层面，所以选D",
       "created_at": "2025-11-10 20:14:35",
@@ -219004,7 +220270,7 @@ const COMMENTS_DB = {
       "likes": 13,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
           "can_delete": null,
           "content": "哥 这是什么口诀么",
           "created_at": "2025-11-16 15:52:00",
@@ -219016,7 +220282,7 @@ const COMMENTS_DB = {
           "user_name": "小赵同学"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icLI8TqAuDURD95KSo4MjvBsufibQ9skChznheAIAfu0M7orugHBER4nJO58Fp6VLCiccP3fibWY7O7206IOmaenVHReq0JFoPZD8hoicVe6xjwY/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icLI8TqAuDURD95KSo4MjvBsufibQ9skChznheAIAfu0Pj6ibXhyD9M6FicEY2TIx89ZQ1HgUz7MczxtvWsZQwFIxtaGCJeBhmbOhPDVcXvoYico/132",
           "can_delete": null,
           "content": "是个口诀，讲解在哔站没咋了线代救命课，线性方程组-同解问题。这个口诀是弹幕里的，留意一下，再搭配没咋了的讲解理解一下",
           "created_at": "2025-11-17 21:22:53",
@@ -219028,7 +220294,7 @@ const COMMENTS_DB = {
           "user_name": "小小怪下士"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icLI8TqAuDURD95KSo4MjvBsufibQ9skChznheAIAfu0M7orugHBER4nJO58Fp6VLCiccP3fibWY7O7206IOmaenVHReq0JFoPZD8hoicVe6xjwY/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icLI8TqAuDURD95KSo4MjvBsufibQ9skChznheAIAfu0Pj6ibXhyD9M6FicEY2TIx89ZQ1HgUz7MczxtvWsZQwFIxtaGCJeBhmbOhPDVcXvoYico/132",
           "can_delete": null,
           "content": "一个方程组解的数量少证明这个解的秩就大，这就是口诀解小牛子(秩)大",
           "created_at": "2025-11-17 21:25:05",
@@ -219162,6 +220428,17 @@ const COMMENTS_DB = {
   ],
   "1008": [
     {
+      "avatar_url": "avatar://seed/13931387908",
+      "can_delete": null,
+      "content": "格式(-1)的逆序数次方乘所选的元素",
+      "created_at": "2026-07-10 10:16:39",
+      "id": 39960,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39951,
+      "user_name": "ww不犯困"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEIImFYKg7VibdvalgcnCHsmJohSOZhgt8rydffylkgJq4PqU1kdcvgDbmt8Exlj9NTGAhDb3ZPr0ibeq2QTicb8iczPjQFatNjcjBOHFSnzywBIRQ/132",
       "can_delete": null,
       "content": "别忘戴套",
@@ -219173,7 +220450,7 @@ const COMMENTS_DB = {
       "user_name": "I'm sure"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTTlPgLic91zsvzEx0VwuLEosAIsibM1RhspkHaa2wRt1kDOZfYf9E6JaY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTYWgBiaRe5muudBFy4fXzzw8iavytUrY7xPMnK3eiayylaQ229mVBljBicE/132",
       "can_delete": null,
       "content": "4231逆序数为3️⃣➕1️⃣➕1️⃣",
       "created_at": "2025-12-18 14:18:14",
@@ -219550,7 +220827,7 @@ const COMMENTS_DB = {
       "user_name": "敢不敢再细心一点"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEK1WBtMbw2AmI49h6TmyNRsgfCV0XJWlpGib5QTxg1Jtjv1gc6BPh66vVgrjj7tJv3kLQH4016b11hJhnibAMZtLCYqVpMKkGVEypu6bHXf1WCA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/THroZXr0JK20sqZwBE1yiaHLh9rrciauJE4r1ib3ywCeMzczWVe9T7OiaVFfBoBAdUyTdj8YEqbO5mctbUXSUvUUn8tAyTEE1QzSTG4BNViclkoc/132",
       "can_delete": null,
       "content": "行列式展开，然后观察",
       "created_at": "2025-12-03 14:44:29",
@@ -219860,7 +221137,7 @@ const COMMENTS_DB = {
       "user_name": "萌萌香"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "逆序数没忘",
       "created_at": "2025-11-14 14:37:01",
@@ -219934,7 +221211,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
           "can_delete": null,
           "content": "容易漏😂",
           "created_at": "2025-11-14 09:19:43",
@@ -220606,7 +221883,7 @@ const COMMENTS_DB = {
   ],
   "1007": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTTlPgLic91zsvzEx0VwuLEosAIsibM1RhspkHaa2wRt1kDOZfYf9E6JaY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTYWgBiaRe5muudBFy4fXzzw8iavytUrY7xPMnK3eiayylaQ229mVBljBicE/132",
       "can_delete": null,
       "content": "通分等价洛必达",
       "created_at": "2025-12-18 14:18:57",
@@ -220804,7 +222081,7 @@ const COMMENTS_DB = {
       "user_name": "听风细雨"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "怎么二刷没做出来0.o",
       "created_at": "2025-12-07 13:21:13",
@@ -220859,7 +222136,7 @@ const COMMENTS_DB = {
       "user_name": "椰子芒果糯米饭"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "♾️➖♾️不能直接使用等价",
       "created_at": "2025-12-05 00:54:18",
@@ -221316,7 +222593,7 @@ const COMMENTS_DB = {
       "user_name": "神说归处是婷"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "洛两次 注意符号❤️",
       "created_at": "2025-11-21 10:23:57",
@@ -221393,7 +222670,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "这道题居然就这么朴实无华洛必达",
       "created_at": "2025-11-14 14:40:44",
@@ -221584,6 +222861,28 @@ const COMMENTS_DB = {
   ],
   "1006": [
     {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "r的三次方-1，不是（r-1）的三次方",
+      "created_at": "2026-07-15 16:30:08",
+      "id": 39998,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI0pNIs0ajbJgKboSZib15DhjibIMVQdJbHYMCxYQ0XWZwcLC3gBkyQFT3LSTArzVSwic5rE94wjZjwG4xk72vINF5suZJn31XCgro0UG4xhNZuw/132",
+      "can_delete": null,
+      "content": "看到我复习立方差公式🥹",
+      "created_at": "2026-07-02 15:02:59",
+      "id": 39928,
+      "likes": 1,
+      "replies": [],
+      "student_id": 40443,
+      "user_name": "晓"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEIImFYKg7VibdvalgcnCHsmJohSOZhgt8rydffylkgJq4PqU1kdcvgDbmt8Exlj9NTGAhDb3ZPr0ibeq2QTicb8iczPjQFatNjcjBOHFSnzywBIRQ/132",
       "can_delete": null,
       "content": "因式分解",
@@ -221595,7 +222894,7 @@ const COMMENTS_DB = {
       "user_name": "I'm sure"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTTlPgLic91zsvzEx0VwuLEosAIsibM1RhspkHaa2wRt1kDOZfYf9E6JaY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTYWgBiaRe5muudBFy4fXzzw8iavytUrY7xPMnK3eiayylaQ229mVBljBicE/132",
       "can_delete": null,
       "content": "因式分解因式分解因式分解 1不是三重根",
       "created_at": "2025-12-18 14:17:04",
@@ -221960,7 +223259,7 @@ const COMMENTS_DB = {
       "user_name": "锅巴"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/RGYoEtERnsuaSmhj6nuQicic1Zv4rsWDTeStYBDkSrd4fU2GK8F5YSLglzmVFo2F1yyAamfPNKJicYntLp79wZJesGmHFRF8QmMMRBo9Ab5xFU/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/RGYoEtERnsuaSmhj6nuQicic1Zv4rsWDTeStYBDkSrd4d28JEZvSx6oIpYIkml9Ywanwthm4hZx7ZtkOW58zrpJ9kICib9M8zSl6zdUOVJp8kU/132",
       "can_delete": null,
       "content": "糟老头子坏的很",
       "created_at": "2025-12-07 20:37:42",
@@ -222364,7 +223663,7 @@ const COMMENTS_DB = {
       "user_name": "Wenhao"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "把y当成r了，立方差公式回顾",
       "created_at": "2025-11-26 15:16:29",
@@ -223065,7 +224364,7 @@ const COMMENTS_DB = {
       "user_name": "Au"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "大胆算相信自己",
       "created_at": "2025-12-01 21:23:29",
@@ -223197,7 +224496,7 @@ const COMMENTS_DB = {
       "user_name": "手拿把掐可以吗"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "驻点 单调",
       "created_at": "2025-11-28 15:48:49",
@@ -223329,7 +224628,7 @@ const COMMENTS_DB = {
       "user_name": "哲别"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "最温柔一集",
       "created_at": "2025-11-14 16:14:04",
@@ -223340,7 +224639,7 @@ const COMMENTS_DB = {
       "user_name": "林甫江"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/micUg5D5ykSmSfqO5udTFSDs0Cy9KoHQEXoeru3e62n7CN18Vz4TItyO85YhZcef1lo7W7icmkgltQ7XOrc46Oq581GZiacJ1tpOyXxQV2k1YU/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/micUg5D5ykSmSfqO5udTFSDs0Cy9KoHQEXoeru3e62n6gCmqZ9X47iboxf5J3kEBk4TOicia8icrQHDPzp3r7pehric3k5mOiaTRpIA2pT9ZZpVD94/132",
       "can_delete": null,
       "content": "ez",
       "created_at": "2025-11-14 11:16:20",
@@ -223431,6 +224730,17 @@ const COMMENTS_DB = {
     }
   ],
   "1019": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "记住泰勒公式",
+      "created_at": "2026-07-14 20:29:03",
+      "id": 39992,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ic9xkcXR5o21XibLPPmXyDsKotsHib4VR1tGMSqHN0rwP7UII8957ic142ptc4z9K4Hv2jPpm07lv9vJkouy5A3bLTpLF2bwnH5ys6BLmA9ZULM/132",
       "can_delete": null,
@@ -223784,7 +225094,7 @@ const COMMENTS_DB = {
           "user_name": "LIE..."
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/99U6LEL8nPOeFCRfxkLwrBLvhqCJPhlS8u9oRIUYrwddCoHDSZW43bTiaOARMz4poWFWLUz3QQmGtiaOuhz8MqR1kcFGL8MJgRG6Jz6JcBtBo/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/99U6LEL8nPOeFCRfxkLwrBLvhqCJPhlS8u9oRIUYrwddCoHDSZW43Sib1L09q6DEpp2BpDMUexbQurpibicjmHSNsd4x7nZ6dbEArAH9BbWuibs/132",
           "can_delete": null,
           "content": "咋哥本人吗",
           "created_at": "2025-11-16 19:08:16",
@@ -223812,7 +225122,7 @@ const COMMENTS_DB = {
       "user_name": "没咋了"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/T2um2RmMXyP60bp2TQd7wicGaEe5JGWblAoRItc7bI46jo1zOvYwrryEGTO6iaC5sCZRj092YwOicFIib5uFODNKV5GzYrLquaQAXpJLicTe1Oo0/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/T2um2RmMXyP60bp2TQd7wicGaEe5JGWblAoRItc7bI471IYqc7dXvME1rDrVQNMkV0D7z5yqVTP72XKSCDric0NvJ0ZcM7JXSJMNnrPI8Fsac/132",
       "can_delete": null,
       "content": "题目错了",
       "created_at": "2025-11-05 15:26:06",
@@ -224269,7 +225579,7 @@ const COMMENTS_DB = {
       "user_name": "25"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "你考个高中导数我真一下子反应不过来，我还在想你在哪个知识点阴我",
       "created_at": "2025-11-14 09:41:50",
@@ -224830,7 +226140,7 @@ const COMMENTS_DB = {
       "user_name": "没意思"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "好玩",
       "created_at": "2025-11-28 15:43:41",
@@ -225133,7 +226443,7 @@ const COMMENTS_DB = {
       "user_name": "如初"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "算错了有点不自信，一看评论数量感觉不对，CD都验算一次果然，有问题",
       "created_at": "2025-11-14 14:18:20",
@@ -225953,7 +227263,7 @@ const COMMENTS_DB = {
           "user_name": "Euphoria"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "离开了观察法这道题我真不会",
           "created_at": "2025-11-14 10:10:43",
@@ -226030,7 +227340,7 @@ const COMMENTS_DB = {
       "user_name": "宇澜"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTTlPgLic91zsvzEx0VwuLEosAIsibM1RhspkHaa2wRt1kDOZfYf9E6JaY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTYWgBiaRe5muudBFy4fXzzw8iavytUrY7xPMnK3eiayylaQ229mVBljBicE/132",
       "can_delete": null,
       "content": "b两个值都算一下",
       "created_at": "2025-12-18 14:26:37",
@@ -226694,7 +228004,7 @@ const COMMENTS_DB = {
       "user_name": "耐刷王"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "没找到排除理由就应该算下去，分情况讨论",
       "created_at": "2025-11-26 21:03:58",
@@ -226815,7 +228125,7 @@ const COMMENTS_DB = {
       "user_name": "whale"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "20年真是个坎，18年难度上来之后都还好，20年计算爆炸还考一堆技法，跳过来21年又温柔得很……我好像知道今年数学什么结局了",
       "created_at": "2025-11-14 17:36:02",
@@ -226839,7 +228149,7 @@ const COMMENTS_DB = {
       "user_name": "林甫江"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "最仁慈的线代",
       "created_at": "2025-11-14 17:34:45",
@@ -226872,7 +228182,7 @@ const COMMENTS_DB = {
       "user_name": "chiu."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "这个题有思路就是送分题，感觉算是基本功的题。能相似对角化的话，多重根要有多个线性无关的特征向量，这样来确定a的值。",
       "created_at": "2025-11-11 22:19:02",
@@ -226984,7 +228294,7 @@ const COMMENTS_DB = {
       "user_name": "就广广C"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTTlPgLic91zsvzEx0VwuLEosAIsibM1RhspkHaa2wRt1kDOZfYf9E6JaY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTYWgBiaRe5muudBFy4fXzzw8iavytUrY7xPMnK3eiayylaQ229mVBljBicE/132",
       "can_delete": null,
       "content": "取fx🟰1",
       "created_at": "2025-12-18 14:16:06",
@@ -227305,7 +228615,7 @@ const COMMENTS_DB = {
       "user_name": "pisces."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELw5o6SFyG7R4cFvVsTrU6ibPmMmNJF6X6ogk5g2kZGMicn8zLFvaH0C0iaQKcaQnoLmicmEHyHSRlQ6Yalpab8mLVFVZEZbCWrIb5kfZKlUY3aicw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/6b08AYsOJEOu265uZvpTKGmhZShcYGGQAyNoIibwPiaXTee73TGTSCJo8kzZm5TU8kPKfhSF91M87vHC6mVnbLGZWKDmsNMn8DlB9yxviaW6oE/132",
       "can_delete": null,
       "content": "去掉减一",
       "created_at": "2025-11-25 15:29:31",
@@ -227426,7 +228736,7 @@ const COMMENTS_DB = {
       "user_name": "我独自刷题"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "用采样频率勉强答对，原来在小区间上的任何一个位置采样都可以啊",
       "created_at": "2025-11-14 10:56:06",
@@ -227494,7 +228804,18 @@ const COMMENTS_DB = {
   ],
   "1016": [
     {
-      "avatar_url": "uploads/avatars/avatar_5189_1760739a89c8455b99248fcfb117e028.jpg",
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "算渐近线的时候潜意识只认为是渐近线，思维固化了",
+      "created_at": "2026-07-15 20:34:16",
+      "id": 39999,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELjVAR39dSemwmko1roEIvNJ5VYnwSwlZbzM12hJw0zcxCPg9x3C4n2AYIGZc8G7iak847NhETYKkfUb9pmItAqB7S66tXIHhqHjLJyxCmgoaA/132",
       "can_delete": null,
       "content": "计算问题",
       "created_at": "2025-12-19 08:53:26",
@@ -228205,7 +229526,7 @@ const COMMENTS_DB = {
       "user_name": "mο"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "慢就是快",
       "created_at": "2025-11-28 15:47:05",
@@ -228271,7 +229592,7 @@ const COMMENTS_DB = {
       "user_name": "九亿少女的梦"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "纸老虎纸老虎",
       "created_at": "2025-11-25 22:19:44",
@@ -228436,7 +229757,7 @@ const COMMENTS_DB = {
       "user_name": "耐刷王"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "算对了，但是，最小丑的是拿着大于0恒正就想当然了小于0恒负，太挫了",
       "created_at": "2025-11-14 15:05:10",
@@ -228492,6 +229813,17 @@ const COMMENTS_DB = {
     }
   ],
   "1022": [
+    {
+      "avatar_url": "avatar://seed/13931387908",
+      "can_delete": null,
+      "content": "极值一阶导等于零，e的x次方分正负",
+      "created_at": "2026-07-10 09:32:39",
+      "id": 39958,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39951,
+      "user_name": "ww不犯困"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/80mczFudCicyPnc0Wib9QG2jsyN61iaLHT9ibvGSNYe20skd0n3Gw98ZqcZS1tmCqtJexLyHpChy3AqP5SsDL9GX0VKW1Kre8wMYWtqAYQMPy6M/132",
       "can_delete": null,
@@ -228750,7 +230082,7 @@ const COMMENTS_DB = {
       "user_name": "孤独"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "求某点导数用定义法",
       "created_at": "2025-12-07 00:47:14",
@@ -228893,7 +230225,7 @@ const COMMENTS_DB = {
       "user_name": "后知后觉"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "一充本阶变号，二充高阶不为0",
       "created_at": "2025-11-27 15:56:56",
@@ -229117,6 +230449,17 @@ const COMMENTS_DB = {
   ],
   "1013": [
     {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "搞不懂积分区域",
+      "created_at": "2026-07-15 22:01:15",
+      "id": 40000,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83ermzVXic05a4Tw9SSknyd0cW1r1YnWU4ic2aUvXDtPTF98FPTbnojS0TYdvVxUDmN4JxdqiaEF1ibVYmA/132",
       "can_delete": null,
       "content": "曲线不熟",
@@ -229139,7 +230482,7 @@ const COMMENTS_DB = {
       "user_name": "宇澜"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTTlPgLic91zsvzEx0VwuLEosAIsibM1RhspkHaa2wRt1kDOZfYf9E6JaY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TzRlHKricVQKzAmwM8ibjibib9GgqQwfa2QWiaickfP8Pn8icVPpnfbicYkgTYWgBiaRe5muudBFy4fXzzw8iavytUrY7xPMnK3eiayylaQ229mVBljBicE/132",
       "can_delete": null,
       "content": "cos2a大于0 a属于0到四分之pai",
       "created_at": "2025-12-18 14:24:39",
@@ -229798,7 +231141,7 @@ const COMMENTS_DB = {
       "user_name": "Cypress"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKfHibibNskz9d53C0dfjRCGKqF8dKrpvWbibKZib4E2UK5nYb5TicCyicgReCichBRSQjeoCwzwTiasPhzLR37WTiaUnMspZc27fx9HAR3tlsZVJlCticQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Rc3IRgNmX9BQvRbLqYricRjBAKTLL0bvsyEdHNvhawibNzetP4riaUKJIyibtu9fKWrulPNXOfT31DNsWB0SaqubNP78eibMPTicXkMmBYZjWHxibY/132",
       "can_delete": null,
       "content": "x方＞y方推x＞y＞0，θ∈（0.π/2）",
       "created_at": "2025-12-04 21:24:55",
@@ -230424,7 +231767,7 @@ const COMMENTS_DB = {
       "user_name": "罐装"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "真得记一下那几个勾八图形，不然这道题角度取到90°就完犊子了",
       "created_at": "2025-11-14 16:21:42",
@@ -230459,7 +231802,7 @@ const COMMENTS_DB = {
       "user_name": "永远跟党走！"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "左边是个平方，右边肯定要大于0，所以x大于y，0到pi/4。好题",
       "created_at": "2025-11-11 22:17:54",
@@ -230502,7 +231845,7 @@ const COMMENTS_DB = {
       "likes": 6,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/JXngflaxic8hBY1oeNt9aAUkRPPnsltWF6FibHGe4mwYVxOWTW8AYMOQmyUA6gKj8icdbSvJEB9bM27ZMf6kH0SicSmoUxklaeict6zTlU4oQXpk/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/JXngflaxic8hBY1oeNt9aAUkRPPnsltWF6FibHGe4mwYWaRByv3qQHs1ribkIMqpF9Seukd04d2f8icpngicGAUxqqLsTAR5l4CDBia8o962w6ko4/132",
           "can_delete": null,
           "content": "天才，感谢🙏，实在不会画图",
           "created_at": "2025-11-10 15:17:41",
@@ -231108,7 +232451,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "这题不是给的很巧吗，完全平方转完全平方",
           "created_at": "2025-12-06 19:58:41",
@@ -231375,7 +232718,7 @@ const COMMENTS_DB = {
           "user_name": "Promising"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/iaWmxyYXa4PLo5Gp80Z6GCzib7cl2jBNGoUqL35Eib9bq1VOBEAavpR5xlOAH7xtPzhyicfTIfmXdpQjKdf5fnHFhNItkRK56Ixhic9lS8VXMaeE/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/iaWmxyYXa4PLo5Gp80Z6GCzib7cl2jBNGoUqL35Eib9bq0zwnrib160ggZkia3ASCVQWBhdyxzDc7mxv0iacF4kC5M9liaFxG0zVjskoTXVJDNxyaw/132",
           "can_delete": null,
           "content": "我也是卧槽",
           "created_at": "2025-12-12 11:37:15",
@@ -231784,7 +233127,7 @@ const COMMENTS_DB = {
       "user_name": "哲别"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "要不你直接一点把我杀了吧",
       "created_at": "2025-11-14 15:25:10",
@@ -231792,7 +233135,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "我错了，我算的体积，难怪那么难算",
           "created_at": "2025-11-14 15:28:48",
@@ -231804,7 +233147,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "当练计算量了吧，下次看仔细点",
           "created_at": "2025-11-14 15:29:10",
@@ -231843,7 +233186,7 @@ const COMMENTS_DB = {
       "user_name": "泛起涟漪"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "计算车失误",
       "created_at": "2025-11-13 09:49:46",
@@ -231854,7 +233197,7 @@ const COMMENTS_DB = {
       "user_name": "小赵同学"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "我觉得这套卷子最难的大题就这个了，太难算了也",
       "created_at": "2025-11-11 21:03:20",
@@ -232569,7 +233912,7 @@ const COMMENTS_DB = {
       "user_name": "Bulai"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "同一特值特向的线性组合仍为该特值特向",
       "created_at": "2025-11-06 19:26:04",
@@ -232581,6 +233924,17 @@ const COMMENTS_DB = {
     }
   ],
   "1023": [
+    {
+      "avatar_url": "avatar://seed/13931387908",
+      "can_delete": null,
+      "content": "链式求导不能直接简单相乘",
+      "created_at": "2026-07-10 09:33:23",
+      "id": 39959,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39951,
+      "user_name": "ww不犯困"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ic9xkcXR5o21XibLPPmXyDsKotsHib4VR1tGMSqHN0rwP7UII8957ic142ptc4z9K4Hv2jPpm07lv9vJkouy5A3bLTpLF2bwnH5ys6BLmA9ZULM/132",
       "can_delete": null,
@@ -232910,7 +234264,7 @@ const COMMENTS_DB = {
       "user_name": "敢不敢再细心一点"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "会图形公式就会，不会就不会",
       "created_at": "2025-12-01 23:31:37",
@@ -233000,7 +234354,7 @@ const COMMENTS_DB = {
       "user_name": "h"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "背公式",
       "created_at": "2025-11-28 15:27:07",
@@ -234318,7 +235672,7 @@ const COMMENTS_DB = {
       "user_name": "。。。"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRfhiaMSkArm2NWGMjDd4F7B3j5vE1gu6sY0Yd8fBRTs9NSicQqLBeyyZyPIO4aQYmozw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRd4DJQoG5EZMHRmBA0EUiaPxyQ3XeDtmoDkvnQ0lGygWJCMq478CagAbGLdxoicclF5g/132",
       "can_delete": null,
       "content": "使用洛必达法则求导时候不要忘记，积分的上下限带参数的量也要进行一次求导",
       "created_at": "2025-11-07 11:01:13",
@@ -234419,7 +235773,7 @@ const COMMENTS_DB = {
           "user_name": "白云载酒"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "很喜欢的一个公式，但是后面发现只需要求导+1就能做，就不需要害怕记岔了",
           "created_at": "2025-11-14 09:13:43",
@@ -234448,6 +235802,17 @@ const COMMENTS_DB = {
     }
   ],
   "1027": [
+    {
+      "avatar_url": "avatar://seed/13931387908",
+      "can_delete": null,
+      "content": "直接硬算就行",
+      "created_at": "2026-07-10 11:11:03",
+      "id": 39961,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39951,
+      "user_name": "ww不犯困"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/DibbupDOTKvQyYf87lxOyudO5W26cJtJdODwW2X6w8ictAKK8HQ8OHoQW5Z0yiaLpRtrsmRcQvgMF0kFvftROcwKA6aYlMk8SoRh1PBicsJ99iaU/132",
       "can_delete": null,
@@ -234770,7 +236135,7 @@ const COMMENTS_DB = {
       "user_name": "Promising"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "老头今年也出吧，老头",
       "created_at": "2025-11-26 01:02:14",
@@ -234928,7 +236293,7 @@ const COMMENTS_DB = {
       "user_name": "明忧"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJWm0V7rGicPKsIpiah5M31vkIALD8iaYcsHbS9HO65ghiaGVrf9Ctjvzt3LVrAWQpRxNllLibUkwsJZmmO1AzPFXNR4lumOa8dGYF0TibN0gkMRIXQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJWm0V7rGicPKsIpiah5M31vkIALD8iaYcsHbS9HO65ghiaGbrlhib5v4cOpY0PDHlCoRgZI7IZpLSeFgxVNy2OV1CIuCZ2arrDZjtot91tTOFrFdw/132",
       "can_delete": null,
       "content": "感觉大观配上真题墙，真无敌了",
       "created_at": "2025-11-04 21:36:18",
@@ -235688,7 +237053,7 @@ const COMMENTS_DB = {
       "user_name": "prospect"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELo5Xjdu3JqAP7KJR85PrkLd7IrV9Fz9NLPOqF7k7X5JvhhCtM95XtrmX7TZBxyRFibThBASsib3CWbgDXVdnWIjoOVV09hiaQNTiadWuZ4spoXOA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TwGUSkiad8ANwW6sibsgmH6H2Z00IHGPnEiatjF6ibCc8ia9FicSvrBicIyicJoqNnn9ic5AyuYNHjomEUzicdO19VZQOicibDg91egibhfpLqVDkcrwtTsU/132",
       "can_delete": null,
       "content": "可以用伽马函数求积分=γ（2）=1*γ（1）=1",
       "created_at": "2025-11-02 17:09:46",
@@ -235700,6 +237065,17 @@ const COMMENTS_DB = {
     }
   ],
   "1026": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/45GAicibW2lZ5BU0WIS35RVW49PkG2UpVqibrmeV1hWdRbMibJZBhqLr38H2NOticXk4KwbSg19HkMoWG5xlKROnZ2IK2iatAmS2nWjUD1zLGrclY/132",
+      "can_delete": null,
+      "content": "开始就化简",
+      "created_at": "2026-07-02 14:07:13",
+      "id": 39926,
+      "likes": 0,
+      "replies": [],
+      "student_id": 16054,
+      "user_name": "庄周梦蝴蝶"
+    },
     {
       "avatar_url": "avatar://seed/18963783725",
       "can_delete": null,
@@ -236068,7 +237444,7 @@ const COMMENTS_DB = {
       "user_name": "🍔"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "标记，复杂导注意化简",
       "created_at": "2025-11-23 21:23:10",
@@ -236737,7 +238113,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "好丑的导数",
       "created_at": "2025-11-23 21:23:52",
@@ -236902,7 +238278,7 @@ const COMMENTS_DB = {
       "content": "这东西总结会也没意义，不会再考了",
       "created_at": "2025-12-16 22:49:43",
       "id": 38257,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 15581,
       "user_name": "shangan"
@@ -237205,7 +238581,7 @@ const COMMENTS_DB = {
       "user_name": "听风吟"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "太久忘了，单成分写拉朗，双成分写柯西，很明显的fx与lnx。真忘了太多了得抓紧补",
       "created_at": "2025-11-13 21:16:00",
@@ -237947,7 +239323,7 @@ const COMMENTS_DB = {
       "user_name": "🗝"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HktpeH8Bk8KZn8iacZ2DVeLIxbZ2ygtRYhEwyrUicqslYdhiauy2lSCA2CnrFrHtlHibo5zHp6LZq7tcFHjeOFkAaDicIc7BhwagGGEjMt9htQm0/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELlWgbtVL2DW7ecFlA6Dibia8NFVv33NJr7unU9EhUTn224U3ey8IxsTK2Bqd6wsSPDyplxCfZuR69ClH9g1wq4uG80L6p99cOdTNejGlXHwSCA/132",
       "can_delete": null,
       "content": "微元法",
       "created_at": "2025-11-06 20:39:59",
@@ -238451,7 +239827,7 @@ const COMMENTS_DB = {
       "user_name": "DE JONG"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEK7HURF3GpkLYvpI5O271znWEgWMUMVBnuic14STIBLjRKrTDlULHiaBYEKmdB19t6rgm1jcck1aiaENvtOyylHttuD5iaSmWibuwFicJXYZNyeCsug/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEK7HURF3GpkLYvpI5O271znWEgWMUMVBnuic14STIBLjRLJmlr2G9yx6SbkETYv24zibGLpDxZrghwAQPwMqmRMBWTz1rJx3I7tvzBtzMicur2OQ/132",
       "can_delete": null,
       "content": "不能直接用洛必达做非零部分的求导做极限",
       "created_at": "2025-12-04 02:16:09",
@@ -239621,7 +240997,7 @@ const COMMENTS_DB = {
       "user_name": "恼火"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "线性无关=可逆",
       "created_at": "2025-11-26 01:28:05",
@@ -240085,7 +241461,7 @@ const COMMENTS_DB = {
       "content": "真的麻烦，计算步骤巨多",
       "created_at": "2025-12-10 11:38:25",
       "id": 32251,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 5616,
       "user_name": "萧花琴雨"
@@ -240261,7 +241637,7 @@ const COMMENTS_DB = {
       "user_name": "铭"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HTCiaFNIDLtTWdRIqLibSb57HVffCWL8Oia3akbK5iasmpdKXNvJ2ywcyQpXPiaW3dibwibVADat7mDA9yOyBYFfOKRjjhEAhIicoCpQ6lV8FccU7qI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HTCiaFNIDLtTWdRIqLibSb57HVffCWL8Oia3akbK5iasmpddBRpFObD97GTgIhL7ynia5NREbHdCUblEibtsj5U6FeganX7OyQNaqt2Z9e76zCTKU/132",
       "can_delete": null,
       "content": "c定不出",
       "created_at": "2025-12-04 10:34:48",
@@ -240756,7 +242132,7 @@ const COMMENTS_DB = {
       "user_name": "丞"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "算死我，有本事算死我",
       "created_at": "2025-11-13 22:29:39",
@@ -240764,7 +242140,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "手法还是很简单的，只是y的可降阶，然后分离积分，一边t一边y。但是这20年的计算量怎么大那么多",
           "created_at": "2025-11-13 22:31:14",
@@ -240802,7 +242178,7 @@ const COMMENTS_DB = {
       "user_name": "Kirito"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "几何条件的处理不过关",
       "created_at": "2025-11-12 20:33:47",
@@ -241744,7 +243120,7 @@ const COMMENTS_DB = {
       "user_name": "S"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "有佬用提x然后泰勒的方法吗，为什么这样只能求出x/e ？",
       "created_at": "2025-11-30 15:49:49",
@@ -241764,7 +243140,7 @@ const COMMENTS_DB = {
           "user_name": "顺从命运诺言"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "感谢",
           "created_at": "2025-12-07 12:58:14",
@@ -241970,7 +243346,7 @@ const COMMENTS_DB = {
       "user_name": "ʚ数学我和你拼了ɞ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "相信自己你是最棒的",
       "created_at": "2025-11-25 22:28:32",
@@ -242236,7 +243612,7 @@ const COMMENTS_DB = {
       "user_name": "耐刷王"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "最神人的一道渐近线",
       "created_at": "2025-11-14 20:51:16",
@@ -242269,7 +243645,7 @@ const COMMENTS_DB = {
       "user_name": "wcllt！"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "忘了好多东西，这种指数减法按照公式直接套出-1带公式就行，我记得上次做这道题还是秒杀，怎么这次还没做出来",
       "created_at": "2025-11-13 19:26:08",
@@ -242486,7 +243862,7 @@ const COMMENTS_DB = {
       "user_name": "non"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HktpeH8Bk8KZn8iacZ2DVeLIxbZ2ygtRYhEwyrUicqslYdhiauy2lSCA2CnrFrHtlHibo5zHp6LZq7tcFHjeOFkAaDicIc7BhwagGGEjMt9htQm0/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELlWgbtVL2DW7ecFlA6Dibia8NFVv33NJr7unU9EhUTn224U3ey8IxsTK2Bqd6wsSPDyplxCfZuR69ClH9g1wq4uG80L6p99cOdTNejGlXHwSCA/132",
       "can_delete": null,
       "content": "泰勒",
       "created_at": "2025-11-05 20:12:11",
@@ -243238,7 +244614,7 @@ const COMMENTS_DB = {
       "user_name": "Gumball."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EMYVU131CVR2jEnZx0gwYRrbBgIUrfOy3TQvkomPsb640LHAMlMJ2ZrwFRXS0kTs5ic7sasMaWoPzf4csIRUxmYfTXhPp5KJ9HdkMdlfCoEI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EMYVU131CVR2jEnZx0gwYRrbBgIUrfOy3TQvkomPsb4kkLOEFx4qp1icMia5ibblgibrEHXkTTksOhI6yYOicB0TMWkAqocLrEbaNia50iciaIVw7z4/132",
       "can_delete": null,
       "content": "换元，做方程",
       "created_at": "2025-11-21 14:59:32",
@@ -243293,7 +244669,7 @@ const COMMENTS_DB = {
       "user_name": ".c"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "我也是佩服我能算对",
       "created_at": "2025-11-13 20:31:59",
@@ -244016,7 +245392,7 @@ const COMMENTS_DB = {
       "user_name": "ooo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "特值",
       "created_at": "2025-11-23 21:27:18",
@@ -244229,7 +245605,7 @@ const COMMENTS_DB = {
       "user_name": "ᅟᅠ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ngNK6o7eyRmXVH9hqD9WbNsNsN973N5g9MsRKOVQFOnvCUbU1ic1vJ4gWS4uQMNIxFJ9pLJlSn5FjNMiaBwlvwJYTE7yRdEViazwGAIxqmo8jA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ngNK6o7eyRmXVH9hqD9WbNsNsN973N5g9MsRKOVQFOlG9rEiaPwjib2HYGulDicePgMEyCDRWbSHoXB1vBNOm0Kuqg5kmsuz69gjPVJOAuQyyU/132",
       "can_delete": null,
       "content": "ln高阶导数公式",
       "created_at": "2025-11-04 17:20:56",
@@ -245677,7 +247053,7 @@ const COMMENTS_DB = {
       "user_name": "哇酷哇酷"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "太帅了这道题",
       "created_at": "2025-11-28 20:23:13",
@@ -245892,7 +247268,7 @@ const COMMENTS_DB = {
       "user_name": "暖阳"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "蒙对的，线代还是太弱了",
       "created_at": "2025-11-13 18:28:37",
@@ -246017,7 +247393,7 @@ const COMMENTS_DB = {
       "user_name": "尘琢"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "一偏可微多元连，可微一偏存",
       "created_at": "2025-12-15 13:22:01",
@@ -246354,7 +247730,7 @@ const COMMENTS_DB = {
       "user_name": "Wenhao"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRfhiaMSkArm2NWGMjDd4F7B3j5vE1gu6sY0Yd8fBRTs9NSicQqLBeyyZyPIO4aQYmozw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRd4DJQoG5EZMHRmBA0EUiaPxyQ3XeDtmoDkvnQ0lGygWJCMq478CagAbGLdxoicclF5g/132",
       "can_delete": null,
       "content": "②不会做",
       "created_at": "2025-11-26 18:07:45",
@@ -247440,7 +248816,7 @@ const COMMENTS_DB = {
       "user_name": "jxizianndhcuuJa"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "对secx  三次方积分",
       "created_at": "2025-12-01 14:12:25",
@@ -247564,7 +248940,7 @@ const COMMENTS_DB = {
       "user_name": "后知后觉"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "积分公式不会",
       "created_at": "2025-11-29 01:02:48",
@@ -247926,7 +249302,7 @@ const COMMENTS_DB = {
       "user_name": "六月的宇"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "所有基本积分公式老老实实背",
       "created_at": "2025-11-15 15:11:09",
@@ -247948,7 +249324,7 @@ const COMMENTS_DB = {
       "user_name": "2"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "是公式，我加了一点公式，根号下(a^2+x^2)的神之公式救命，sec^3x其中两个次方进去dtanx，剩下的secx写成根号下(1+tan^2x)，什么？你说这道题考三角函数？捏码我从高一到现在三角函数就是一坨你凭什么考我三角函数？！！！（😡",
       "created_at": "2025-11-13 20:45:33",
@@ -247956,7 +249332,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "错怪了，原来三角函数真的只考到这一步，后面分部积分了，我以为跟以前见到的一样莫名其妙就开始用三角函数变魔术了",
           "created_at": "2025-11-13 20:47:23",
@@ -247968,7 +249344,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "这个分部积分也够狠的……",
           "created_at": "2025-11-13 20:52:12",
@@ -248098,6 +249474,17 @@ const COMMENTS_DB = {
   ],
   "1047": [
     {
+      "avatar_url": "uploads/avatars/avatar_42196_d0de06230c624d3ea561862c126c86e3.jpeg",
+      "can_delete": null,
+      "content": "n(m＋1)阶，n为变上限的阶，m为被积函数的阶",
+      "created_at": "2026-07-13 21:51:30",
+      "id": 39986,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42196,
+      "user_name": "LL"
+    },
+    {
       "avatar_url": "uploads/avatars/avatar_10304_cbdd8507fa6e464aaf5011933677b936.jpeg",
       "can_delete": null,
       "content": "武忠祥估阶结论",
@@ -248202,7 +249589,7 @@ const COMMENTS_DB = {
       "content": "n(m＋1)阶，n为变上限的阶，m为被积函数的阶",
       "created_at": "2025-12-02 15:39:57",
       "id": 23379,
-      "likes": 1,
+      "likes": 2,
       "replies": [],
       "student_id": 25437,
       "user_name": "andy"
@@ -248395,7 +249782,7 @@ const COMMENTS_DB = {
       "user_name": "June"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "里加1乘外",
       "created_at": "2025-11-14 10:10:33",
@@ -248406,7 +249793,7 @@ const COMMENTS_DB = {
       "user_name": "零一"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "忘记公式也没事，求导一样的",
       "created_at": "2025-11-13 17:46:26",
@@ -248966,7 +250353,7 @@ const COMMENTS_DB = {
       "user_name": "FEYE"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "看到这种形式还想不到三换元吗",
       "created_at": "2025-11-28 15:51:13",
@@ -249309,7 +250696,7 @@ const COMMENTS_DB = {
       "user_name": "智慧27brWd"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "崩了，只看出0.2.1，以为三个全对。误打误撞对了。前面年份也是有一个一样的，间断点漏了一个，以为看出来的全对就选了",
       "created_at": "2025-12-12 13:40:40",
@@ -249697,7 +251084,7 @@ const COMMENTS_DB = {
       "user_name": "cc.7"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJWm0V7rGicPKsIpiah5M31vkIALD8iaYcsHbS9HO65ghiaGVrf9Ctjvzt3LVrAWQpRxNllLibUkwsJZmmO1AzPFXNR4lumOa8dGYF0TibN0gkMRIXQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJWm0V7rGicPKsIpiah5M31vkIALD8iaYcsHbS9HO65ghiaGbrlhib5v4cOpY0PDHlCoRgZI7IZpLSeFgxVNy2OV1CIuCZ2arrDZjtot91tTOFrFdw/132",
       "can_delete": null,
       "content": "漏点-1，in｜1+x｜-1也是无穷",
       "created_at": "2025-11-22 16:02:07",
@@ -250115,7 +251502,7 @@ const COMMENTS_DB = {
       "user_name": "Wir"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_5189_1760739a89c8455b99248fcfb117e028.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELjVAR39dSemwmko1roEIvNJ5VYnwSwlZbzM12hJw0zcxCPg9x3C4n2AYIGZc8G7iak847NhETYKkfUb9pmItAqB7S66tXIHhqHjLJyxCmgoaA/132",
       "can_delete": null,
       "content": "导减原不等式，想到e^ax",
       "created_at": "2025-12-11 14:12:44",
@@ -250181,7 +251568,7 @@ const COMMENTS_DB = {
       "user_name": "七月流火"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e67a1IgQjf5Xp52K9jrNNWup9u8FNcvic5mSfnw9FzhUr5zGMKOyFCtW2ZEwRX9PjH06Rzls2lkJ4DOgricC8xc4QZcdIfTrT2sw4YQeUu3Mk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/e67a1IgQjf5Xp52K9jrNNWup9u8FNcvic5mSfnw9FzhVMeiczArIWAKibBOJ4kKaelsmExnGNVhGhlAyNmWUeE30cHsgL3gibbnUvibsFqf019Uo/132",
       "can_delete": null,
       "content": "找个函数呗e的2x次方",
       "created_at": "2025-12-07 21:55:49",
@@ -250368,7 +251755,7 @@ const COMMENTS_DB = {
       "user_name": "1111"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "不会构造。。",
       "created_at": "2025-11-30 15:52:17",
@@ -250478,7 +251865,7 @@ const COMMENTS_DB = {
       "user_name": "XX的后面是什么"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJ4BibQOCrhL2ToicAib9Mtwm0aS3RicoxKJWjMkLHK0z5o4oXJbur2SEgjuKQzK9jeDnRj8SgpziaW25f9tbmdevxXuYzDmtFxo3ng2VtPJWtK0SQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJ4BibQOCrhL2ToicAib9Mtwm0aS3RicoxKJWjMkLHK0z5o4nGG7eibMxAbGxia1OeI0fNwDOuW9O3hFibVZGWfsgTntOKIZGScwJr6X00ssLVsJsJrQ/132",
       "can_delete": null,
       "content": "看到这个就举特例",
       "created_at": "2025-11-24 23:02:09",
@@ -251530,7 +252917,7 @@ const COMMENTS_DB = {
       "user_name": "橘猫爱胖"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HktpeH8Bk8KZn8iacZ2DVeLIxbZ2ygtRYhEwyrUicqslYdhiauy2lSCA2CnrFrHtlHibo5zHp6LZq7tcFHjeOFkAaDicIc7BhwagGGEjMt9htQm0/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELlWgbtVL2DW7ecFlA6Dibia8NFVv33NJr7unU9EhUTn224U3ey8IxsTK2Bqd6wsSPDyplxCfZuR69ClH9g1wq4uG80L6p99cOdTNejGlXHwSCA/132",
       "can_delete": null,
       "content": "11年t11",
       "created_at": "2025-11-06 20:34:42",
@@ -251553,6 +252940,17 @@ const COMMENTS_DB = {
     }
   ],
   "1049": [
+    {
+      "avatar_url": "avatar://seed/13931387908",
+      "can_delete": null,
+      "content": "形式应最简",
+      "created_at": "2026-07-10 11:21:21",
+      "id": 39963,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39951,
+      "user_name": "ww不犯困"
+    },
     {
       "avatar_url": "uploads/avatars/avatar_10304_cbdd8507fa6e464aaf5011933677b936.jpeg",
       "can_delete": null,
@@ -252254,7 +253652,7 @@ const COMMENTS_DB = {
       "content": "硬算不丢人",
       "created_at": "2025-12-16 23:15:49",
       "id": 38267,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 8926,
       "user_name": "小冰"
@@ -252853,6 +254251,17 @@ const COMMENTS_DB = {
   ],
   "1056": [
     {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "括号内对x求导，y是常数；对y求导，x是常数",
+      "created_at": "2026-07-20 19:55:38",
+      "id": 40028,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "大口撕咬"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKKgnTibaia67O6hN0vJFIQDJiavl0kWdjxSt0ibhjwrqKE98tWeMgadfiaHgw5E1FSMrhTGribPOLNWquQjHz2M1HkhAQbWWzGtod2TqmSmj3OFHIQ/132",
       "can_delete": null,
       "content": "简单 但是计算拉完了",
@@ -253213,7 +254622,7 @@ const COMMENTS_DB = {
       "user_name": "yyyyyyh"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "答案给啥我写啥",
       "created_at": "2025-11-13 11:04:58",
@@ -253571,7 +254980,7 @@ const COMMENTS_DB = {
       "user_name": "六月的宇"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "再也不敢秒杀了，老老实实在草稿纸上写好过程",
       "created_at": "2025-11-13 11:00:14",
@@ -253874,7 +255283,7 @@ const COMMENTS_DB = {
       "user_name": "青葉西红柿"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "太久没遇到这种题了我都忘了还有两段拉格朗日的题型，回笼复习一下",
       "created_at": "2025-11-13 15:46:26",
@@ -254379,7 +255788,7 @@ const COMMENTS_DB = {
       "user_name": "Duu.yh"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "绝对值   加x",
       "created_at": "2025-11-29 23:11:27",
@@ -254390,7 +255799,7 @@ const COMMENTS_DB = {
       "user_name": "慕霑"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "加c",
       "created_at": "2025-11-29 23:11:10",
@@ -254780,7 +256189,7 @@ const COMMENTS_DB = {
       "user_name": "六月的宇"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "记错公式了",
       "created_at": "2025-11-13 13:44:22",
@@ -254892,7 +256301,7 @@ const COMMENTS_DB = {
       "user_name": "整点薯条"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/scqYuwYM7IP57ica6huvA3ejms9ylAOMQsJticoJVCxzGwgTu9I4x6ickNwkITuNoZjxKPJhsgMYdibEs83ld2H2wmgNc8WUpJtO1P0LNhtTmUE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/scqYuwYM7IP57ica6huvA3ejms9ylAOMQsJticoJVCxzGzhAHFW1zd2flEWcUrykgiceryQS7RldeekygMxibU7GEibtBNkBmDpv34HvzdsBNOEI/132",
       "can_delete": null,
       "content": "待定系数法，代特值或解方程算出系数",
       "created_at": "2025-11-04 16:39:44",
@@ -255333,7 +256742,7 @@ const COMMENTS_DB = {
       "user_name": "B＆M"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "标记 耐算训练",
       "created_at": "2025-11-28 21:10:35",
@@ -255649,6 +257058,28 @@ const COMMENTS_DB = {
     }
   ],
   "1051": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "忘记x=0这一点了",
+      "created_at": "2026-07-20 20:35:44",
+      "id": 40029,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "大口撕咬"
+    },
+    {
+      "avatar_url": "avatar://seed/13931387908",
+      "can_delete": null,
+      "content": "0不存在就不用写",
+      "created_at": "2026-07-10 11:29:45",
+      "id": 39964,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39951,
+      "user_name": "ww不犯困"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wP762pbYrzdViaHMQZHt4vjuCFTVEyUtticogW8GaMRAMRSEnnZe7RcvS0KRgibq0p92hdKMPRaibuorAo283HhjKia81vxTIGMf8ahTIXy6cUw0/132",
       "can_delete": null,
@@ -256281,7 +257712,7 @@ const COMMENTS_DB = {
       "user_name": "SakuraSincerely"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "细心划分区域，注意无定义点",
       "created_at": "2025-11-28 20:51:14",
@@ -256415,7 +257846,7 @@ const COMMENTS_DB = {
       "user_name": "沃土"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "注意细节",
       "created_at": "2025-11-25 21:15:07",
@@ -256745,7 +258176,7 @@ const COMMENTS_DB = {
       "user_name": "KangYoo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "极值点拐点包括未定义未定义未定义",
       "created_at": "2025-11-13 13:17:41",
@@ -258060,7 +259491,7 @@ const COMMENTS_DB = {
       "user_name": "泷"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "牢记变上限积分等价原函数，灵活转换",
       "created_at": "2025-11-28 20:43:28",
@@ -258068,7 +259499,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "这积分域都能画错。。",
           "created_at": "2025-11-28 20:49:04",
@@ -258150,7 +259581,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJWm0V7rGicPKsIpiah5M31vkIALD8iaYcsHbS9HO65ghiaGVrf9Ctjvzt3LVrAWQpRxNllLibUkwsJZmmO1AzPFXNR4lumOa8dGYF0TibN0gkMRIXQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJWm0V7rGicPKsIpiah5M31vkIALD8iaYcsHbS9HO65ghiaGbrlhib5v4cOpY0PDHlCoRgZI7IZpLSeFgxVNy2OV1CIuCZ2arrDZjtot91tTOFrFdw/132",
       "can_delete": null,
       "content": "分部积分⇒画图换限（2025-11-24  15m）",
       "created_at": "2025-11-24 13:31:30",
@@ -258227,7 +259658,7 @@ const COMMENTS_DB = {
       "user_name": "h"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELf14QyGuM3VSQAvN9BV1IUibPNVZSa31ncSz21hqn6SxhjhiaTlxv7JeaN1aPRUnkDSSar8Act0mFZNhtJYs7IdtSXiaT3rs0YMSrbrKPjYcdMw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bAibDVzZoKFKESicbW9V2j2Ih7XUmJwSZ4BtjkrsonVSJ8tQYAbl2NqZYXqiaBqMDa2ibhsu0xyFyqKpE0axk8Y2TMS62TYwhqxyQIpuIaicMkf0/132",
       "can_delete": null,
       "content": "前面的x不要忘了",
       "created_at": "2025-11-22 10:50:58",
@@ -258381,7 +259812,7 @@ const COMMENTS_DB = {
       "user_name": "天地为政"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "积不出来通通交换次序，但是漏带符号了，看来要规范一下打草稿了",
       "created_at": "2025-11-13 11:10:53",
@@ -258425,7 +259856,7 @@ const COMMENTS_DB = {
       "user_name": "千千"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EMYVU131CVR2jEnZx0gwYRrbBgIUrfOy3TQvkomPsb640LHAMlMJ2ZrwFRXS0kTs5ic7sasMaWoPzf4csIRUxmYfTXhPp5KJ9HdkMdlfCoEI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EMYVU131CVR2jEnZx0gwYRrbBgIUrfOy3TQvkomPsb4kkLOEFx4qp1icMia5ibblgibrEHXkTTksOhI6yYOicB0TMWkAqocLrEbaNia50iciaIVw7z4/132",
       "can_delete": null,
       "content": "二重或分部",
       "created_at": "2025-11-06 16:55:51",
@@ -258460,7 +259891,7 @@ const COMMENTS_DB = {
       "user_name": "K"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HktpeH8Bk8KZn8iacZ2DVeLIxbZ2ygtRYhEwyrUicqslYdhiauy2lSCA2CnrFrHtlHibo5zHp6LZq7tcFHjeOFkAaDicIc7BhwagGGEjMt9htQm0/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELlWgbtVL2DW7ecFlA6Dibia8NFVv33NJr7unU9EhUTn224U3ey8IxsTK2Bqd6wsSPDyplxCfZuR69ClH9g1wq4uG80L6p99cOdTNejGlXHwSCA/132",
       "can_delete": null,
       "content": "分部积分",
       "created_at": "2025-11-06 11:40:56",
@@ -259022,7 +260453,7 @@ const COMMENTS_DB = {
       "user_name": "大喵"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "26年给我这个题，我把pp给老头洗干净",
       "created_at": "2025-11-25 21:32:15",
@@ -259695,7 +261126,7 @@ const COMMENTS_DB = {
       "user_name": "srk"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "初行变换，联立讨参",
       "created_at": "2025-11-19 16:05:28",
@@ -259782,7 +261213,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
           "can_delete": null,
           "content": "肯定不唯一呀 基础解系取的又不一样",
           "created_at": "2025-11-15 10:50:27",
@@ -260053,7 +261484,7 @@ const COMMENTS_DB = {
       "user_name": "卧波长桥"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q12892E962OustSZ5406AiapfyoIm6pTa3762j0t69fE6yTIgXOY80o0EbCIEZrL8IfEMarPldGlLib6Mh3s9hzzkwhJXqkxSQHrBhlM52mOg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q12892E962OustSZ5406AiapfyoIm6pTa3762j0t69fHM4HsdZXWbibQeolib4p36J0SGJA6ue6kgTcJTUtbjDLtTqDMvVLIWHlvBBgN0picelE/132",
       "can_delete": null,
       "content": "函数关系，单调性判别",
       "created_at": "2025-12-02 21:59:13",
@@ -260420,7 +261851,7 @@ const COMMENTS_DB = {
       "user_name": "BuleDendroaspis"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "这种题肯定是内部函数成立恒大于小于关系，直接拿零点做无穷小，然后比大小秒杀，考场上能逃课谁老老实实做啊",
       "created_at": "2025-11-13 09:47:35",
@@ -260703,7 +262134,7 @@ const COMMENTS_DB = {
       "user_name": "BuleDendroaspis"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "公式记多了其实能积分的时候还是积分最好用，四个都是秒杀级难度",
       "created_at": "2025-11-13 09:43:16",
@@ -261278,7 +262709,7 @@ const COMMENTS_DB = {
       "user_name": "玛卡巴卡八米一"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "像模拟题",
       "created_at": "2025-11-28 21:11:05",
@@ -261489,7 +262920,7 @@ const COMMENTS_DB = {
       "user_name": "泰勒展不开"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "方法一好手段，换元改限把k给消去，免了一大堆讨论计算",
       "created_at": "2025-11-13 15:26:17",
@@ -261613,6 +263044,17 @@ const COMMENTS_DB = {
     }
   ],
   "1062": [
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "y=x代进去，能算出极坐标方程和直角坐标方程的交点",
+      "created_at": "2026-07-21 14:33:59",
+      "id": 40030,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "大口撕咬"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/diaELTbQ3ZyNJv67WvkBz3HHeeVNzpFEgn2OQL0W8TNNaImicG89MgO6IjAUXYlm3vicrCqEMmsibluibFR1fdUAsiaOQ4C42qckic7tqWWLkzPMY4/132",
       "can_delete": null,
@@ -261994,7 +263436,7 @@ const COMMENTS_DB = {
       "user_name": "ěé"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELf14QyGuM3VSQAvN9BV1IUibPNVZSa31ncSz21hqn6SxhjhiaTlxv7JeaN1aPRUnkDSSar8Act0mFZNhtJYs7IdtSXiaT3rs0YMSrbrKPjYcdMw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bAibDVzZoKFKESicbW9V2j2Ih7XUmJwSZ4BtjkrsonVSJ8tQYAbl2NqZYXqiaBqMDa2ibhsu0xyFyqKpE0axk8Y2TMS62TYwhqxyQIpuIaicMkf0/132",
       "can_delete": null,
       "content": "不要忘记r。",
       "created_at": "2025-12-06 16:10:04",
@@ -262507,7 +263949,7 @@ const COMMENTS_DB = {
       "user_name": "耐刷王"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "纸老虎",
       "created_at": "2025-11-16 17:08:23",
@@ -262606,7 +264048,7 @@ const COMMENTS_DB = {
       "user_name": "KangYoo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "说真的，我算出来我都有点不敢信这个答案",
       "created_at": "2025-11-13 15:03:06",
@@ -262907,7 +264349,7 @@ const COMMENTS_DB = {
       "user_name": "八点钟的太阳"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "何意味",
       "created_at": "2025-11-14 10:35:00",
@@ -263361,7 +264803,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "咱们说，矩阵按列分块，马上想到分块矩阵乘法！当数字乘进去吧？哪怕犹豫一秒都是对考点的不熟练，怎么拿捏老头？",
       "created_at": "2025-11-06 20:36:27",
@@ -264021,7 +265463,7 @@ const COMMENTS_DB = {
   ],
   "1076": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "xxxxxxxxxxxxxxxxxxx要拆出去啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
       "created_at": "2025-12-15 20:33:41",
@@ -264029,7 +265471,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
           "can_delete": null,
           "content": "然后用微分方程",
           "created_at": "2025-12-15 20:34:21",
@@ -265078,7 +266520,7 @@ const COMMENTS_DB = {
       "user_name": "βασιλεύς"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "卖屁股给你了，老头。26年就出这种吧",
       "created_at": "2025-12-02 14:32:09",
@@ -265242,7 +266684,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "666扭头观察法",
           "created_at": "2025-11-12 19:53:55",
@@ -265271,6 +266713,41 @@ const COMMENTS_DB = {
   ],
   "1072": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/u1l0kJd2BUQAdbsRv8ojZFcsvLq07q5EuV8GV3BXpF9tQPo1Yj95Wgk7icnv6ia3HZdotPXwApUe4Jz4gBibyM6sibuUuStJvg7qe8iazmmic0sSQ/132",
+      "can_delete": null,
+      "content": "计算错误",
+      "created_at": "2026-07-25 12:32:17",
+      "id": 40057,
+      "likes": 0,
+      "replies": [],
+      "student_id": 2651,
+      "user_name": "VPawcry"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
+      "can_delete": null,
+      "content": "除了拉格朗日还可以很容易想到倒代换用三角恒等式再泰勒展开",
+      "created_at": "2026-06-12 19:46:23",
+      "id": 39889,
+      "likes": 0,
+      "replies": [
+        {
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
+          "can_delete": null,
+          "content": "arctan 相减的公式也很好做，感觉洛是最难算的",
+          "created_at": "2026-06-22 15:49:21",
+          "id": 39897,
+          "likes": 0,
+          "parent_id": 39889,
+          "reply_to_user": null,
+          "student_id": 5921,
+          "user_name": "你别皱眉"
+        }
+      ],
+      "student_id": 5921,
+      "user_name": "你别皱眉"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJc2CcVcsCc7sAxpz1MJP72UKQRlibc6l4C1VmZ8d0dZ0O5kgMQmX70qKWAYFO3k5O1uGPChrWCBO1fTKibW4ztI1qCkTGqHdaMrOjafKy8BA5A/132",
       "can_delete": null,
       "content": "拉式结合放缩",
@@ -265280,17 +266757,6 @@ const COMMENTS_DB = {
       "replies": [],
       "student_id": 32008,
       "user_name": "Cisymi"
-    },
-    {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
-      "can_delete": null,
-      "content": "计算负号仔细一点",
-      "created_at": "2025-12-16 00:13:40",
-      "id": 37465,
-      "likes": 0,
-      "replies": [],
-      "student_id": 5921,
-      "user_name": "你别皱眉"
     },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/GFu1mZIl0Kj6zrI0hcWCMHiaunjDyh369mz52XBkEUKyIibXd0bKqicqnBraRcCmyza22Gy8zyiaGVvdNFyISxYbfDEHjcMqOwjntYjoN8icqibS4/132",
@@ -265438,7 +266904,7 @@ const COMMENTS_DB = {
       "user_name": "江枫渔火"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "很明显的转化为0/0型用洛必达",
       "created_at": "2025-12-05 01:09:04",
@@ -265537,7 +267003,7 @@ const COMMENTS_DB = {
       "user_name": "earth"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "忍住不拉的是这个🤙🤙🤙",
       "created_at": "2025-11-29 15:51:47",
@@ -265735,7 +267201,7 @@ const COMMENTS_DB = {
       "user_name": "人间观察员"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "拉一下",
       "created_at": "2025-11-21 10:28:01",
@@ -266049,6 +267515,17 @@ const COMMENTS_DB = {
   ],
   "1067": [
     {
+      "avatar_url": "avatar://seed/13931387908",
+      "can_delete": null,
+      "content": "二阶导就是2分之一，泰勒不熟",
+      "created_at": "2026-07-10 11:21:03",
+      "id": 39962,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39951,
+      "user_name": "ww不犯困"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJ39c9pf7jPWLPjb8R99OSiaf0bMBFdNzLBSL3cXFweKl0kCNwMFu4baLqPe6Opy9cad5a0Qe84ALA/132",
       "can_delete": null,
       "content": "你这飞舞连高中的充分必要都忘了吗（",
@@ -266060,7 +267537,7 @@ const COMMENTS_DB = {
       "user_name": "。。。"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "才第六题，泰勒大材小用了吧，导函数定义和极限定义分析吧",
       "created_at": "2025-12-20 21:23:51",
@@ -266249,7 +267726,7 @@ const COMMENTS_DB = {
       "user_name": "咕噜咕噜"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "。。。。。。。二阶导绝对值相等。",
       "created_at": "2025-12-11 22:36:56",
@@ -267454,7 +268931,7 @@ const COMMENTS_DB = {
       "user_name": "Sors"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "一充变号看本阶，二充增阶不为0",
       "created_at": "2025-11-22 21:17:39",
@@ -267555,7 +269032,7 @@ const COMMENTS_DB = {
       "user_name": "Color"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "注意定义域",
       "created_at": "2025-11-15 12:37:47",
@@ -267856,7 +269333,7 @@ const COMMENTS_DB = {
       "user_name": "Hollow."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "所有公式一个不能偷懒",
       "created_at": "2025-11-22 21:15:23",
@@ -268365,7 +269842,7 @@ const COMMENTS_DB = {
       "user_name": "ooo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "计算不细心",
       "created_at": "2025-11-25 17:40:55",
@@ -269225,7 +270702,7 @@ const COMMENTS_DB = {
       "user_name": "kxxxx"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJ4BibQOCrhL2ToicAib9Mtwm0aS3RicoxKJWjMkLHK0z5o4oXJbur2SEgjuKQzK9jeDnRj8SgpziaW25f9tbmdevxXuYzDmtFxo3ng2VtPJWtK0SQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJ4BibQOCrhL2ToicAib9Mtwm0aS3RicoxKJWjMkLHK0z5o4nGG7eibMxAbGxia1OeI0fNwDOuW9O3hFibVZGWfsgTntOKIZGScwJr6X00ssLVsJsJrQ/132",
       "can_delete": null,
       "content": "记得arctan后面的要内部求导，并且加c",
       "created_at": "2025-12-02 15:39:38",
@@ -270025,7 +271502,7 @@ const COMMENTS_DB = {
       "user_name": "明忧"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_5189_1760739a89c8455b99248fcfb117e028.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELjVAR39dSemwmko1roEIvNJ5VYnwSwlZbzM12hJw0zcxCPg9x3C4n2AYIGZc8G7iak847NhETYKkfUb9pmItAqB7S66tXIHhqHjLJyxCmgoaA/132",
       "can_delete": null,
       "content": "学习拉格朗日思想",
       "created_at": "2025-12-05 14:00:18",
@@ -271234,6 +272711,17 @@ const COMMENTS_DB = {
   ],
   "1075": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/WrgA2nHuwPGmHmaj4RyfVShueHTHFlWDS36YibDN79GEWvCxJGEBQLYoRLN9OB86qxTZmyqY79Jpa4KguibZtPzw/132",
+      "can_delete": null,
+      "content": "参数方程x=t-sint,y=u(1-cost)",
+      "created_at": "2026-07-19 22:27:15",
+      "id": 40019,
+      "likes": 0,
+      "replies": [],
+      "student_id": 22757,
+      "user_name": "呵呵"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/0icUGw7uyx0Ziciak6iclDibrBibxtbibvOhG1JDPtO6WyzyUn56icwPmjEkXBFN9SlySiccibV3Ob5EuahhbmkW0uPPcGoiaT5O5qw4UgsibKDUSh1Vs80/132",
       "can_delete": null,
       "content": "硬算",
@@ -271289,7 +272777,7 @@ const COMMENTS_DB = {
       "user_name": "dadada不许动"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEK1WBtMbw2AmI49h6TmyNRsgfCV0XJWlpGib5QTxg1Jtjv1gc6BPh66vVgrjj7tJv3kLQH4016b11hJhnibAMZtLCYqVpMKkGVEypu6bHXf1WCA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/THroZXr0JK20sqZwBE1yiaHLh9rrciauJE4r1ib3ywCeMzczWVe9T7OiaVFfBoBAdUyTdj8YEqbO5mctbUXSUvUUn8tAyTEE1QzSTG4BNViclkoc/132",
       "can_delete": null,
       "content": "来来来，老头你来做",
       "created_at": "2025-12-16 11:34:43",
@@ -271403,7 +272891,7 @@ const COMMENTS_DB = {
       "user_name": "ㅤ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "给了呗",
       "created_at": "2025-12-13 07:20:58",
@@ -271539,7 +273027,7 @@ const COMMENTS_DB = {
       "user_name": "氧气罩"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "不难 这种带参数的不要怕，正常步骤",
       "created_at": "2025-12-09 21:14:13",
@@ -271547,7 +273035,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "极轴打的曲线如何表述",
           "created_at": "2025-12-09 21:14:38",
@@ -271918,7 +273406,7 @@ const COMMENTS_DB = {
       "user_name": "Eternity"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "吹bo思达",
       "created_at": "2025-11-29 16:36:02",
@@ -271926,7 +273414,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
           "can_delete": null,
           "content": "形心公式",
           "created_at": "2025-11-29 16:36:33",
@@ -272319,7 +273807,7 @@ const COMMENTS_DB = {
       "user_name": "哲别"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/YgQHzy7HSXuPb7fWEIM9YKeN4eQkicV6RVsJudpWBdlgvKulrh6ibzsuMle0F9ujJ77bbUURMUtKQV24d1MDJPZvV5zxquZ3GLQwGEX9s9Er0/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/YgQHzy7HSXuPb7fWEIM9YKeN4eQkicV6RVsJudpWBdljGjrk08Cyblcl0NS1IvuVwlYo66HIGBpd22TjIE7EvxXWtBoXIyn0mQ5kCZ2NAJ74/132",
       "can_delete": null,
       "content": "看了一眼，秒了",
       "created_at": "2025-11-18 21:49:46",
@@ -272488,7 +273976,7 @@ const COMMENTS_DB = {
       "user_name": "吉伊"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "每张卷这种难度的题基本就在某一道大题，考虑考场时间与考场应激，这部分的分值最好纳入扣分容忍缓冲，做完前戏至少三四分了",
       "created_at": "2025-11-12 20:47:24",
@@ -272496,7 +273984,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "不要纠结这道题的技法，复刻可能性不大",
           "created_at": "2025-11-12 20:48:12",
@@ -272508,7 +273996,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "不过法一的人造对称挺有意思的，拿了",
           "created_at": "2025-11-12 20:49:35",
@@ -272520,7 +274008,7 @@ const COMMENTS_DB = {
           "user_name": "林甫江"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "还有1+cos和1-cos的半角敏感",
           "created_at": "2025-11-12 20:51:03",
@@ -272659,7 +274147,18 @@ const COMMENTS_DB = {
   ],
   "1085": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELZgShs15h2cXuFIEEPyNIoIRItESdLdmmhC6JpTxGYwr9kIC3MWDvoe2gAg8cicsodpJvOGNgc8Vicaof9n4HwlyyTyFyAxOc26tyZcAmRdunQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8oQ7n5tkeHtUoicVBDTWGVyRickcvEz5siarPqrGYSIATzTDau204K92SGI3vQC1vFpUntF0dpu2IPbErOXxGbZviawf8pGJjx0ESiaIia9rKrJow/132",
+      "can_delete": null,
+      "content": "它的实质就是证明右半边，在x 大于零时单调递增",
+      "created_at": "2026-07-24 20:45:57",
+      "id": 40055,
+      "likes": 1,
+      "replies": [],
+      "student_id": 580,
+      "user_name": "活在当下"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/2oXVicc8Gxa6RGUU5HpicxZTsPicqY6oKQudvibIBwiaZUwRqgibZ4cnqwjiaVVvicSkefZDDYF53iaHVM7RQDCMkzXXRIAaNKT1FluyKeE8nMap3uq4/132",
       "can_delete": null,
       "content": "求解不等式问题不要直接把未知数单放一边，小心变成传奇耐算王😭\n连续求导时，观察分母，适当分解简化计算",
       "created_at": "2025-12-18 21:08:34",
@@ -272923,7 +274422,7 @@ const COMMENTS_DB = {
       "user_name": "莓 天每天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "多算一下",
       "created_at": "2025-11-26 22:29:01",
@@ -272967,7 +274466,7 @@ const COMMENTS_DB = {
       "user_name": "ㅤ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "突然插个高中题进来搞得上手不自信了",
       "created_at": "2025-11-12 20:57:25",
@@ -274262,7 +275761,7 @@ const COMMENTS_DB = {
       "user_name": "Kop的心是红的"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "配方法是一次消灭一个元素",
       "created_at": "2025-11-12 22:09:34",
@@ -274837,7 +276336,7 @@ const COMMENTS_DB = {
       "user_name": "ʚ数学我和你拼了ɞ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "1.奇偶周期性 2.中间值 3.联立判单调 4.泰勒不等式",
       "created_at": "2025-11-27 19:08:27",
@@ -275242,7 +276741,7 @@ const COMMENTS_DB = {
       "user_name": "过氧化氢"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "计算是数学试卷的唯一问题",
       "created_at": "2025-11-22 21:13:21",
@@ -276221,7 +277720,7 @@ const COMMENTS_DB = {
       "user_name": "esquién"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ngNK6o7eyRmXVH9hqD9WbNsNsN973N5g9MsRKOVQFOnvCUbU1ic1vJ4gWS4uQMNIxFJ9pLJlSn5FjNMiaBwlvwJYTE7yRdEViazwGAIxqmo8jA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ngNK6o7eyRmXVH9hqD9WbNsNsN973N5g9MsRKOVQFOlG9rEiaPwjib2HYGulDicePgMEyCDRWbSHoXB1vBNOm0Kuqg5kmsuz69gjPVJOAuQyyU/132",
       "can_delete": null,
       "content": "条件最值",
       "created_at": "2025-11-04 17:25:20",
@@ -276256,7 +277755,7 @@ const COMMENTS_DB = {
       "user_name": "也許會"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icibjtOVUdq1PpNdh4SehCaTu82Tm68b6q4R4DIiaoXTsSQ2cmtplyryu1GvhakLV7hWlGRsKuKlO1d2bpozgZr3hICahSWlZsoBpNAdJNpP1A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icibjtOVUdq1PpNdh4SehCaTu82Tm68b6q4R4DIiaoXTsT0icAugCbicejVs2pjcCFypKOBk0CNhnCqjt0jhzMy9z94icq6RDnjQAyo9YlAYmibPqA/132",
       "can_delete": null,
       "content": "A与B不相似",
       "created_at": "2025-12-18 11:22:59",
@@ -277065,7 +278564,7 @@ const COMMENTS_DB = {
       "user_name": "你也没吃饱么ᐝ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EMYVU131CVR2jEnZx0gwYRrbBgIUrfOy3TQvkomPsb640LHAMlMJ2ZrwFRXS0kTs5ic7sasMaWoPzf4csIRUxmYfTXhPp5KJ9HdkMdlfCoEI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/EMYVU131CVR2jEnZx0gwYRrbBgIUrfOy3TQvkomPsb4kkLOEFx4qp1icMia5ibblgibrEHXkTTksOhI6yYOicB0TMWkAqocLrEbaNia50iciaIVw7z4/132",
       "can_delete": null,
       "content": "Ax＝B，求解",
       "created_at": "2025-11-21 14:10:55",
@@ -277422,7 +278921,7 @@ const COMMENTS_DB = {
       "likes": 2,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "你好，我来找你的~…~我也是",
           "created_at": "2025-11-11 20:04:33",
@@ -277935,7 +279434,7 @@ const COMMENTS_DB = {
       "user_name": "计算滴神"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "能简化的就不要硬算了，你一定会错",
       "created_at": "2025-11-22 21:22:14",
@@ -278651,7 +280150,7 @@ const COMMENTS_DB = {
       "user_name": "言辞"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "凹切线在上，凸切线在下",
       "created_at": "2025-11-30 15:47:28",
@@ -278761,7 +280260,7 @@ const COMMENTS_DB = {
       "user_name": "懂你意思"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "法一非常好 学学思想",
       "created_at": "2025-11-26 18:07:07",
@@ -279457,7 +280956,7 @@ const COMMENTS_DB = {
       "content": "1.找到可疑点（绝对值内为0，或者根号下为0的点）\n2.比阶，原方程与（x-a）比阶，其实就是看看是不是比x高阶无穷小\n如果比x高阶，导数为0，可导，不用在意是否有绝对值\n如果比x低阶，导数无穷，不可导，也不用在意是否有绝对值\n如果是同阶，则需要根据定义判断，AB明显是2阶和1.5阶。直接排除\nCD明显用不了这个方法，最终回归定义\n这种题有方法，但是最核心的还是定义。",
       "created_at": "2025-12-05 15:50:31",
       "id": 26844,
-      "likes": 1,
+      "likes": 2,
       "replies": [],
       "student_id": 33319,
       "user_name": "江枫渔火"
@@ -279608,7 +281107,7 @@ const COMMENTS_DB = {
       "user_name": "阿白"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "整体平方直接干掉根号",
       "created_at": "2025-11-27 16:30:02",
@@ -279881,7 +281380,7 @@ const COMMENTS_DB = {
           "user_name": "Bridges."
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
           "can_delete": null,
           "content": "牢宇一元微分大观里的",
           "created_at": "2025-11-15 08:54:44",
@@ -280277,7 +281776,7 @@ const COMMENTS_DB = {
       "user_name": "高明"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "几何重数等于代数重数",
       "created_at": "2025-12-15 17:35:01",
@@ -280558,7 +282057,7 @@ const COMMENTS_DB = {
       "user_name": "罐装"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "相似性质： 1.行列式相等 2.迹相等 3.r(λE-A)=r(λE-C)",
       "created_at": "2025-11-26 22:53:29",
@@ -280851,7 +282350,7 @@ const COMMENTS_DB = {
       "user_name": "小猫主宰我"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "老头大题会这么出吗",
       "created_at": "2025-12-10 15:31:33",
@@ -281564,7 +283063,7 @@ const COMMENTS_DB = {
       "user_name": "罐装"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "有坑，记得带e",
       "created_at": "2025-11-14 10:34:29",
@@ -282454,7 +283953,7 @@ const COMMENTS_DB = {
       "user_name": "ʚ数学我和你拼了ɞ"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "臭老头怎么搞这么直白，26年务必这么搞",
       "created_at": "2025-12-02 17:46:58",
@@ -282825,7 +284324,7 @@ const COMMENTS_DB = {
   ],
   "1097": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icibjtOVUdq1PpNdh4SehCaTu82Tm68b6q4R4DIiaoXTsSQ2cmtplyryu1GvhakLV7hWlGRsKuKlO1d2bpozgZr3hICahSWlZsoBpNAdJNpP1A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icibjtOVUdq1PpNdh4SehCaTu82Tm68b6q4R4DIiaoXTsT0icAugCbicejVs2pjcCFypKOBk0CNhnCqjt0jhzMy9z94icq6RDnjQAyo9YlAYmibPqA/132",
       "can_delete": null,
       "content": "在乘积的情况下，如果有一个可以提前算出结果，就要提前算出来",
       "created_at": "2025-12-19 10:35:58",
@@ -283765,7 +285264,7 @@ const COMMENTS_DB = {
       "user_name": "浪漫海"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "很神秘的题，还以为要代值，半天求不出来",
       "created_at": "2025-12-03 13:07:07",
@@ -284652,7 +286151,7 @@ const COMMENTS_DB = {
       "user_name": "里予"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "固定变量，变一元判增减",
       "created_at": "2025-11-22 21:26:50",
@@ -284660,7 +286159,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "12原题 对比重做",
           "created_at": "2025-11-30 15:42:56",
@@ -284979,7 +286478,7 @@ const COMMENTS_DB = {
       "user_name": "Promising"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "看半天就说怎么只有特解项缺个通解项，结果求的就是特解",
       "created_at": "2025-11-11 19:56:09",
@@ -285267,7 +286766,7 @@ const COMMENTS_DB = {
       "user_name": "komorebi"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "转换凹凸性态问题",
       "created_at": "2025-11-25 21:23:16",
@@ -285601,7 +287100,7 @@ const COMMENTS_DB = {
       "user_name": "远航frLyKx"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "多思考 大胆写",
       "created_at": "2025-11-26 21:55:24",
@@ -285675,7 +287174,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/45GAicibW2lZ5BU0WIS35RVW49PkG2UpVqibrmeV1hWdRaKMHBw0211feRqlPG8JHADESDAFncMuf7kgVr3bicMcrG2oMKPPWmp9h0s4fYknbK8/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/45GAicibW2lZ5BU0WIS35RVW49PkG2UpVqibrmeV1hWdRbMibJZBhqLr38H2NOticXk4KwbSg19HkMoWG5xlKROnZ2IK2iatAmS2nWjUD1zLGrclY/132",
           "can_delete": null,
           "content": "哈哈哈哈总结得形象",
           "created_at": "2025-11-27 20:53:46",
@@ -286245,7 +287744,7 @@ const COMMENTS_DB = {
       "user_name": "Faye"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "这道题就这么做出来了，但是感觉真要考我可以压的很难",
       "created_at": "2025-11-12 18:29:16",
@@ -286721,7 +288220,7 @@ const COMMENTS_DB = {
       "user_name": "吉小光"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "鹤翼微",
       "created_at": "2025-11-29 13:19:03",
@@ -287511,7 +289010,7 @@ const COMMENTS_DB = {
       "user_name": "Faye"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "齐次想到了没反应过来怎么用，实际上最终是为了将t与x分离积分，因此xf`(x)导数项对面能写成f(t)时就应该想到齐次分离积分了",
       "created_at": "2025-11-12 18:41:14",
@@ -287634,7 +289133,7 @@ const COMMENTS_DB = {
       "user_name": "计算滴神"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "注意奇偶",
       "created_at": "2025-12-13 07:20:35",
@@ -288260,7 +289759,7 @@ const COMMENTS_DB = {
       "user_name": "学霸NqKMiL"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "俺还以为不用极坐标，最后还是得用",
       "created_at": "2025-11-12 16:51:43",
@@ -288508,7 +290007,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "今年考一个吧",
       "created_at": "2025-11-14 11:03:44",
@@ -288739,7 +290238,7 @@ const COMMENTS_DB = {
       "user_name": "野子🧸"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJ4BibQOCrhL2ToicAib9Mtwm0aS3RicoxKJWjMkLHK0z5o4oXJbur2SEgjuKQzK9jeDnRj8SgpziaW25f9tbmdevxXuYzDmtFxo3ng2VtPJWtK0SQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJ4BibQOCrhL2ToicAib9Mtwm0aS3RicoxKJWjMkLHK0z5o4nGG7eibMxAbGxia1OeI0fNwDOuW9O3hFibVZGWfsgTntOKIZGScwJr6X00ssLVsJsJrQ/132",
       "can_delete": null,
       "content": "arctanx，x趋于无穷时，等于π/2",
       "created_at": "2025-12-01 23:04:59",
@@ -288750,7 +290249,7 @@ const COMMENTS_DB = {
       "user_name": "zh1xuan"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "狠狠泰勒",
       "created_at": "2025-11-30 15:39:03",
@@ -289645,7 +291144,7 @@ const COMMENTS_DB = {
       "user_name": "Snow white🐒（柚子国王庇佑版）"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "化不了三角，老实求特值，看行列式与tr",
       "created_at": "2025-12-15 17:29:59",
@@ -290174,6 +291673,17 @@ const COMMENTS_DB = {
   ],
   "1119": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLBraOG9S7PTZLXSBhsKpyaNmb0JHOSSCjmR5brqntmic9YyKA1bCY46oBeHZSN90V4L0icNibvsx50Mg/132",
+      "can_delete": null,
+      "content": "矩阵等价当且仅当秩相等",
+      "created_at": "2026-07-24 16:21:01",
+      "id": 40054,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42634,
+      "user_name": "欢乐马 "
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEIhNBUUI6sYmQZgqLOlTk4c5ibjpPHAMicJgMjmTlDFibSqcbJLqiaUUyUOOYQib7GxAbGO5cg6DtBcia0KcTFBevzgX2nlTYmF22Hd5OIywUr1j7xA/132",
       "can_delete": null,
       "content": "矩阵等价，行列式、秩、迹、特征值",
@@ -290696,7 +292206,7 @@ const COMMENTS_DB = {
       "likes": 9,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/micUg5D5ykSmSfqO5udTFSDs0Cy9KoHQEXoeru3e62n7CN18Vz4TItyO85YhZcef1lo7W7icmkgltQ7XOrc46Oq581GZiacJ1tpOyXxQV2k1YU/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/micUg5D5ykSmSfqO5udTFSDs0Cy9KoHQEXoeru3e62n6gCmqZ9X47iboxf5J3kEBk4TOicia8icrQHDPzp3r7pehric3k5mOiaTRpIA2pT9ZZpVD94/132",
           "can_delete": null,
           "content": "这不是B的秩为2吗👉🤣",
           "created_at": "2025-11-04 09:19:48",
@@ -290774,6 +292284,17 @@ const COMMENTS_DB = {
   ],
   "1115": [
     {
+      "avatar_url": "avatar://seed/13931387908",
+      "can_delete": null,
+      "content": "设极限值为a",
+      "created_at": "2026-07-10 15:38:51",
+      "id": 39965,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39951,
+      "user_name": "ww不犯困"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/O2E7oAtDV7OiaVmRfzJcxiavVM6q2ZyG0kbjCiaBd1kZicibiahLGpvxqyZVI1MibRHVFgErXia3zp8on4Vg4geFrc2SlDMPXf5he3uN3dTLicrtqicp4/132",
       "can_delete": null,
       "content": "瞪眼法",
@@ -290785,7 +292306,7 @@ const COMMENTS_DB = {
       "user_name": "风走带故"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "从后思索法",
       "created_at": "2025-12-17 12:40:26",
@@ -291229,7 +292750,7 @@ const COMMENTS_DB = {
       "user_name": "壹零(offline)"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "二级结论 当函数单调连续时 自变量同敛散",
       "created_at": "2025-11-21 10:30:09",
@@ -291813,7 +293334,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "可爱因子比夹逼的可爱多了",
           "created_at": "2025-11-06 22:54:38",
@@ -291842,7 +293363,7 @@ const COMMENTS_DB = {
       "user_name": "十明"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "l=根号（x²+y²），dl/dt=dl/dx×dx/dt",
       "created_at": "2025-12-11 22:38:26",
@@ -292079,7 +293600,7 @@ const COMMENTS_DB = {
       "user_name": "崔峥。"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "平方简化计算 细心一点",
       "created_at": "2025-11-25 17:45:51",
@@ -292109,7 +293630,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
           "can_delete": null,
           "content": "是的",
           "created_at": "2025-11-25 17:45:27",
@@ -292338,7 +293859,7 @@ const COMMENTS_DB = {
       "user_name": "たんぽぽ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "无解是不等啊 你在干嘛",
       "created_at": "2025-12-15 17:31:19",
@@ -292927,7 +294448,7 @@ const COMMENTS_DB = {
       "user_name": "N."
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "化最简",
       "created_at": "2025-11-25 17:47:34",
@@ -293140,7 +294661,7 @@ const COMMENTS_DB = {
       "user_name": "爱音斯坦"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HktpeH8Bk8KZn8iacZ2DVeLIxbZ2ygtRYhEwyrUicqslYdhiauy2lSCA2CnrFrHtlHibo5zHp6LZq7tcFHjeOFkAaDicIc7BhwagGGEjMt9htQm0/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELlWgbtVL2DW7ecFlA6Dibia8NFVv33NJr7unU9EhUTn224U3ey8IxsTK2Bqd6wsSPDyplxCfZuR69ClH9g1wq4uG80L6p99cOdTNejGlXHwSCA/132",
       "can_delete": null,
       "content": "求一次导，微分方程套公式",
       "created_at": "2025-11-04 19:05:49",
@@ -293520,7 +295041,7 @@ const COMMENTS_DB = {
       "user_name": "Leo"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_1069_3a47b6f26eef47fdbb475710dbd34945.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8WpdRJKZhsLn8VtGEQPeBgUTwbcUw0RvMnaF2fwoQbBfOwC63wQz5hllhhiaefr4nUY8SD5wZxRkiaQkXHWUNg8AjRmBE1g7ZrD8nVjAibgc14/132",
       "can_delete": null,
       "content": "计算量大，稳住",
       "created_at": "2025-12-04 15:25:03",
@@ -293553,7 +295074,7 @@ const COMMENTS_DB = {
       "user_name": "small"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HTCiaFNIDLtTWdRIqLibSb57HVffCWL8Oia3akbK5iasmpdKXNvJ2ywcyQpXPiaW3dibwibVADat7mDA9yOyBYFfOKRjjhEAhIicoCpQ6lV8FccU7qI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HTCiaFNIDLtTWdRIqLibSb57HVffCWL8Oia3akbK5iasmpddBRpFObD97GTgIhL7ynia5NREbHdCUblEibtsj5U6FeganX7OyQNaqt2Z9e76zCTKU/132",
       "can_delete": null,
       "content": "驻点要会求",
       "created_at": "2025-12-03 07:54:18",
@@ -293732,7 +295253,7 @@ const COMMENTS_DB = {
       "user_name": "Jr"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "好题 多刷标记",
       "created_at": "2025-11-28 21:14:15",
@@ -293740,7 +295261,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "经典套餐 单调加零点",
           "created_at": "2025-11-28 21:17:20",
@@ -294592,7 +296113,7 @@ const COMMENTS_DB = {
       "user_name": "波梦佳林"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "先判断再求解",
       "created_at": "2025-11-20 23:06:34",
@@ -295040,7 +296561,7 @@ const COMMENTS_DB = {
       "user_name": "祎祎"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "其次特解和非齐次特解代入",
       "created_at": "2025-12-14 20:27:51",
@@ -295462,7 +296983,7 @@ const COMMENTS_DB = {
       "user_name": "林彪"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "标记，不要老想什么结论，基础计算待定系数",
       "created_at": "2025-11-22 18:56:20",
@@ -296301,7 +297822,7 @@ const COMMENTS_DB = {
       "user_name": "永远跟党走！"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "交换积分次序用无关变量积分破坏不可积函数",
       "created_at": "2025-11-07 18:02:26",
@@ -296323,7 +297844,7 @@ const COMMENTS_DB = {
       "user_name": "少熬夜"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRfhiaMSkArm2NWGMjDd4F7B3j5vE1gu6sY0Yd8fBRTs9NSicQqLBeyyZyPIO4aQYmozw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRd4DJQoG5EZMHRmBA0EUiaPxyQ3XeDtmoDkvnQ0lGygWJCMq478CagAbGLdxoicclF5g/132",
       "can_delete": null,
       "content": "拿下第一问就好了，第二问随缘",
       "created_at": "2025-11-06 22:02:31",
@@ -298077,7 +299598,7 @@ const COMMENTS_DB = {
       "user_name": "夜空"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "分数求导，常量也要进去",
       "created_at": "2025-12-02 18:16:16",
@@ -298413,7 +299934,7 @@ const COMMENTS_DB = {
       "user_name": "霁色"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icLI8TqAuDURD95KSo4MjvBsufibQ9skChznheAIAfu0M7orugHBER4nJO58Fp6VLCiccP3fibWY7O7206IOmaenVHReq0JFoPZD8hoicVe6xjwY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icLI8TqAuDURD95KSo4MjvBsufibQ9skChznheAIAfu0Pj6ibXhyD9M6FicEY2TIx89ZQ1HgUz7MczxtvWsZQwFIxtaGCJeBhmbOhPDVcXvoYico/132",
       "can_delete": null,
       "content": "切记，第一问不会平白无故求A的99次幂，第二问绝对要用到",
       "created_at": "2025-12-08 20:11:13",
@@ -298844,7 +300365,7 @@ const COMMENTS_DB = {
       "user_name": "Topsy"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJWm0V7rGicPKsIpiah5M31vkIALD8iaYcsHbS9HO65ghiaGVrf9Ctjvzt3LVrAWQpRxNllLibUkwsJZmmO1AzPFXNR4lumOa8dGYF0TibN0gkMRIXQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJWm0V7rGicPKsIpiah5M31vkIALD8iaYcsHbS9HO65ghiaGbrlhib5v4cOpY0PDHlCoRgZI7IZpLSeFgxVNy2OV1CIuCZ2arrDZjtot91tTOFrFdw/132",
       "can_delete": null,
       "content": "趣闻~当年有考生直接硬算到27阶",
       "created_at": "2025-11-12 13:47:00",
@@ -298937,6 +300458,17 @@ const COMMENTS_DB = {
     }
   ],
   "1133": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PCPJOWQGXHYx9O4aYDKCYdzW5iaYWsKLOI5e2G8aBp12tzVTm1Id3yfTAs9XMibN9eDvA6Omd7n6j39sUuFiaLXd86ibakDXSJn3RlDrHgP8420/132",
+      "can_delete": null,
+      "content": "极值点存在于f'=0的点和f'不存在的点，拐点存在于f''=0的点和f''不存在的点",
+      "created_at": "2026-07-20 17:47:51",
+      "id": 40025,
+      "likes": 1,
+      "replies": [],
+      "student_id": 42296,
+      "user_name": "Ridge"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TvicEjhiaA1gAkib2ZLhaicZzSMubDPGlfCMqJnOjVPGCT40vcjnEicBnlWKZRwjQF5mR1wszEVP83tAOmJu0pkxXwnnHyKQblRrXhuCRjN6DRcY/132",
       "can_delete": null,
@@ -299560,7 +301092,7 @@ const COMMENTS_DB = {
       "user_name": "高明"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "16年唯一一道人类",
       "created_at": "2025-12-10 20:58:31",
@@ -299714,7 +301246,7 @@ const COMMENTS_DB = {
       "user_name": "G"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HTCiaFNIDLtTWdRIqLibSb57HVffCWL8Oia3akbK5iasmpdKXNvJ2ywcyQpXPiaW3dibwibVADat7mDA9yOyBYFfOKRjjhEAhIicoCpQ6lV8FccU7qI/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HTCiaFNIDLtTWdRIqLibSb57HVffCWL8Oia3akbK5iasmpddBRpFObD97GTgIhL7ynia5NREbHdCUblEibtsj5U6FeganX7OyQNaqt2Z9e76zCTKU/132",
       "can_delete": null,
       "content": "积分公式背熟",
       "created_at": "2025-12-03 08:02:56",
@@ -300182,7 +301714,7 @@ const COMMENTS_DB = {
       "user_name": "K"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "早知道高中好好学三角函数了",
       "created_at": "2025-11-07 08:47:41",
@@ -300489,7 +302021,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
           "can_delete": null,
           "content": "是的",
           "created_at": "2025-11-26 19:34:15",
@@ -302564,7 +304096,7 @@ const COMMENTS_DB = {
       "user_name": "顶峰相见"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "柏松分布的参数可计算，即期望🟰入",
       "created_at": "2025-11-15 16:50:30",
@@ -302572,7 +304104,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
           "can_delete": null,
           "content": "柏松分布的K可以等于0",
           "created_at": "2025-11-15 16:51:27",
@@ -302790,6 +304322,17 @@ const COMMENTS_DB = {
   ],
   "1191": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wvB4rZ5jJo2A4LXTA4FO6E1Nq6Kg97GiaUEB36Eh1qcdY5D2G6AiaKD9rI3nYJsVgSJvZHYhfX2fZWWJ24UBJBqzcY4iaU78XtcC7u4wRtwT3s/132",
+      "can_delete": null,
+      "content": "这个咋拿韦恩图算呀？就算有图，不是分母还是得一点一点算出来吗？",
+      "created_at": "2026-07-02 22:10:49",
+      "id": 39934,
+      "likes": 0,
+      "replies": [],
+      "student_id": 8747,
+      "user_name": "･ᴗ･"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/33yzjmayu0P9rOFe96R8gO4a9fcEnCcsQuiaYLQecAicIqIHCTZ8gARPax5sNWDBH6ibEZ20wNtibCR4eER2IVxiaJCxAYcTkHwLm2ria2TpQkFYs/132",
       "can_delete": null,
       "content": "重叠了也要减不能只减一次",
@@ -302872,7 +304415,7 @@ const COMMENTS_DB = {
       "content": "“考研数学李艳芳”此账号有关于韦恩图讲解",
       "created_at": "2025-11-12 19:13:54",
       "id": 6608,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 16335,
       "user_name": "唐翊"
@@ -303271,7 +304814,7 @@ const COMMENTS_DB = {
       "user_name": "🐟"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "细心一点",
       "created_at": "2025-11-21 10:58:47",
@@ -303752,6 +305295,17 @@ const COMMENTS_DB = {
   ],
   "1193": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/LEthFZ7bibLcy6cWP56Inw8behToKYmaNGpEvpfCG0gn0b5picwwUd802FT78xNTkdia6gR73icaOlqkNUvKhJicDeIibnhrmuD0NQt7pib2lbmiciak/132",
+      "can_delete": null,
+      "content": "重新算",
+      "created_at": "2026-05-27 20:47:00",
+      "id": 39864,
+      "likes": 0,
+      "replies": [],
+      "student_id": 11674,
+      "user_name": "珂宇"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Dk6Ie532mJQ5QtMMC1wJ05NlJD5ZCxfRyBTQA2t2MbjPiaAwibtNDico5icMGwgjyicEb9UYr9V1iamicdtCraEOl3BXBPrFWcuXhl7YUgibwJnMs48/132",
       "can_delete": null,
       "content": "e的-lnx等于1/x",
@@ -303996,7 +305550,7 @@ const COMMENTS_DB = {
       "user_name": "beryl"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "直接法和反函数性质\n直接法：反解出反函数\n反函数性质：f和g互为反函数，若是f（y）和g（x）则两者图像相同。若是fx和gx，则两者图像关于y=x对称。这里明显是对称的，所以求fx的渐近线进行对称即可",
       "created_at": "2025-11-29 13:24:39",
@@ -304497,7 +306051,7 @@ const COMMENTS_DB = {
       "user_name": "Ella_s_memory"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "杀人的解法和计算",
       "created_at": "2025-12-05 14:45:11",
@@ -304890,7 +306444,7 @@ const COMMENTS_DB = {
       "user_name": "080800"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "我是蛆",
       "created_at": "2025-11-27 15:07:56",
@@ -304898,7 +306452,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "标记，耐算训练",
           "created_at": "2025-11-28 21:12:44",
@@ -305090,7 +306644,7 @@ const COMMENTS_DB = {
           "user_name": "羊羊羊"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "爹",
           "created_at": "2025-11-28 21:05:44",
@@ -305508,7 +307062,7 @@ const COMMENTS_DB = {
       "user_name": "chen"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_1069_3a47b6f26eef47fdbb475710dbd34945.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8WpdRJKZhsLn8VtGEQPeBgUTwbcUw0RvMnaF2fwoQbBfOwC63wQz5hllhhiaefr4nUY8SD5wZxRkiaQkXHWUNg8AjRmBE1g7ZrD8nVjAibgc14/132",
       "can_delete": null,
       "content": "积完往里代",
       "created_at": "2025-12-08 19:23:08",
@@ -305673,7 +307227,7 @@ const COMMENTS_DB = {
       "user_name": "耐刷王"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "注意区间，是否有0-",
       "created_at": "2025-11-30 15:41:30",
@@ -306003,7 +307557,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
           "can_delete": null,
           "content": "是的",
           "created_at": "2025-11-11 16:46:22",
@@ -306473,7 +308027,7 @@ const COMMENTS_DB = {
       "likes": 3,
       "replies": [
         {
-          "avatar_url": "uploads/avatars/avatar_37540_3eb6cc16d7e548a79aedc4caacb5d049.jpg",
+          "avatar_url": "uploads/avatars/avatar_37540_5aa22fb419e848099c2f81a0987e1c12.jpg",
           "can_delete": null,
           "content": "老头自己做做",
           "created_at": "2026-02-13 18:23:03",
@@ -306702,7 +308256,7 @@ const COMMENTS_DB = {
   ],
   "1196": [
     {
-      "avatar_url": "uploads/avatars/avatar_37540_3eb6cc16d7e548a79aedc4caacb5d049.jpg",
+      "avatar_url": "uploads/avatars/avatar_37540_5aa22fb419e848099c2f81a0987e1c12.jpg",
       "can_delete": null,
       "content": "26演都不演了",
       "created_at": "2026-03-19 09:49:03",
@@ -306902,7 +308456,7 @@ const COMMENTS_DB = {
       "user_name": "birdy"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "步骤可优化",
       "created_at": "2025-11-11 11:55:40",
@@ -307116,7 +308670,7 @@ const COMMENTS_DB = {
       "user_name": "顶峰相见"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "答案给错了",
       "created_at": "2025-11-15 17:08:01",
@@ -307768,7 +309322,7 @@ const COMMENTS_DB = {
       "user_name": "decompose"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "展开的时候要小心一点，分子保留与分母同阶项",
       "created_at": "2025-11-06 21:50:29",
@@ -308272,6 +309826,17 @@ const COMMENTS_DB = {
   ],
   "1205": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/LEthFZ7bibLcy6cWP56Inw8behToKYmaNGpEvpfCG0gn0b5picwwUd802FT78xNTkdia6gR73icaOlqkNUvKhJicDeIibnhrmuD0NQt7pib2lbmiciak/132",
+      "can_delete": null,
+      "content": "复习极值点 拐点的判定条件",
+      "created_at": "2026-06-18 19:31:11",
+      "id": 39895,
+      "likes": 0,
+      "replies": [],
+      "student_id": 11674,
+      "user_name": "珂宇"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/j2X2DPN7aMibp5uwC3Y5WDDcBBPnRFpMJm97aQ1N2E87g3BIZmoG2S2s5PQ91lzeKWlJUETylPicf6b0owaN7vDv8KWrxzH6fPHR8Xo2S5hpc/132",
       "can_delete": null,
       "content": "可导的极值点一定不是拐点",
@@ -308371,7 +309936,7 @@ const COMMENTS_DB = {
       "user_name": "题霸mthhxa"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYFMHypZzKE977PnggzDxIdaYtC9ca5kukPTL46cDQHvVTg7xasL14sibVAcibO9PXHWk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYEt90sE2R8YQusz1CkdTqkHC0HaFQ8nEdKYXBhZfelKBibjFnWs6cBoflRGbawUtvjE/132",
       "can_delete": null,
       "content": "认真求导🥺",
       "created_at": "2025-11-20 15:30:30",
@@ -308560,7 +310125,7 @@ const COMMENTS_DB = {
       "user_name": "birdy"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "特例＋1",
       "created_at": "2025-11-10 18:50:45",
@@ -308972,7 +310537,7 @@ const COMMENTS_DB = {
       "likes": 2,
       "replies": [
         {
-          "avatar_url": "uploads/avatars/avatar_37540_3eb6cc16d7e548a79aedc4caacb5d049.jpg",
+          "avatar_url": "uploads/avatars/avatar_37540_5aa22fb419e848099c2f81a0987e1c12.jpg",
           "can_delete": null,
           "content": "风哥？",
           "created_at": "2025-12-29 11:51:04",
@@ -309045,7 +310610,7 @@ const COMMENTS_DB = {
       "user_name": "msj"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/njwaSUP5DiabwiaKFqDgPGWGEKJklFyp3VVe7BniaENJjh4jsicic1GtOyS2ricX72pMowCU5DkVBFYgPpzoNU8HAVoiaaCfT6qocnBciaRJrEZAMKc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/njwaSUP5DiabwiaKFqDgPGWGEKJklFyp3VVe7BniaENJjjGvmxaaP8x0nSyevpsmBANg8wJRuc9HtiaHfAOTacaTAhs0xkibwMrp2iaboeuZRD8PM/132",
       "can_delete": null,
       "content": "要记得拆项",
       "created_at": "2025-12-13 11:12:33",
@@ -309427,7 +310992,7 @@ const COMMENTS_DB = {
       "user_name": "XCPR"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "方差越小越集中",
       "created_at": "2025-11-15 16:39:52",
@@ -309472,6 +311037,17 @@ const COMMENTS_DB = {
     }
   ],
   "1211": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PCPJOWQGXHYx9O4aYDKCYdzW5iaYWsKLOI5e2G8aBp12tzVTm1Id3yfTAs9XMibN9eDvA6Omd7n6j39sUuFiaLXd86ibakDXSJn3RlDrHgP8420/132",
+      "can_delete": null,
+      "content": "n-r≤重数",
+      "created_at": "2026-07-23 19:04:27",
+      "id": 40034,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42296,
+      "user_name": "Ridge"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Dk6Ie532mJQ5QtMMC1wJ05NlJD5ZCxfRyBTQA2t2MbjPiaAwibtNDico5icMGwgjyicEb9UYr9V1iamicdtCraEOl3BXBPrFWcuXhl7YUgibwJnMs48/132",
       "can_delete": null,
@@ -311217,7 +312793,7 @@ const COMMENTS_DB = {
       "user_name": "拾得"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "很简单啊（茆书）\n1️⃣结论，直接得出和x同分布，在第三章的习题中\n2️⃣分布函数法，增补变量法求x-y的密度，然后求p即可",
       "created_at": "2025-12-18 10:55:59",
@@ -311239,7 +312815,7 @@ const COMMENTS_DB = {
       "user_name": "多我一个研究生怎么啦"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/njwaSUP5DiabwiaKFqDgPGWGEKJklFyp3VVe7BniaENJjh4jsicic1GtOyS2ricX72pMowCU5DkVBFYgPpzoNU8HAVoiaaCfT6qocnBciaRJrEZAMKc/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/njwaSUP5DiabwiaKFqDgPGWGEKJklFyp3VVe7BniaENJjjGvmxaaP8x0nSyevpsmBANg8wJRuc9HtiaHfAOTacaTAhs0xkibwMrp2iaboeuZRD8PM/132",
       "can_delete": null,
       "content": "求同分布的核心还是找分段点，二维随机变量的联合概率密度，以及独立下的联合概率密度和边缘概率密度",
       "created_at": "2025-12-12 14:38:58",
@@ -311713,7 +313289,7 @@ const COMMENTS_DB = {
       "user_name": "酸奶别加热"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "2000 年数学一",
       "created_at": "2025-11-30 14:38:07",
@@ -312985,7 +314561,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
           "can_delete": null,
           "content": "闹呢，你x-y n都成负的了",
           "created_at": "2025-12-04 19:36:56",
@@ -314046,7 +315622,7 @@ const COMMENTS_DB = {
       "user_name": "XCPR"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "注意这种求法，定式思维",
       "created_at": "2025-11-14 21:07:49",
@@ -314887,7 +316463,7 @@ const COMMENTS_DB = {
       "user_name": "Eli花生酥"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20610_51923a292eaf4f1eb52b4e7a75c91d9f.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/mFQmpGfNNVRyguL4e6ILiaxc5QSZ73Aficp1Yia64CqwlBXuhRWvdLuJv2wzGASeuGdSLwy7Usia4Lx9evKBBf0PJg/132",
       "can_delete": null,
       "content": "判绝对收敛要看套绝对值是否收敛；\n加减项构造绝对值不等式建立大小关系；\n两个都收敛，作差一定绝对收敛。",
       "created_at": "2025-11-27 20:17:49",
@@ -315247,7 +316823,7 @@ const COMMENTS_DB = {
       "user_name": "牢大"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "上三角的行列式的逆，不同于主对角或者副对角\n左乘同行右乘同列加负号",
       "created_at": "2025-12-07 10:24:04",
@@ -315357,7 +316933,7 @@ const COMMENTS_DB = {
       "user_name": "rudi"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "这里得看牢宇的小口诀",
       "created_at": "2025-11-11 12:33:33",
@@ -316294,7 +317870,7 @@ const COMMENTS_DB = {
       "user_name": "Passionfruit"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "虚数也可作为特征值",
       "created_at": "2025-11-11 12:26:58",
@@ -316318,7 +317894,7 @@ const COMMENTS_DB = {
   ],
   "1244": [
     {
-      "avatar_url": "uploads/avatars/avatar_37540_3eb6cc16d7e548a79aedc4caacb5d049.jpg",
+      "avatar_url": "uploads/avatars/avatar_37540_5aa22fb419e848099c2f81a0987e1c12.jpg",
       "can_delete": null,
       "content": "神人积分区域的符号，我都看不出那个d1斜杠d2是d1减d2",
       "created_at": "2026-01-30 13:35:09",
@@ -316351,7 +317927,7 @@ const COMMENTS_DB = {
       "user_name": "征途LHszQL"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "ctmd，为什么我化为了右边的区间+整个区间做总是少一项",
       "created_at": "2025-12-18 14:20:04",
@@ -316359,7 +317935,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
           "can_delete": null,
           "content": "艹，原来是sin二分之派当成了0",
           "created_at": "2025-12-18 14:31:01",
@@ -316375,7 +317951,7 @@ const COMMENTS_DB = {
       "user_name": "啊king苦力吼呀吼奔"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "太变态了",
       "created_at": "2025-12-18 13:31:50",
@@ -316940,7 +318516,7 @@ const COMMENTS_DB = {
   ],
   "1257": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "用公式算死你。。",
       "created_at": "2025-12-16 22:02:32",
@@ -317018,6 +318594,17 @@ const COMMENTS_DB = {
     }
   ],
   "1256": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/LEthFZ7bibLcy6cWP56Inw8behToKYmaNGpEvpfCG0gn0b5picwwUd802FT78xNTkdia6gR73icaOlqkNUvKhJicDeIibnhrmuD0NQt7pib2lbmiciak/132",
+      "can_delete": null,
+      "content": "重新算",
+      "created_at": "2026-05-27 20:50:32",
+      "id": 39865,
+      "likes": 0,
+      "replies": [],
+      "student_id": 11674,
+      "user_name": "珂宇"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9zJueaAKBU32oL9ichs1C6NiaWibuib5FKmH5vkR7ndnQPEQNk0wbAhBsicdkUaT6Ip5w0gJRkEjibO7oCuA3D0gMQQfpHMcyibqNzicxhQRACSiciaG8/132",
       "can_delete": null,
@@ -318742,7 +320329,7 @@ const COMMENTS_DB = {
       "user_name": "Passionfruit"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "分割就完事了，没必要想太复杂",
       "created_at": "2025-11-13 22:39:34",
@@ -319924,7 +321511,7 @@ const COMMENTS_DB = {
       "content": "这道题放经济学里出都有点过了....",
       "created_at": "2025-12-16 15:56:16",
       "id": 37942,
-      "likes": 1,
+      "likes": 2,
       "replies": [],
       "student_id": 17778,
       "user_name": "Rare"
@@ -320001,7 +321588,7 @@ const COMMENTS_DB = {
       "content": "柯布道格拉斯，产量对x的偏导比上产量对y的偏导等于资本价格比上劳动投入价格",
       "created_at": "2025-12-06 10:39:13",
       "id": 27563,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 17015,
       "user_name": "牢大"
@@ -320364,7 +321951,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
           "can_delete": null,
           "content": "狠人",
           "created_at": "2025-12-17 13:31:16",
@@ -321480,7 +323067,7 @@ const COMMENTS_DB = {
       "user_name": "XCPR"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "可以拆解为秩为一",
       "created_at": "2025-11-10 18:26:44",
@@ -321491,7 +323078,7 @@ const COMMENTS_DB = {
       "user_name": "瓜田里的猹"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "这个不是实对称矩阵求特征向量，所以并不适合知一求二",
       "created_at": "2025-11-10 18:17:55",
@@ -321559,7 +323146,7 @@ const COMMENTS_DB = {
       "user_name": "rarecici"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_1069_3a47b6f26eef47fdbb475710dbd34945.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8WpdRJKZhsLn8VtGEQPeBgUTwbcUw0RvMnaF2fwoQbBfOwC63wQz5hllhhiaefr4nUY8SD5wZxRkiaQkXHWUNg8AjRmBE1g7ZrD8nVjAibgc14/132",
       "can_delete": null,
       "content": "分离变量分离变量",
       "created_at": "2025-12-05 15:52:39",
@@ -321693,6 +323280,17 @@ const COMMENTS_DB = {
   ],
   "1287": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI0pNIs0ajbJgKboSZib15DhjibIMVQdJbHYMCxYQ0XWZwcLC3gBkyQFT3LSTArzVSwic5rE94wjZjwG4xk72vINF5suZJn31XCgro0UG4xhNZuw/132",
+      "can_delete": null,
+      "content": "ln｜x｜求导就是1/x，不用讨论了",
+      "created_at": "2026-07-02 16:33:39",
+      "id": 39933,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40443,
+      "user_name": "晓"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Vb0exP5DdavYszyFsDjicibLH8qcqIxQXZsB7YaWpVwsYXfyUxHeQ50qhBDRzF1Oiaf5Jp4ggH6ot1WevJhuY1bPSC1Y16ZrIRRTgoV6c4oOQM/132",
       "can_delete": null,
       "content": "该化简要及时化简",
@@ -321742,7 +323340,7 @@ const COMMENTS_DB = {
       "content": "lnx求导就是x分之一，别费雷讨论",
       "created_at": "2025-11-29 11:29:56",
       "id": 19762,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 7625,
       "user_name": "刘油果🥑不是刘角包🥐"
@@ -323081,7 +324679,7 @@ const COMMENTS_DB = {
   ],
   "1294": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "不可导，不存在，单调性",
       "created_at": "2025-12-16 17:27:27",
@@ -323406,7 +325004,7 @@ const COMMENTS_DB = {
       "user_name": "Z"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_1069_3a47b6f26eef47fdbb475710dbd34945.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8WpdRJKZhsLn8VtGEQPeBgUTwbcUw0RvMnaF2fwoQbBfOwC63wQz5hllhhiaefr4nUY8SD5wZxRkiaQkXHWUNg8AjRmBE1g7ZrD8nVjAibgc14/132",
       "can_delete": null,
       "content": "极坐标后面的r不要忘！！",
       "created_at": "2025-12-05 11:57:34",
@@ -323692,7 +325290,7 @@ const COMMENTS_DB = {
       "user_name": "1111"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "雅可比，画图的时候注意一点",
       "created_at": "2025-11-13 22:19:24",
@@ -324247,7 +325845,7 @@ const COMMENTS_DB = {
   ],
   "1302": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "评论区的都没跟过武忠祥吗，还什么柱壳法大体积减小体积，公式直接秒了啊。。。。",
       "created_at": "2025-12-16 21:47:03",
@@ -324266,7 +325864,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
           "can_delete": null,
           "content": "别公式法了，上考场直接寄了，加我我教你秒杀法",
           "created_at": "2025-12-16 21:47:33",
@@ -324418,7 +326016,7 @@ const COMMENTS_DB = {
   ],
   "1304": [
     {
-      "avatar_url": "uploads/avatars/avatar_37540_3eb6cc16d7e548a79aedc4caacb5d049.jpg",
+      "avatar_url": "uploads/avatars/avatar_37540_5aa22fb419e848099c2f81a0987e1c12.jpg",
       "can_delete": null,
       "content": "反解q",
       "created_at": "2025-12-29 13:49:34",
@@ -324819,7 +326417,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
           "can_delete": null,
           "content": "用施密特真有了🌚",
           "created_at": "2025-12-02 14:29:15",
@@ -324891,6 +326489,17 @@ const COMMENTS_DB = {
     }
   ],
   "1300": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/LEthFZ7bibLcy6cWP56Inw8behToKYmaNGpEvpfCG0gn0b5picwwUd802FT78xNTkdia6gR73icaOlqkNUvKhJicDeIibnhrmuD0NQt7pib2lbmiciak/132",
+      "can_delete": null,
+      "content": "第二问再写一遍",
+      "created_at": "2026-06-17 22:15:30",
+      "id": 39890,
+      "likes": 0,
+      "replies": [],
+      "student_id": 11674,
+      "user_name": "珂宇"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJice5s6jPLqyONvqO5ibbwv4ErY3W0thK4M76lsT52wfUVOeEpkjyGMibv5wOHpCzicicorLhhpuRDQRwicfSu9jD2E3hEfyWibtt3R2mG3NOU55W8Q/132",
       "can_delete": null,
@@ -326771,7 +328380,7 @@ const COMMENTS_DB = {
       "user_name": "阿数130"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYFMHypZzKE977PnggzDxIdaYtC9ca5kukPTL46cDQHvVTg7xasL14sibVAcibO9PXHWk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYEt90sE2R8YQusz1CkdTqkHC0HaFQ8nEdKYXBhZfelKBibjFnWs6cBoflRGbawUtvjE/132",
       "can_delete": null,
       "content": "看一眼题目就猜是e分之一🌚",
       "created_at": "2025-11-14 21:26:30",
@@ -327017,6 +328626,18 @@ const COMMENTS_DB = {
           "reply_to_user": null,
           "student_id": 33319,
           "user_name": "江枫渔火"
+        },
+        {
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLBraOG9S7PTZLXSBhsKpyaNmb0JHOSSCjmR5brqntmic9YyKA1bCY46oBeHZSN90V4L0icNibvsx50Mg/132",
+          "can_delete": null,
+          "content": "太细节了，学到了",
+          "created_at": "2026-07-22 16:53:41",
+          "id": 40032,
+          "likes": 0,
+          "parent_id": 33916,
+          "reply_to_user": null,
+          "student_id": 42634,
+          "user_name": "欢乐马 "
         }
       ],
       "student_id": 33319,
@@ -327223,7 +328844,7 @@ const COMMENTS_DB = {
       "user_name": "Tsuki."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYFMHypZzKE977PnggzDxIdaYtC9ca5kukPTL46cDQHvVTg7xasL14sibVAcibO9PXHWk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYEt90sE2R8YQusz1CkdTqkHC0HaFQ8nEdKYXBhZfelKBibjFnWs6cBoflRGbawUtvjE/132",
       "can_delete": null,
       "content": "选择题可设a等于0，即可判断B选项正确🤓",
       "created_at": "2025-11-14 21:33:22",
@@ -327699,7 +329320,7 @@ const COMMENTS_DB = {
       "user_name": "嗯嗯嗯"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "不可导点也可以是极值",
       "created_at": "2025-11-06 22:20:52",
@@ -328406,7 +330027,7 @@ const COMMENTS_DB = {
       "user_name": "顶峰相见"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYFMHypZzKE977PnggzDxIdaYtC9ca5kukPTL46cDQHvVTg7xasL14sibVAcibO9PXHWk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYEt90sE2R8YQusz1CkdTqkHC0HaFQ8nEdKYXBhZfelKBibjFnWs6cBoflRGbawUtvjE/132",
       "can_delete": null,
       "content": "求导失误了😭",
       "created_at": "2025-11-20 20:34:21",
@@ -329181,7 +330802,7 @@ const COMMENTS_DB = {
   ],
   "1334": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "极限\n1️⃣直接做\n2️⃣代换成关于n的式子，某些题中可以\n3️⃣极限的夹逼定理，夹逼定理需要单调性的条件，这题里面就有",
       "created_at": "2025-12-17 13:12:14",
@@ -329310,7 +330931,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
           "can_delete": null,
           "content": "确实闹麻了，根本没讲啊哥们，感觉牢宇的大观适合一次性看掉",
           "created_at": "2025-11-07 04:24:32",
@@ -329429,7 +331050,7 @@ const COMMENTS_DB = {
       "user_name": "z"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20610_51923a292eaf4f1eb52b4e7a75c91d9f.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/mFQmpGfNNVRyguL4e6ILiaxc5QSZ73Aficp1Yia64CqwlBXuhRWvdLuJv2wzGASeuGdSLwy7Usia4Lx9evKBBf0PJg/132",
       "can_delete": null,
       "content": "不妨设Un=0,Vn=(-1)^n",
       "created_at": "2025-11-28 11:06:33",
@@ -329738,7 +331359,7 @@ const COMMENTS_DB = {
       "user_name": "坚持xxoiWP"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYFMHypZzKE977PnggzDxIdaYtC9ca5kukPTL46cDQHvVTg7xasL14sibVAcibO9PXHWk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYEt90sE2R8YQusz1CkdTqkHC0HaFQ8nEdKYXBhZfelKBibjFnWs6cBoflRGbawUtvjE/132",
       "can_delete": null,
       "content": "老头强，我投降🏳️",
       "created_at": "2025-11-23 17:24:17",
@@ -329920,7 +331541,7 @@ const COMMENTS_DB = {
       "user_name": "小熊的千日草"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "上下要独立",
       "created_at": "2025-11-27 19:39:02",
@@ -330848,7 +332469,7 @@ const COMMENTS_DB = {
       "user_name": "顶峰相见"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYFMHypZzKE977PnggzDxIdaYtC9ca5kukPTL46cDQHvVTg7xasL14sibVAcibO9PXHWk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYEt90sE2R8YQusz1CkdTqkHC0HaFQ8nEdKYXBhZfelKBibjFnWs6cBoflRGbawUtvjE/132",
       "can_delete": null,
       "content": "看成导数后可用瞪眼法得出y=ce^x²，代入可得答案🤓",
       "created_at": "2025-11-18 20:36:00",
@@ -331096,7 +332717,7 @@ const COMMENTS_DB = {
       "user_name": "文李"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "正定的定义\n变换要可逆",
       "created_at": "2025-12-02 16:07:50",
@@ -331221,7 +332842,7 @@ const COMMENTS_DB = {
   ],
   "1346": [
     {
-      "avatar_url": "uploads/avatars/avatar_37540_3eb6cc16d7e548a79aedc4caacb5d049.jpg",
+      "avatar_url": "uploads/avatars/avatar_37540_5aa22fb419e848099c2f81a0987e1c12.jpg",
       "can_delete": null,
       "content": "最恶心的一集，用柯西不等式还能算下",
       "created_at": "2025-12-29 10:39:58",
@@ -331485,7 +333106,7 @@ const COMMENTS_DB = {
       "user_name": "XCPR"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "考虑边界点",
       "created_at": "2025-11-14 18:59:52",
@@ -331574,6 +333195,17 @@ const COMMENTS_DB = {
     }
   ],
   "1351": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELxZKJu7aibbEJ7dhR2tWicNNhQ3iam5oHbDEnYvpRNWBBSpficRZYiaicFCVwZHUJW7MBR13nAW6BGqr0VCt5zibngfF11b1DibLzPDYzc5fzvfzc0Ww/132",
+      "can_delete": null,
+      "content": "分部 复合函数",
+      "created_at": "2026-07-02 14:55:02",
+      "id": 39927,
+      "likes": 0,
+      "replies": [],
+      "student_id": 29071,
+      "user_name": "可以"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/LEthFZ7bibLcy6cWP56Inw8behToKYmaNGpEvpfCG0gn0b5picwwUd802FT78xNTkdia6gR73icaOlqkNUvKhJicDeIibnhrmuD0NQt7pib2lbmiciak/132",
       "can_delete": null,
@@ -331970,7 +333602,7 @@ const COMMENTS_DB = {
       "user_name": "好多鱼余"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "矩阵方程问题，注意不可逆的要求",
       "created_at": "2025-12-01 11:43:19",
@@ -332091,7 +333723,7 @@ const COMMENTS_DB = {
       "user_name": "探索PUVCp3"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "孩子你要相信自己，这就是把所有通解求出来",
       "created_at": "2025-11-11 18:19:32",
@@ -333433,7 +335065,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
           "can_delete": null,
           "content": "扭转啥呢，定义就行了",
           "created_at": "2025-12-12 12:20:37",
@@ -334158,6 +335790,17 @@ const COMMENTS_DB = {
   ],
   "1368": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/LEthFZ7bibLcy6cWP56Inw8behToKYmaNGpEvpfCG0gn0b5picwwUd802FT78xNTkdia6gR73icaOlqkNUvKhJicDeIibnhrmuD0NQt7pib2lbmiciak/132",
+      "can_delete": null,
+      "content": "非零因子先算",
+      "created_at": "2026-05-26 20:19:03",
+      "id": 39863,
+      "likes": 0,
+      "replies": [],
+      "student_id": 11674,
+      "user_name": "珂宇"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/h6nP3XfA4wk4swR8KZBIghJlFwRkOQ43HQm2rOeqjZ7jWLzJOeYlAKAiciaSXN22XhrFUH9xeicupSU4kjZls1QqUKQsqWnmRmWzwkkfHLOjsU/132",
       "can_delete": null,
       "content": "换元的话，前边的范围会变化吗",
@@ -334564,7 +336207,7 @@ const COMMENTS_DB = {
       "user_name": "decompose"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "平均成本，就是这个平均问题",
       "created_at": "2025-11-07 08:08:15",
@@ -335193,7 +336836,7 @@ const COMMENTS_DB = {
       "user_name": "decompose"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYFMHypZzKE977PnggzDxIdaYtC9ca5kukPTL46cDQHvVTg7xasL14sibVAcibO9PXHWk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYEt90sE2R8YQusz1CkdTqkHC0HaFQ8nEdKYXBhZfelKBibjFnWs6cBoflRGbawUtvjE/132",
       "can_delete": null,
       "content": "计算太难了，遇到直接放",
       "created_at": "2025-11-18 20:12:51",
@@ -336687,6 +338330,17 @@ const COMMENTS_DB = {
   ],
   "1391": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
+      "can_delete": null,
+      "content": "复合函数的极限，先对内部等价展开，看到几阶，然后再复合",
+      "created_at": "2026-07-24 15:09:36",
+      "id": 40053,
+      "likes": 0,
+      "replies": [],
+      "student_id": 24608,
+      "user_name": "💪"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKsRHgGom9QC83BC5ziaLF42VXF2AZ6WNjnqayqibTPbdd56C88wh1PrTiaqwpNWrvm0RpAKTRib7oXJ3V8E16RflGloN2tLZdRejxpLyYvL4UOzA/132",
       "can_delete": null,
       "content": "记得有e",
@@ -336915,6 +338569,28 @@ const COMMENTS_DB = {
   ],
   "1390": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
+      "can_delete": null,
+      "content": "“直到”三种颜色停止，买意味着第四次必然是第一次出现的颜色，否则不到四次就停止了。等价于，前三次抽到两种颜色，第四次抽到第三种颜色。（前三次抽到一种颜色事件无法结束，抽到三种事件没到四次就结束了。）既然如此，先定第四次为黑色（因为红白黑地位相同，可以先定一个颜色进行分析）。此时前面是红红白或者红白白两种情况，且只有可能是这两种。且又因为是放回抽取，类似于二项分布，c3取2，当两种相同颜色，所以概率为c3取2（1/3）²*1/3。然后再乘以2（因为只考虑了红红白还有白白红）再加上最后取黑球，则再乘1/3.且最后可能是红白黑，所以再乘以3.即得到2/9",
+      "created_at": "2026-07-24 14:43:29",
+      "id": 40050,
+      "likes": 0,
+      "replies": [],
+      "student_id": 24608,
+      "user_name": "💪"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
+      "can_delete": null,
+      "content": "c31是最后一次\nc21选一个前三次的重复球\nc31选位置\n分母3的4次方",
+      "created_at": "2026-07-05 18:12:01",
+      "id": 39942,
+      "likes": 0,
+      "replies": [],
+      "student_id": 422,
+      "user_name": "慕霑"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI3jgvbWeOKtLfNu9T3rYWAJMibaCmgibIgtsEI4rLtKgQqr2kwJZDdgICQVPzHQZFnWzyib5lS6X3HjQhicQS53orMunjicXv7oAtvv8XVQQPLm2A/132",
       "can_delete": null,
       "content": "教大家一个很简单的方法，分母3^4,分子3x3x2x1即可",
@@ -337121,15 +338797,28 @@ const COMMENTS_DB = {
   ],
   "1393": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
-      "content": "边际收益一定是q的函数",
-      "created_at": "2025-12-15 19:18:14",
-      "id": 37283,
-      "likes": 1,
-      "replies": [],
+      "content": "η自带大于0，所以需要标明p的范围，负责会算错",
+      "created_at": "2026-07-24 15:03:27",
+      "id": 40051,
+      "likes": 0,
+      "replies": [
+        {
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
+          "can_delete": null,
+          "content": "收益始终是Q的函数",
+          "created_at": "2026-07-24 15:07:44",
+          "id": 40052,
+          "likes": 0,
+          "parent_id": 40051,
+          "reply_to_user": null,
+          "student_id": 24608,
+          "user_name": "💪"
+        }
+      ],
       "student_id": 24608,
-      "user_name": "啊king苦力吼呀吼奔"
+      "user_name": "💪"
     },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJice5s6jPLqyONvqO5ibbwv4ErY3W0thK4M76lsT52wfUVOeEpkjyGMibv5wOHpCzicicorLhhpuRDQRwicfSu9jD2E3hEfyWibtt3R2mG3NOU55W8Q/132",
@@ -337206,7 +338895,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "uploads/avatars/avatar_20610_51923a292eaf4f1eb52b4e7a75c91d9f.png",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/mFQmpGfNNVRyguL4e6ILiaxc5QSZ73Aficp1Yia64CqwlBXuhRWvdLuJv2wzGASeuGdSLwy7Usia4Lx9evKBBf0PJg/132",
           "can_delete": null,
           "content": "刚开始以为让你求R关于p的边际，导致思路是求出Q(p)后积分得R(p)。另外感谢我蓝狗哥大观~",
           "created_at": "2025-11-26 12:11:51",
@@ -337306,7 +338995,7 @@ const COMMENTS_DB = {
       "content": "神人计算",
       "created_at": "2025-12-07 10:19:09",
       "id": 28627,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 23026,
       "user_name": "文李"
@@ -337317,7 +339006,7 @@ const COMMENTS_DB = {
       "content": "太踏马难算了",
       "created_at": "2025-12-04 15:26:20",
       "id": 25675,
-      "likes": 0,
+      "likes": 1,
       "replies": [
         {
           "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/MicqFPNOGxCLk5GCfrh2ibpnfAowfpnx6duib96ibckQPwXfYLCH74IR7lxwkG6Nh2kJ0ZyHREl9LyP1beaLiaNKGo04R3OukoW36iculnrz8OrEw/132",
@@ -337644,7 +339333,7 @@ const COMMENTS_DB = {
       "content": "么字型",
       "created_at": "2025-11-11 19:53:32",
       "id": 6081,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 15219,
       "user_name": "KK死磕真题"
@@ -338089,7 +339778,7 @@ const COMMENTS_DB = {
       "content": "顺序统计量的考察",
       "created_at": "2025-12-13 21:51:48",
       "id": 35643,
-      "likes": 0,
+      "likes": 1,
       "replies": [],
       "student_id": 32594,
       "user_name": "温禾"
@@ -338275,7 +339964,7 @@ const COMMENTS_DB = {
       "user_name": "1+1＞2"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYFMHypZzKE977PnggzDxIdaYtC9ca5kukPTL46cDQHvVTg7xasL14sibVAcibO9PXHWk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYEt90sE2R8YQusz1CkdTqkHC0HaFQ8nEdKYXBhZfelKBibjFnWs6cBoflRGbawUtvjE/132",
       "can_delete": null,
       "content": "换元求导微分方程",
       "created_at": "2025-11-23 21:24:12",
@@ -338931,6 +340620,17 @@ const COMMENTS_DB = {
   ],
   "1404": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
+      "can_delete": null,
+      "content": "相邻相减",
+      "created_at": "2026-07-24 14:31:49",
+      "id": 40049,
+      "likes": 0,
+      "replies": [],
+      "student_id": 24608,
+      "user_name": "💪"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqrxdldLwoxNgpFwpIbrAJib9E3GZrzZZHGeHIRbXIia5tibovC52wT3iaLUrw9ZicEclW6jsBrN4lHmNg/132",
       "can_delete": null,
       "content": "分子有理化后发现不是条件收敛",
@@ -339585,7 +341285,7 @@ const COMMENTS_DB = {
       "user_name": "一颗风中摇曳的虾饺"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYFMHypZzKE977PnggzDxIdaYtC9ca5kukPTL46cDQHvVTg7xasL14sibVAcibO9PXHWk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYEt90sE2R8YQusz1CkdTqkHC0HaFQ8nEdKYXBhZfelKBibjFnWs6cBoflRGbawUtvjE/132",
       "can_delete": null,
       "content": "极值点，一阶导函数左右异号零点；拐点，二阶导函数左右异号零点。",
       "created_at": "2025-11-17 18:46:10",
@@ -339708,7 +341408,7 @@ const COMMENTS_DB = {
       "user_name": "Qwert"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "拼接区域",
       "created_at": "2025-11-07 19:12:57",
@@ -339913,7 +341613,7 @@ const COMMENTS_DB = {
       "user_name": "Eternity"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "谢谢老头",
       "created_at": "2025-11-14 10:24:13",
@@ -340060,7 +341760,7 @@ const COMMENTS_DB = {
       "user_name": "ooboo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/UWpsPd9B69UvLoWEOv3YnTWian0eztnZS2zfbKBtibspY0C6XGOuJFfIjH3wVbEibp4pAMrecXF5uj4loNiabiaBlIkW5cqkfO7tCTJBsfSjne3k/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/UWpsPd9B69UvLoWEOv3YnTWian0eztnZS2zfbKBtibspayxpgOtGdCV9rpLleSLLUHialuia2rM0VEjKr1ngtibH98oWeTXDZibzoqB3DPAbYPPn8/132",
       "can_delete": null,
       "content": "全微分表现形式",
       "created_at": "2025-12-08 21:12:57",
@@ -340440,7 +342140,7 @@ const COMMENTS_DB = {
       "user_name": "远航frLyKx"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "带一下 纸老虎",
       "created_at": "2025-11-25 18:13:07",
@@ -340552,7 +342252,7 @@ const COMMENTS_DB = {
       "user_name": "江枫渔火"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELZgShs15h2cXuFIEEPyNIoIRItESdLdmmhC6JpTxGYwr9kIC3MWDvoe2gAg8cicsodpJvOGNgc8Vicaof9n4HwlyyTyFyAxOc26tyZcAmRdunQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/2oXVicc8Gxa6RGUU5HpicxZTsPicqY6oKQudvibIBwiaZUwRqgibZ4cnqwjiaVVvicSkefZDDYF53iaHVM7RQDCMkzXXRIAaNKT1FluyKeE8nMap3uq4/132",
       "can_delete": null,
       "content": "二阶导，要保留所有变量，不能提前代入",
       "created_at": "2025-12-05 13:38:35",
@@ -340563,7 +342263,7 @@ const COMMENTS_DB = {
       "user_name": "清鸣"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "注意细心",
       "created_at": "2025-11-25 15:01:22",
@@ -340642,7 +342342,7 @@ const COMMENTS_DB = {
       "user_name": "点点哇哇上大分"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "列变换列变换列变换列变换啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
       "created_at": "2025-12-13 11:14:52",
@@ -340732,7 +342432,7 @@ const COMMENTS_DB = {
       "user_name": "pisces."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "还能这样。。。",
       "created_at": "2025-11-27 19:13:05",
@@ -340740,7 +342440,7 @@ const COMMENTS_DB = {
       "likes": 2,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "别大意 矩阵语言写一下",
           "created_at": "2025-12-09 21:12:34",
@@ -340982,7 +342682,7 @@ const COMMENTS_DB = {
       "user_name": "m0nesy"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_21036_9d030750bd7c4a2db043abf789da07ee.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/IQchc5Uhib5g4H6vetLoLnNzJdPKhKhWFFQ3ia7OiaO8INj2ZoRBBdjzGibPpc5Td9S6AOmrmTShNvVn5J3e46DDTArujibQUt9fBUcUFT9kmItY/132",
       "can_delete": null,
       "content": "粪题 今年考我吃",
       "created_at": "2025-12-10 20:19:43",
@@ -341305,7 +343005,7 @@ const COMMENTS_DB = {
       "user_name": "cheems"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "注意求行列式时副对角",
       "created_at": "2025-12-15 15:55:43",
@@ -341351,7 +343051,7 @@ const COMMENTS_DB = {
       "user_name": "Waiting~"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "写出来不要相信大脑",
       "created_at": "2025-12-13 11:11:59",
@@ -341564,7 +343264,7 @@ const COMMENTS_DB = {
       "user_name": "勿念"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/scqYuwYM7IP57ica6huvA3ejms9ylAOMQsJticoJVCxzGwgTu9I4x6ickNwkITuNoZjxKPJhsgMYdibEs83ld2H2wmgNc8WUpJtO1P0LNhtTmUE/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/scqYuwYM7IP57ica6huvA3ejms9ylAOMQsJticoJVCxzGzhAHFW1zd2flEWcUrykgiceryQS7RldeekygMxibU7GEibtBNkBmDpv34HvzdsBNOEI/132",
       "can_delete": null,
       "content": "矩阵伴随，逆的基本公式",
       "created_at": "2025-11-23 23:37:59",
@@ -341777,7 +343477,7 @@ const COMMENTS_DB = {
   ],
   "1623": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "注意F的上下限",
       "created_at": "2025-12-18 06:54:35",
@@ -341942,7 +343642,7 @@ const COMMENTS_DB = {
       "user_name": "题霸9KnaNQ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "联系13年看看",
       "created_at": "2025-11-30 22:18:03",
@@ -342269,6 +343969,17 @@ const COMMENTS_DB = {
   ],
   "1622": [
     {
+      "avatar_url": "avatar://seed/13931387908",
+      "can_delete": null,
+      "content": "画图",
+      "created_at": "2026-07-07 12:01:00",
+      "id": 39944,
+      "likes": 0,
+      "replies": [],
+      "student_id": 39951,
+      "user_name": "ww不犯困"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJ39c9pf7jPWLPjb8R99OSiaf0bMBFdNzLBSL3cXFweKl0kCNwMFu4baLqPe6Opy9cad5a0Qe84ALA/132",
       "can_delete": null,
       "content": "曲率圆，后面有时间再看",
@@ -342513,7 +344224,7 @@ const COMMENTS_DB = {
       "user_name": "远航frLyKx"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "根据极值的判定第二性质 存在极值时 一阶导为零 二阶导变号 显然无极值点\n零点代数进去",
       "created_at": "2025-11-25 18:10:30",
@@ -343141,7 +344852,7 @@ const COMMENTS_DB = {
       "user_name": "铭"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "洛必达分母不要忘了求导大笨蛋啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
       "created_at": "2025-12-14 13:57:07",
@@ -343297,7 +345008,7 @@ const COMMENTS_DB = {
       "user_name": "偏铝酸钠"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "1.求可能的间断点2.求使极限存在的间断点(极限为0/0 ♾️/♾️则使用洛必达)",
       "created_at": "2025-12-05 02:03:34",
@@ -343440,7 +345151,7 @@ const COMMENTS_DB = {
       "user_name": "shimmer"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_21036_9d030750bd7c4a2db043abf789da07ee.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/IQchc5Uhib5g4H6vetLoLnNzJdPKhKhWFFQ3ia7OiaO8INj2ZoRBBdjzGibPpc5Td9S6AOmrmTShNvVn5J3e46DDTArujibQUt9fBUcUFT9kmItY/132",
       "can_delete": null,
       "content": "只考虑使函数无意义的点。第一类间断点必须存在左右极限",
       "created_at": "2025-11-25 20:49:26",
@@ -343638,7 +345349,7 @@ const COMMENTS_DB = {
       "user_name": "求知nuUq2v"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJWm0V7rGicPKsIpiah5M31vkIALD8iaYcsHbS9HO65ghiaGVrf9Ctjvzt3LVrAWQpRxNllLibUkwsJZmmO1AzPFXNR4lumOa8dGYF0TibN0gkMRIXQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJWm0V7rGicPKsIpiah5M31vkIALD8iaYcsHbS9HO65ghiaGbrlhib5v4cOpY0PDHlCoRgZI7IZpLSeFgxVNy2OV1CIuCZ2arrDZjtot91tTOFrFdw/132",
       "can_delete": null,
       "content": "梦开始的地方（2025-11-06 13:34:03）",
       "created_at": "2025-11-06 13:34:06",
@@ -343726,7 +345437,7 @@ const COMMENTS_DB = {
       "user_name": "liubei2"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/99U6LEL8nPOeFCRfxkLwrBLvhqCJPhlS8u9oRIUYrwddCoHDSZW43bTiaOARMz4poWFWLUz3QQmGtiaOuhz8MqR1kcFGL8MJgRG6Jz6JcBtBo/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/99U6LEL8nPOeFCRfxkLwrBLvhqCJPhlS8u9oRIUYrwddCoHDSZW43Sib1L09q6DEpp2BpDMUexbQurpibicjmHSNsd4x7nZ6dbEArAH9BbWuibs/132",
       "can_delete": null,
       "content": "牛魔的，漏了个-1",
       "created_at": "2025-11-02 20:49:20",
@@ -345106,7 +346817,7 @@ const COMMENTS_DB = {
       "user_name": "YukiZ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "依旧瞪眼法",
       "created_at": "2025-11-16 16:13:00",
@@ -346281,7 +347992,7 @@ const COMMENTS_DB = {
       "user_name": "Promising"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/YgQHzy7HSXuPb7fWEIM9YKeN4eQkicV6RVsJudpWBdlgvKulrh6ibzsuMle0F9ujJ77bbUURMUtKQV24d1MDJPZvV5zxquZ3GLQwGEX9s9Er0/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/YgQHzy7HSXuPb7fWEIM9YKeN4eQkicV6RVsJudpWBdljGjrk08Cyblcl0NS1IvuVwlYo66HIGBpd22TjIE7EvxXWtBoXIyn0mQ5kCZ2NAJ74/132",
       "can_delete": null,
       "content": "这题怎么没评论",
       "created_at": "2025-11-08 01:38:14",
@@ -346642,7 +348353,7 @@ const COMMENTS_DB = {
       "user_name": "1111"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "联立通解特解，犹豫啥呢",
       "created_at": "2025-12-15 15:57:22",
@@ -346664,7 +348375,7 @@ const COMMENTS_DB = {
       "user_name": "高明"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "正交正交正交",
       "created_at": "2025-12-15 10:32:30",
@@ -346675,7 +348386,7 @@ const COMMENTS_DB = {
       "user_name": "夜莺"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "第一问向量相乘得0别算错了，线性无关证明k1k2k3……kkkkkk",
       "created_at": "2025-12-14 14:16:51",
@@ -347585,7 +349296,7 @@ const COMMENTS_DB = {
       "content": "第一问，算出式子后，把后面不好解的[(k-a)(k-a+1)-2]，其中(k-a)看作u，即u(u+1)-2化简即可。",
       "created_at": "2025-11-02 23:03:11",
       "id": 484,
-      "likes": 21,
+      "likes": 22,
       "replies": [
         {
           "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/IdosOjWI3pxoNr8icUBar6IgXSvD9mF26NjZiaDvPhWTbaklPicGouC1mW8vM96ZicicmfIk7smHYUG6Ojwf0zZQjdLzyANEhS6FES5oRBYzictTU/132",
@@ -348464,7 +350175,7 @@ const COMMENTS_DB = {
       "user_name": "祎祎"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "pai平方。。差点写错",
       "created_at": "2025-12-14 14:17:28",
@@ -349794,7 +351505,7 @@ const COMMENTS_DB = {
       "likes": 4,
       "replies": [
         {
-          "avatar_url": "uploads/avatars/avatar_21036_9d030750bd7c4a2db043abf789da07ee.jpg",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/IQchc5Uhib5g4H6vetLoLnNzJdPKhKhWFFQ3ia7OiaO8INj2ZoRBBdjzGibPpc5Td9S6AOmrmTShNvVn5J3e46DDTArujibQUt9fBUcUFT9kmItY/132",
           "can_delete": null,
           "content": "可爱捏",
           "created_at": "2025-11-25 21:26:22",
@@ -350702,7 +352413,7 @@ const COMMENTS_DB = {
       "user_name": "好好吃饭"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "5/4pai上限你写错何意味",
       "created_at": "2025-12-14 14:17:58",
@@ -351023,7 +352734,7 @@ const COMMENTS_DB = {
       "user_name": "悦"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "操作不了老实换元",
       "created_at": "2025-11-27 19:10:54",
@@ -351868,7 +353579,7 @@ const COMMENTS_DB = {
       "user_name": "手拿把掐可以吗"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "好题，多做",
       "created_at": "2025-11-26 17:15:22",
@@ -351876,7 +353587,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "回顾，不要无脑上来就求偏",
           "created_at": "2025-11-27 19:19:48",
@@ -352307,7 +354018,7 @@ const COMMENTS_DB = {
       "user_name": "悦"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELw5o6SFyG7R4cFvVsTrU6ibPmMmNJF6X6ogk5g2kZGMicn8zLFvaH0C0iaQKcaQnoLmicmEHyHSRlQ6Yalpab8mLVFVZEZbCWrIb5kfZKlUY3aicw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/6b08AYsOJEOu265uZvpTKGmhZShcYGGQAyNoIibwPiaXTee73TGTSCJo8kzZm5TU8kPKfhSF91M87vHC6mVnbLGZWKDmsNMn8DlB9yxviaW6oE/132",
       "can_delete": null,
       "content": "实对称矩阵的稚等于非0特征值的个数",
       "created_at": "2025-11-24 22:09:05",
@@ -352566,7 +354277,7 @@ const COMMENTS_DB = {
           "user_name": "Seashell"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
           "can_delete": null,
           "content": "有理函数先提后拆，化出kx➕b的形式，这个b就是在x趋于无穷时某个函数的极限值",
           "created_at": "2025-11-15 11:15:19",
@@ -352665,7 +354376,7 @@ const COMMENTS_DB = {
       "user_name": "阿白"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "被表示的r不大，②有废物向量",
       "created_at": "2025-12-14 16:30:57",
@@ -353236,7 +354947,7 @@ const COMMENTS_DB = {
       "user_name": "未眠觉醒"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "总是写错下标",
       "created_at": "2025-11-26 15:24:32",
@@ -353603,7 +355314,7 @@ const COMMENTS_DB = {
       "user_name": "学吗学吧"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "公式 不要大意",
       "created_at": "2025-11-30 17:22:29",
@@ -353611,7 +355322,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "又忘了 不记公式活该低分",
           "created_at": "2025-12-09 21:07:47",
@@ -353994,7 +355705,7 @@ const COMMENTS_DB = {
       "user_name": "！"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "真题能见到的变限基本都要先外提",
       "created_at": "2025-11-27 19:18:56",
@@ -354016,7 +355727,7 @@ const COMMENTS_DB = {
       "user_name": "铭"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "注意细节 不要丢分",
       "created_at": "2025-11-25 21:36:55",
@@ -354751,6 +356462,17 @@ const COMMENTS_DB = {
   ],
   "1653": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI0pNIs0ajbJgKboSZib15DhjibIMVQdJbHYMCxYQ0XWZwcLC3gBkyQFT3LSTArzVSwic5rE94wjZjwG4xk72vINF5suZJn31XCgro0UG4xhNZuw/132",
+      "can_delete": null,
+      "content": "单位喵",
+      "created_at": "2026-07-14 15:45:37",
+      "id": 39989,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40443,
+      "user_name": "晓"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9923SyMxoXZhLvNzVWjgSxg4PT2H7ibiamJPohic5AUnCtCNAap3q831vhTJQqibnoZ5HWibEZaQgiaEtd8fgIKrlgdHlxWYGmK8pm2Nxleex9VgU/132",
       "can_delete": null,
       "content": "带单位啊亲",
@@ -354773,7 +356495,7 @@ const COMMENTS_DB = {
       "user_name": "不吃葡萄🍇"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "单位单位单位",
       "created_at": "2025-12-14 16:27:19",
@@ -354784,7 +356506,7 @@ const COMMENTS_DB = {
       "user_name": "夜莺"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_5189_1760739a89c8455b99248fcfb117e028.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELjVAR39dSemwmko1roEIvNJ5VYnwSwlZbzM12hJw0zcxCPg9x3C4n2AYIGZc8G7iak847NhETYKkfUb9pmItAqB7S66tXIHhqHjLJyxCmgoaA/132",
       "can_delete": null,
       "content": "带单位",
       "created_at": "2025-12-12 10:00:43",
@@ -355050,7 +356772,7 @@ const COMMENTS_DB = {
       "user_name": "铭"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "单位细节",
       "created_at": "2025-11-25 18:07:47",
@@ -355329,7 +357051,7 @@ const COMMENTS_DB = {
   ],
   "1656": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "第一问可以构造函数",
       "created_at": "2025-12-14 16:36:44",
@@ -355749,6 +357471,17 @@ const COMMENTS_DB = {
     }
   ],
   "1661": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI0pNIs0ajbJgKboSZib15DhjibIMVQdJbHYMCxYQ0XWZwcLC3gBkyQFT3LSTArzVSwic5rE94wjZjwG4xk72vINF5suZJn31XCgro0UG4xhNZuw/132",
+      "can_delete": null,
+      "content": "构造都构造出来了，拉朗忘了，！？区区？！",
+      "created_at": "2026-07-20 16:04:34",
+      "id": 40024,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40443,
+      "user_name": "晓"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKAzicDR6eYysSI5TG0fCD8ibVicEJzcHZrOpBrbHVlFib8IbJKWTVXc0kHMHu0CEuaiaAGPxgnjmJeibSHqeYXEL3fAH2E0CHTS117JeASC2cdCDbA/132",
       "can_delete": null,
@@ -356291,7 +358024,7 @@ const COMMENTS_DB = {
       "user_name": "我独自刷题"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/JXngflaxic8hBY1oeNt9aAUkRPPnsltWF6FibHGe4mwYVxOWTW8AYMOQmyUA6gKj8icdbSvJEB9bM27ZMf6kH0SicSmoUxklaeict6zTlU4oQXpk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/JXngflaxic8hBY1oeNt9aAUkRPPnsltWF6FibHGe4mwYWaRByv3qQHs1ribkIMqpF9Seukd04d2f8icpngicGAUxqqLsTAR5l4CDBia8o962w6ko4/132",
       "can_delete": null,
       "content": "椭圆的面积=派ab",
       "created_at": "2025-11-12 17:38:12",
@@ -356439,6 +358172,17 @@ const COMMENTS_DB = {
     }
   ],
   "1654": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PCPJOWQGXHYx9O4aYDKCYdzW5iaYWsKLOI5e2G8aBp12tzVTm1Id3yfTAs9XMibN9eDvA6Omd7n6j39sUuFiaLXd86ibakDXSJn3RlDrHgP8420/132",
+      "can_delete": null,
+      "content": "E的妙用",
+      "created_at": "2026-07-23 16:44:20",
+      "id": 40033,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42296,
+      "user_name": "Ridge"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/4ZxykVBxNtsklzYsfIk2EzUncFKPEHBOt8heNkSlcK1K5wEq7CFFfBof8fqJoxibnOWKPkaLXkjEoTP92uUvxVEVotPUNJFib8EPSUia586Bvk/132",
       "can_delete": null,
@@ -356748,7 +358492,7 @@ const COMMENTS_DB = {
       "user_name": "0xFFFF"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "不懂这种题目的破题点，有佬说下它这样变换的动机是什么吗",
       "created_at": "2025-11-28 13:30:37",
@@ -356930,7 +358674,7 @@ const COMMENTS_DB = {
       "user_name": "ZZhuang🌳"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "两边外扩E，各边按另一边作为外层",
       "created_at": "2025-11-15 20:31:59",
@@ -357936,7 +359680,7 @@ const COMMENTS_DB = {
       "user_name": "吉伊"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "一步步列公式，不要想当然",
       "created_at": "2025-11-12 14:23:26",
@@ -358095,7 +359839,7 @@ const COMMENTS_DB = {
       "user_name": "ooboo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "cos2角要熟",
       "created_at": "2025-12-14 17:11:55",
@@ -358706,7 +360450,7 @@ const COMMENTS_DB = {
       "user_name": "智慧qnbDer"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "凑不出来老实泰勒洛",
       "created_at": "2025-11-30 16:13:16",
@@ -359068,7 +360812,7 @@ const COMMENTS_DB = {
       "user_name": ".c"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "正交阵列向量的含义",
       "created_at": "2025-11-27 19:29:13",
@@ -360015,7 +361759,7 @@ const COMMENTS_DB = {
       "user_name": "坐看云起时"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "正常法，反解法，姜萍法",
       "created_at": "2025-11-13 16:44:47",
@@ -360350,7 +362094,7 @@ const COMMENTS_DB = {
       "user_name": "阿白"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "我真棒",
       "created_at": "2025-11-30 16:21:05",
@@ -360671,7 +362415,7 @@ const COMMENTS_DB = {
       "user_name": "99％"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "奇穿偶不穿 看单调性改变的点是驻点",
       "created_at": "2025-11-26 22:21:14",
@@ -360991,7 +362735,7 @@ const COMMENTS_DB = {
   ],
   "1670": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "求到一边得ni",
       "created_at": "2025-12-14 20:11:50",
@@ -361079,7 +362823,7 @@ const COMMENTS_DB = {
       "user_name": "Zhang."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "交换行列的初等阵，与逆一样",
       "created_at": "2025-11-30 16:53:37",
@@ -361213,7 +362957,7 @@ const COMMENTS_DB = {
   ],
   "1669": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "ln单增和ln正负毛关系没有",
       "created_at": "2025-12-14 20:07:25",
@@ -361303,7 +363047,7 @@ const COMMENTS_DB = {
       "user_name": "komorebi"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "记一下吧",
       "created_at": "2025-11-30 16:58:08",
@@ -361336,7 +363080,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icLI8TqAuDURD95KSo4MjvBsufibQ9skChznheAIAfu0M7orugHBER4nJO58Fp6VLCiccP3fibWY7O7206IOmaenVHReq0JFoPZD8hoicVe6xjwY/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/icLI8TqAuDURD95KSo4MjvBsufibQ9skChznheAIAfu0Pj6ibXhyD9M6FicEY2TIx89ZQ1HgUz7MczxtvWsZQwFIxtaGCJeBhmbOhPDVcXvoYico/132",
       "can_delete": null,
       "content": "令x=π/6比较函数值",
       "created_at": "2025-11-24 11:28:58",
@@ -361538,7 +363282,7 @@ const COMMENTS_DB = {
       "user_name": "🐑"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "sec cot的积分公式",
       "created_at": "2025-11-30 16:26:13",
@@ -361813,7 +363557,7 @@ const COMMENTS_DB = {
       "user_name": "天空仍在泣雨"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "哪来的负号你在干嘛",
       "created_at": "2025-12-14 20:21:54",
@@ -361914,7 +363658,7 @@ const COMMENTS_DB = {
       "user_name": "mаigо"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "发癫了，，，干嘛当成二阶了",
       "created_at": "2025-11-30 16:29:16",
@@ -362141,7 +363885,7 @@ const COMMENTS_DB = {
       "user_name": "dadada不许动"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "极小值二阶导大于0",
       "created_at": "2025-12-14 20:04:13",
@@ -362273,7 +364017,7 @@ const COMMENTS_DB = {
       "user_name": "专升本数学名师肖秀荣"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_1069_3a47b6f26eef47fdbb475710dbd34945.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/8WpdRJKZhsLn8VtGEQPeBgUTwbcUw0RvMnaF2fwoQbBfOwC63wQz5hllhhiaefr4nUY8SD5wZxRkiaQkXHWUNg8AjRmBE1g7ZrD8nVjAibgc14/132",
       "can_delete": null,
       "content": "耐心算，><看清楚",
       "created_at": "2025-12-03 21:45:45",
@@ -362295,7 +364039,7 @@ const COMMENTS_DB = {
       "user_name": "YukiZ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "g（y）不是关于x函数",
       "created_at": "2025-11-30 17:05:01",
@@ -362720,7 +364464,7 @@ const COMMENTS_DB = {
       "user_name": "SaintMossi"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "配流才是顶流",
       "created_at": "2025-11-15 20:34:18",
@@ -362909,7 +364653,7 @@ const COMMENTS_DB = {
       "user_name": "：）"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "符号，罚自己打一百遍括号🥲",
       "created_at": "2025-11-30 16:39:40",
@@ -363120,7 +364864,7 @@ const COMMENTS_DB = {
       "user_name": "灰灰灰灰灰原"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELmvOP0up3yGxwgFW4Rq4ibJSgmlT2oYMZZAj8ygick0QktZFNfcbib0kRiciaevAnaKZc6cu0aibB9FvVB61HiaHYQ0lH5CeZlic5Zx5LcLq0hg3mNdQ/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELmvOP0up3yGxwgFW4Rq4ibJSgmlT2oYMZZAj8ygick0QkpXgnBbkIgHnicbeAP3x4urkHOCpeib8OGNiafEm0zGFFicibncEAq8whpYrfJeSeQjQDtA/132",
       "can_delete": null,
       "content": "把x给漏了，无语啊",
       "created_at": "2025-11-04 12:01:40",
@@ -363179,7 +364923,7 @@ const COMMENTS_DB = {
       "user_name": "高明"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "1010是x1到x4，前面那个才是系数",
       "created_at": "2025-12-14 20:15:28",
@@ -363983,7 +365727,7 @@ const COMMENTS_DB = {
       "user_name": "Qwert"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "最仁慈的一集",
       "created_at": "2025-11-15 21:16:49",
@@ -364232,7 +365976,7 @@ const COMMENTS_DB = {
       "user_name": "江枫渔火"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "给自己错笑了",
       "created_at": "2025-12-05 01:24:56",
@@ -364267,7 +366011,7 @@ const COMMENTS_DB = {
       "user_name": "致曾几何时的你"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "xlna 不是 alnx",
       "created_at": "2025-11-30 16:42:44",
@@ -364443,7 +366187,7 @@ const COMMENTS_DB = {
       "user_name": "Promising"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "记得算完别把e忘了",
       "created_at": "2025-11-14 09:29:43",
@@ -364855,7 +366599,7 @@ const COMMENTS_DB = {
       "user_name": "浪漫海"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "很综合 多练",
       "created_at": "2025-11-28 13:35:55",
@@ -366606,7 +368350,7 @@ const COMMENTS_DB = {
       "user_name": "HH"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "注意第二问",
       "created_at": "2025-12-14 19:20:22",
@@ -366617,7 +368361,7 @@ const COMMENTS_DB = {
       "user_name": "夜莺"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "被表示的r不大，然后拼，算",
       "created_at": "2025-12-14 19:19:31",
@@ -366808,7 +368552,7 @@ const COMMENTS_DB = {
       "user_name": "运七"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "A可由B线性表示，就是AX=B有解",
       "created_at": "2025-11-22 22:32:40",
@@ -366852,7 +368596,7 @@ const COMMENTS_DB = {
       "user_name": "梅雨季pt2"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "低维不能表高维",
       "created_at": "2025-11-19 15:54:03",
@@ -366860,7 +368604,7 @@ const COMMENTS_DB = {
       "likes": 1,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "回顾 忘了",
           "created_at": "2025-12-15 17:19:14",
@@ -367712,6 +369456,17 @@ const COMMENTS_DB = {
   ],
   "1681": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/WrgA2nHuwPGmHmaj4RyfVShueHTHFlWDS36YibDN79GEWvCxJGEBQLYoRLN9OB86qxTZmyqY79Jpa4KguibZtPzw/132",
+      "can_delete": null,
+      "content": "这题求表达式怎么不用写定义域了",
+      "created_at": "2026-07-23 22:54:05",
+      "id": 40037,
+      "likes": 0,
+      "replies": [],
+      "student_id": 22757,
+      "user_name": "呵呵"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4OYIHnKiaskOdoE1ntBviaj8pmEhlwgTiaFzwaB8EWVuv11XJdeSiaL2KVHsicXUOT13OJO7jj3ux0qDA/132",
       "can_delete": null,
       "content": "给大家做一下这道题吧，这题好久不做了，好多年不做了。",
@@ -368115,7 +369870,7 @@ const COMMENTS_DB = {
       "user_name": "程"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "不够敏感，微分等式等于微分方程",
       "created_at": "2025-11-28 13:33:42",
@@ -368370,7 +370125,7 @@ const COMMENTS_DB = {
       "user_name": "琪"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELo5Xjdu3JqAP7KJR85PrkLd7IrV9Fz9NLPOqF7k7X5JvhhCtM95XtrmX7TZBxyRFibThBASsib3CWbgDXVdnWIjoOVV09hiaQNTiadWuZ4spoXOA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TwGUSkiad8ANwW6sibsgmH6H2Z00IHGPnEiatjF6ibCc8ia9FicSvrBicIyicJoqNnn9ic5AyuYNHjomEUzicdO19VZQOicibDg91egibhfpLqVDkcrwtTsU/132",
       "can_delete": null,
       "content": "二阶可降微分方程+arcsinx求导公式",
       "created_at": "2025-11-02 18:02:35",
@@ -368621,7 +370376,7 @@ const COMMENTS_DB = {
       "user_name": "婷兒耶"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "注意一下趋于1",
       "created_at": "2025-11-30 13:18:17",
@@ -368667,7 +370422,7 @@ const COMMENTS_DB = {
       "user_name": "25"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "好好算一下",
       "created_at": "2025-11-26 19:50:45",
@@ -368966,7 +370721,7 @@ const COMMENTS_DB = {
       "user_name": "βασιλεύς"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "多做几轮，套路拆分，定xy判单调",
       "created_at": "2025-11-30 14:06:36",
@@ -369023,7 +370778,7 @@ const COMMENTS_DB = {
       "user_name": "這不是派大星"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRfhiaMSkArm2NWGMjDd4F7B3j5vE1gu6sY0Yd8fBRTs9NSicQqLBeyyZyPIO4aQYmozw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRd4DJQoG5EZMHRmBA0EUiaPxyQ3XeDtmoDkvnQ0lGygWJCMq478CagAbGLdxoicclF5g/132",
       "can_delete": null,
       "content": "数形结合",
       "created_at": "2025-11-26 16:24:06",
@@ -369579,7 +371334,7 @@ const COMMENTS_DB = {
       "user_name": "祎祎"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "第一问回顾，实对称不同特值特向正交，怎么求解接下来的",
       "created_at": "2025-12-15 17:25:23",
@@ -370007,7 +371762,7 @@ const COMMENTS_DB = {
       "likes": 7,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELw5o6SFyG7R4cFvVsTrU6ibPmMmNJF6X6ogk5g2kZGMicn8zLFvaH0C0iaQKcaQnoLmicmEHyHSRlQ6Yalpab8mLVFVZEZbCWrIb5kfZKlUY3aicw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/6b08AYsOJEOu265uZvpTKGmhZShcYGGQAyNoIibwPiaXTee73TGTSCJo8kzZm5TU8kPKfhSF91M87vHC6mVnbLGZWKDmsNMn8DlB9yxviaW6oE/132",
           "can_delete": null,
           "content": "所有特征向量",
           "created_at": "2025-11-22 21:43:07",
@@ -370183,7 +371938,7 @@ const COMMENTS_DB = {
       "user_name": "小草帽"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "分部积分~",
       "created_at": "2025-12-18 10:27:46",
@@ -370447,7 +372202,7 @@ const COMMENTS_DB = {
       "user_name": "悦"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "不会积分，好惨",
       "created_at": "2025-11-28 22:39:24",
@@ -370491,7 +372246,7 @@ const COMMENTS_DB = {
       "user_name": "momo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "很罕见的凑，记住",
       "created_at": "2025-11-28 13:32:42",
@@ -370557,7 +372312,7 @@ const COMMENTS_DB = {
       "user_name": "KK死磕真题"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "老头之所以是老头",
       "created_at": "2025-11-25 22:25:21",
@@ -370836,7 +372591,7 @@ const COMMENTS_DB = {
       "user_name": "猪脚饭桶"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "做的时候感觉非常模糊，但是感觉就是分部积分交换次序，最后稀里糊涂也把答案算出来了",
       "created_at": "2025-11-07 16:06:53",
@@ -371093,7 +372848,7 @@ const COMMENTS_DB = {
       "user_name": "学吗学吧"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "ex拉伸图像，越来越快",
       "created_at": "2025-11-30 13:49:40",
@@ -371192,7 +372947,7 @@ const COMMENTS_DB = {
           "user_name": "2"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
           "can_delete": null,
           "content": "楼下那位，实则很稳妥 因为这是一个包络线 大的会越来越大，抵消不了的",
           "created_at": "2025-11-28 21:42:34",
@@ -371467,7 +373222,7 @@ const COMMENTS_DB = {
       "user_name": "大喵"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "别光想秩，可以想想能不能配个0矩阵",
       "created_at": "2025-11-30 14:14:39",
@@ -371779,7 +373534,7 @@ const COMMENTS_DB = {
       "user_name": "米诺诺诺子"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "单调有界找时间看看",
       "created_at": "2025-11-30 13:30:26",
@@ -372278,7 +374033,7 @@ const COMMENTS_DB = {
       "user_name": "-"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "法二真的帅",
       "created_at": "2025-11-30 14:31:33",
@@ -372286,7 +374041,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "审题：1.Q由P初变得来，考虑是否可逆   2.有重特征值，考虑同一特值线性组合性质  3.按列分块，马上分块乘法",
           "created_at": "2025-11-30 14:34:06",
@@ -372298,7 +374053,7 @@ const COMMENTS_DB = {
           "user_name": "薛定谔的圆子"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "分块乘法与重根特值同时出现，大概率考特征向量定义",
           "created_at": "2025-11-30 14:36:19",
@@ -372558,7 +374313,7 @@ const COMMENTS_DB = {
       "user_name": "率行天下"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "复习一下步长匹配区间",
       "created_at": "2025-11-30 14:45:01",
@@ -372840,7 +374595,7 @@ const COMMENTS_DB = {
       "user_name": "ㅤ"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "写完看到x的偏导-y的偏导直接懵了。看了答案才知道括号里面不是逗号",
       "created_at": "2025-12-01 22:56:10",
@@ -373638,7 +375393,7 @@ const COMMENTS_DB = {
       "user_name": "江枫渔火"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "同阶不等价",
       "created_at": "2025-12-05 01:49:21",
@@ -373693,7 +375448,7 @@ const COMMENTS_DB = {
       "user_name": "232"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "过程，讨论",
       "created_at": "2025-11-23 17:57:35",
@@ -374010,7 +375765,7 @@ const COMMENTS_DB = {
       "user_name": "超咸棒棒糖"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "老头，求你26也来这个吧。我把屁股卖给你了",
       "created_at": "2025-12-01 23:16:14",
@@ -374306,7 +376061,7 @@ const COMMENTS_DB = {
       "user_name": "Karma"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "k家族公式",
       "created_at": "2025-12-09 21:05:47",
@@ -374427,7 +376182,7 @@ const COMMENTS_DB = {
       "user_name": "andy"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "行列式交换变号，行列式公式回顾",
       "created_at": "2025-11-30 15:28:48",
@@ -374548,7 +376303,7 @@ const COMMENTS_DB = {
       "user_name": "我独自刷题"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "交换有负",
       "created_at": "2025-11-15 20:36:09",
@@ -374874,7 +376629,7 @@ const COMMENTS_DB = {
       "user_name": "月月的犬"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "1.曲率，弧长中间那个都是正号 2.注意定义域",
       "created_at": "2025-11-30 15:16:29",
@@ -374940,7 +376695,7 @@ const COMMENTS_DB = {
       "user_name": "這不是派大星"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "细节很多 ！！！",
       "created_at": "2025-11-25 18:01:10",
@@ -375263,7 +377018,7 @@ const COMMENTS_DB = {
           "user_name": "Mr_啓明星"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "卷子出得越来越难了，真怕老头灵机一动让我笑不出来",
           "created_at": "2025-11-15 21:40:43",
@@ -375280,6 +377035,17 @@ const COMMENTS_DB = {
     }
   ],
   "1706": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/WrgA2nHuwPGmHmaj4RyfVShueHTHFlWDS36YibDN79GEWvCxJGEBQLYoRLN9OB86qxTZmyqY79Jpa4KguibZtPzw/132",
+      "can_delete": null,
+      "content": "左移构造求两阶导，展成拉格朗日余项的麦克劳林",
+      "created_at": "2026-06-25 18:04:07",
+      "id": 39909,
+      "likes": 0,
+      "replies": [],
+      "student_id": 22757,
+      "user_name": "呵呵"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/CWCufLbFjSTRLWYEkVRgJhGNMNiaZwDKhjicRa6EFa5F5ibicExziaUibyvARUhPg6ho7wVjy5KtXz0sTV6AfgCkfKHhnjsRglkJicp0hrwcItrSy4/132",
       "can_delete": null,
@@ -375413,7 +377179,7 @@ const COMMENTS_DB = {
       "user_name": "米诺诺诺子"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9TGEvlS9k1Q818WMsiay0wibODIEEAnXdAPKicuutAbBy037CLdUcpY44wfrwsXnWRCSzZ6hzRMKCaSTrdDOyCI25jflFqQiagF7NTVvjXD3eiak/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/9TGEvlS9k1Q818WMsiay0wibODIEEAnXdAPKicuutAbBy2qiaa3EhMxDR1bTHehI0MIpM8uBbsIx6HIcbZGmAhoH91JnaRCQ5UB46wK4ic60jLew/132",
       "can_delete": null,
       "content": "偶函数",
       "created_at": "2025-11-29 11:56:26",
@@ -375879,7 +377645,7 @@ const COMMENTS_DB = {
       "user_name": "糊咖"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "1.微分号是可以除的 2.公式法负号那项在外面 3.再忘记c扣眼珠子",
       "created_at": "2025-11-30 15:01:31",
@@ -377078,7 +378844,7 @@ const COMMENTS_DB = {
       "user_name": "そらくう"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "复杂积分复现，观察能否题干回代",
       "created_at": "2025-11-28 13:37:59",
@@ -377282,7 +379048,7 @@ const COMMENTS_DB = {
       "user_name": "mo"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "被负号干废了",
       "created_at": "2025-11-12 15:15:10",
@@ -378411,7 +380177,7 @@ const COMMENTS_DB = {
       "user_name": "ELIAUK"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "猜一下",
       "created_at": "2025-12-07 20:31:06",
@@ -378703,7 +380469,7 @@ const COMMENTS_DB = {
       "user_name": "🌨"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "把那个p次幂化为负p次幂，注意负号",
       "created_at": "2025-11-29 15:33:13",
@@ -379183,7 +380949,7 @@ const COMMENTS_DB = {
       "user_name": "pchrl"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "转换趋于0敏感点",
       "created_at": "2025-11-27 16:19:33",
@@ -379506,7 +381272,7 @@ const COMMENTS_DB = {
       "user_name": "May"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "AtA秩等于A秩，记一下",
       "created_at": "2025-12-15 17:03:33",
@@ -379881,7 +381647,7 @@ const COMMENTS_DB = {
       "user_name": "🥥🥥🥥"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "还能回去吗？线代如此纯真的时代",
       "created_at": "2025-11-15 21:52:41",
@@ -380129,7 +381895,7 @@ const COMMENTS_DB = {
       "user_name": "探索gBCUOj"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "别忘记带e",
       "created_at": "2025-11-14 09:36:19",
@@ -381706,7 +383472,7 @@ const COMMENTS_DB = {
       "user_name": "喜欢刮风天"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "相似，特征多项式，特征值，迹，高次幂相同",
       "created_at": "2025-11-06 21:15:20",
@@ -381714,7 +383480,7 @@ const COMMENTS_DB = {
       "likes": 2,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "2和b回代思路",
           "created_at": "2025-12-15 16:47:55",
@@ -382128,7 +383894,7 @@ const COMMENTS_DB = {
       "user_name": "远航QbYhmx"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "1.可积必连续，连续必可导  2.几个跳跃，几个不可导   3.几个可去，几个导不等（都是针对变上限，不要弄混）",
       "created_at": "2025-11-29 15:21:57",
@@ -382136,7 +383902,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "4.小f一类间断，必不可能有原函数 5.小f二类间断，可能有原函数",
           "created_at": "2025-11-29 15:25:25",
@@ -382435,7 +384201,7 @@ const COMMENTS_DB = {
       "user_name": "穿我耳膜逼我唱歌"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "对A做列变换得C，则A的列和C的列相互表示； 同时做B逆，对C做列变换得A，则C的列和A的列相互表示；\n对A做列变换得C，则A的列和C的列相互表示； 同时做B逆，对C做列变换得A，则C的列和A的列相互表示；\n对A做列变换得C，则A的列和C的列相互表示； 同时做B逆，对C做列变换得A，则C的列和A的列相互表示；",
       "created_at": "2025-12-14 19:25:59",
@@ -382770,7 +384536,7 @@ const COMMENTS_DB = {
       "user_name": "昭只🦈"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "前列腺",
       "created_at": "2025-11-19 15:55:18",
@@ -383244,7 +385010,7 @@ const COMMENTS_DB = {
       "user_name": "Haster"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "计算错误！！！！！！！！！！！！！",
       "created_at": "2025-11-25 17:57:45",
@@ -383882,7 +385648,7 @@ const COMMENTS_DB = {
       "user_name": "野子🧸"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "倘若先求的导，得到的x是y的零点，而不是y等于0时的x，别无脑求导",
       "created_at": "2025-11-29 16:21:25",
@@ -384405,7 +386171,7 @@ const COMMENTS_DB = {
       "user_name": "一战上岸"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "如果化为二重积分，被积函数是1😅",
       "created_at": "2025-11-29 16:46:26",
@@ -384413,7 +386179,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "进阶点火别忘",
           "created_at": "2025-11-29 16:50:30",
@@ -384955,7 +386721,7 @@ const COMMENTS_DB = {
       "user_name": "Ehrman."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "两组非线性齐组成新的通，回顾结构性质",
       "created_at": "2025-11-29 16:56:41",
@@ -385702,7 +387468,7 @@ const COMMENTS_DB = {
       "user_name": "1111"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "反对称矩阵",
       "created_at": "2025-11-14 09:50:47",
@@ -385959,7 +387725,7 @@ const COMMENTS_DB = {
       "user_name": "Prꪮᥴꫀડડ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "竟如此人畜无害",
       "created_at": "2025-11-14 10:32:03",
@@ -386176,7 +387942,7 @@ const COMMENTS_DB = {
       "user_name": "远航frLyKx"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "好好算一下 不要光看",
       "created_at": "2025-11-26 19:44:22",
@@ -386220,7 +387986,7 @@ const COMMENTS_DB = {
       "user_name": "myosotis"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "看看b",
       "created_at": "2025-11-15 11:18:04",
@@ -386468,7 +388234,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEIMvA2DOXjRzD0NIKXTXtKdNaPguAM5DZjT4FnhYeEQE7ZgNBwr4kvAxTDRmTtAia3TaTibIEibQmR9czljfdw2ffBt5OmMduwTKeXUTicMVXPDUw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/jWOcficPqOB6dibbibL5P8YESNwJlxghjnuUibkvcI4eRxutm5gQSK3aobmILR0iaib4Cfv2cicuvIv9TM9VicQCXYvwYJJYBwVs9TGPHsL5pQXrdZ0/132",
           "can_delete": null,
           "content": "对",
           "created_at": "2025-12-04 10:45:57",
@@ -386711,7 +388477,7 @@ const COMMENTS_DB = {
       "user_name": "Noroi"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRfhiaMSkArm2NWGMjDd4F7B3j5vE1gu6sY0Yd8fBRTs9NSicQqLBeyyZyPIO4aQYmozw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/wJIswZ0LPzMOic0u1qbzArzico9rVcwvUglttnlKeSRRd4DJQoG5EZMHRmBA0EUiaPxyQ3XeDtmoDkvnQ0lGygWJCMq478CagAbGLdxoicclF5g/132",
       "can_delete": null,
       "content": "只学会第一问就好",
       "created_at": "2025-11-07 22:40:27",
@@ -386927,7 +388693,7 @@ const COMMENTS_DB = {
       "user_name": "噱"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "展开到第一次不为零的项就可以",
       "created_at": "2025-12-05 01:39:09",
@@ -387791,7 +389557,7 @@ const COMMENTS_DB = {
       "user_name": "匿名."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "无法判断A矩阵是否可逆，直接暴力解",
       "created_at": "2025-11-15 11:54:12",
@@ -388477,7 +390243,7 @@ const COMMENTS_DB = {
       "user_name": "Faye"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "算对了都以为错",
       "created_at": "2025-11-15 21:18:08",
@@ -388696,6 +390462,17 @@ const COMMENTS_DB = {
   ],
   "1729": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKLhiaxdDbuia7u0Y5m7f9C4ob4oWgzlPQib4nKDibA2L2aUYHTsOB3rvziazSes1fBtxG9r8L4yaz3KvyccVNfrM96SEbxgJFZmwxq6B3B9yKH7aA/132",
+      "can_delete": null,
+      "content": "这么简单别想复杂",
+      "created_at": "2026-06-05 19:39:57",
+      "id": 39873,
+      "likes": 0,
+      "replies": [],
+      "student_id": 40137,
+      "user_name": "L"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ejzNg08ZaVCQMlabFaQPKj09aZEl2ymgOc7B5ianrfAsFeRpzEgqpArLC1icWsxr9lQZyTY3sOupke4kYKareiaBW5CTmymmF1dpvFtv72vyh0/132",
       "can_delete": null,
       "content": "定单调，定上下界，极限逼近Xn=Xn+1可求Xn",
@@ -388718,7 +390495,7 @@ const COMMENTS_DB = {
       "user_name": "羡阳"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "1、证有上界。2、证单调递增。3、极限唯一性求极限。",
       "created_at": "2025-12-11 12:45:13",
@@ -388737,7 +390514,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
           "can_delete": null,
           "content": "有对数，x必然大于0，所以lnxn+1/xn+1<1=lne,所以lnxn<lne，xn<e，上界e",
           "created_at": "2025-12-18 16:19:04",
@@ -388808,7 +390585,7 @@ const COMMENTS_DB = {
       "user_name": "Polaris"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_5189_1760739a89c8455b99248fcfb117e028.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELjVAR39dSemwmko1roEIvNJ5VYnwSwlZbzM12hJw0zcxCPg9x3C4n2AYIGZc8G7iak847NhETYKkfUb9pmItAqB7S66tXIHhqHjLJyxCmgoaA/132",
       "can_delete": null,
       "content": "有界放缩没想到",
       "created_at": "2025-12-05 14:18:24",
@@ -389267,7 +391044,7 @@ const COMMENTS_DB = {
       "user_name": "神奈川第一中锋"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "奇怪的题",
       "created_at": "2025-12-15 16:50:41",
@@ -389976,7 +391753,7 @@ const COMMENTS_DB = {
       "user_name": "婷兒耶"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "太阴了，，",
       "created_at": "2025-11-29 14:56:18",
@@ -390973,7 +392750,7 @@ const COMMENTS_DB = {
       "user_name": "卡卡"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "看似人畜无害",
       "created_at": "2025-11-13 20:43:19",
@@ -390981,7 +392758,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "回顾 边界注意 整体简单",
           "created_at": "2025-11-28 13:38:29",
@@ -391298,7 +393075,7 @@ const COMMENTS_DB = {
       "user_name": "求知eI2bjT"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "作和转化为乘积关系",
       "created_at": "2025-11-28 13:44:10",
@@ -391555,7 +393332,7 @@ const COMMENTS_DB = {
       "user_name": "🐑"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "配方居然配错了。。",
       "created_at": "2025-11-29 14:25:38",
@@ -391792,7 +393569,7 @@ const COMMENTS_DB = {
       "user_name": "BuleDendroaspis"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "想当然，c都能忘，注意题干奇函数条件",
       "created_at": "2025-11-29 14:30:44",
@@ -392271,7 +394048,7 @@ const COMMENTS_DB = {
       "user_name": "高峰"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2aZwkoQWvFd1dzOhKJf9W7DS7bVIVMoDUSWiaLvjC4G0EezkprTS9kPw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKXWY6dA6QFibQnG99QCE4ibnX3Au3EMHaTSMR237y1JDvqqgaqHLh6ia2FvjfhBktfltfjHibdURPzQOcaAagnbuwicec0r6uJb3X0XeeAyZ8kib6Q/132",
       "can_delete": null,
       "content": "要求后面的极限，先要求\\xi，而\\xi是和fx有关系的，反解出来求极限即可",
       "created_at": "2025-12-05 01:18:04",
@@ -392315,7 +394092,7 @@ const COMMENTS_DB = {
       "user_name": "率行天下"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "以为是导数定义题型，纠结很久直接求导都忘了",
       "created_at": "2025-11-29 14:50:43",
@@ -392581,7 +394358,7 @@ const COMMENTS_DB = {
       "user_name": "逐梦e7Q0rn"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "x-arctanx=x(1-1/(1+s^2))两边求极限得x^3/3=x(s^2/(1+s^2))化解后题干极限等于(1+s^2)/3带入0得1/3，带入0是因为f(0)=0,[f(x)-f(0)]/(x-0)=f`(s)可得s在0到x之间。",
       "created_at": "2025-11-05 14:54:32",
@@ -392861,7 +394638,7 @@ const COMMENTS_DB = {
       "user_name": "计算滴神"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "低推不了高的",
       "created_at": "2025-11-29 14:32:28",
@@ -393450,7 +395227,7 @@ const COMMENTS_DB = {
       "user_name": "阿白"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "牢记这两张图",
       "created_at": "2025-11-29 14:57:23",
@@ -393458,7 +395235,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "标记，一定要吃透",
           "created_at": "2025-11-29 15:00:46",
@@ -393518,7 +395295,7 @@ const COMMENTS_DB = {
       "user_name": "komorebi"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "凹凸性态问题 多画图",
       "created_at": "2025-11-26 19:47:59",
@@ -394114,7 +395891,7 @@ const COMMENTS_DB = {
       "user_name": "高峰"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "别提前放松，漏符号白费功夫",
       "created_at": "2025-11-29 14:37:11",
@@ -394158,7 +395935,7 @@ const COMMENTS_DB = {
       "user_name": "攀登vav29Q"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "应算不丢人",
       "created_at": "2025-11-23 22:37:14",
@@ -394603,7 +396380,7 @@ const COMMENTS_DB = {
       "user_name": "🌕🌖阳"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "常数c不要忘记",
       "created_at": "2025-12-06 18:44:24",
@@ -394847,7 +396624,7 @@ const COMMENTS_DB = {
       "user_name": "我是研究生"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "一问积分中值定理 \n二问转换成函数性态问题",
       "created_at": "2025-11-13 10:33:32",
@@ -394869,7 +396646,7 @@ const COMMENTS_DB = {
       "user_name": "奋进xUU5zQ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "常数变量化",
       "created_at": "2025-11-06 15:24:57",
@@ -395113,7 +396890,7 @@ const COMMENTS_DB = {
       "user_name": "080800"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "真不想看物理🥲",
       "created_at": "2025-11-29 14:03:19",
@@ -395135,7 +396912,7 @@ const COMMENTS_DB = {
       "user_name": "决堤"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/lTYG0gib40cOcrsxViciacypCeYBlD4pia3xPv56r0wE8icZLhON5OnMaIkY76LN0XvDn2NGsfcQr12tIpNbjJg8QRz0pHqblF2ac9ictXZL4iaib88/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/lTYG0gib40cOcrsxViciacypCeYBlD4pia3xPv56r0wE8icbC46KX5c0EFOsLhibU4vAtSxloAhDcuA3lEAKvWwuBdrzYblbXIRzuBx2jicD9jcdVk/132",
       "can_delete": null,
       "content": "xf(x)除以f(x)",
       "created_at": "2025-11-26 15:20:18",
@@ -395311,7 +397088,7 @@ const COMMENTS_DB = {
       "user_name": "Bassy_"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELo5Xjdu3JqAP7KJR85PrkLd7IrV9Fz9NLPOqF7k7X5JvhhCtM95XtrmX7TZBxyRFibThBASsib3CWbgDXVdnWIjoOVV09hiaQNTiadWuZ4spoXOA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/TwGUSkiad8ANwW6sibsgmH6H2Z00IHGPnEiatjF6ibCc8ia9FicSvrBicIyicJoqNnn9ic5AyuYNHjomEUzicdO19VZQOicibDg91egibhfpLqVDkcrwtTsU/132",
       "can_delete": null,
       "content": "还可以用一种思路杠杆两侧重力平衡，设质点a。力臂×ρ×重力加速度（约去）×微分x：0到a的∫（a-x）ρdx=a到1的∫（x-a）ρdx\n算完是最高a的四次方，高次方两侧系数一致约去后剩20a-11=0",
       "created_at": "2025-11-08 16:19:18",
@@ -395333,7 +397110,7 @@ const COMMENTS_DB = {
       "user_name": "千千"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/HktpeH8Bk8KZn8iacZ2DVeLIxbZ2ygtRYhEwyrUicqslYdhiauy2lSCA2CnrFrHtlHibo5zHp6LZq7tcFHjeOFkAaDicIc7BhwagGGEjMt9htQm0/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELlWgbtVL2DW7ecFlA6Dibia8NFVv33NJr7unU9EhUTn224U3ey8IxsTK2Bqd6wsSPDyplxCfZuR69ClH9g1wq4uG80L6p99cOdTNejGlXHwSCA/132",
       "can_delete": null,
       "content": "∫xρ/∫ρ",
       "created_at": "2025-11-06 20:33:27",
@@ -396233,7 +398010,7 @@ const COMMENTS_DB = {
       "user_name": "🐟"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q12892E962OustSZ5406AiapfyoIm6pTa3762j0t69fE6yTIgXOY80o0EbCIEZrL8IfEMarPldGlLib6Mh3s9hzzkwhJXqkxSQHrBhlM52mOg/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q12892E962OustSZ5406AiapfyoIm6pTa3762j0t69fHM4HsdZXWbibQeolib4p36J0SGJA6ue6kgTcJTUtbjDLtTqDMvVLIWHlvBBgN0picelE/132",
       "can_delete": null,
       "content": "∞/∞或者0/0只要能判断分母无穷就可以用洛必达",
       "created_at": "2025-11-21 21:28:58",
@@ -396378,7 +398155,7 @@ const COMMENTS_DB = {
       "user_name": "YukiZ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "长得越怪的越好做啊，奇形怪状的极限看着就亲切",
       "created_at": "2025-11-05 20:37:50",
@@ -396457,7 +398234,7 @@ const COMMENTS_DB = {
   ],
   "1752": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "递推数学归纳",
       "created_at": "2025-12-15 20:04:57",
@@ -396736,7 +398513,7 @@ const COMMENTS_DB = {
       "user_name": "あ"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "一看递推式吓跑了，但是稍微递推一下规律十分简单",
       "created_at": "2025-11-07 19:34:19",
@@ -397127,7 +398904,7 @@ const COMMENTS_DB = {
       "user_name": "我独自刷题"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "本质参数方程，不够敏感",
       "created_at": "2025-11-29 14:20:17",
@@ -397182,7 +398959,7 @@ const COMMENTS_DB = {
       "user_name": "九亿少女的梦"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "牢记参数公式 都是纸老虎",
       "created_at": "2025-11-25 17:54:50",
@@ -397470,7 +399247,7 @@ const COMMENTS_DB = {
       "user_name": "大大怪"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzfibyWqUIM8ZG0hTE8fHFbiciaeY5WYhz0yz1vzy9RETxx0YCFx0QNbbQvtAF2uB6Xq6c/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/eIGqBVuQtLsJP6Y2tGJUjW5YDr6JMaXhKvfJVJMJGzckiagtoS0ah4qd3lgUBT3CsR5XGVr0tqqaYIBtckYxGwey2LU95nUYNcELEOQ1C9EU/132",
       "can_delete": null,
       "content": "转换为参数方程",
       "created_at": "2025-11-07 19:21:12",
@@ -397574,7 +399351,7 @@ const COMMENTS_DB = {
   ],
   "1754": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "E是三阶矩阵E是三阶矩阵E是三阶矩阵E是三阶矩阵E是三阶矩阵E是三阶矩阵E是三阶矩阵",
       "created_at": "2025-12-18 12:18:21",
@@ -398665,7 +400442,7 @@ const COMMENTS_DB = {
       "user_name": "am"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "太久没做了差点没看出最后只是求非齐次方程",
       "created_at": "2025-11-05 21:20:04",
@@ -399860,7 +401637,7 @@ const COMMENTS_DB = {
       "user_name": "常数c"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibksn4GQDPGn2X9z0ZV7yEiaAJb8aGZgMIr7mHoEnJ9fEEtVfPIyEN9GxyGb9ahDrAag/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELnCD4HpicQz0m0kBtbglEwulncczLVN3lKuBRNk7ovuibpJrsSDPicgGoGFrqjGGcQaznt2d8NNfVOperF5mcUVF7Ejibe5Kdp1G9ibgCTsbLqJibA/132",
       "can_delete": null,
       "content": "合式三角+分部",
       "created_at": "2025-11-05 20:58:41",
@@ -401824,7 +403601,7 @@ const COMMENTS_DB = {
       "user_name": "高明"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "看下结论",
       "created_at": "2025-12-15 16:36:55",
@@ -402299,7 +404076,7 @@ const COMMENTS_DB = {
       "user_name": "九栀"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/UWpsPd9B69UvLoWEOv3YnTWian0eztnZS2zfbKBtibspY0C6XGOuJFfIjH3wVbEibp4pAMrecXF5uj4loNiabiaBlIkW5cqkfO7tCTJBsfSjne3k/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/UWpsPd9B69UvLoWEOv3YnTWian0eztnZS2zfbKBtibspayxpgOtGdCV9rpLleSLLUHialuia2rM0VEjKr1ngtibH98oWeTXDZibzoqB3DPAbYPPn8/132",
       "can_delete": null,
       "content": "换元，",
       "created_at": "2025-12-08 00:34:24",
@@ -402923,7 +404700,7 @@ const COMMENTS_DB = {
       "user_name": "完美小孩1+1"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "真题出现很多次，凡变限积分基本都要先外提",
       "created_at": "2025-11-21 19:57:51",
@@ -403685,7 +405462,7 @@ const COMMENTS_DB = {
       "user_name": "TT"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "好题 多写几遍",
       "created_at": "2025-11-27 16:11:06",
@@ -403693,7 +405470,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
           "can_delete": null,
           "content": "注意是一阶导连续，审查一阶导极限",
           "created_at": "2025-11-27 16:38:43",
@@ -403775,7 +405552,7 @@ const COMMENTS_DB = {
       "user_name": "传奇大厦建筑师火爆辣椒"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_422_64ea7510ffbd4c8d89a5fc21fe539633.jpeg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/N8WHcPZU6LCfNUov8S37aDS44FTfeVxvGlW3PenRaUJpuiaVvrC8mPzxZcOHbib6ep4mNBTETFXSeA2Fo2dkJxWINTP2PgI43MktGeQ8W3de0/132",
       "can_delete": null,
       "content": "导数定义和原函数导数",
       "created_at": "2025-11-25 00:12:37",
@@ -403960,7 +405737,7 @@ const COMMENTS_DB = {
           "user_name": "超越uGoPj3"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
           "can_delete": null,
           "content": "在一元微分知识点里，叫三角有关的导函数连续",
           "created_at": "2025-11-15 08:51:48",
@@ -404205,7 +405982,7 @@ const COMMENTS_DB = {
       "user_name": "莓 天每天"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "群微分；两边偏导相加",
       "created_at": "2025-12-01 23:42:28",
@@ -404282,7 +406059,7 @@ const COMMENTS_DB = {
       "user_name": "阿坤"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "标记，注意辨析好约束式和无约束式子",
       "created_at": "2025-11-21 19:59:54",
@@ -405224,7 +407001,7 @@ const COMMENTS_DB = {
       "user_name": "andy"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BG8uhRl9mTTic9EpFHNFZB2pAmgMicGVgH35nrKibn2p3nI1NfcLD1gRT7vSJibo56jP2A/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Ucm4qoWrLE6awG3BuGz14icyynnsrTNcBcUmKTPyG0BFpdsCjbhYXGbwjTruxLcvbkqzfIFbqJrmFZvpbB7Fiavx4FJzIwia9ziaucuqhpaSMvE/132",
       "can_delete": null,
       "content": "x方求二阶导别忘了",
       "created_at": "2025-12-11 22:33:34",
@@ -405534,7 +407311,7 @@ const COMMENTS_DB = {
       "user_name": "LongFei"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O5uJxQnyCOrTaXJEOkXWtGmPibR44A8X8QicdR3Lqyjygia6uwes6mFwy3bBQ4572zS8Q/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/pEKBDcQGwHGQib1gC4Lf5PUL0DmIiafVEWiczwqADZM6O4bPOqGJOYfyiahchUgFuHcfcM1wa6zGgaqrqpYtexkYfooagoBuxNrE1qqL3rvCE8c/132",
       "can_delete": null,
       "content": "莱布尼茨",
       "created_at": "2025-11-25 14:45:05",
@@ -405578,7 +407355,7 @@ const COMMENTS_DB = {
       "user_name": "pisces."
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "总忘",
       "created_at": "2025-11-21 19:56:54",
@@ -406312,7 +408089,7 @@ const COMMENTS_DB = {
       "user_name": "這不是派大星"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "比25那道做着舒服点",
       "created_at": "2025-11-14 16:42:21",
@@ -406921,7 +408698,7 @@ const COMMENTS_DB = {
       "user_name": "💤"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20467_9720f21f1fdf450f9b302d86bab70e36.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI96enm26N5RLKdSpibPJIsIPFXKQBkia5n8fbJ4Y2Uh8x92HEjaF5V49qq12bleQicP341uSTBugDKg/132",
       "can_delete": null,
       "content": "服了，t看成x",
       "created_at": "2025-12-12 13:49:46",
@@ -407704,7 +409481,7 @@ const COMMENTS_DB = {
       "user_name": "波梦佳林"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "标记，前几道题能挖坑的基本在定义域",
       "created_at": "2025-11-21 19:54:25",
@@ -408001,7 +409778,7 @@ const COMMENTS_DB = {
       "user_name": "L_"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "有点阴了",
       "created_at": "2025-11-04 20:11:14",
@@ -408648,7 +410425,7 @@ const COMMENTS_DB = {
       "user_name": "wOOd"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_21036_9d030750bd7c4a2db043abf789da07ee.jpg",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/IQchc5Uhib5g4H6vetLoLnNzJdPKhKhWFFQ3ia7OiaO8INj2ZoRBBdjzGibPpc5Td9S6AOmrmTShNvVn5J3e46DDTArujibQUt9fBUcUFT9kmItY/132",
       "can_delete": null,
       "content": "老头怎么这么恶心啊",
       "created_at": "2025-12-01 09:34:14",
@@ -410320,7 +412097,7 @@ const COMMENTS_DB = {
       "user_name": "Passionfruit"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "注意弹性是绝对值",
       "created_at": "2025-11-27 20:15:18",
@@ -410454,7 +412231,7 @@ const COMMENTS_DB = {
       "user_name": "舟遥客"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "特征值角度看第一问",
       "created_at": "2025-12-15 16:42:37",
@@ -411785,7 +413562,7 @@ const COMMENTS_DB = {
       "user_name": "胡椒"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGHRzKiaMN3icoqckQvb9IKvGbP8OAThXPmRnJwbKica0vibBl8CHovicfbaw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEI9FXu6SVG7xUOUj7SwGh4zAI8y4ZXVavw4KNW4u8HfAmSoF0qQq8uGFtUibS3DiafMZIneoVLSAO5DPdwqHu6dL2mX5NmjbOGXUmicom8UIwC7Q/132",
       "can_delete": null,
       "content": "极轴打到的是两条不同的曲线",
       "created_at": "2025-11-15 21:18:59",
@@ -412114,6 +413891,17 @@ const COMMENTS_DB = {
   ],
   "1794": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELxZKJu7aibbEJ7dhR2tWicNNhQ3iam5oHbDEnYvpRNWBBSpficRZYiaicFCVwZHUJW7MBR13nAW6BGqr0VCt5zibngfF11b1DibLzPDYzc5fzvfzc0Ww/132",
+      "can_delete": null,
+      "content": "换元 分部 有理函数积分",
+      "created_at": "2026-07-02 15:33:59",
+      "id": 39930,
+      "likes": 0,
+      "replies": [],
+      "student_id": 29071,
+      "user_name": "可以"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/33yzjmayu0P9rOFe96R8gO4a9fcEnCcsQuiaYLQecAicIqIHCTZ8gARPax5sNWDBH6ibEZ20wNtibCR4eER2IVxiaJCxAYcTkHwLm2ria2TpQkFYs/132",
       "can_delete": null,
       "content": "令复杂式子整体＝u",
@@ -412158,7 +413946,7 @@ const COMMENTS_DB = {
       "user_name": "NE"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "换元的微分求导形式复杂，考虑不要求导，直接用",
       "created_at": "2025-12-04 18:50:00",
@@ -412347,7 +414135,7 @@ const COMMENTS_DB = {
       "user_name": "大西几"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "第二问可以注意一下步骤细节",
       "created_at": "2025-11-07 07:27:36",
@@ -412472,7 +414260,7 @@ const COMMENTS_DB = {
       "user_name": "小熊的千日草"
     },
     {
-      "avatar_url": "uploads/avatars/avatar_20610_51923a292eaf4f1eb52b4e7a75c91d9f.png",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/mFQmpGfNNVRyguL4e6ILiaxc5QSZ73Aficp1Yia64CqwlBXuhRWvdLuJv2wzGASeuGdSLwy7Usia4Lx9evKBBf0PJg/132",
       "can_delete": null,
       "content": "t看作变量，对t求导，微分方程套皮",
       "created_at": "2025-11-25 15:54:48",
@@ -412562,7 +414350,7 @@ const COMMENTS_DB = {
       "user_name": "我一定可以^o^"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "注意书写规范",
       "created_at": "2025-11-18 19:06:40",
@@ -412606,7 +414394,7 @@ const COMMENTS_DB = {
       "user_name": "我要考130冲冲冲"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "很直白的小计算，可以作为模版题",
       "created_at": "2025-11-11 19:35:33",
@@ -412843,7 +414631,7 @@ const COMMENTS_DB = {
       "user_name": "愛"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "第二题代入配方可以写，但是可以追求性质上的写法",
       "created_at": "2025-11-07 17:18:19",
@@ -412851,7 +414639,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
           "can_delete": null,
           "content": "规范形体现了特征值的正负，于是可以直接代入秒掉",
           "created_at": "2025-11-07 17:20:02",
@@ -413251,7 +415039,7 @@ const COMMENTS_DB = {
       "user_name": "Passionfruit"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "用雅可比",
       "created_at": "2025-11-13 17:23:23",
@@ -413579,7 +415367,7 @@ const COMMENTS_DB = {
       "user_name": "烧白"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "这种抽象一点的概念题目，可以利用定义（但是容易花太多时间）结合特殊值比较容易出节奏",
       "created_at": "2025-11-07 17:24:31",
@@ -413761,7 +415549,7 @@ const COMMENTS_DB = {
   ],
   "1811": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "搞里头",
       "created_at": "2025-12-16 20:57:05",
@@ -413967,7 +415755,7 @@ const COMMENTS_DB = {
       "user_name": "顺风顺水"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "忘了注意题目本身x的限制",
       "created_at": "2025-11-17 19:26:00",
@@ -414043,7 +415831,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
           "can_delete": null,
           "content": "因为是收益弹性，之前都是需求弹性。价格越高收益越高，所以是正的，不用加负号。但是需求弹性是价格越高，需求越少，需求弹性本身为负数，但考研数学默认为正数，所以加负号",
           "created_at": "2025-12-15 18:39:10",
@@ -414408,7 +416196,7 @@ const COMMENTS_DB = {
       "user_name": "喵喵大王必上岸"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYFMHypZzKE977PnggzDxIdaYtC9ca5kukPTL46cDQHvVTg7xasL14sibVAcibO9PXHWk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYEt90sE2R8YQusz1CkdTqkHC0HaFQ8nEdKYXBhZfelKBibjFnWs6cBoflRGbawUtvjE/132",
       "can_delete": null,
       "content": "取对数再洛",
       "created_at": "2025-11-02 19:43:52",
@@ -414709,7 +416497,7 @@ const COMMENTS_DB = {
       "user_name": "🍀"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "双曲线",
       "created_at": "2025-12-03 15:35:36",
@@ -414841,7 +416629,7 @@ const COMMENTS_DB = {
       "user_name": "愛"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "利用对称性",
       "created_at": "2025-11-13 17:37:39",
@@ -415250,20 +417038,7 @@ const COMMENTS_DB = {
       "created_at": "2025-12-05 15:16:25",
       "id": 26791,
       "likes": 0,
-      "replies": [
-        {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
-          "can_delete": null,
-          "content": "您在哪来的泊松积分。。。",
-          "created_at": "2025-12-16 20:34:55",
-          "id": 38101,
-          "likes": 0,
-          "parent_id": 26791,
-          "reply_to_user": null,
-          "student_id": 24608,
-          "user_name": "啊king苦力吼呀吼奔"
-        }
-      ],
+      "replies": [],
       "student_id": 12997,
       "user_name": "Passionfruit"
     },
@@ -415559,7 +417334,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
           "can_delete": null,
           "content": "1和-1就行了",
           "created_at": "2025-12-15 14:21:21",
@@ -415720,7 +417495,7 @@ const COMMENTS_DB = {
       "user_name": "Sherlock·Holmes"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "这里怎么有个比大小的题",
       "created_at": "2025-11-04 12:29:44",
@@ -415744,7 +417519,7 @@ const COMMENTS_DB = {
       "user_name": "Ⳑ⅂"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "结论：\n非齐次s个无关的解➡️齐次方程s-1个无关的解\n非齐次方程组无关的解n-ra+1个这个结论",
       "created_at": "2025-12-01 13:49:03",
@@ -415880,7 +417655,7 @@ const COMMENTS_DB = {
       "user_name": "Passionfruit"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYFMHypZzKE977PnggzDxIdaYtC9ca5kukPTL46cDQHvVTg7xasL14sibVAcibO9PXHWk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYEt90sE2R8YQusz1CkdTqkHC0HaFQ8nEdKYXBhZfelKBibjFnWs6cBoflRGbawUtvjE/132",
       "can_delete": null,
       "content": "重要极限",
       "created_at": "2025-11-02 19:40:56",
@@ -416151,6 +417926,17 @@ const COMMENTS_DB = {
     }
   ],
   "1834": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
+      "can_delete": null,
+      "content": "不涉及隐函数！！！！！因为z=f（x，y）是显式",
+      "created_at": "2026-07-19 13:46:46",
+      "id": 40016,
+      "likes": 0,
+      "replies": [],
+      "student_id": 24608,
+      "user_name": "💪"
+    },
     {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEKlxT4PH8pzmUfFn9buKNr80h3e5Q8eY0qP2o2DnRpaIUkU4xQrcYaI8qB0hx56IW9UiaU7moCaLynK5p7lC29ibfZe0sT0FpKdEiaowgWoEZIhA/132",
       "can_delete": null,
@@ -416540,6 +418326,17 @@ const COMMENTS_DB = {
   ],
   "1841": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELxZKJu7aibbEJ7dhR2tWicNNhQ3iam5oHbDEnYvpRNWBBSpficRZYiaicFCVwZHUJW7MBR13nAW6BGqr0VCt5zibngfF11b1DibLzPDYzc5fzvfzc0Ww/132",
+      "can_delete": null,
+      "content": "换元 分部",
+      "created_at": "2026-07-02 15:05:31",
+      "id": 39929,
+      "likes": 0,
+      "replies": [],
+      "student_id": 29071,
+      "user_name": "可以"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELAfWMicFlvpxZR9MYmQVqA6ELveJeRXg2icLVfnDoURBFiaSeTKRAzxhDy7qOxyfwibSH4UORCj6MNtSj6g18QTd1dw65FrDoofFAure7mHIBpMA/132",
       "can_delete": null,
       "content": "S",
@@ -416731,7 +418528,7 @@ const COMMENTS_DB = {
   ],
   "1844": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "由谁表示，谁写两遍，谁写前面",
       "created_at": "2025-12-17 18:32:40",
@@ -416911,7 +418708,7 @@ const COMMENTS_DB = {
       "user_name": "数三"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELf14QyGuM3VSQAvN9BV1IUibPNVZSa31ncSz21hqn6SxhjhiaTlxv7JeaN1aPRUnkDSSar8Act0mFZNhtJYs7IdtSXiaT3rs0YMSrbrKPjYcdMw/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/bAibDVzZoKFKESicbW9V2j2Ih7XUmJwSZ4BtjkrsonVSJ8tQYAbl2NqZYXqiaBqMDa2ibhsu0xyFyqKpE0axk8Y2TMS62TYwhqxyQIpuIaicMkf0/132",
       "can_delete": null,
       "content": "注意范围",
       "created_at": "2025-12-08 16:33:57",
@@ -417772,7 +419569,7 @@ const COMMENTS_DB = {
   ],
   "1845": [
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "可逆矩阵和正交矩阵求A不同，正交你要单位化啊",
       "created_at": "2025-12-17 18:01:23",
@@ -418470,7 +420267,7 @@ const COMMENTS_DB = {
       "user_name": "decompose"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "圆的面积派r方",
       "created_at": "2025-11-04 20:50:09",
@@ -418799,7 +420596,7 @@ const COMMENTS_DB = {
       "user_name": "文李"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a5FMF6AyAo8fPoJflMbn0hMB1cRXEME9ciaFfjwYZRM58WSz5UgBxBPQibayuluzIlicKpddkcN1c58osiaq41zfFA/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/fw6ok8nCqUpwkQIrlBvbXb1EU9GPnJgfl6p0LaUOq0nC4Xk06mwpkIOUiasdaZmE02qb1m887OeX0LBgQIfkLia2hnobg9G5PVPyJ1ViaPHOT0/132",
       "can_delete": null,
       "content": "画图",
       "created_at": "2025-11-17 12:39:03",
@@ -418867,7 +420664,7 @@ const COMMENTS_DB = {
       "user_name": "decompose"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "能不分段就不要分段，双倍计算量爽死",
       "created_at": "2025-11-13 17:46:58",
@@ -419137,7 +420934,7 @@ const COMMENTS_DB = {
       "user_name": "decompose"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "边际成本要想到导数",
       "created_at": "2025-11-14 17:05:19",
@@ -419352,6 +421149,28 @@ const COMMENTS_DB = {
   ],
   "1866": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/LEthFZ7bibLcy6cWP56Inw8behToKYmaNGpEvpfCG0gn0b5picwwUd802FT78xNTkdia6gR73icaOlqkNUvKhJicDeIibnhrmuD0NQt7pib2lbmiciak/132",
+      "can_delete": null,
+      "content": "看好拐点是求的哪个函数的拐点",
+      "created_at": "2026-06-17 23:06:17",
+      "id": 39894,
+      "likes": 0,
+      "replies": [],
+      "student_id": 11674,
+      "user_name": "珂宇"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/LEthFZ7bibLcy6cWP56Inw8behToKYmaNGpEvpfCG0gn0b5picwwUd802FT78xNTkdia6gR73icaOlqkNUvKhJicDeIibnhrmuD0NQt7pib2lbmiciak/132",
+      "can_delete": null,
+      "content": "第一问未知数代入要代入微分方程算",
+      "created_at": "2026-06-17 23:02:41",
+      "id": 39893,
+      "likes": 0,
+      "replies": [],
+      "student_id": 11674,
+      "user_name": "珂宇"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsATxyBsW0G9AJHnHCb0Vw5gYb2Wialnru4VX3Ofs5KKszoh40kAXzqicIAwPGB5CTJqvGswPMz0n9IuB9I9BC6M1r8/132",
       "can_delete": null,
       "content": "第二问从x、y的关系出发",
@@ -419510,7 +421329,7 @@ const COMMENTS_DB = {
       "user_name": "jasper"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "知二求一向量积",
       "created_at": "2025-12-02 15:39:19",
@@ -419587,7 +421406,7 @@ const COMMENTS_DB = {
       "user_name": "Zzz"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "×转置矩阵秩不变",
       "created_at": "2025-11-10 21:32:32",
@@ -420989,7 +422808,7 @@ const COMMENTS_DB = {
       "user_name": "H"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "凑的时候没注意无穷小的正负号",
       "created_at": "2025-11-06 22:06:58",
@@ -421360,7 +423179,7 @@ const COMMENTS_DB = {
       "user_name": "绝对不是健涛"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYFMHypZzKE977PnggzDxIdaYtC9ca5kukPTL46cDQHvVTg7xasL14sibVAcibO9PXHWk/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/7g6icshVrInJNYm4IBaic8BCU7azwGBkKY4Isnog0JZYEt90sE2R8YQusz1CkdTqkHC0HaFQ8nEdKYXBhZfelKBibjFnWs6cBoflRGbawUtvjE/132",
       "can_delete": null,
       "content": "会背公式即可，就是答案有点难绷",
       "created_at": "2025-11-28 21:13:31",
@@ -421437,7 +423256,7 @@ const COMMENTS_DB = {
           "user_name": "阿澄澄澄澄澄澄"
         },
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
           "can_delete": null,
           "content": "感觉不会了",
           "created_at": "2025-12-15 18:45:59",
@@ -421464,7 +423283,7 @@ const COMMENTS_DB = {
       "user_name": "Passionfruit"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "对于边际利润定义已经相关题不够熟悉",
       "created_at": "2025-11-07 07:52:51",
@@ -421510,7 +423329,7 @@ const COMMENTS_DB = {
       "user_name": "ljz329"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "边算边怀疑自己",
       "created_at": "2025-12-03 15:57:36",
@@ -421611,7 +423430,7 @@ const COMMENTS_DB = {
       "user_name": "倪丞"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "纯计算，考场算两遍吧",
       "created_at": "2025-11-13 17:54:32",
@@ -422842,7 +424661,7 @@ const COMMENTS_DB = {
       "user_name": "健胃消食片吃到饱"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "不记得就硬算吧",
       "created_at": "2025-11-10 21:57:51",
@@ -423088,7 +424907,7 @@ const COMMENTS_DB = {
       "user_name": "膨胀荷包蛋"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "特值能写，但是实在不美妙啊",
       "created_at": "2025-11-07 03:12:34",
@@ -423096,7 +424915,7 @@ const COMMENTS_DB = {
       "likes": 0,
       "replies": [
         {
-          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
           "can_delete": null,
           "content": "凹凸性确实没想到，其实画图的话立刻能发现",
           "created_at": "2025-11-07 03:16:19",
@@ -423782,6 +425601,17 @@ const COMMENTS_DB = {
   ],
   "1910": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/LEthFZ7bibLcy6cWP56Inw8behToKYmaNGpEvpfCG0gn0b5picwwUd802FT78xNTkdia6gR73icaOlqkNUvKhJicDeIibnhrmuD0NQt7pib2lbmiciak/132",
+      "can_delete": null,
+      "content": "重新算 注意审题",
+      "created_at": "2026-06-17 22:50:40",
+      "id": 39892,
+      "likes": 0,
+      "replies": [],
+      "student_id": 11674,
+      "user_name": "珂宇"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/a0FulnNzfaeojfic9YoIsATxyBsW0G9AJHnHCb0Vw5gYb2Wialnru4VX3Ofs5KKszoh40kAXzqicIAwPGB5CTJqvGswPMz0n9IuB9I9BC6M1r8/132",
       "can_delete": null,
       "content": "ecosy=u，就这样！",
@@ -424265,7 +426095,7 @@ const COMMENTS_DB = {
       "user_name": "Passionfruit"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "计算不要跳步",
       "created_at": "2025-11-13 18:12:31",
@@ -426091,7 +427921,7 @@ const COMMENTS_DB = {
       "user_name": "lm10"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBONpHN4l6uGhLpIaM6mqxh5ltYcKytPIANvS6vMu0pNa9ibNAZDxYKaDyKkGtlXQf7s/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/g0ib2tf7ZZnqZd9Bw4osHt9G4aUzHTBSzzyvdcCotnBPeKA2ic87b7Twt5t6Fxlz8I8rmdlZQ8xZFh4eLBqNk0NYLaSaqvfTFHR1JeXgGIajw/132",
       "can_delete": null,
       "content": "这题不错，没有关注利润最大化这句话，不过牢宇闹麻了",
       "created_at": "2025-11-07 08:03:49",
@@ -426446,6 +428276,17 @@ const COMMENTS_DB = {
   ],
   "1934": [
     {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/LEthFZ7bibLcy6cWP56Inw8behToKYmaNGpEvpfCG0gn0b5picwwUd802FT78xNTkdia6gR73icaOlqkNUvKhJicDeIibnhrmuD0NQt7pib2lbmiciak/132",
+      "can_delete": null,
+      "content": "三角形面积为二分之一底乘高 距离记得加绝对值",
+      "created_at": "2026-06-17 22:41:04",
+      "id": 39891,
+      "likes": 0,
+      "replies": [],
+      "student_id": 11674,
+      "user_name": "珂宇"
+    },
+    {
       "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/j2X2DPN7aMibp5uwC3Y5WDDcBBPnRFpMJm97aQ1N2E87g3BIZmoG2S2s5PQ91lzeKWlJUETylPicf6b0owaN7vDv8KWrxzH6fPHR8Xo2S5hpc/132",
       "can_delete": null,
       "content": "1不要算成梯形呀，是三角形面积2求面积不只是可以用定积分的记得考虑几何意义",
@@ -426558,7 +428399,7 @@ const COMMENTS_DB = {
       "user_name": "文李"
     },
     {
-      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesdHiarDIicHLRMuMpZSVTgfOtqYaDfkUgYHgCdqDFdU4PO1eVy8HaN6Ds/132",
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/67wok3rPEdLY8jhB4aqU4LX3lWrqeHbtrHzIeWDztLfBTbDS15gesQJyDdmdh9rmyBpLoib49eBHempFf3g3ticaUUg64NPjia7I0Q0NQ6IM3g/132",
       "can_delete": null,
       "content": "26务必出参数估计",
       "created_at": "2025-12-12 13:12:58",
@@ -427077,5 +428918,225 @@ const COMMENTS_DB = {
       "student_id": 8650,
       "user_name": "Catherine"
     }
-  ]
+  ],
+  "1942": [],
+  "1943": [],
+  "1944": [],
+  "1945": [],
+  "1946": [],
+  "1947": [],
+  "1948": [],
+  "1949": [],
+  "1950": [],
+  "1951": [],
+  "1952": [],
+  "1953": [],
+  "1954": [],
+  "1955": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erS8PuPtVFxHHytaItH4qKPUH6aoNyoQkZialO5QeqpkqorRf2akmrVe2uMuibhricbq6t5CNnxdb6ZQ/132",
+      "can_delete": null,
+      "content": "第一次算计算马虎，正负号写错，写成了ln2-ln2=0,造成错误，坚决抵制计算失误。",
+      "created_at": "2026-07-24 21:09:34",
+      "id": 40056,
+      "likes": 0,
+      "replies": [],
+      "student_id": 30228,
+      "user_name": "念初 "
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKtyo7rJNtY0UY8d3yud5QIDUFZbdc7ZibFxySVPvFnPTlEmyRX0CaA08qicQeoNxgJpQOvxohgwSkQ/132",
+      "can_delete": null,
+      "content": "写ln4应该也算对吧",
+      "created_at": "2026-06-11 02:18:36",
+      "id": 39887,
+      "likes": 0,
+      "replies": [
+        {
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLBraOG9S7PTZLXSBhsKpyaNmb0JHOSSCjmR5brqntmic9YyKA1bCY46oBeHZSN90V4L0icNibvsx50Mg/132",
+          "can_delete": null,
+          "content": "沙波一",
+          "created_at": "2026-07-20 15:56:15",
+          "id": 40023,
+          "likes": 0,
+          "parent_id": 39887,
+          "reply_to_user": null,
+          "student_id": 42634,
+          "user_name": "欢乐马 "
+        },
+        {
+          "avatar_url": "uploads/avatars/avatar_39735_34e461c1ead54ba09e3812b1fe306e5f.jpg",
+          "can_delete": null,
+          "content": "豪到我了",
+          "created_at": "2026-07-20 18:59:17",
+          "id": 40027,
+          "likes": 0,
+          "parent_id": 39887,
+          "reply_to_user": null,
+          "student_id": 39735,
+          "user_name": "天下万般绝学  莫过恒心"
+        },
+        {
+          "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ia7YR8fWYqwYkmRhs85lCicUZnQr1AkiaL4wX61e8Wjic4eDvb5sYZichBuyx8cY65tVCtniaxlgdPeaGkbTVdPUsuWw/132",
+          "can_delete": null,
+          "content": "家里还有喘气的吗",
+          "created_at": "2026-07-23 22:03:54",
+          "id": 40036,
+          "likes": 0,
+          "parent_id": 39887,
+          "reply_to_user": null,
+          "student_id": 6200,
+          "user_name": "张清北"
+        }
+      ],
+      "student_id": 20276,
+      "user_name": "月光"
+    }
+  ],
+  "1956": [],
+  "1957": [],
+  "1958": [],
+  "1959": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLBraOG9S7PTZLXSBhsKpyaNmb0JHOSSCjmR5brqntmic9YyKA1bCY46oBeHZSN90V4L0icNibvsx50Mg/132",
+      "can_delete": null,
+      "content": "列出(1)式后我直接把(xy)^2给约去了，用分子列写方程，结果没做出来",
+      "created_at": "2026-07-23 23:07:39",
+      "id": 40038,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42634,
+      "user_name": "欢乐马 "
+    }
+  ],
+  "1960": [],
+  "1961": [],
+  "1962": [],
+  "1963": [],
+  "1964": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/H6yR0JaZZFU7hpvoY5L2mlE4tlXObKtNsT86tY3BBggsQUk7hmz7I4MNvPVRWbvCX9uicD7ibGBQRa85dqGXJ01HKF030SEtib5u98Pr2m5UJ4/132",
+      "can_delete": null,
+      "content": "这个题目考的就是无穷小知识点，等价无穷小替换（无穷小有高阶无穷小、同阶无穷小，同阶等价无穷小、低阶无穷小）。等价无穷小的意思就是当x~0时候，函数的一些变化，例如sinx~x，tanx~x等。核心是搞懂同阶无穷小的定义，以及熟练等价无穷小替换的常用公式",
+      "created_at": "2026-07-15 23:50:43",
+      "id": 40001,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42563,
+      "user_name": "拨得彩云开"
+    }
+  ],
+  "1965": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/OLXTvcQJoVD8eNBnsX5HsrTD8oQR6Y8TMEsq55I9vpmTSCMvHLnWY59bf7ag0tpSn0vC5uX4Aumzfjcia4EDOiaOh2AEStxXLia2krT4b4qaRI/132",
+      "can_delete": null,
+      "content": "齐0 非 1 直接带入计算就可以得出结果",
+      "created_at": "2026-07-04 13:49:28",
+      "id": 39940,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41909,
+      "user_name": "Lior"
+    }
+  ],
+  "1966": [],
+  "1967": [],
+  "1968": [],
+  "1969": [],
+  "1970": [],
+  "1971": [],
+  "1972": [],
+  "1973": [],
+  "1974": [],
+  "1975": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/M99F7Bu17pISQZhSdFc0PmGlibFGtibpOiaHxibPW7Rrd6QwicVI02qlxicEbkFS9eH54I4vhMmka2bpYCCzkp4m3TmbticOs8zRSXQniad9yRniaDias/132",
+      "can_delete": null,
+      "content": "答案里推导最后是有问题的，sinx点泰勒展开到二次，不是三次。加减前后项的泰勒展开尽量要次数相同。视频中也是展开两次",
+      "created_at": "2026-07-16 10:38:57",
+      "id": 40003,
+      "likes": 0,
+      "replies": [],
+      "student_id": 10992,
+      "user_name": "殷嘉悦"
+    },
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/H6yR0JaZZFU7hpvoY5L2mlE4tlXObKtNsT86tY3BBggsQUk7hmz7I4MNvPVRWbvCX9uicD7ibGBQRa85dqGXJ01HKF030SEtib5u98Pr2m5UJ4/132",
+      "can_delete": null,
+      "content": "这个题目考察的感觉是能熟练判断极限类型，运用简单的等价无穷小替换公式，首先合并分母，发现是0/0型，分母xsinx是整体，可以等价无穷小替换为x²。随后可以考虑两种方案，第一种最为常见的是洛必达，经过两次洛必达发现是1/2.第二种方法用泰勒展开（展开到三次），我目前不太熟练第二种，但有时候第二种适合非常多的式子，能迅速通过泰勒展开式去抵消。",
+      "created_at": "2026-07-16 00:02:57",
+      "id": 40002,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42563,
+      "user_name": "拨得彩云开"
+    }
+  ],
+  "1976": [],
+  "1977": [],
+  "1978": [],
+  "1979": [],
+  "1980": [
+    {
+      "avatar_url": "https://thirdwx.qlogo.cn/mmopen/vi_32/OLXTvcQJoVD8eNBnsX5HsrTD8oQR6Y8TMEsq55I9vpmTSCMvHLnWY59bf7ag0tpSn0vC5uX4Aumzfjcia4EDOiaOh2AEStxXLia2krT4b4qaRI/132",
+      "can_delete": null,
+      "content": "记得×开头的2",
+      "created_at": "2026-07-03 14:43:25",
+      "id": 39937,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41909,
+      "user_name": "Lior"
+    },
+    {
+      "avatar_url": "uploads/avatars/avatar_41078_cabf4ffae586452781fb412296a15f9a.jpg",
+      "can_delete": null,
+      "content": "耐心算，别又算错了",
+      "created_at": "2026-06-18 20:05:18",
+      "id": 39896,
+      "likes": 0,
+      "replies": [],
+      "student_id": 41078,
+      "user_name": "热心网友"
+    }
+  ],
+  "1981": [],
+  "1982": [],
+  "1983": [],
+  "1984": [],
+  "1985": [],
+  "1986": [],
+  "1987": [],
+  "1988": [],
+  "1989": [],
+  "1990": [],
+  "1991": [],
+  "1992": [],
+  "1993": [],
+  "1994": [],
+  "1995": [],
+  "1996": [],
+  "1997": [
+    {
+      "avatar_url": "avatar://seed/19856090718",
+      "can_delete": null,
+      "content": "加减不要随便乱代非零因子",
+      "created_at": "2026-07-14 16:00:40",
+      "id": 39990,
+      "likes": 0,
+      "replies": [],
+      "student_id": 42514,
+      "user_name": "学霸pPDIH3"
+    }
+  ],
+  "1998": [],
+  "1999": [],
+  "2000": [],
+  "2001": [],
+  "2002": [],
+  "2003": [],
+  "2004": [],
+  "2005": [],
+  "2006": [],
+  "2007": []
 };

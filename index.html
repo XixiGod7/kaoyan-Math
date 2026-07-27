@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>📐 考研数学历年真题研究社 | 历年真题 • 视频讲解 • 考点深度分析</title>
-  <meta name="description" content="考研数学历年真题完全复刻版，支持数学一、数学二、数学三。包含2009至2025年全部真题图片、名师视频讲解、详尽知识点分类和智能刷题数据统计，支持离线刷题。">
+  <meta name="description" content="考研数学历年真题完全复刻版，支持数学一、数学二、数学三。包含2009至2026年全部真题图片、名师视频讲解、详尽知识点分类和智能刷题数据统计，支持离线刷题。">
   <meta name="referrer" content="no-referrer">
   
   <!-- CSS CDNs -->
@@ -66,6 +66,17 @@
                 <input class="form-check-input" type="checkbox" id="showMyRecordsSwitch" style="cursor: pointer;">
                 <span class="form-check-label small fw-semibold text-secondary">我刷的题</span>
               </label>
+            </div>
+
+            <!-- Data Sync Buttons -->
+            <div class="d-flex gap-2">
+              <button class="btn btn-outline-success" onclick="exportData()" title="将您的学习记录导出为文件">
+                ⬇️ 导出数据
+              </button>
+              <button class="btn btn-outline-primary" onclick="document.getElementById('importDataInput').click()" title="从文件导入您的学习记录">
+                ⬆️ 导入数据
+              </button>
+              <input type="file" id="importDataInput" accept=".json" style="display: none;" onchange="importData(event)">
             </div>
 
             <!-- Features Info Trigger -->
